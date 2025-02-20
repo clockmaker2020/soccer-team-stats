@@ -2,32 +2,50 @@ name: Update Soccer Stats
 
 on:
   schedule:
-    - cron: "*/10 * * * *"  # 10분마다 실행
+    - cron: "*/10 * * * *"  # ⏳ 10분마다 실행
   workflow_dispatch:  # 수동 실행 가능
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: 저장소 체크아웃
+      - name: ✅ 저장소 체크아웃
         uses: actions/checkout@v4
 
-      - name: Python 설정
+      - name: ✅ Python 설정
         uses: actions/setup-python@v4
         with:
           python-version: "3.12"
 
-      - name: 의존성 설치
-        run: pip install requests pillow selenium
+      - name: ✅ 의존성 설치
+        run: |
+          echo "📌 Python 패키지 설치 시작..."
+          pip install requests pillow selenium
+          echo "✅ Python 패키지 설치 완료!"
 
-      - name: 경기 데이터 업데이트 실행
-        run: python data/update_stats_TEAM.py  # ✅ 경기 데이터 업데이트
+      - name: ✅ 경기 데이터 업데이트 실행
+        run: |
+          echo "📌 update_stats_TEAM.py 실행 중..."
+          python data/update_stats_TEAM.py
+          echo "✅ 경기 데이터 업데이트 완료!"
 
-      - name: JSON → HTML 변환 추가  ✅ (새로 추가)
-        run: python data/json_to_html.py  # ✅ HTML 변환 자동 실행
+      - name: ✅ JSON → HTML 변환 실행
+        run: |
+          echo "📌 json_to_html.py 실행 중..."
+          python data/json_to_html.py
+          echo "✅ JSON → HTML 변환 완료!"
 
-      - name: HTML → 이미지 변환
-        run: python data/convert_html_to_image.py
+      - name: ✅ HTML → 이미지 변환
+        run: |
+          echo "📌 convert_html_to_image.py 실행 중..."
+          python data/convert_html_to_image.py
+          echo "✅ HTML → 이미지 변환 완료!"
 
-      - name: GitHub 업로드 실행
-        run: python update_github.py
+      - name: ✅ GitHub 업로드 실행
+        run: |
+          echo "📌 update_github.py 실행 중..."
+          python update_github.py
+          echo "✅ GitHub 업로드 완료!"
+
+      - name: 🎉 전체 실행 완료!
+        run: echo "🎉 모든 프로세스가 정상적으로 실행되었습니다!"
