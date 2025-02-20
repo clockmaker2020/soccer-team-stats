@@ -8,8 +8,12 @@ GITHUB_USERNAME = "clockmaker2020"
 GITHUB_REPO = "soccer-team-stats"
 GITHUB_TOKEN = os.getenv("GITHUB_PAT_SOCCER_STATS")  # 환경 변수에서 PAT 가져오기
 
-# ✅ 저장된 이미지 파일 가져오기
-IMAGE_DIR = "C:/Users/clock_p93/soccer-team-stats/images"
+# ✅ GitHub Actions 실행 시 경로 문제 해결
+IMAGE_DIR = os.path.join(os.getenv("GITHUB_WORKSPACE", ""), "images")
+if not os.path.exists(IMAGE_DIR):
+    print(f"⚠️ 경고: 이미지 디렉토리 '{IMAGE_DIR}'가 존재하지 않습니다.")
+    exit(1)
+
 image_files = [f for f in os.listdir(IMAGE_DIR) if f.startswith("latest_result_") and f.endswith(".png")]
 
 # ✅ GitHub API 업로드 함수
@@ -21,7 +25,7 @@ def upload_image(image_path, team_name):
     with open(image_path, "rb") as image_file:
         encoded_image = base64.b64encode(image_file.read()).decode("utf-8")
 
-    # ✅ 현재 파일 SHA 값 가져오기 (기존 파일이 있다면 덮어쓰기 위함)
+    # ✅ 현재 파일 SHA 값 가져오기 (기존 파일 덮어쓰기 위함)
     response = requests.get(api_url, headers={"Authorization": f"token {GITHUB_TOKEN}"})
     sha = response.json().get("sha") if response.status_code == 200 else None
 
@@ -40,10 +44,13 @@ def upload_image(image_path, team_name):
     if response.status_code in [200, 201]:
         print(f"✅ GitHub에 이미지 업로드 완료: {image_path}")
     else:
-        print(f"⚠️ 업로드 실패 ({team_name}): {response.json()}")
+        print(f"⚠️ 업로드 실패 ({team_name}): {response.status_code} - {response.text}")
 
 # ✅ 저장된 모든 팀의 이미지 업로드 실행
-for image_file in image_files:
-    team_name = image_file.replace("latest_result_", "").replace(".png", "")
-    image_path = os.path.join(IMAGE_DIR, image_file)
-    upload_image(image_path, team_name)
+if not image_files:
+    print("⚠️ 업로드할 이미지가 없습니다.")
+else:
+    for image_file in image_files:
+        team_name = image_file.replace("latest_result_", "").replace(".png", "")
+        image_path = os.path.join(IMAGE_DIR, image_file)
+        upload_image(image_path, team_name)
