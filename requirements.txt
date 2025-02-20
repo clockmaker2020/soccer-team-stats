@@ -1,0 +1,5 @@
+requests
+pillow
+selenium
+beautifulsoup4
+webdriver-manager
