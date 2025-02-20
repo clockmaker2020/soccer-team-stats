@@ -61,9 +61,9 @@ for team_name, team_id in teams.items():
     future_matches_url = f"https://v3.football.api-sports.io/fixtures?team={team_id}&season={SEASON}&league={LEAGUE_ID}&status=NS&next=3"
 
     past_matches = fetch_data(past_matches_url)
-    time.sleep(10)  # ⏳ 1초 대기 후 다음 요청
+    time.sleep(1)  # ⏳ 1초 대기 후 다음 요청
     future_matches = fetch_data(future_matches_url)
-    time.sleep(10)
+    time.sleep(1)
 
     if not past_matches or not future_matches:
         print(f"❌ [FAILED] {team_name} 경기 데이터 수집 실패!")
@@ -78,6 +78,11 @@ for team_name, team_id in teams.items():
 
         print(f"✅ [SUCCESS] {team_name} 경기 데이터 저장 완료!")
 
+# ✅ API 요청 실패한 팀 목록을 JSON으로 저장
+failed_teams_file = os.path.join(SAVE_DIR, "failed_teams.json")
+with open(failed_teams_file, "w", encoding="utf-8") as f:
+    json.dump(failed_teams, f, indent=4, ensure_ascii=False)
+
 # ✅ API 요청 실패한 팀 목록 출력
 if failed_teams:
     print("\n❌ [FAILED TEAMS] 데이터 수집 실패한 팀 목록:")
@@ -86,4 +91,5 @@ if failed_teams:
 else:
     print("\n✅ 모든 팀의 데이터가 정상적으로 수집되었습니다!")
 
+print(f"✅ 실패한 팀 목록 저장 완료: {failed_teams_file}")
 print("🎉 모든 팀의 경기 데이터 업데이트 완료!")
