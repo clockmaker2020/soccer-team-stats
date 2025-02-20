@@ -1,6 +1,7 @@
 import requests
 import json
 import os
+import time
 from datetime import datetime
 
 # ✅ API 설정
@@ -35,31 +36,54 @@ teams = {
     "Holstein Kiel": 264
 }
 
+# ✅ API 요청 실패한 팀 목록
+failed_teams = []
+
 # ✅ API 데이터 요청 함수
 def fetch_data(url):
-    response = requests.get(url, headers=HEADERS)
-    data = response.json()
-    return data.get("response", [])
+    try:
+        response = requests.get(url, headers=HEADERS, timeout=10)  # ⏳ 10초 제한
+        response.raise_for_status()  # 🚨 HTTP 오류 발생 시 예외 처리
+        data = response.json()
+        return data.get("response", [])
+    except requests.exceptions.Timeout:
+        print(f"⚠️ [TIMEOUT] API 응답 없음: {url}")
+        return []
+    except requests.exceptions.RequestException as e:
+        print(f"⚠️ [ERROR] API 요청 오류: {e}")
+        return []
 
 # ✅ 모든 팀의 경기 데이터를 가져오기
 for team_name, team_id in teams.items():
     print(f"📌 {team_name} 경기 데이터 수집 중...")
 
-    # ✅ 최근 5경기 결과 가져오기
     past_matches_url = f"https://v3.football.api-sports.io/fixtures?team={team_id}&season={SEASON}&league={LEAGUE_ID}&status=FT&last=5"
-    past_matches = fetch_data(past_matches_url)
-
-    # ✅ 향후 3경기 일정 가져오기
     future_matches_url = f"https://v3.football.api-sports.io/fixtures?team={team_id}&season={SEASON}&league={LEAGUE_ID}&status=NS&next=3"
+
+    past_matches = fetch_data(past_matches_url)
+    time.sleep(1)  # ⏳ 1초 대기 후 다음 요청
     future_matches = fetch_data(future_matches_url)
+    time.sleep(1)
 
-    # ✅ 데이터 저장
-    with open(os.path.join(SAVE_DIR, f"past_matches_{team_name}.json"), "w", encoding="utf-8") as file:
-        json.dump(past_matches, file, indent=4, ensure_ascii=False)
+    if not past_matches or not future_matches:
+        print(f"❌ [FAILED] {team_name} 경기 데이터 수집 실패!")
+        failed_teams.append(team_name)  # ❌ 실패한 팀 저장
+    else:
+        # ✅ 정상적으로 데이터를 가져온 경우 JSON 저장
+        with open(os.path.join(SAVE_DIR, f"past_matches_{team_name}.json"), "w", encoding="utf-8") as file:
+            json.dump(past_matches, file, indent=4, ensure_ascii=False)
 
-    with open(os.path.join(SAVE_DIR, f"future_matches_{team_name}.json"), "w", encoding="utf-8") as file:
-        json.dump(future_matches, file, indent=4, ensure_ascii=False)
+        with open(os.path.join(SAVE_DIR, f"future_matches_{team_name}.json"), "w", encoding="utf-8") as file:
+            json.dump(future_matches, file, indent=4, ensure_ascii=False)
 
-    print(f"✅ 경기 데이터 저장 완료: {team_name}")
+        print(f"✅ [SUCCESS] {team_name} 경기 데이터 저장 완료!")
+
+# ✅ API 요청 실패한 팀 목록 출력
+if failed_teams:
+    print("\n❌ [FAILED TEAMS] 데이터 수집 실패한 팀 목록:")
+    for team in failed_teams:
+        print(f"- {team}")
+else:
+    print("\n✅ 모든 팀의 데이터가 정상적으로 수집되었습니다!")
 
 print("🎉 모든 팀의 경기 데이터 업데이트 완료!")
