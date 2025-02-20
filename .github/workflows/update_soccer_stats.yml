@@ -21,13 +21,13 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: 경기 데이터 업데이트 실행
-        run: python update_stats_TEAM.py
+        run: python data/update_stats_TEAM.py  # 🔹 파일이 data 폴더에 있으므로 경로 수정
 
       - name: JSON → HTML 변환 실행
-        run: python json_to_html.py
+        run: python data/json_to_html.py
 
       - name: HTML → 이미지 변환 실행
-        run: python convert_html_to_image.py
+        run: python data/convert_html_to_image.py
 
       - name: GitHub 환경 변수 설정
         run: echo "SOCCER_STATS_PAT=${{ secrets.SOCCER_STATS_PAT }}" >> $GITHUB_ENV
