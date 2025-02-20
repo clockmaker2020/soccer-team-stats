@@ -8,13 +8,13 @@ DATA_DIR = os.path.join(os.getcwd(), "data")
 HTML_DIR = DATA_DIR  # 같은 폴더에 저장
 os.makedirs(HTML_DIR, exist_ok=True)
 
-# ✅ 추적할 팀 목록 (update_stats_TEAM.py와 동일하게 설정)
+# ✅ 1부 리그 최신 팀 목록 (강등팀 제거, 승격팀 추가)
 teams = [
     "Bayern München", "Borussia Dortmund", "RB Leipzig", "Bayer Leverkusen",
     "SC Freiburg", "Union Berlin", "Eintracht Frankfurt", "VfL Wolfsburg",
     "Mainz 05", "Borussia M'gladbach", "VfL Bochum", "Werder Bremen",
-    "FC Köln", "VfB Stuttgart", "FC Augsburg", "Hertha BSC", "Schalke 04",
-    "Holstein Kiel"
+    "FC Köln", "VfB Stuttgart", "FC Augsburg", "Holstein Kiel",
+    "1. FC Heidenheim", "FC St. Pauli"
 ]
 
 # ✅ API 요청 실패한 팀 목록 로드
@@ -57,6 +57,11 @@ def convert_json_to_html(team_name):
     with open(future_file, "r", encoding="utf-8") as f:
         future_matches = json.load(f)
 
+    # ✅ JSON 데이터가 리스트인지 확인
+    if not isinstance(past_matches, list) or not isinstance(future_matches, list):
+        print(f"⚠️ {team_name}의 JSON 데이터 형식이 올바르지 않음. HTML 생성 스킵.")
+        return
+
     # ✅ HTML 변환 (간단한 테이블 형식)
     html_content = f"""
     <html>
@@ -70,13 +75,14 @@ def convert_json_to_html(team_name):
     for match in past_matches:
         fixture = match["fixture"]
         teams = match["teams"]
-        score = match["score"]
+        score = match.get("score", {}).get("fulltime", {"home": "-", "away": "-"})  # ✅ 예외 처리
+
         html_content += f"""
             <tr>
                 <td>{fixture['date'][:10]}</td>
                 <td>{teams['home']['name']}</td>
                 <td>{teams['away']['name']}</td>
-                <td>{score['fulltime']['home']} - {score['fulltime']['away']}</td>
+                <td>{score['home']} - {score['away']}</td>
             </tr>
         """
 
@@ -104,13 +110,12 @@ def convert_json_to_html(team_name):
     </html>
     """
 
-    # ✅ HTML 파일 저장
     with open(html_file, "w", encoding="utf-8") as f:
         f.write(html_content)
 
     print(f"✅ HTML 생성 완료: {html_file}")
 
-# ✅ 모든 팀의 JSON → HTML 변환 실행
+# ✅ 모든 팀 변환 실행
 for team in teams:
     convert_json_to_html(team)
 
