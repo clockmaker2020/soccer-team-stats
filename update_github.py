@@ -8,31 +8,30 @@ GITHUB_USERNAME = "clockmaker2020"
 GITHUB_REPO = "soccer-team-stats"
 GITHUB_TOKEN = os.getenv("GITHUB_PAT_SOCCER_STATS")  # 환경 변수에서 PAT 가져오기
 
-# ✅ GitHub Actions 실행 시 경로 문제 해결
-IMAGE_DIR = os.path.join(os.getenv("GITHUB_WORKSPACE", ""), "images")
-if not os.path.exists(IMAGE_DIR):
-    print(f"⚠️ 경고: 이미지 디렉토리 '{IMAGE_DIR}'가 존재하지 않습니다.")
-    exit(1)
+# ✅ 저장된 파일 가져오기 (이미지 + HTML)
+IMAGE_DIR = "C:/Users/clock_p93/soccer-team-stats/images"
+DATA_DIR = "C:/Users/clock_p93/soccer-team-stats/data"
 
-image_files = [f for f in os.listdir(IMAGE_DIR) if f.startswith("latest_result_") and f.endswith(".png")]
+# ✅ 업로드 대상 파일 리스트
+image_files = [f for f in os.listdir(IMAGE_DIR) if f.endswith(".png")]
+html_files = [f for f in os.listdir(DATA_DIR) if f.endswith(".html")]
 
 # ✅ GitHub API 업로드 함수
-def upload_image(image_path, team_name):
-    github_file_path = f"images/{os.path.basename(image_path)}"
-    api_url = f"https://api.github.com/repos/{GITHUB_USERNAME}/{GITHUB_REPO}/contents/{github_file_path}"
+def upload_file(file_path, github_path, file_type):
+    api_url = f"https://api.github.com/repos/{GITHUB_USERNAME}/{GITHUB_REPO}/contents/{github_path}"
 
     # ✅ 파일 읽기 및 인코딩
-    with open(image_path, "rb") as image_file:
-        encoded_image = base64.b64encode(image_file.read()).decode("utf-8")
+    with open(file_path, "rb") as file:
+        encoded_file = base64.b64encode(file.read()).decode("utf-8")
 
-    # ✅ 현재 파일 SHA 값 가져오기 (기존 파일 덮어쓰기 위함)
+    # ✅ 기존 파일 SHA 가져오기 (덮어쓰기 위함)
     response = requests.get(api_url, headers={"Authorization": f"token {GITHUB_TOKEN}"})
     sha = response.json().get("sha") if response.status_code == 200 else None
 
     # ✅ GitHub API 요청 데이터 생성
     data = {
-        "message": f"자동 업데이트 - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} ({team_name})",
-        "content": encoded_image,
+        "message": f"자동 업데이트 - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} ({file_type})",
+        "content": encoded_file,
         "branch": "main"
     }
     if sha:
@@ -42,15 +41,15 @@ def upload_image(image_path, team_name):
     response = requests.put(api_url, json=data, headers={"Authorization": f"token {GITHUB_TOKEN}"})
 
     if response.status_code in [200, 201]:
-        print(f"✅ GitHub에 이미지 업로드 완료: {image_path}")
+        print(f"✅ GitHub에 {file_type} 업로드 완료: {file_path}")
     else:
-        print(f"⚠️ 업로드 실패 ({team_name}): {response.status_code} - {response.text}")
+        print(f"⚠️ 업로드 실패 ({file_type}): {response.json()}")
 
-# ✅ 저장된 모든 팀의 이미지 업로드 실행
-if not image_files:
-    print("⚠️ 업로드할 이미지가 없습니다.")
-else:
-    for image_file in image_files:
-        team_name = image_file.replace("latest_result_", "").replace(".png", "")
-        image_path = os.path.join(IMAGE_DIR, image_file)
-        upload_image(image_path, team_name)
+# ✅ 저장된 모든 파일 업로드 실행
+for image_file in image_files:
+    file_path = os.path.join(IMAGE_DIR, image_file)
+    upload_file(file_path, f"images/{image_file}", "이미지")
+
+for html_file in html_files:
+    file_path = os.path.join(DATA_DIR, html_file)
+    upload_file(file_path, f"data/{html_file}", "HTML")
