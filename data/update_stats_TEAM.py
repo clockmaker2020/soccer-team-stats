@@ -5,7 +5,7 @@ import time
 from datetime import datetime
 
 # ✅ API 설정
-API_KEY = os.getenv("SOCCER_STATS_API")  # 환경 변수에서 API 키 가져오기
+API_KEY = "0776a35eb1067086efe59bb7f93c6498"
 LEAGUE_ID = 78  # 분데스리가 ID
 SEASON = 2024  # 최신 시즌
 HEADERS = {"x-apisports-key": API_KEY}
