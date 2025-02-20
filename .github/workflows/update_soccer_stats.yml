@@ -9,6 +9,12 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
+
+      - name: ✅ 환경 변수 확인
+        run: |
+          echo "📌 GitHub Actions에서 환경 변수 로드 확인..."
+          echo "SOCCER_STATS_PAT=${{ secrets.SOCCER_STATS_PAT }}"
+
       - name: ✅ 저장소 체크아웃
         uses: actions/checkout@v4
 
