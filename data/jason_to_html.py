@@ -17,11 +17,33 @@ teams = [
     "Holstein Kiel"
 ]
 
+# ✅ API 요청 실패한 팀 목록 로드
+failed_teams_file = os.path.join(DATA_DIR, "failed_teams.json")
+failed_teams = []
+if os.path.exists(failed_teams_file):
+    with open(failed_teams_file, "r", encoding="utf-8") as f:
+        failed_teams = json.load(f)
+
 # ✅ JSON 데이터를 HTML로 변환하는 함수
 def convert_json_to_html(team_name):
     past_file = os.path.join(DATA_DIR, f"past_matches_{team_name}.json")
     future_file = os.path.join(DATA_DIR, f"future_matches_{team_name}.json")
     html_file = os.path.join(HTML_DIR, f"update_stats_{team_name}.html")
+
+    # ✅ API 요청 실패한 팀이면 데이터 없음 표시
+    if team_name in failed_teams:
+        with open(html_file, "w", encoding="utf-8") as f:
+            f.write(f"""
+            <html>
+            <head><title>{team_name} 경기 데이터</title></head>
+            <body>
+                <h2>{team_name} 경기 데이터</h2>
+                <p style="color: red;">⚠️ 데이터 수집 실패! 최신 경기 정보를 가져올 수 없습니다.</p>
+            </body>
+            </html>
+            """)
+        print(f"❌ {team_name} HTML 생성 (데이터 없음 표시)")
+        return
 
     # ✅ JSON 파일 확인
     if not os.path.exists(past_file) or not os.path.exists(future_file):
