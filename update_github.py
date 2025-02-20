@@ -17,8 +17,18 @@ IMAGE_DIR = os.path.join(os.getcwd(), "images")
 DATA_DIR = os.path.join(os.getcwd(), "data")
 
 # ✅ 업로드 대상 파일 리스트
-image_files = [f for f in os.listdir(IMAGE_DIR) if f.endswith(".png")]
-html_files = [f for f in os.listdir(DATA_DIR) if f.endswith(".html")]
+if not os.path.exists(IMAGE_DIR):
+    print(f"⚠️ 경고: {IMAGE_DIR} 폴더가 존재하지 않습니다.")
+    image_files = []
+else:
+    image_files = [f for f in os.listdir(IMAGE_DIR) if f.endswith(".png")]
+
+if not os.path.exists(DATA_DIR):
+    print(f"⚠️ 경고: {DATA_DIR} 폴더가 존재하지 않습니다.")
+    html_files = []
+else:
+    html_files = [f for f in os.listdir(DATA_DIR) if f.endswith(".html")]
+
 
 # ✅ GitHub API 업로드 함수
 def upload_file(file_path, github_path, file_type):
@@ -43,11 +53,13 @@ def upload_file(file_path, github_path, file_type):
 
     # ✅ GitHub API 요청 (파일 업로드)
     response = requests.put(api_url, json=data, headers={"Authorization": f"token {GITHUB_TOKEN}"})
-
+    
     if response.status_code in [200, 201]:
         print(f"✅ GitHub에 {file_type} 업로드 완료: {file_path}")
     else:
-        print(f"⚠️ 업로드 실패 ({file_type}): {response.json()}")
+        print(f"⚠️ 업로드 실패 ({file_type}): {response.status_code} - {response.reason}")
+        print(f"📌 응답 내용: {response.json()}")
+
 
 # ✅ 저장된 모든 파일 업로드 실행
 for image_file in image_files:
