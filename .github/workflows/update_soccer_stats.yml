@@ -8,8 +8,6 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
-    env:
-      SOCCER_STATS_PAT: ${{ secrets.SOCCER_STATS_PAT }}  # Secret을 환경 변수로 전달
     steps:
       - name: 저장소 체크아웃
         uses: actions/checkout@v4
@@ -20,7 +18,16 @@ jobs:
           python-version: "3.12"
 
       - name: 의존성 설치
-        run: pip install requests pillow
+        run: pip install requests pillow selenium
 
-      - name: 경기 결과 업로드 실행
+      - name: 경기 데이터 업데이트 실행
+        run: python data/update_stats_TEAM.py  # ✅ 경기 데이터 업데이트
+
+      - name: JSON → HTML 변환 추가  ✅ (새로 추가)
+        run: python data/json_to_html.py  # ✅ HTML 변환 자동 실행
+
+      - name: HTML → 이미지 변환
+        run: python data/convert_html_to_image.py
+
+      - name: GitHub 업로드 실행
         run: python update_github.py
