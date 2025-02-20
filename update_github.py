@@ -9,8 +9,8 @@ GITHUB_REPO = "soccer-team-stats"
 GITHUB_TOKEN = os.getenv("GITHUB_PAT_SOCCER_STATS")  # 환경 변수에서 PAT 가져오기
 
 # ✅ 저장된 파일 가져오기 (이미지 + HTML)
-IMAGE_DIR = "C:/Users/clock_p93/soccer-team-stats/images"
-DATA_DIR = "C:/Users/clock_p93/soccer-team-stats/data"
+IMAGE_DIR = os.path.join(os.getcwd(), "images")
+DATA_DIR = os.path.join(os.getcwd(), "data")
 
 # ✅ 업로드 대상 파일 리스트
 image_files = [f for f in os.listdir(IMAGE_DIR) if f.endswith(".png")]
