@@ -36,7 +36,7 @@ def convert_json_to_html(team_name):
     future_file = os.path.join(DATA_DIR, f"future_matches_{team_name}.json")
     html_file = os.path.join(HTML_DIR, f"update_stats_{team_name}.html")
 
-    # ✅ 한글 팀명 변환
+    # ✅ 한글 팀명 변환 적용
     team_name_ko = team_name_map.get(team_name, team_name)  
 
     # ✅ JSON 파일 확인
@@ -51,17 +51,22 @@ def convert_json_to_html(team_name):
     with open(future_file, "r", encoding="utf-8") as f:
         future_matches = json.load(f)
 
-    # ✅ HTML 변환 (한글 팀명 적용하여 표 생성)
+    # ✅ HTML 변환 (표 형식 수정됨)
     html_content = f"""
     <html>
     <head><title>{team_name_ko} 경기 데이터</title></head>
     <body>
-        <h2>{team_name_ko} 최근 경기 결과</h2>
-        <table border='1'>
-            <tr><th>날짜</th><th>홈팀</th><th>원정팀</th><th>스코어</th></tr>
+        <h3>📌 {team_name_ko} 최근 5경기 결과</h3>
+        <table border='1' style='border-collapse: collapse; text-align: center; width: 80%; font-size: 18px;'>
+            <tr style='background-color: #ffcc99; height: 50px; font-weight: bold;'>
+                <th style='padding: 12px;'>날짜</th>
+                <th>홈팀</th>
+                <th>스코어</th>
+                <th>원정팀</th>
+            </tr>
     """
 
-    for match in past_matches:
+    for match in past_matches[:5]:  # 최신 5경기만 표시
         fixture = match["fixture"]
         teams = match["teams"]
         score = match["score"]
@@ -71,16 +76,20 @@ def convert_json_to_html(team_name):
             <tr>
                 <td>{fixture['date'][:10]}</td>
                 <td>{home_team_ko}</td>
-                <td>{away_team_ko}</td>
                 <td>{score['fulltime']['home']} - {score['fulltime']['away']}</td>
+                <td>{away_team_ko}</td>
             </tr>
         """
 
     html_content += """
-        </table>
-        <h2>다가오는 경기</h2>
-        <table border='1'>
-            <tr><th>날짜</th><th>홈팀</th><th>원정팀</th></tr>
+        </table><br>
+        <h3>📌 향후 3경기 일정</h3>
+        <table border='1' style='border-collapse: collapse; text-align: center; width: 80%; font-size: 18px;'>
+            <tr style='background-color: #b2ffb2; height: 50px; font-weight: bold;'>
+                <th style='padding: 12px;'>날짜(시간)</th>
+                <th>홈팀</th>
+                <th>원정팀</th>
+            </tr>
     """
 
     for match in future_matches:
@@ -90,7 +99,7 @@ def convert_json_to_html(team_name):
         away_team_ko = team_name_map.get(teams['away']['name'], teams['away']['name'])
         html_content += f"""
             <tr>
-                <td>{fixture['date'][:10]}</td>
+                <td>{fixture['date'][:16].replace("T", " ")}</td>
                 <td>{home_team_ko}</td>
                 <td>{away_team_ko}</td>
             </tr>
