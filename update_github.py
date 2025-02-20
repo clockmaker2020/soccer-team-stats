@@ -9,9 +9,10 @@ GITHUB_USERNAME = "clockmaker2020"
 GITHUB_REPO = "soccer-team-stats"
 
 # ✅ 환경 변수에서 PAT 가져오기
-GITHUB_TOKEN = os.environ.get("GITHUB_PAT_SOCCER_STATS")
+GITHUB_TOKEN = os.getenv("SOCCER_STATS_PAT")  # 환경 변수에서 PAT 가져오기
+
 if not GITHUB_TOKEN:
-    print("⚠️ 오류: GITHUB_PAT_SOCCER_STATS가 설정되지 않았습니다.")
+    print("⚠️ 오류: SOCCER_STATS_PAT가 설정되지 않았습니다.")
     sys.exit(1)
 
 # ✅ 저장된 파일 가져오기 (이미지 + HTML)
