@@ -22,19 +22,20 @@ teams = {
     "Bayer Leverkusen": 168,
     "SC Freiburg": 160,
     "Union Berlin": 182,
-    "Eintracht Frankfurt": 159,
-    "VfL Wolfsburg": 174,
+    "Eintracht Frankfurt": 169,  # ✅ 수정됨
+    "VfL Wolfsburg": 161,        # ✅ 수정됨
     "Mainz 05": 164,
     "Borussia M'gladbach": 163,
-    "VfL Bochum": 170,
-    "Werder Bremen": 166,
-    "FC Köln": 167,
+    "VfL Bochum": 176,           # ✅ 수정됨
+    "Werder Bremen": 162,        # ✅ 수정됨
+    "FC Köln": 170,              # ✅ 수정됨
     "VfB Stuttgart": 172,
-    "FC Augsburg": 161,
-    "Hertha BSC": 183,
-    "Schalke 04": 185,
-    "Holstein Kiel": 264
+    "FC Augsburg": 170,
+    "Holstein Kiel": 191,        # ✅ 수정됨
+    "1. FC Heidenheim": 180,     # ✅ 새로 추가된 팀
+    "FC St. Pauli": 186,         # ✅ 새로 추가된 팀
 }
+
 
 # ✅ API 요청 실패한 팀 목록
 failed_teams = []
