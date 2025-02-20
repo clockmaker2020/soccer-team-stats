@@ -61,9 +61,9 @@ for team_name, team_id in teams.items():
     future_matches_url = f"https://v3.football.api-sports.io/fixtures?team={team_id}&season={SEASON}&league={LEAGUE_ID}&status=NS&next=3"
 
     past_matches = fetch_data(past_matches_url)
-    time.sleep(1)  # ⏳ 1초 대기 후 다음 요청
+    time.sleep(10)  # ⏳ 1초 대기 후 다음 요청
     future_matches = fetch_data(future_matches_url)
-    time.sleep(1)
+    time.sleep(10)
 
     if not past_matches or not future_matches:
         print(f"❌ [FAILED] {team_name} 경기 데이터 수집 실패!")
