@@ -22,5 +22,5 @@ jobs:
 
       - name: Run update script
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # ✅ GitHub Token 설정
+          SOCCER_STATS_PAT: ${{ secrets.SOCCER_STATS_PAT }}  # ✅ 새로 추가한 PAT 사용
         run: python update_github.py
