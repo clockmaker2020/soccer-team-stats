@@ -1,8 +1,7 @@
-import requests
-import json
 import os
+import json
+import requests
 import time
-import html
 from datetime import datetime
 
 # ✅ API 설정
@@ -12,7 +11,7 @@ SEASON = 2024  # 최신 시즌
 HEADERS = {"x-apisports-key": API_KEY}
 
 # ✅ 저장 폴더 설정
-SAVE_DIR = os.path.join(os.getcwd(), "data")
+SAVE_DIR = os.path.join(os.getcwd(), "data/team_data")
 os.makedirs(SAVE_DIR, exist_ok=True)
 
 # ✅ 추적할 팀 목록
@@ -37,70 +36,47 @@ teams = {
     "FC St. Pauli": 186,
 }
 
-# ✅ API 요청 함수
-def fetch_data(url):
-    try:
-        response = requests.get(url, headers=HEADERS, timeout=10)
-        response.raise_for_status()
-        return response.json().get("response", [])
-    except requests.exceptions.RequestException as e:
-        print(f"⚠️ [ERROR] API 요청 오류: {e}")
-        return []
+# ✅ API 요청 함수 (재시도 포함)
+def fetch_data(url, retries=3):
+    for attempt in range(retries):
+        try:
+            response = requests.get(url, headers=HEADERS, timeout=10)
+            response.raise_for_status()
+            return response.json().get("response", [])
+        except requests.exceptions.RequestException as e:
+            print(f"⚠️ [ERROR] API 요청 오류 (시도 {attempt+1}/{retries}): {e}")
+            time.sleep(3)  # ⏳ 3초 대기 후 재시도
+    return []
 
-# ✅ 데이터 수집 및 저장
+# ✅ 각 팀별 JSON 파일 생성
 for team_name, team_id in teams.items():
     print(f"📌 {team_name} 경기 데이터 수집 중...")
 
+    # 최근 5경기 데이터 가져오기 (완료된 경기)
     past_matches_url = f"https://v3.football.api-sports.io/fixtures?team={team_id}&season={SEASON}&league={LEAGUE_ID}&status=FT&last=5"
     past_matches = fetch_data(past_matches_url)
     time.sleep(1)  # ⏳ 1초 대기 후 다음 요청
 
-    if past_matches:
-        with open(os.path.join(SAVE_DIR, f"past_matches_{team_name}.json"), "w", encoding="utf-8") as file:
-            json.dump(past_matches, file, indent=4, ensure_ascii=False)
+    # 향후 3경기 데이터 가져오기 (예정된 경기)
+    future_matches_url = f"https://v3.football.api-sports.io/fixtures?team={team_id}&season={SEASON}&league={LEAGUE_ID}&status=NS&next=3"
+    future_matches = fetch_data(future_matches_url)
+    time.sleep(1)
 
-        print(f"✅ [SUCCESS] {team_name} 경기 데이터 저장 완료!")
-    else:
-        print(f"❌ [FAILED] {team_name} 경기 데이터 수집 실패!")
+    # ✅ JSON 데이터 구조 생성
+    team_data = {
+        "team": team_name,
+        "past_matches": past_matches,  # 지난 경기 5개
+        "future_matches": future_matches  # 향후 경기 3개
+    }
 
-# ✅ HTML 변환 후 JSON 저장
-post_data = {"content": "<h3>📌 최근 경기 결과</h3>"}
+    # ✅ 팀별 JSON 파일 저장 (파일명: team_팀이름.json)
+    file_name = f"team_{team_name.replace(' ', '').replace('.', '')}.json"
+    team_file_path = os.path.join(SAVE_DIR, file_name)
 
-# ✅ `soccer-table` 클래스를 추가하여 티스토리 스타일과 충돌 방지
-post_data["content"] += """
-<table class='soccer-table'>
-<tr>
-    <th>날짜</th>
-    <th>홈팀</th>
-    <th>스코어</th>
-    <th>원정팀</th>
-</tr>
-"""
+    with open(team_file_path, "w", encoding="utf-8") as file:
+        json.dump(team_data, file, indent=4, ensure_ascii=False)
 
-for team_name in teams.keys():
-    past_file = os.path.join(SAVE_DIR, f"past_matches_{team_name}.json")
-    if os.path.exists(past_file):
-        with open(past_file, "r", encoding="utf-8") as f:
-            past_matches = json.load(f)
+    print(f"✅ {team_name} 데이터 저장 완료: {team_file_path}")
 
-        for match in past_matches[:5]:  # ✅ 최근 5경기만 포함
-            fixture = match["fixture"]
-            teams_info = match["teams"]
-            score = match["score"]
-            post_data["content"] += f"""
-            <tr>
-                <td>{html.escape(fixture['date'][:10])}</td>
-                <td>{html.escape(teams_info['home']['name'])}</td>
-                <td>{html.escape(str(score['fulltime']['home']))} - {html.escape(str(score['fulltime']['away']))}</td>
-                <td>{html.escape(teams_info['away']['name'])}</td>
-            </tr>
-            """
-
-post_data["content"] += "</table>"
-
-# ✅ `post_data.json` 저장
-post_data_file = os.path.join(SAVE_DIR, "post_data.json")
-with open(post_data_file, "w", encoding="utf-8") as file:
-    json.dump(post_data, file, indent=4, ensure_ascii=False)
-
-print(f"✅ post_data.json이 업데이트되었습니다: {post_data_file}")
+# ✅ 모든 팀 데이터 저장 완료
+print("🎉 모든 팀별 JSON 파일 생성 완료!")
