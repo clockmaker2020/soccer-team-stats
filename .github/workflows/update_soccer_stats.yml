@@ -21,7 +21,9 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: 경기 데이터 업데이트 실행
-        run: python data/update_stats_TEAM.py  # ✅ 경기 데이터 수집
+        run: python data/update_stats_TEAM.py
 
-      - name: GitHub 자동 업데이트 실행
-        run: python update_github.py  # ✅ post_data.json 자동 푸시
+      - name: GitHub 업로드 실행
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # ✅ GitHub Actions 환경 변수 사용
+        run: python update_github.py
