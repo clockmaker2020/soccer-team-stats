@@ -1,0 +1,567 @@
+{
+    "team": "Bayer Leverkusen",
+    "past_matches": [
+        {
+            "fixture": {
+                "id": 1224164,
+                "referee": "D. Siebert",
+                "timezone": "UTC",
+                "date": "2025-02-15T17:30:00+00:00",
+                "timestamp": 1739640600,
+                "periods": {
+                    "first": 1739640600,
+                    "second": 1739644200
+                },
+                "venue": {
+                    "id": 699,
+                    "name": "BayArena",
+                    "city": "Leverkusen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 5
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 22",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 168,
+                    "name": "Bayer Leverkusen",
+                    "logo": "https://media.api-sports.io/football/teams/168.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 157,
+                    "name": "Bayern München",
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1224160,
+                "referee": "S. Stegemann",
+                "timezone": "UTC",
+                "date": "2025-02-08T14:30:00+00:00",
+                "timestamp": 1739025000,
+                "periods": {
+                    "first": 1739025000,
+                    "second": 1739028600
+                },
+                "venue": {
+                    "id": 752,
+                    "name": "Volkswagen Arena",
+                    "city": "Wolfsburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 8
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 21",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 161,
+                    "name": "VfL Wolfsburg",
+                    "logo": "https://media.api-sports.io/football/teams/161.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 168,
+                    "name": "Bayer Leverkusen",
+                    "logo": "https://media.api-sports.io/football/teams/168.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1224146,
+                "referee": "R. Braun",
+                "timezone": "UTC",
+                "date": "2025-02-02T16:30:00+00:00",
+                "timestamp": 1738513800,
+                "periods": {
+                    "first": 1738513800,
+                    "second": 1738517400
+                },
+                "venue": {
+                    "id": 699,
+                    "name": "BayArena",
+                    "city": "Leverkusen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 6
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 20",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 168,
+                    "name": "Bayer Leverkusen",
+                    "logo": "https://media.api-sports.io/football/teams/168.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1224137,
+                "referee": "B. Dankert",
+                "timezone": "UTC",
+                "date": "2025-01-25T14:30:00+00:00",
+                "timestamp": 1737815400,
+                "periods": {
+                    "first": 1737815400,
+                    "second": 1737819000
+                },
+                "venue": {
+                    "id": 738,
+                    "name": "Red Bull Arena",
+                    "city": "Leipzig"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 6
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 19",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 173,
+                    "name": "RB Leipzig",
+                    "logo": "https://media.api-sports.io/football/teams/173.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 168,
+                    "name": "Bayer Leverkusen",
+                    "logo": "https://media.api-sports.io/football/teams/168.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1224128,
+                "referee": "H. Osmers",
+                "timezone": "UTC",
+                "date": "2025-01-18T17:30:00+00:00",
+                "timestamp": 1737221400,
+                "periods": {
+                    "first": 1737221400,
+                    "second": 1737225000
+                },
+                "venue": {
+                    "id": 699,
+                    "name": "BayArena",
+                    "city": "Leverkusen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 3
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 18",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 168,
+                    "name": "Bayer Leverkusen",
+                    "logo": "https://media.api-sports.io/football/teams/168.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 163,
+                    "name": "Borussia Mönchengladbach",
+                    "logo": "https://media.api-sports.io/football/teams/163.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ],
+    "future_matches": [
+        {
+            "fixture": {
+                "id": 1224181,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2025-02-22T14:30:00+00:00",
+                "timestamp": 1740234600,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": 725,
+                    "name": "Holstein-Stadion",
+                    "city": "Kiel"
+                },
+                "status": {
+                    "long": "Not Started",
+                    "short": "NS",
+                    "elapsed": null,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 23",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 191,
+                    "name": "Holstein Kiel",
+                    "logo": "https://media.api-sports.io/football/teams/191.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 168,
+                    "name": "Bayer Leverkusen",
+                    "logo": "https://media.api-sports.io/football/teams/168.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1224184,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2025-03-01T17:30:00+00:00",
+                "timestamp": 1740850200,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": 10491,
+                    "name": "Deutsche Bank Park",
+                    "city": "Frankfurt am Main"
+                },
+                "status": {
+                    "long": "Not Started",
+                    "short": "NS",
+                    "elapsed": null,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 24",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 169,
+                    "name": "Eintracht Frankfurt",
+                    "logo": "https://media.api-sports.io/football/teams/169.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 168,
+                    "name": "Bayer Leverkusen",
+                    "logo": "https://media.api-sports.io/football/teams/168.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1224191,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2025-03-08T14:30:00+00:00",
+                "timestamp": 1741444200,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": 699,
+                    "name": "BayArena",
+                    "city": "Leverkusen"
+                },
+                "status": {
+                    "long": "Not Started",
+                    "short": "NS",
+                    "elapsed": null,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 25",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 168,
+                    "name": "Bayer Leverkusen",
+                    "logo": "https://media.api-sports.io/football/teams/168.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}
