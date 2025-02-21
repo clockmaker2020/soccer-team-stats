@@ -1,0 +1,567 @@
+{
+    "team": "FC St. Pauli",
+    "past_matches": [
+        {
+            "fixture": {
+                "id": 1224172,
+                "referee": "B. Brand",
+                "timezone": "UTC",
+                "date": "2025-02-15T14:30:00+00:00",
+                "timestamp": 1739629800,
+                "periods": {
+                    "first": 1739629800,
+                    "second": 1739633400
+                },
+                "venue": {
+                    "id": 745,
+                    "name": "Millerntor-Stadion",
+                    "city": "Hamburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 7
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 22",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 186,
+                    "name": "FC St. Pauli",
+                    "logo": "https://media.api-sports.io/football/teams/186.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 160,
+                    "name": "SC Freiburg",
+                    "logo": "https://media.api-sports.io/football/teams/160.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1224156,
+                "referee": "F. Badstübner",
+                "timezone": "UTC",
+                "date": "2025-02-09T16:30:00+00:00",
+                "timestamp": 1739118600,
+                "periods": {
+                    "first": 1739118600,
+                    "second": 1739122200
+                },
+                "venue": {
+                    "id": 738,
+                    "name": "Red Bull Arena",
+                    "city": "Leipzig"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 5
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 21",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 173,
+                    "name": "RB Leipzig",
+                    "logo": "https://media.api-sports.io/football/teams/173.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 186,
+                    "name": "FC St. Pauli",
+                    "logo": "https://media.api-sports.io/football/teams/186.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1224154,
+                "referee": "T. Reichel",
+                "timezone": "UTC",
+                "date": "2025-02-01T14:30:00+00:00",
+                "timestamp": 1738420200,
+                "periods": {
+                    "first": 1738420200,
+                    "second": 1738423800
+                },
+                "venue": {
+                    "id": 745,
+                    "name": "Millerntor-Stadion",
+                    "city": "Hamburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 8
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 20",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 186,
+                    "name": "FC St. Pauli",
+                    "logo": "https://media.api-sports.io/football/teams/186.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 170,
+                    "name": "FC Augsburg",
+                    "logo": "https://media.api-sports.io/football/teams/170.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1224145,
+                "referee": "S. Storks",
+                "timezone": "UTC",
+                "date": "2025-01-26T16:30:00+00:00",
+                "timestamp": 1737909000,
+                "periods": {
+                    "first": 1737909000,
+                    "second": 1737912600
+                },
+                "venue": {
+                    "id": 745,
+                    "name": "Millerntor-Stadion",
+                    "city": "Hamburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 4
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 19",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 186,
+                    "name": "FC St. Pauli",
+                    "logo": "https://media.api-sports.io/football/teams/186.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 182,
+                    "name": "Union Berlin",
+                    "logo": "https://media.api-sports.io/football/teams/182.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1224132,
+                "referee": "B. Dankert",
+                "timezone": "UTC",
+                "date": "2025-01-18T14:30:00+00:00",
+                "timestamp": 1737210600,
+                "periods": {
+                    "first": 1737210600,
+                    "second": 1737214200
+                },
+                "venue": {
+                    "id": 723,
+                    "name": "Voith-Arena",
+                    "city": "Heidenheim an der Brenz"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 7
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 18",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 180,
+                    "name": "1. FC Heidenheim",
+                    "logo": "https://media.api-sports.io/football/teams/180.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 186,
+                    "name": "FC St. Pauli",
+                    "logo": "https://media.api-sports.io/football/teams/186.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ],
+    "future_matches": [
+        {
+            "fixture": {
+                "id": 1224179,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2025-02-22T14:30:00+00:00",
+                "timestamp": 1740234600,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": 11899,
+                    "name": "MEWA ARENA",
+                    "city": "Mainz"
+                },
+                "status": {
+                    "long": "Not Started",
+                    "short": "NS",
+                    "elapsed": null,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 23",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 164,
+                    "name": "FSV Mainz 05",
+                    "logo": "https://media.api-sports.io/football/teams/164.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 186,
+                    "name": "FC St. Pauli",
+                    "logo": "https://media.api-sports.io/football/teams/186.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1224190,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2025-03-01T14:30:00+00:00",
+                "timestamp": 1740839400,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": 745,
+                    "name": "Millerntor-Stadion",
+                    "city": "Hamburg"
+                },
+                "status": {
+                    "long": "Not Started",
+                    "short": "NS",
+                    "elapsed": null,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 24",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 186,
+                    "name": "FC St. Pauli",
+                    "logo": "https://media.api-sports.io/football/teams/186.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 165,
+                    "name": "Borussia Dortmund",
+                    "logo": "https://media.api-sports.io/football/teams/165.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1224197,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2025-03-08T14:30:00+00:00",
+                "timestamp": 1741444200,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": 752,
+                    "name": "Volkswagen Arena",
+                    "city": "Wolfsburg"
+                },
+                "status": {
+                    "long": "Not Started",
+                    "short": "NS",
+                    "elapsed": null,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 25",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 161,
+                    "name": "VfL Wolfsburg",
+                    "logo": "https://media.api-sports.io/football/teams/161.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 186,
+                    "name": "FC St. Pauli",
+                    "logo": "https://media.api-sports.io/football/teams/186.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}
