@@ -12,8 +12,9 @@ if not GITHUB_TOKEN:
     print("❌ GitHub PAT가 설정되지 않았습니다. 환경 변수를 확인하세요.")
     exit(1)
 
-# ✅ 팀 데이터 폴더 생성 확인
+# ✅ 데이터 폴더 생성 확인
 TEAM_DATA_DIR = os.path.join(os.getcwd(), "data/team_data")
+LEAGUE_FILE_PATH = os.path.join(os.getcwd(), "data/league_standings.json")
 os.makedirs(TEAM_DATA_DIR, exist_ok=True)  # 디렉토리 강제 생성
 
 # ✅ GitHub 업로드 함수
@@ -56,4 +57,10 @@ for team_file in os.listdir(TEAM_DATA_DIR):
         github_path = f"data/team_data/{team_file}"
         upload_file(file_path, github_path, "팀별 JSON 데이터")
 
-print("🎉 모든 팀별 JSON 파일 업로드 완료!")
+# ✅ 리그 순위 JSON 파일 업로드 (존재하는 경우)
+if os.path.exists(LEAGUE_FILE_PATH):
+    upload_file(LEAGUE_FILE_PATH, "data/league_standings.json", "리그 순위 데이터")
+else:
+    print("⚠️ 리그 순위 데이터 파일이 존재하지 않습니다. 업로드 건너뜁니다.")
+
+print("🎉 모든 데이터 업로드 완료!")
