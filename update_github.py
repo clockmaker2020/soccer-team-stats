@@ -3,8 +3,8 @@ import json
 from datetime import datetime
 from github import Github
 
-# ✅ GitHub 인증 정보
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")  # GitHub Actions에서 제공하는 기본 토큰
+# ✅ GitHub 인증 정보 (PAT 사용)
+GITHUB_TOKEN = os.getenv("SOCCER_STATS_PAT")  # GitHub Secrets에서 PAT 가져오기
 REPO_NAME = "clockmaker2020/soccer-team-stats"
 DATA_DIR = os.path.join(os.getcwd(), "data")
 POST_DATA_FILE = os.path.join(DATA_DIR, "post_data.json")
