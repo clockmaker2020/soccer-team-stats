@@ -1,76 +1,103 @@
 
     <html>
-    <head><title>쾰른 경기 데이터</title></head>
+    <head>
+        <meta charset="utf-8">
+        <title>FC Köln 경기 데이터</title>
+        <style>
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 400;
+    src: url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap');
+}
+body {
+    font-family: 'Noto Sans KR', sans-serif;
+    background: transparent;
+    color: #333;
+    text-align: center;
+}
+h3 {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    font-size: 18px;
+}
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+th {
+    background: #ffcc99;
+    font-weight: bold;
+}
+</style>
+    </head>
     <body>
-        <h3>📌 쾰른 최근 5경기 결과</h3>
-        <table border='1' style='border-collapse: collapse; text-align: center; width: 80%; font-size: 18px;'>
-            <tr style='background-color: #ffcc99; height: 50px; font-weight: bold;'>
-                <th style='padding: 12px;'>날짜</th>
-                <th>홈팀</th>
-                <th>스코어</th>
-                <th>원정팀</th>
-            </tr>
+        <h3>📌 최근 5경기 결과</h3>
+        <table>
+            <tr><th>날짜</th><th>홈팀</th><th>스코어</th><th>원정팀</th></tr>
     
             <tr>
                 <td>2025-02-14</td>
-                <td>아우크스부르크</td>
+                <td>FC Augsburg</td>
                 <td>0 - 0</td>
-                <td>RB 라이프치히</td>
+                <td>RB Leipzig</td>
             </tr>
         
             <tr>
                 <td>2025-02-08</td>
                 <td>FSV Mainz 05</td>
                 <td>0 - 0</td>
-                <td>아우크스부르크</td>
+                <td>FC Augsburg</td>
             </tr>
         
             <tr>
                 <td>2025-02-01</td>
-                <td>장크트 파울리</td>
+                <td>FC St. Pauli</td>
                 <td>1 - 1</td>
-                <td>아우크스부르크</td>
+                <td>FC Augsburg</td>
             </tr>
         
             <tr>
                 <td>2025-01-25</td>
-                <td>아우크스부르크</td>
+                <td>FC Augsburg</td>
                 <td>2 - 1</td>
-                <td>하이덴하임</td>
+                <td>1. FC Heidenheim</td>
             </tr>
         
             <tr>
                 <td>2025-01-19</td>
-                <td>베르더 브레멘</td>
+                <td>Werder Bremen</td>
                 <td>0 - 2</td>
-                <td>아우크스부르크</td>
+                <td>FC Augsburg</td>
             </tr>
         
-        </table><br>
+        </table>
         <h3>📌 향후 3경기 일정</h3>
-        <table border='1' style='border-collapse: collapse; text-align: center; width: 80%; font-size: 18px;'>
-            <tr style='background-color: #b2ffb2; height: 50px; font-weight: bold;'>
-                <th style='padding: 12px;'>날짜(시간)</th>
-                <th>홈팀</th>
-                <th>원정팀</th>
-            </tr>
+        <table>
+            <tr><th>날짜</th><th>홈팀</th><th>원정팀</th></tr>
     
             <tr>
-                <td>2025-02-22 14:30</td>
+                <td>2025-02-22</td>
                 <td>Borussia Mönchengladbach</td>
-                <td>아우크스부르크</td>
+                <td>FC Augsburg</td>
             </tr>
         
             <tr>
-                <td>2025-03-02 16:30</td>
-                <td>아우크스부르크</td>
-                <td>프라이부르크</td>
+                <td>2025-03-02</td>
+                <td>FC Augsburg</td>
+                <td>SC Freiburg</td>
             </tr>
         
             <tr>
-                <td>2025-03-08 14:30</td>
-                <td>보루시아 도르트문트</td>
-                <td>아우크스부르크</td>
+                <td>2025-03-08</td>
+                <td>Borussia Dortmund</td>
+                <td>FC Augsburg</td>
             </tr>
         
         </table>
