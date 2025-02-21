@@ -1,2 +1,2 @@
 requests
-PyGithub  # 🔹 추가
+python-dotenv  # 환경 변수 로드 (GitHub PAT 관리용)
