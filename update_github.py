@@ -10,9 +10,13 @@ GITHUB_TOKEN = os.getenv("SOCCER_STATS_PAT")
 
 if not GITHUB_TOKEN:
     print("❌ GitHub PAT가 설정되지 않았습니다. 환경 변수를 확인하세요.")
-    exit(1)  # 🚨 PAT가 없으면 코드 실행 중지
+    exit(1)
 
-# ✅ 파일 업로드 함수
+# ✅ 팀 데이터 폴더 생성 확인
+TEAM_DATA_DIR = os.path.join(os.getcwd(), "data/team_data")
+os.makedirs(TEAM_DATA_DIR, exist_ok=True)  # 디렉토리 강제 생성
+
+# ✅ GitHub 업로드 함수
 def upload_file(file_path, github_path, file_type):
     if not os.path.exists(file_path):
         print(f"⚠️ 파일 없음: {file_path}, 업로드 건너뜁니다.")
@@ -44,9 +48,12 @@ def upload_file(file_path, github_path, file_type):
         print(f"✅ GitHub에 {file_type} 업로드 완료: {file_path}")
     else:
         print(f"⚠️ 업로드 실패: {response.status_code} - {response.text}")
-        with open("log.txt", "a") as log_file:  # 🔹 실패한 요청 로그 기록
-            log_file.write(f"{datetime.now()} - {file_type} 업로드 실패: {response.status_code}\n")
 
-# ✅ post_data.json 업로드 실행
-data_file = os.path.join(os.getcwd(), "data", "post_data.json")
-upload_file(data_file, "data/post_data.json", "JSON 데이터")
+# ✅ `team_data` 폴더 내 모든 JSON 파일 업로드
+for team_file in os.listdir(TEAM_DATA_DIR):
+    if team_file.endswith(".json"):
+        file_path = os.path.join(TEAM_DATA_DIR, team_file)
+        github_path = f"data/team_data/{team_file}"
+        upload_file(file_path, github_path, "팀별 JSON 데이터")
+
+print("🎉 모든 팀별 JSON 파일 업로드 완료!")
