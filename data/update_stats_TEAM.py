@@ -78,5 +78,42 @@ for team_name, team_id in teams.items():
 
     print(f"✅ {team_name} 데이터 저장 완료: {team_file_path}")
 
+# ✅ 리그 순위 데이터 추가
+LEAGUE_SAVE_PATH = os.path.join(os.getcwd(), "data")
+os.makedirs(LEAGUE_SAVE_PATH, exist_ok=True)
+
+def fetch_league_standings():
+    url = f"https://v3.football.api-sports.io/standings?league={LEAGUE_ID}&season={SEASON}"
+    response = requests.get(url, headers=HEADERS)
+
+    if response.status_code == 200:
+        data = response.json().get("response", [])
+        if data:
+            standings = data[0]["league"]["standings"][0]  # ✅ 분데스리가 1부 리그 순위 테이블
+            league_data = {
+                "standings": [
+                    {
+                        "rank": team["rank"],
+                        "team": {"name": team["team"]["name"]},
+                        "wins": team["all"]["win"],
+                        "draws": team["all"]["draw"],
+                        "losses": team["all"]["lose"]
+                    }
+                    for team in standings
+                ]
+            }
+            return league_data
+    return None
+
+# ✅ 리그 순위 데이터 가져오기 및 JSON 저장
+league_standings = fetch_league_standings()
+if league_standings:
+    league_standings_path = os.path.join(LEAGUE_SAVE_PATH, "league_standings.json")
+    with open(league_standings_path, "w", encoding="utf-8") as file:
+        json.dump(league_standings, file, indent=4, ensure_ascii=False)
+    print(f"✅ 리그 순위 데이터 저장 완료: {league_standings_path}")
+else:
+    print("⚠️ 리그 순위 데이터를 가져오지 못했습니다.")
+
 # ✅ 모든 팀 데이터 저장 완료
-print("🎉 모든 팀별 JSON 파일 생성 완료!")
+print("🎉 모든 팀별 JSON 및 리그 순위 데이터 생성 완료!")
