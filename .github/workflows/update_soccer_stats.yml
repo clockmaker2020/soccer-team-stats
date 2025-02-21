@@ -2,7 +2,7 @@ name: Update Soccer Stats
 
 on:
   schedule:
-    - cron: "*/10 * * * *"  # 🔹 10분마다 실행 (필요 시 30분 또는 1시간으로 변경 가능)
+    - cron: "*/10 * * * *"  # 🔹 10분마다 실행
   workflow_dispatch:  # 🔹 수동 실행 가능
 
 jobs:
@@ -20,8 +20,13 @@ jobs:
       - name: 의존성 설치
         run: pip install -r requirements.txt
 
+      - name: 환경 변수 설정 (GitHub Secrets)
+        run: echo "SOCCER_STATS_PAT=${{ secrets.SOCCER_STATS_PAT }}" >> $GITHUB_ENV
+
       - name: 경기 데이터 업데이트 실행
-        run: python data/update_stats_TEAM.py  # ✅ 경기 데이터 수집
+        run: python data/update_stats_TEAM.py
 
       - name: GitHub 자동 업데이트 실행
-        run: python update_github.py  # ✅ post_data.json 자동 푸시
+        env:
+          SOCCER_STATS_PAT: ${{ secrets.SOCCER_STATS_PAT }}
+        run: python update_github.py
