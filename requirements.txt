@@ -1,5 +1,2 @@
 requests
-pillow
-selenium
-beautifulsoup4
-webdriver-manager
+PyGithub  # 🔹 추가
