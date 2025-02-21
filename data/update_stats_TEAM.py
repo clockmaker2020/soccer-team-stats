@@ -93,3 +93,33 @@ else:
 
 print(f"✅ 실패한 팀 목록 저장 완료: {failed_teams_file}")
 print("🎉 모든 팀의 경기 데이터 업데이트 완료!")
+
+# ✅ JSON 데이터를 HTML 형식으로 변환하여 저장 (자동 업데이트용)
+post_data = {
+    "content": "<h3>📌 최근 경기 결과</h3>"
+}
+
+post_data["content"] += "<table border='1'><tr><th>날짜</th><th>홈팀</th><th>스코어</th><th>원정팀</th></tr>"
+
+for team_name in teams.keys():
+    past_file = os.path.join(SAVE_DIR, f"past_matches_{team_name}.json")
+    if os.path.exists(past_file):
+        with open(past_file, "r", encoding="utf-8") as f:
+            past_matches = json.load(f)
+
+        if past_matches:
+            for match in past_matches[:5]:  # 최근 5경기만 포함
+                fixture = match["fixture"]
+                teams_info = match["teams"]
+                score = match["score"]
+                post_data["content"] += f"<tr><td>{fixture['date'][:10]}</td><td>{teams_info['home']['name']}</td><td>{score['fulltime']['home']} - {score['fulltime']['away']}</td><td>{teams_info['away']['name']}</td></tr>"
+
+post_data["content"] += "</table>"
+
+# ✅ post_data.json 파일 저장
+post_data_file = os.path.join(SAVE_DIR, "post_data.json")
+with open(post_data_file, "w", encoding="utf-8") as file:
+    json.dump(post_data, file, indent=4, ensure_ascii=False)
+
+print(f"✅ post_data.json이 업데이트되었습니다: {post_data_file}")
+
