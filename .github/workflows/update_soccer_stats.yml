@@ -20,20 +20,8 @@ jobs:
       - name: 의존성 설치
         run: pip install -r requirements.txt
 
-      - name: ✅ 저장소 파일 목록 확인 (디버깅)
-        run: ls -R
-
       - name: 경기 데이터 업데이트 실행
-        run: python data/update_stats_TEAM.py  # 🔹 경로 수정 완료 ✅
+        run: python data/update_stats_TEAM.py  # ✅ 경기 데이터 수집
 
-      - name: JSON → HTML 변환 실행
-        run: python data/json_to_html.py  # 🔹 경로 수정 완료 ✅
-
-      - name: HTML → 이미지 변환 실행
-        run: python data/convert_html_to_image.py  # 🔹 경로 수정 완료 ✅
-
-      - name: GitHub 환경 변수 설정
-        run: echo "SOCCER_STATS_PAT=${{ secrets.SOCCER_STATS_PAT }}" >> $GITHUB_ENV
-
-      - name: GitHub 업로드 실행
-        run: python update_github.py  # 🔹 루트 폴더 유지 ✅
+      - name: GitHub 자동 업데이트 실행
+        run: python update_github.py  # ✅ post_data.json 자동 푸시
