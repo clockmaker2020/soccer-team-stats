@@ -1,46 +1,52 @@
 import os
-import json
+import base64
+import requests
 from datetime import datetime
-from github import Github
 
-# ✅ GitHub 인증 정보 (PAT 사용)
-GITHUB_TOKEN = os.getenv("SOCCER_STATS_PAT")  # GitHub Secrets에서 PAT 가져오기
-REPO_NAME = "clockmaker2020/soccer-team-stats"
-DATA_DIR = os.path.join(os.getcwd(), "data")
-POST_DATA_FILE = os.path.join(DATA_DIR, "post_data.json")
+# ✅ GitHub 설정
+GITHUB_USERNAME = "clockmaker2020"
+GITHUB_REPO = "soccer-team-stats"
+GITHUB_TOKEN = os.getenv("SOCCER_STATS_PAT")
 
-# ✅ GitHub 인증 및 저장소 접근
-g = Github(GITHUB_TOKEN)
-repo = g.get_repo(REPO_NAME)
+if not GITHUB_TOKEN:
+    print("❌ GitHub PAT가 설정되지 않았습니다. 환경 변수를 확인하세요.")
+    exit(1)  # 🚨 PAT가 없으면 코드 실행 중지
 
-# ✅ 업데이트할 파일 리스트
-files_to_update = [POST_DATA_FILE]
+# ✅ 파일 업로드 함수
+def upload_file(file_path, github_path, file_type):
+    if not os.path.exists(file_path):
+        print(f"⚠️ 파일 없음: {file_path}, 업로드 건너뜁니다.")
+        return
 
-# ✅ GitHub에 파일 업데이트 함수
-def update_file_on_github(file_path, commit_message):
-    try:
-        file_name = os.path.basename(file_path)
-        with open(file_path, "r", encoding="utf-8") as file:
-            content = file.read()
+    api_url = f"https://api.github.com/repos/{GITHUB_USERNAME}/{GITHUB_REPO}/contents/{github_path}"
 
-        # ✅ GitHub에서 기존 파일 정보 가져오기
-        file_in_repo = repo.get_contents(f"data/{file_name}")
+    # ✅ 파일 읽기 및 인코딩
+    with open(file_path, "rb") as file:
+        encoded_file = base64.b64encode(file.read()).decode("utf-8")
 
-        # ✅ 변경된 내용이 있을 때만 업데이트
-        if file_in_repo.decoded_content.decode("utf-8") != content:
-            repo.update_file(
-                file_in_repo.path, commit_message, content, file_in_repo.sha, branch="main"
-            )
-            print(f"✅ GitHub 업데이트 완료: {file_name}")
-        else:
-            print(f"🔄 변경 사항 없음: {file_name}")
+    # ✅ 기존 파일 SHA 가져오기 (덮어쓰기)
+    response = requests.get(api_url, headers={"Authorization": f"token {GITHUB_TOKEN}"})
+    sha = response.json().get("sha") if response.status_code == 200 else None
 
-    except Exception as e:
-        print(f"⚠️ [ERROR] {file_name} 업데이트 실패: {e}")
+    # ✅ GitHub API 요청 데이터 생성
+    data = {
+        "message": f"자동 업데이트 - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} ({file_type})",
+        "content": encoded_file,
+        "branch": "main"
+    }
+    if sha:
+        data["sha"] = sha  
 
-# ✅ 모든 파일 업데이트 실행
-for file in files_to_update:
-    if os.path.exists(file):
-        update_file_on_github(file, f"Update {os.path.basename(file)} - {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')}")
+    # ✅ GitHub API 요청
+    response = requests.put(api_url, json=data, headers={"Authorization": f"token {GITHUB_TOKEN}"})
 
-print("🎉 GitHub 데이터 업데이트 완료!")
+    if response.status_code in [200, 201]:
+        print(f"✅ GitHub에 {file_type} 업로드 완료: {file_path}")
+    else:
+        print(f"⚠️ 업로드 실패: {response.status_code} - {response.text}")
+        with open("log.txt", "a") as log_file:  # 🔹 실패한 요청 로그 기록
+            log_file.write(f"{datetime.now()} - {file_type} 업로드 실패: {response.status_code}\n")
+
+# ✅ post_data.json 업로드 실행
+data_file = os.path.join(os.getcwd(), "data", "post_data.json")
+upload_file(data_file, "data/post_data.json", "JSON 데이터")
