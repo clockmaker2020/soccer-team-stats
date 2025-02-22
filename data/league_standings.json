@@ -14,7 +14,7 @@
             "team": {
                 "name": "Bayer Leverkusen"
             },
-            "wins": 13,
+            "wins": 14,
             "draws": 8,
             "losses": 1
         },
@@ -39,20 +39,20 @@
         {
             "rank": 5,
             "team": {
+                "name": "FSV Mainz 05"
+            },
+            "wins": 11,
+            "draws": 5,
+            "losses": 7
+        },
+        {
+            "rank": 6,
+            "team": {
                 "name": "RB Leipzig"
             },
             "wins": 10,
             "draws": 7,
             "losses": 5
-        },
-        {
-            "rank": 6,
-            "team": {
-                "name": "FSV Mainz 05"
-            },
-            "wins": 10,
-            "draws": 5,
-            "losses": 7
         },
         {
             "rank": 7,
@@ -66,23 +66,32 @@
         {
             "rank": 8,
             "team": {
-                "name": "Borussia Mönchengladbach"
+                "name": "VfL Wolfsburg"
             },
-            "wins": 10,
-            "draws": 4,
-            "losses": 8
+            "wins": 9,
+            "draws": 7,
+            "losses": 7
         },
         {
             "rank": 9,
             "team": {
-                "name": "VfL Wolfsburg"
+                "name": "Borussia Mönchengladbach"
             },
-            "wins": 9,
-            "draws": 6,
-            "losses": 7
+            "wins": 10,
+            "draws": 4,
+            "losses": 9
         },
         {
             "rank": 10,
+            "team": {
+                "name": "FC Augsburg"
+            },
+            "wins": 8,
+            "draws": 7,
+            "losses": 8
+        },
+        {
+            "rank": 11,
             "team": {
                 "name": "Werder Bremen"
             },
@@ -91,22 +100,13 @@
             "losses": 9
         },
         {
-            "rank": 11,
+            "rank": 12,
             "team": {
                 "name": "Borussia Dortmund"
             },
             "wins": 8,
             "draws": 5,
             "losses": 9
-        },
-        {
-            "rank": 12,
-            "team": {
-                "name": "FC Augsburg"
-            },
-            "wins": 7,
-            "draws": 7,
-            "losses": 8
         },
         {
             "rank": 13,
@@ -124,7 +124,7 @@
             },
             "wins": 6,
             "draws": 3,
-            "losses": 13
+            "losses": 14
         },
         {
             "rank": 15,
@@ -138,20 +138,20 @@
         {
             "rank": 16,
             "team": {
+                "name": "VfL Bochum"
+            },
+            "wins": 3,
+            "draws": 6,
+            "losses": 14
+        },
+        {
+            "rank": 17,
+            "team": {
                 "name": "1. FC Heidenheim"
             },
             "wins": 4,
             "draws": 2,
             "losses": 16
-        },
-        {
-            "rank": 17,
-            "team": {
-                "name": "VfL Bochum"
-            },
-            "wins": 3,
-            "draws": 5,
-            "losses": 14
         },
         {
             "rank": 18,
@@ -160,7 +160,7 @@
             },
             "wins": 3,
             "draws": 4,
-            "losses": 15
+            "losses": 16
         }
     ]
 }
