@@ -3,6 +3,76 @@
     "past_matches": [
         {
             "fixture": {
+                "id": 1224179,
+                "referee": "Felix Zwayer, Germany",
+                "timezone": "UTC",
+                "date": "2025-02-22T14:30:00+00:00",
+                "timestamp": 1740234600,
+                "periods": {
+                    "first": 1740234600,
+                    "second": 1740238200
+                },
+                "venue": {
+                    "id": 11899,
+                    "name": "MEWA ARENA",
+                    "city": "Mainz"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 7
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 23",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 164,
+                    "name": "FSV Mainz 05",
+                    "logo": "https://media.api-sports.io/football/teams/164.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 186,
+                    "name": "FC St. Pauli",
+                    "logo": "https://media.api-sports.io/football/teams/186.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
                 "id": 1224172,
                 "referee": "Benjamin Brand, Germany",
                 "timezone": "UTC",
@@ -270,76 +340,6 @@
                 "fulltime": {
                     "home": 3,
                     "away": 0
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
-                "id": 1224132,
-                "referee": "Bastian Dankert, Germany",
-                "timezone": "UTC",
-                "date": "2025-01-18T14:30:00+00:00",
-                "timestamp": 1737210600,
-                "periods": {
-                    "first": 1737210600,
-                    "second": 1737214200
-                },
-                "venue": {
-                    "id": 723,
-                    "name": "Voith-Arena",
-                    "city": "Heidenheim an der Brenz"
-                },
-                "status": {
-                    "long": "Match Finished",
-                    "short": "FT",
-                    "elapsed": 90,
-                    "extra": 7
-                }
-            },
-            "league": {
-                "id": 78,
-                "name": "Bundesliga",
-                "country": "Germany",
-                "logo": "https://media.api-sports.io/football/leagues/78.png",
-                "flag": "https://media.api-sports.io/flags/de.svg",
-                "season": 2024,
-                "round": "Regular Season - 18",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 180,
-                    "name": "1. FC Heidenheim",
-                    "logo": "https://media.api-sports.io/football/teams/180.png",
-                    "winner": false
-                },
-                "away": {
-                    "id": 186,
-                    "name": "FC St. Pauli",
-                    "logo": "https://media.api-sports.io/football/teams/186.png",
-                    "winner": true
-                }
-            },
-            "goals": {
-                "home": 0,
-                "away": 2
-            },
-            "score": {
-                "halftime": {
-                    "home": 0,
-                    "away": 1
-                },
-                "fulltime": {
-                    "home": 0,
-                    "away": 2
                 },
                 "extratime": {
                     "home": null,
