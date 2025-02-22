@@ -84,6 +84,15 @@
         {
             "rank": 10,
             "team": {
+                "name": "Borussia Dortmund"
+            },
+            "wins": 9,
+            "draws": 5,
+            "losses": 9
+        },
+        {
+            "rank": 11,
+            "team": {
                 "name": "FC Augsburg"
             },
             "wins": 8,
@@ -91,21 +100,12 @@
             "losses": 8
         },
         {
-            "rank": 11,
+            "rank": 12,
             "team": {
                 "name": "Werder Bremen"
             },
             "wins": 8,
             "draws": 6,
-            "losses": 9
-        },
-        {
-            "rank": 12,
-            "team": {
-                "name": "Borussia Dortmund"
-            },
-            "wins": 8,
-            "draws": 5,
             "losses": 9
         },
         {
@@ -115,7 +115,7 @@
             },
             "wins": 6,
             "draws": 6,
-            "losses": 10
+            "losses": 11
         },
         {
             "rank": 14,
