@@ -28,7 +28,7 @@ teams = {
     "Borussia M'gladbach": 163,
     "VfL Bochum": 176,
     "Werder Bremen": 162,
-    "FC Köln": 170,
+    "1899 Hoffenheim": 167,
     "VfB Stuttgart": 172,
     "FC Augsburg": 170,
     "Holstein Kiel": 191,
