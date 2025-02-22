@@ -1,3 +1,94 @@
 {
-    "latest_matches": []
+    "latest_matches": [
+        {
+            "team": "Bayern München",
+            "opponent": "Bayer Leverkusen",
+            "date": "2025-02-16 02:30"
+        },
+        {
+            "team": "Borussia Dortmund",
+            "opponent": "Union Berlin",
+            "date": "2025-02-23 02:30"
+        },
+        {
+            "team": "RB Leipzig",
+            "opponent": "FC Augsburg",
+            "date": "2025-02-15 04:30"
+        },
+        {
+            "team": "Bayer Leverkusen",
+            "opponent": "Holstein Kiel",
+            "date": "2025-02-22 23:30"
+        },
+        {
+            "team": "SC Freiburg",
+            "opponent": "Werder Bremen",
+            "date": "2025-02-22 04:30"
+        },
+        {
+            "team": "Union Berlin",
+            "opponent": "Borussia Dortmund",
+            "date": "2025-02-23 02:30"
+        },
+        {
+            "team": "Eintracht Frankfurt",
+            "opponent": "Holstein Kiel",
+            "date": "2025-02-17 01:30"
+        },
+        {
+            "team": "VfL Wolfsburg",
+            "opponent": "VfL Bochum",
+            "date": "2025-02-22 23:30"
+        },
+        {
+            "team": "Mainz 05",
+            "opponent": "FSV Mainz 05",
+            "date": "2025-02-22 23:30"
+        },
+        {
+            "team": "Borussia M'gladbach",
+            "opponent": "Borussia Mönchengladbach",
+            "date": "2025-02-22 23:30"
+        },
+        {
+            "team": "VfL Bochum",
+            "opponent": "VfL Wolfsburg",
+            "date": "2025-02-22 23:30"
+        },
+        {
+            "team": "Werder Bremen",
+            "opponent": "SC Freiburg",
+            "date": "2025-02-22 04:30"
+        },
+        {
+            "team": "1899 Hoffenheim",
+            "opponent": "Werder Bremen",
+            "date": "2025-02-16 23:30"
+        },
+        {
+            "team": "VfB Stuttgart",
+            "opponent": "VfL Wolfsburg",
+            "date": "2025-02-15 23:30"
+        },
+        {
+            "team": "FC Augsburg",
+            "opponent": "Borussia Mönchengladbach",
+            "date": "2025-02-22 23:30"
+        },
+        {
+            "team": "Holstein Kiel",
+            "opponent": "Bayer Leverkusen",
+            "date": "2025-02-22 23:30"
+        },
+        {
+            "team": "1. FC Heidenheim",
+            "opponent": "FSV Mainz 05",
+            "date": "2025-02-17 03:30"
+        },
+        {
+            "team": "FC St. Pauli",
+            "opponent": "FSV Mainz 05",
+            "date": "2025-02-22 23:30"
+        }
+    ]
 }
