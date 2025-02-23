@@ -745,7 +745,7 @@
             "opponent": "FC Augsburg",
             "score": "0 - 0",
             "stadium": "WWK Arena",
-            "referee": "S. Stegemann",
+            "referee": "Sascha Stegemann, Germany",
             "league_round": "Regular Season - 22",
             "events": [
                 {
@@ -864,7 +864,7 @@
             "opponent": "VfL Wolfsburg",
             "score": "1 - 2",
             "stadium": "MHPArena",
-            "referee": "T. Welz",
+            "referee": "Tobias Welz, Germany",
             "league_round": "Regular Season - 22",
             "events": [
                 {
@@ -1036,61 +1036,61 @@
             "events": [
                 {
                     "time": "7'",
-                    "player": "M. Bero",
+                    "player": "Matúš Bero",
                     "detail": "Yellow Card",
                     "team": "VfL Bochum"
                 },
                 {
-                    "time": "50'",
-                    "player": "E. Masovic",
+                    "time": "49'",
+                    "player": "E. Mašović",
                     "detail": "Normal Goal",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "58'",
-                    "player": "A. Skov Olsen",
+                    "player": "Tiago Tomás",
                     "detail": "Substitution 1",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "58'",
-                    "player": "S. Bornauw",
+                    "player": "M. Roerslev",
                     "detail": "Substitution 2",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "63'",
-                    "player": "Y. Gerhardt",
+                    "player": "P. Wimmer",
                     "detail": "Substitution 3",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "63'",
-                    "player": "B. Dardai",
+                    "player": "A. Vranckx",
                     "detail": "Substitution 4",
                     "team": "VfL Wolfsburg"
                 },
                 {
-                    "time": "64'",
-                    "player": "M. Amoura",
-                    "detail": "Goal Disallowed - Foul",
-                    "team": "VfL Wolfsburg"
-                },
-                {
                     "time": "66'",
-                    "player": "J. Wind",
+                    "player": "Jonas Wind",
                     "detail": "Yellow Card",
                     "team": "VfL Wolfsburg"
                 },
                 {
+                    "time": "66'",
+                    "player": "Mohamed El Amine Amoura",
+                    "detail": "Goal cancelled",
+                    "team": "VfL Wolfsburg"
+                },
+                {
                     "time": "72'",
-                    "player": "I. Ordets",
+                    "player": "Ivan Ordets",
                     "detail": "Yellow Card",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "78'",
-                    "player": "M. Wittek",
+                    "player": "G. Holtmann",
                     "detail": "Substitution 1",
                     "team": "VfL Bochum"
                 },
@@ -1102,37 +1102,37 @@
                 },
                 {
                     "time": "85'",
-                    "player": "M. Broschinski",
+                    "player": "P. Hofmann",
                     "detail": "Substitution 2",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "86'",
-                    "player": "S. Bornauw",
+                    "player": "Sebastiaan Bornauw",
                     "detail": "Yellow Card",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "89'",
-                    "player": "L. Nmecha",
+                    "player": "M. Amoura",
                     "detail": "Substitution 5",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "90'",
-                    "player": "M. Wittek",
+                    "player": "Maximilian Wittek",
                     "detail": "Yellow Card",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "90'",
-                    "player": "A. Losilla",
+                    "player": "G. Masouras",
                     "detail": "Substitution 3",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "90'",
-                    "player": "C. Gamboa",
+                    "player": "I. Sissoko",
                     "detail": "Substitution 4",
                     "team": "VfL Bochum"
                 }
@@ -1191,31 +1191,31 @@
             "events": [
                 {
                     "time": "13'",
-                    "player": "D. Giannoulis",
+                    "player": "Dimitrios Giannoulis",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "18'",
-                    "player": "T. Kleindienst",
+                    "player": "Tim Kleindienst",
                     "detail": "Yellow Card",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "28'",
-                    "player": "J. Omlin",
+                    "player": "Jonas Omlin",
                     "detail": "Red Card",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "32'",
-                    "player": "T. Sippel",
+                    "player": "K. Stöger",
                     "detail": "Substitution 1",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "34'",
-                    "player": "C. Zesiger",
+                    "player": "Cedric Zesiger",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
@@ -1227,19 +1227,19 @@
                 },
                 {
                     "time": "58'",
-                    "player": "K. Schlotterbeck",
+                    "player": "C. Zesiger",
                     "detail": "Substitution 1",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "58'",
-                    "player": "S. Mounie",
+                    "player": "F. Jensen",
                     "detail": "Substitution 2",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "58'",
-                    "player": "A. Maier",
+                    "player": "F. Onyeka",
                     "detail": "Substitution 3",
                     "team": "FC Augsburg"
                 },
@@ -1251,13 +1251,13 @@
                 },
                 {
                     "time": "68'",
-                    "player": "A. Plea",
+                    "player": "N. Ngoumou",
                     "detail": "Substitution 2",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "68'",
-                    "player": "F. Neuhaus",
+                    "player": "P. Sander",
                     "detail": "Substitution 3",
                     "team": "Borussia Mönchengladbach"
                 },
@@ -1269,37 +1269,43 @@
                 },
                 {
                     "time": "71'",
-                    "player": "S. Essende",
+                    "player": "P. Tietz",
                     "detail": "Substitution 4",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "75'",
-                    "player": "M. Komur",
+                    "player": "K. Jakić",
                     "detail": "Substitution 5",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "76'",
-                    "player": "L. Netz",
+                    "player": "T. Kleindienst",
                     "detail": "Substitution 4",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "76'",
-                    "player": "M. Friedrich",
+                    "player": "J. Weigl",
                     "detail": "Substitution 5",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "88'",
-                    "player": "A. Plea",
+                    "player": "Jeffrey Gouweleeuw",
+                    "detail": "Yellow Card",
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "88'",
+                    "player": "Alassane Pléa",
                     "detail": "Yellow Card",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "90'",
-                    "player": "K. Itakura",
+                    "player": "Ko Itakura",
                     "detail": "Yellow Card",
                     "team": "Borussia Mönchengladbach"
                 }
@@ -1531,31 +1537,31 @@
             "events": [
                 {
                     "time": "13'",
-                    "player": "D. Giannoulis",
+                    "player": "Dimitrios Giannoulis",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "18'",
-                    "player": "T. Kleindienst",
+                    "player": "Tim Kleindienst",
                     "detail": "Yellow Card",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "28'",
-                    "player": "J. Omlin",
+                    "player": "Jonas Omlin",
                     "detail": "Red Card",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "32'",
-                    "player": "T. Sippel",
+                    "player": "K. Stöger",
                     "detail": "Substitution 1",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "34'",
-                    "player": "C. Zesiger",
+                    "player": "Cedric Zesiger",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
@@ -1567,19 +1573,19 @@
                 },
                 {
                     "time": "58'",
-                    "player": "K. Schlotterbeck",
+                    "player": "C. Zesiger",
                     "detail": "Substitution 1",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "58'",
-                    "player": "S. Mounie",
+                    "player": "F. Jensen",
                     "detail": "Substitution 2",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "58'",
-                    "player": "A. Maier",
+                    "player": "F. Onyeka",
                     "detail": "Substitution 3",
                     "team": "FC Augsburg"
                 },
@@ -1591,13 +1597,13 @@
                 },
                 {
                     "time": "68'",
-                    "player": "A. Plea",
+                    "player": "N. Ngoumou",
                     "detail": "Substitution 2",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "68'",
-                    "player": "F. Neuhaus",
+                    "player": "P. Sander",
                     "detail": "Substitution 3",
                     "team": "Borussia Mönchengladbach"
                 },
@@ -1609,37 +1615,43 @@
                 },
                 {
                     "time": "71'",
-                    "player": "S. Essende",
+                    "player": "P. Tietz",
                     "detail": "Substitution 4",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "75'",
-                    "player": "M. Komur",
+                    "player": "K. Jakić",
                     "detail": "Substitution 5",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "76'",
-                    "player": "L. Netz",
+                    "player": "T. Kleindienst",
                     "detail": "Substitution 4",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "76'",
-                    "player": "M. Friedrich",
+                    "player": "J. Weigl",
                     "detail": "Substitution 5",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "88'",
-                    "player": "A. Plea",
+                    "player": "Jeffrey Gouweleeuw",
+                    "detail": "Yellow Card",
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "88'",
+                    "player": "Alassane Pléa",
                     "detail": "Yellow Card",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "90'",
-                    "player": "K. Itakura",
+                    "player": "Ko Itakura",
                     "detail": "Yellow Card",
                     "team": "Borussia Mönchengladbach"
                 }
@@ -2354,61 +2366,61 @@
             "events": [
                 {
                     "time": "7'",
-                    "player": "M. Bero",
+                    "player": "Matúš Bero",
                     "detail": "Yellow Card",
                     "team": "VfL Bochum"
                 },
                 {
-                    "time": "50'",
-                    "player": "E. Masovic",
+                    "time": "49'",
+                    "player": "E. Mašović",
                     "detail": "Normal Goal",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "58'",
-                    "player": "A. Skov Olsen",
+                    "player": "Tiago Tomás",
                     "detail": "Substitution 1",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "58'",
-                    "player": "S. Bornauw",
+                    "player": "M. Roerslev",
                     "detail": "Substitution 2",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "63'",
-                    "player": "Y. Gerhardt",
+                    "player": "P. Wimmer",
                     "detail": "Substitution 3",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "63'",
-                    "player": "B. Dardai",
+                    "player": "A. Vranckx",
                     "detail": "Substitution 4",
                     "team": "VfL Wolfsburg"
                 },
                 {
-                    "time": "64'",
-                    "player": "M. Amoura",
-                    "detail": "Goal Disallowed - Foul",
-                    "team": "VfL Wolfsburg"
-                },
-                {
                     "time": "66'",
-                    "player": "J. Wind",
+                    "player": "Jonas Wind",
                     "detail": "Yellow Card",
                     "team": "VfL Wolfsburg"
                 },
                 {
+                    "time": "66'",
+                    "player": "Mohamed El Amine Amoura",
+                    "detail": "Goal cancelled",
+                    "team": "VfL Wolfsburg"
+                },
+                {
                     "time": "72'",
-                    "player": "I. Ordets",
+                    "player": "Ivan Ordets",
                     "detail": "Yellow Card",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "78'",
-                    "player": "M. Wittek",
+                    "player": "G. Holtmann",
                     "detail": "Substitution 1",
                     "team": "VfL Bochum"
                 },
@@ -2420,37 +2432,37 @@
                 },
                 {
                     "time": "85'",
-                    "player": "M. Broschinski",
+                    "player": "P. Hofmann",
                     "detail": "Substitution 2",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "86'",
-                    "player": "S. Bornauw",
+                    "player": "Sebastiaan Bornauw",
                     "detail": "Yellow Card",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "89'",
-                    "player": "L. Nmecha",
+                    "player": "M. Amoura",
                     "detail": "Substitution 5",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "90'",
-                    "player": "M. Wittek",
+                    "player": "Maximilian Wittek",
                     "detail": "Yellow Card",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "90'",
-                    "player": "A. Losilla",
+                    "player": "G. Masouras",
                     "detail": "Substitution 3",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "90'",
-                    "player": "C. Gamboa",
+                    "player": "I. Sissoko",
                     "detail": "Substitution 4",
                     "team": "VfL Bochum"
                 }
