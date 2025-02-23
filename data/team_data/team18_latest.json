@@ -2262,120 +2262,60 @@
         },
         {
             "team": "1899 Hoffenheim",
-            "date": "2025-02-16 14:30",
-            "opponent": "Werder Bremen",
-            "score": "1 - 3",
-            "stadium": "Weserstadion",
-            "referee": "Frank Willenborg, Germany",
-            "league_round": "Regular Season - 22",
+            "date": "2025-02-23 18:30",
+            "opponent": "VfB Stuttgart",
+            "score": "1 - 1",
+            "stadium": "PreZero Arena",
+            "referee": "Christian Dingert, Germany",
+            "league_round": "Regular Season - 23",
             "events": [
                 {
-                    "time": "7'",
-                    "player": "S. Nsoki",
-                    "detail": "Own Goal",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "28'",
-                    "player": "A. Stach",
+                    "time": "9'",
+                    "player": "N. Woltemade",
                     "detail": "Normal Goal",
-                    "team": "1899 Hoffenheim"
+                    "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "38'",
-                    "player": "Romano Schmid",
-                    "detail": "Yellow Card",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "44'",
-                    "player": "T. Bischof",
-                    "detail": "Normal Goal",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "46'",
-                    "player": "M. Veljković",
+                    "time": "72'",
+                    "player": "J. Bruun Larsen",
                     "detail": "Substitution 1",
-                    "team": "Werder Bremen"
+                    "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "46'",
-                    "player": "M. Ducksch",
+                    "time": "74'",
+                    "player": "G. Orban",
+                    "detail": "Normal Goal",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "77'",
+                    "player": "H. Tabakovic",
+                    "detail": "Substitution 1",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "77'",
+                    "player": "D. Jurasek",
                     "detail": "Substitution 2",
-                    "team": "Werder Bremen"
+                    "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "46'",
-                    "player": "I. Kaboré",
+                    "time": "82'",
+                    "player": "E. Millot",
+                    "detail": "Substitution 2",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "82'",
+                    "player": "E. Demirovic",
                     "detail": "Substitution 3",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "50'",
-                    "player": "Gift Orban",
-                    "detail": "Yellow Card",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "56'",
-                    "player": "Arthur Chaves",
-                    "detail": "Yellow Card",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "63'",
-                    "player": "G. Orban",
-                    "detail": "Normal Goal",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "67'",
-                    "player": "M. Grüll",
-                    "detail": "Substitution 4",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "76'",
-                    "player": "A. Stach",
-                    "detail": "Substitution 1",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "76'",
-                    "player": "G. Orban",
-                    "detail": "Substitution 2",
-                    "team": "1899 Hoffenheim"
+                    "team": "VfB Stuttgart"
                 },
                 {
                     "time": "83'",
-                    "player": "S. Nsoki",
+                    "player": "B. Toure",
                     "detail": "Substitution 3",
                     "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "84'",
-                    "player": "A. Jung",
-                    "detail": "Substitution 5",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "85'",
-                    "player": "Erencan Yardımcı",
-                    "detail": "Yellow Card",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "88'",
-                    "player": "A. Kramarić",
-                    "detail": "Substitution 4",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "90'",
-                    "player": "Oliver Burke",
-                    "detail": "Yellow Card",
-                    "team": "Werder Bremen"
                 }
             ],
             "odds": {
