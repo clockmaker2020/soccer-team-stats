@@ -1,0 +1,54 @@
+{
+    "fixture": {
+        "id": 1224181,
+        "date": "2025-02-22T14:30:00+00:00",
+        "venue": {
+            "name": "Holstein-Stadion",
+            "city": "Kiel"
+        },
+        "referee": "Daniel Schlager, Germany"
+    },
+    "league": {
+        "name": "Bundesliga",
+        "season": 2024,
+        "round": "Regular Season - 23"
+    },
+    "teams": {
+        "home": {
+            "id": 191,
+            "name": "Holstein Kiel",
+            "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "away": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+        }
+    },
+    "score": {
+        "halftime": {
+            "home": 0,
+            "away": 2
+        },
+        "fulltime": {
+            "home": 0,
+            "away": 2
+        },
+        "extratime": {
+            "home": null,
+            "away": null
+        },
+        "penalty": {
+            "home": null,
+            "away": null
+        }
+    },
+    "status": {
+        "long": "Match Finished",
+        "elapsed": 90
+    },
+    "events": [],
+    "statistics": [],
+    "lineups": [],
+    "odds": []
+}
