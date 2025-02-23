@@ -3,6 +3,76 @@
     "past_matches": [
         {
             "fixture": {
+                "id": 1224176,
+                "referee": "Christian Dingert, Germany",
+                "timezone": "UTC",
+                "date": "2025-02-23T18:30:00+00:00",
+                "timestamp": 1740335400,
+                "periods": {
+                    "first": 1740335400,
+                    "second": 1740339000
+                },
+                "venue": {
+                    "id": 724,
+                    "name": "PreZero Arena",
+                    "city": "Sinsheim"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 4
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 23",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 172,
+                    "name": "VfB Stuttgart",
+                    "logo": "https://media.api-sports.io/football/teams/172.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
                 "id": 1224168,
                 "referee": "Frank Willenborg, Germany",
                 "timezone": "UTC",
@@ -270,76 +340,6 @@
                 "fulltime": {
                     "home": 2,
                     "away": 2
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
-                "id": 1224136,
-                "referee": "Felix Brych, Germany",
-                "timezone": "UTC",
-                "date": "2025-01-18T14:30:00+00:00",
-                "timestamp": 1737210600,
-                "periods": {
-                    "first": 1737210600,
-                    "second": 1737214200
-                },
-                "venue": {
-                    "id": 725,
-                    "name": "Holstein-Stadion",
-                    "city": "Kiel"
-                },
-                "status": {
-                    "long": "Match Finished",
-                    "short": "FT",
-                    "elapsed": 90,
-                    "extra": 12
-                }
-            },
-            "league": {
-                "id": 78,
-                "name": "Bundesliga",
-                "country": "Germany",
-                "logo": "https://media.api-sports.io/football/leagues/78.png",
-                "flag": "https://media.api-sports.io/flags/de.svg",
-                "season": 2024,
-                "round": "Regular Season - 18",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 191,
-                    "name": "Holstein Kiel",
-                    "logo": "https://media.api-sports.io/football/teams/191.png",
-                    "winner": false
-                },
-                "away": {
-                    "id": 167,
-                    "name": "1899 Hoffenheim",
-                    "logo": "https://media.api-sports.io/football/teams/167.png",
-                    "winner": true
-                }
-            },
-            "goals": {
-                "home": 1,
-                "away": 3
-            },
-            "score": {
-                "halftime": {
-                    "home": 0,
-                    "away": 2
-                },
-                "fulltime": {
-                    "home": 1,
-                    "away": 3
                 },
                 "extratime": {
                     "home": null,
