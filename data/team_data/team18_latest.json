@@ -2,84 +2,108 @@
     "latest_matches": [
         {
             "team": "Bayern München",
-            "date": "2025-02-15 17:30",
-            "opponent": "Bayer Leverkusen",
-            "score": "0 - 0",
-            "stadium": "BayArena",
-            "referee": "Daniel Siebert, Germany",
-            "league_round": "Regular Season - 22",
+            "date": "2025-02-23 16:30",
+            "opponent": "Eintracht Frankfurt",
+            "score": "4 - 0",
+            "stadium": "Allianz Arena",
+            "referee": "Sascha Stegemann, Germany",
+            "league_round": "Regular Season - 23",
             "events": [
                 {
-                    "time": "11'",
-                    "player": "Piero Hincapié",
-                    "detail": "Yellow Card",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "39'",
-                    "player": "Hiroki Ito",
-                    "detail": "Yellow Card",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "53'",
-                    "player": "Aleksandar Pavlović",
-                    "detail": "Yellow Card",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "68'",
-                    "player": "M. Olise",
+                    "time": "43'",
+                    "player": "L. Goretzka",
                     "detail": "Substitution 1",
                     "team": "Bayern München"
                 },
                 {
-                    "time": "68'",
-                    "player": "A. Pavlović",
+                    "time": "45'",
+                    "player": "M. Olise",
+                    "detail": "Normal Goal",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "46'",
+                    "player": "E. Skhiri",
+                    "detail": "Substitution 1",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "46'",
+                    "player": "E. Wahi",
+                    "detail": "Substitution 2",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "62'",
+                    "player": "H. Ito",
+                    "detail": "Normal Goal",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "63'",
+                    "player": "M. Gotze",
+                    "detail": "Substitution 3",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "63'",
+                    "player": "A. Davies",
                     "detail": "Substitution 2",
                     "team": "Bayern München"
                 },
                 {
-                    "time": "68'",
-                    "player": "K. Coman",
+                    "time": "63'",
+                    "player": "H. Kane",
                     "detail": "Substitution 3",
                     "team": "Bayern München"
                 },
                 {
-                    "time": "68'",
-                    "player": "H. Ito",
+                    "time": "75'",
+                    "player": "N. Brown",
                     "detail": "Substitution 4",
-                    "team": "Bayern München"
+                    "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "74'",
-                    "player": "Dayot Upamecano",
+                    "time": "75'",
+                    "player": "M. Batshuayi",
+                    "detail": "Substitution 5",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "77'",
+                    "player": "L. Sane",
                     "detail": "Yellow Card",
                     "team": "Bayern München"
                 },
                 {
-                    "time": "85'",
-                    "player": "N. Tella",
-                    "detail": "Substitution 1",
-                    "team": "Bayer Leverkusen"
+                    "time": "80'",
+                    "player": "Tuta",
+                    "detail": "Yellow Card",
+                    "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "86'",
+                    "time": "83'",
                     "player": "J. Musiala",
+                    "detail": "Normal Goal",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "84'",
+                    "player": "K. Coman",
+                    "detail": "Substitution 4",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "85'",
+                    "player": "S. Gnabry",
                     "detail": "Substitution 5",
                     "team": "Bayern München"
                 },
                 {
                     "time": "90'",
-                    "player": "Edmond Tapsoba",
-                    "detail": "Yellow Card",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "90'",
-                    "player": "Álex Grimaldo",
-                    "detail": "Substitution 2",
-                    "team": "Bayer Leverkusen"
+                    "player": "S. Gnabry",
+                    "detail": "Normal Goal",
+                    "team": "Bayern München"
                 }
             ],
             "odds": {
@@ -88,6 +112,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-02-23 16:30",
+                    "score": "4 - 0"
+                },
                 {
                     "date": "2025-02-15 17:30",
                     "score": "0 - 0"
@@ -103,10 +131,6 @@
                 {
                     "date": "2025-01-25 14:30",
                     "score": "1 - 2"
-                },
-                {
-                    "date": "2025-01-18 14:30",
-                    "score": "3 - 2"
                 }
             ],
             "future_games": [
@@ -270,108 +294,108 @@
         },
         {
             "team": "Eintracht Frankfurt",
-            "date": "2025-02-16 16:30",
-            "opponent": "Holstein Kiel",
-            "score": "3 - 1",
-            "stadium": "Deutsche Bank Park",
-            "referee": "Robert Hartmann, Germany",
-            "league_round": "Regular Season - 22",
+            "date": "2025-02-23 16:30",
+            "opponent": "Bayern München",
+            "score": "4 - 0",
+            "stadium": "Allianz Arena",
+            "referee": "Sascha Stegemann, Germany",
+            "league_round": "Regular Season - 23",
             "events": [
                 {
-                    "time": "18'",
-                    "player": "H. Larsson",
-                    "detail": "Normal Goal",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "37'",
-                    "player": "Tuta",
-                    "detail": "Normal Goal",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
                     "time": "43'",
-                    "player": "Hugo Ekitiké",
-                    "detail": "Penalty confirmed",
+                    "player": "L. Goretzka",
+                    "detail": "Substitution 1",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "45'",
+                    "player": "M. Olise",
+                    "detail": "Normal Goal",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "46'",
+                    "player": "E. Skhiri",
+                    "detail": "Substitution 1",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "46'",
-                    "player": "T. Becker",
-                    "detail": "Substitution 1",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "50'",
-                    "player": "O. Højlund",
-                    "detail": "Substitution 1",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "58'",
-                    "player": "P. Harres",
+                    "player": "E. Wahi",
                     "detail": "Substitution 2",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "59'",
-                    "player": "L. Holtby",
-                    "detail": "Substitution 3",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "60'",
-                    "player": "C. Uzun",
-                    "detail": "Normal Goal",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "62'",
-                    "player": "Mahmoud Dahoud",
-                    "detail": "Yellow Card",
-                    "team": "Eintracht Frankfurt"
+                    "player": "H. Ito",
+                    "detail": "Normal Goal",
+                    "team": "Bayern München"
                 },
                 {
-                    "time": "71'",
-                    "player": "C. Uzun",
-                    "detail": "Substitution 2",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "71'",
-                    "player": "N. Brown",
+                    "time": "63'",
+                    "player": "M. Gotze",
                     "detail": "Substitution 3",
                     "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "72'",
-                    "player": "I. Nekić",
+                    "time": "63'",
+                    "player": "A. Davies",
+                    "detail": "Substitution 2",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "63'",
+                    "player": "H. Kane",
+                    "detail": "Substitution 3",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "75'",
+                    "player": "N. Brown",
                     "detail": "Substitution 4",
-                    "team": "Holstein Kiel"
+                    "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "73'",
-                    "player": "F. Porath",
-                    "detail": "Normal Goal",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "82'",
-                    "player": "M. Komenda",
+                    "time": "75'",
+                    "player": "M. Batshuayi",
                     "detail": "Substitution 5",
-                    "team": "Holstein Kiel"
+                    "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "85'",
-                    "player": "Rasmus Kristensen",
+                    "time": "77'",
+                    "player": "L. Sane",
+                    "detail": "Yellow Card",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "80'",
+                    "player": "Tuta",
                     "detail": "Yellow Card",
                     "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "90'",
-                    "player": "H. Ekitiké",
+                    "time": "83'",
+                    "player": "J. Musiala",
+                    "detail": "Normal Goal",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "84'",
+                    "player": "K. Coman",
                     "detail": "Substitution 4",
-                    "team": "Eintracht Frankfurt"
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "85'",
+                    "player": "S. Gnabry",
+                    "detail": "Substitution 5",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "90'",
+                    "player": "S. Gnabry",
+                    "detail": "Normal Goal",
+                    "team": "Bayern München"
                 }
             ],
             "odds": {
@@ -380,6 +404,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-02-23 16:30",
+                    "score": "4 - 0"
+                },
                 {
                     "date": "2025-02-16 16:30",
                     "score": "3 - 1"
@@ -395,10 +423,6 @@
                 {
                     "date": "2025-01-26 14:30",
                     "score": "2 - 2"
-                },
-                {
-                    "date": "2025-01-17 19:30",
-                    "score": "2 - 0"
                 }
             ],
             "future_games": [
@@ -1053,16 +1077,16 @@
             ],
             "future_games": [
                 {
-                    "date": "2025-02-23 18:30",
-                    "opponent": "1899 Hoffenheim"
-                },
-                {
                     "date": "2025-02-28 19:30",
                     "opponent": "Bayern München"
                 },
                 {
                     "date": "2025-03-08 14:30",
                     "opponent": "Holstein Kiel"
+                },
+                {
+                    "date": "2025-03-16 18:30",
+                    "opponent": "Bayer Leverkusen"
                 }
             ],
             "squad": []
@@ -2383,16 +2407,16 @@
             ],
             "future_games": [
                 {
-                    "date": "2025-02-23 18:30",
-                    "opponent": "VfB Stuttgart"
-                },
-                {
                     "date": "2025-03-01 14:30",
                     "opponent": "VfL Bochum"
                 },
                 {
                     "date": "2025-03-09 16:30",
                     "opponent": "1. FC Heidenheim"
+                },
+                {
+                    "date": "2025-03-14 19:30",
+                    "opponent": "FC St. Pauli"
                 }
             ],
             "squad": []
