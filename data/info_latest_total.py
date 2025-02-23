@@ -51,7 +51,7 @@ def fetch_data(url, retries=3):
 for team_name, team_id in teams.items():
     print(f"📌 {team_name} 최신 경기 데이터 수집 중...")
 
-    # 최신 경기 1개 가져오기 (완료된 경기)
+    # 🏆 **기본 경기 정보 가져오기 (최신 경기 1개)**
     match_url = f"https://v3.football.api-sports.io/fixtures?team={team_id}&season={SEASON}&league={LEAGUE_ID}&status=FT&last=1"
     matches = fetch_data(match_url)
 
@@ -60,14 +60,23 @@ for team_name, team_id in teams.items():
         continue
 
     latest_match = matches[0]  # 가장 최근 경기
+    fixture_id = latest_match.get("fixture", {}).get("id", "N/A")
+
+    # 📌 **이벤트, 경기 통계, 선발 라인업 및 배당률 추가 요청**
+    events_url = f"https://v3.football.api-sports.io/fixtures/events?fixture={fixture_id}"
+    statistics_url = f"https://v3.football.api-sports.io/fixtures/statistics?fixture={fixture_id}"
+    lineups_url = f"https://v3.football.api-sports.io/fixtures/lineups?fixture={fixture_id}"
+    odds_url = f"https://v3.football.api-sports.io/odds?fixture={fixture_id}"
+
+    events = fetch_data(events_url)  # 경기 이벤트 (득점, 카드, 페널티킥 등)
+    statistics = fetch_data(statistics_url)  # 경기 통계 (볼 점유율, 슈팅, 패스 성공률 등)
+    lineups = fetch_data(lineups_url)  # 선발 및 교체 선수
+    odds = fetch_data(odds_url)  # 승부 예측 & 배당률
+
     fixture = latest_match.get("fixture", {})
     league = latest_match.get("league", {})
     teams_info = latest_match.get("teams", {})
     score = latest_match.get("score", {})
-    events = latest_match.get("events", [])
-    statistics = latest_match.get("statistics", [])
-    lineups = latest_match.get("lineups", [])
-    odds = latest_match.get("odds", [])
 
     # ✅ JSON 데이터 구조 생성
     team_data = {
@@ -107,10 +116,10 @@ for team_name, team_id in teams.items():
             "long": fixture.get("status", {}).get("long", "Unknown"),
             "elapsed": fixture.get("status", {}).get("elapsed", "N/A"),
         },
-        "events": events,
-        "statistics": statistics,
-        "lineups": lineups,
-        "odds": odds,
+        "events": events,  # ✅ 이벤트 데이터 추가
+        "statistics": statistics,  # ✅ 경기 통계 추가
+        "lineups": lineups,  # ✅ 선발 및 교체 선수 추가
+        "odds": odds,  # ✅ 배당률 추가
     }
 
     # ✅ 팀별 JSON 파일 저장 (`info_팀명.json` 형식)
