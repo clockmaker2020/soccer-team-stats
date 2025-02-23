@@ -111,16 +111,16 @@
             ],
             "future_games": [
                 {
-                    "date": "2025-02-23 16:30",
-                    "opponent": "Eintracht Frankfurt"
-                },
-                {
                     "date": "2025-02-28 19:30",
                     "opponent": "VfB Stuttgart"
                 },
                 {
                     "date": "2025-03-08 14:30",
                     "opponent": "VfL Bochum"
+                },
+                {
+                    "date": "2025-03-15 14:30",
+                    "opponent": "Union Berlin"
                 }
             ],
             "squad": []
@@ -403,16 +403,16 @@
             ],
             "future_games": [
                 {
-                    "date": "2025-02-23 16:30",
-                    "opponent": "Bayern München"
-                },
-                {
                     "date": "2025-03-01 17:30",
                     "opponent": "Bayer Leverkusen"
                 },
                 {
                     "date": "2025-03-09 14:30",
                     "opponent": "Union Berlin"
+                },
+                {
+                    "date": "2025-03-16 14:30",
+                    "opponent": "VfL Bochum"
                 }
             ],
             "squad": []
@@ -741,77 +741,119 @@
         },
         {
             "team": "RB Leipzig",
-            "date": "2025-02-14 19:30",
-            "opponent": "FC Augsburg",
-            "score": "0 - 0",
-            "stadium": "WWK Arena",
-            "referee": "Sascha Stegemann, Germany",
-            "league_round": "Regular Season - 22",
+            "date": "2025-02-23 14:30",
+            "opponent": "1. FC Heidenheim",
+            "score": "2 - 2",
+            "stadium": "Red Bull Arena",
+            "referee": "Martin Petersen, Germany",
+            "league_round": "Regular Season - 23",
             "events": [
                 {
-                    "time": "28'",
-                    "player": "Alexis Claude-Maurice",
-                    "detail": "Yellow Card",
-                    "team": "FC Augsburg"
+                    "time": "6'",
+                    "player": "M. Honsak",
+                    "detail": "Normal Goal",
+                    "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "60'",
-                    "player": "Chrislain Matsima",
-                    "detail": "Yellow Card",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "61'",
-                    "player": "S. Essende",
-                    "detail": "Substitution 1",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "62'",
-                    "player": "Kevin Kampl",
-                    "detail": "Yellow Card",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "63'",
+                    "time": "6'",
                     "player": "C. Baumgartner",
+                    "detail": "Yellow Card",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "12'",
+                    "player": "W. Orban",
+                    "detail": "Yellow Card",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "13'",
+                    "player": "M. Pieringer",
+                    "detail": "Penalty",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "15'",
+                    "player": "B. Gimber",
+                    "detail": "Yellow Card",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "33'",
+                    "player": "A. Vermeeren",
                     "detail": "Substitution 1",
                     "team": "RB Leipzig"
                 },
                 {
-                    "time": "70'",
-                    "player": "C. Lukeba",
+                    "time": "45'",
+                    "player": "L. Openda",
+                    "detail": "Normal Goal",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "64'",
+                    "player": "B. Sesko",
+                    "detail": "Penalty",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "67'",
+                    "player": "J. Schoppner",
+                    "detail": "Yellow Card",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "74'",
+                    "player": "T. Keller",
+                    "detail": "Substitution 1",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "74'",
+                    "player": "M. Busch",
+                    "detail": "Substitution 2",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "75'",
+                    "player": "J. Niehues",
+                    "detail": "Substitution 3",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "77'",
+                    "player": "T. Keller",
+                    "detail": "Yellow Card",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "80'",
+                    "player": "K. Nedeljkovic",
                     "detail": "Substitution 2",
                     "team": "RB Leipzig"
                 },
                 {
-                    "time": "70'",
-                    "player": "K. Kampl",
+                    "time": "80'",
+                    "player": "E. Bitshiabu",
                     "detail": "Substitution 3",
                     "team": "RB Leipzig"
                 },
                 {
-                    "time": "72'",
-                    "player": "F. Jensen",
-                    "detail": "Substitution 2",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "82'",
-                    "player": "M. Wolf",
-                    "detail": "Substitution 3",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "82'",
-                    "player": "R. Baku",
+                    "time": "83'",
+                    "player": "B. Zivzivadze",
                     "detail": "Substitution 4",
-                    "team": "RB Leipzig"
+                    "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "82'",
-                    "player": "B. Šeško",
+                    "time": "90'",
+                    "player": "A. Beck",
                     "detail": "Substitution 5",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "90'",
+                    "player": "X. Simons",
+                    "detail": "Yellow Card",
                     "team": "RB Leipzig"
                 }
             ],
@@ -821,6 +863,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-02-23 14:30",
+                    "score": "2 - 2"
+                },
                 {
                     "date": "2025-02-14 19:30",
                     "score": "0 - 0"
@@ -836,10 +882,6 @@
                 {
                     "date": "2025-01-25 14:30",
                     "score": "2 - 2"
-                },
-                {
-                    "date": "2025-01-18 14:30",
-                    "score": "3 - 3"
                 }
             ],
             "future_games": [
