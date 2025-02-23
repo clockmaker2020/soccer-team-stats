@@ -1,0 +1,54 @@
+{
+    "fixture": {
+        "id": 1224175,
+        "date": "2025-02-22T17:30:00+00:00",
+        "venue": {
+            "name": "SIGNAL IDUNA PARK",
+            "city": "Dortmund"
+        },
+        "referee": "Bastian Dankert, Germany"
+    },
+    "league": {
+        "name": "Bundesliga",
+        "season": 2024,
+        "round": "Regular Season - 23"
+    },
+    "teams": {
+        "home": {
+            "id": 165,
+            "name": "Borussia Dortmund",
+            "logo": "https://media.api-sports.io/football/teams/165.png"
+        },
+        "away": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+        }
+    },
+    "score": {
+        "halftime": {
+            "home": 2,
+            "away": 0
+        },
+        "fulltime": {
+            "home": 6,
+            "away": 0
+        },
+        "extratime": {
+            "home": null,
+            "away": null
+        },
+        "penalty": {
+            "home": null,
+            "away": null
+        }
+    },
+    "status": {
+        "long": "Match Finished",
+        "elapsed": 90
+    },
+    "events": [],
+    "statistics": [],
+    "lineups": [],
+    "odds": []
+}
