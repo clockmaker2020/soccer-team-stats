@@ -14,6 +14,12 @@ HEADERS = {"x-apisports-key": API_KEY}
 SAVE_DIR = os.path.join(os.getcwd(), "data/team_data")
 os.makedirs(SAVE_DIR, exist_ok=True)
 
+# ✅ UTC 시간을 KST(한국 시간)으로 변환하는 함수 추가
+def convertToKST(utc_date):
+    date = datetime.strptime(utc_date, "%Y-%m-%dT%H:%M:%S%z")
+    kst_date = date.astimezone().strftime("%Y-%m-%d %H:%M")  # ✅ KST 변환
+    return kst_date
+
 # ✅ 1부 리그 팀 자동 검색
 def get_top_league_teams():
     url = f"https://v3.football.api-sports.io/standings?league={LEAGUE_ID}&season={SEASON}"
@@ -38,10 +44,6 @@ def fetch_data(url, retries=3):
             time.sleep(3)
     return []
 
-# ✅ 경기 날짜 기준 정렬 함수
-def sort_by_date(match):
-    return datetime.strptime(match["fixture"]["date"], "%Y-%m-%dT%H:%M:%S%z")
-
 # ✅ 1부 리그 팀 목록 가져오기
 teams = get_top_league_teams()
 
@@ -63,9 +65,8 @@ for team_name, team_id in teams.items():
 
     if match_data:
         match = match_data[0]  # ✅ 최신 경기 1개 선택
-        fixture_date = datetime.strptime(match["fixture"]["date"], "%Y-%m-%dT%H:%M:%S%z")
-        fixture_date_kst = fixture_date.astimezone().strftime("%Y-%m-%d %H:%M")  # ✅ 한국시간 변환
-        
+        fixture_date_kst = convertToKST(match["fixture"]["date"])  # ✅ KST 변환 적용
+
         # ✅ 경기 상세 정보 요청
         fixture_id = match["fixture"]["id"]
         fixture_detail_url = f"https://v3.football.api-sports.io/fixtures?id={fixture_id}"
@@ -93,10 +94,10 @@ for team_name, team_id in teams.items():
         draw_odds = odds.get("draw", "N/A")
         away_odds = odds.get("away", "N/A")
 
-        # ✅ 최근 5경기 데이터 추가
+        # ✅ 최근 5경기 데이터 추가 (KST 변환)
         past_results = [{"date": convertToKST(m["fixture"]["date"]), "score": f"{m['score']['fulltime']['home']} - {m['score']['fulltime']['away']}"} for m in past_matches]
 
-        # ✅ 향후 3경기 일정 추가
+        # ✅ 향후 3경기 일정 추가 (KST 변환)
         future_games = [{"date": convertToKST(m["fixture"]["date"]), "opponent": m["teams"]["away"]["name"] if m["teams"]["home"]["name"] == team_name else m["teams"]["home"]["name"]} for m in future_matches]
 
         # ✅ 주요 선수 데이터 추가
