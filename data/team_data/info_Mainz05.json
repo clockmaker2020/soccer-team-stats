@@ -1,0 +1,54 @@
+{
+    "fixture": {
+        "id": 1224179,
+        "date": "2025-02-22T14:30:00+00:00",
+        "venue": {
+            "name": "MEWA ARENA",
+            "city": "Mainz"
+        },
+        "referee": "Felix Zwayer, Germany"
+    },
+    "league": {
+        "name": "Bundesliga",
+        "season": 2024,
+        "round": "Regular Season - 23"
+    },
+    "teams": {
+        "home": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+        },
+        "away": {
+            "id": 186,
+            "name": "FC St. Pauli",
+            "logo": "https://media.api-sports.io/football/teams/186.png"
+        }
+    },
+    "score": {
+        "halftime": {
+            "home": 0,
+            "away": 0
+        },
+        "fulltime": {
+            "home": 2,
+            "away": 0
+        },
+        "extratime": {
+            "home": null,
+            "away": null
+        },
+        "penalty": {
+            "home": null,
+            "away": null
+        }
+    },
+    "status": {
+        "long": "Match Finished",
+        "elapsed": 90
+    },
+    "events": [],
+    "statistics": [],
+    "lineups": [],
+    "odds": []
+}
