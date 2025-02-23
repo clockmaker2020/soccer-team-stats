@@ -51,7 +51,7 @@
                 "name": "RB Leipzig"
             },
             "wins": 10,
-            "draws": 7,
+            "draws": 8,
             "losses": 5
         },
         {
@@ -138,20 +138,20 @@
         {
             "rank": 16,
             "team": {
+                "name": "1. FC Heidenheim"
+            },
+            "wins": 4,
+            "draws": 3,
+            "losses": 16
+        },
+        {
+            "rank": 17,
+            "team": {
                 "name": "VfL Bochum"
             },
             "wins": 3,
             "draws": 6,
             "losses": 14
-        },
-        {
-            "rank": 17,
-            "team": {
-                "name": "1. FC Heidenheim"
-            },
-            "wins": 4,
-            "draws": 2,
-            "losses": 16
         },
         {
             "rank": 18,
