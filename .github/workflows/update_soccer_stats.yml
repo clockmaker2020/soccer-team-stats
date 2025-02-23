@@ -30,7 +30,7 @@ jobs:
         run: python data/team18_latest.py
 
       - name: 1부 리그 팀별 경기 데이터 업데이트 실행
-        run: python data/info_bayern_munich.py
+        run: python data/info_latest_total.py
         
       - name: GitHub 자동 업데이트 실행
         env:
