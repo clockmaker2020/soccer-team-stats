@@ -926,126 +926,60 @@
         },
         {
             "team": "VfB Stuttgart",
-            "date": "2025-02-15 14:30",
-            "opponent": "VfL Wolfsburg",
-            "score": "1 - 2",
-            "stadium": "MHPArena",
-            "referee": "Tobias Welz, Germany",
-            "league_round": "Regular Season - 22",
+            "date": "2025-02-23 18:30",
+            "opponent": "1899 Hoffenheim",
+            "score": "1 - 1",
+            "stadium": "PreZero Arena",
+            "referee": "Christian Dingert, Germany",
+            "league_round": "Regular Season - 23",
             "events": [
                 {
-                    "time": "8'",
-                    "player": "Kilian Fischer",
-                    "detail": "Yellow Card",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "45'",
-                    "player": "Atakan Karazor",
-                    "detail": "Yellow Card",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "45'",
-                    "player": "Julian Chabot",
-                    "detail": "Yellow Card",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "46'",
-                    "player": "K. Fischer",
-                    "detail": "Substitution 1",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "70'",
-                    "player": "D. Undav",
-                    "detail": "Substitution 1",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "70'",
-                    "player": "J. Leweling",
-                    "detail": "Substitution 2",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "71'",
-                    "player": "J. Wind",
-                    "detail": "Substitution 2",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "72'",
+                    "time": "9'",
                     "player": "N. Woltemade",
                     "detail": "Normal Goal",
                     "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "76'",
-                    "player": "Mattias Svanberg",
-                    "detail": "Yellow Card",
-                    "team": "VfL Wolfsburg"
+                    "time": "72'",
+                    "player": "J. Bruun Larsen",
+                    "detail": "Substitution 1",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "74'",
+                    "player": "G. Orban",
+                    "detail": "Normal Goal",
+                    "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "77'",
-                    "player": "Tiago Tomás",
-                    "detail": "Normal Goal",
-                    "team": "VfL Wolfsburg"
+                    "player": "H. Tabakovic",
+                    "detail": "Substitution 1",
+                    "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "84'",
-                    "player": "C. Führich",
+                    "time": "77'",
+                    "player": "D. Jurasek",
+                    "detail": "Substitution 2",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "82'",
+                    "player": "E. Millot",
+                    "detail": "Substitution 2",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "82'",
+                    "player": "E. Demirovic",
                     "detail": "Substitution 3",
                     "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "86'",
-                    "player": "Patrick Wimmer",
-                    "detail": "Penalty confirmed",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "87'",
-                    "player": "M. Amoura",
-                    "detail": "Penalty",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "88'",
-                    "player": "A. Karazor",
-                    "detail": "Substitution 4",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "88'",
-                    "player": "J. Vagnoman",
-                    "detail": "Substitution 5",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "90'",
-                    "player": "Ramon Hendriks",
-                    "detail": "Yellow Card",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "90'",
-                    "player": "M. Amoura",
+                    "time": "83'",
+                    "player": "B. Toure",
                     "detail": "Substitution 3",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "90'",
-                    "player": "Tiago Tomás",
-                    "detail": "Substitution 4",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "90'",
-                    "player": "Kevin Behrens",
-                    "detail": "Yellow Card",
-                    "team": "VfL Wolfsburg"
+                    "team": "1899 Hoffenheim"
                 }
             ],
             "odds": {
@@ -1054,6 +988,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-02-23 18:30",
+                    "score": "1 - 1"
+                },
                 {
                     "date": "2025-02-15 14:30",
                     "score": "1 - 2"
@@ -1069,10 +1007,6 @@
                 {
                     "date": "2025-01-25 14:30",
                     "score": "2 - 0"
-                },
-                {
-                    "date": "2025-01-18 14:30",
-                    "score": "4 - 0"
                 }
             ],
             "future_games": [
