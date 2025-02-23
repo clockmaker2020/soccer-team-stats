@@ -60,7 +60,7 @@
                 "name": "VfB Stuttgart"
             },
             "wins": 10,
-            "draws": 5,
+            "draws": 6,
             "losses": 7
         },
         {
@@ -120,20 +120,20 @@
         {
             "rank": 14,
             "team": {
+                "name": "1899 Hoffenheim"
+            },
+            "wins": 5,
+            "draws": 7,
+            "losses": 11
+        },
+        {
+            "rank": 15,
+            "team": {
                 "name": "FC St. Pauli"
             },
             "wins": 6,
             "draws": 3,
             "losses": 14
-        },
-        {
-            "rank": 15,
-            "team": {
-                "name": "1899 Hoffenheim"
-            },
-            "wins": 5,
-            "draws": 6,
-            "losses": 11
         },
         {
             "rank": 16,
