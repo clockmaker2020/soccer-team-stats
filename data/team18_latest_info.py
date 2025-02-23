@@ -117,4 +117,9 @@ print(f"✅ 저장되는 데이터: {json.dumps(latest_match_data, indent=2, ens
 # ✅ JSON 저장
 with open(file_path, "w", encoding="utf-8") as file:
     json.dump(latest_match_data, file, indent=4, ensure_ascii=False)
-print(f"✅ {TARGET_TEAM} 경기 JSON 저장 완료! ({file_path})")
+
+# ✅ 저장 확인
+if os.path.exists(file_path):
+    print(f"✅ JSON 저장 완료! 파일 위치: {file_path}")
+else:
+    print(f"🚨 [ERROR] JSON 파일이 저장되지 않았습니다! 경로 확인 필요: {file_path}")
