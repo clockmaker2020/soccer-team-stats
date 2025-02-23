@@ -29,6 +29,9 @@ jobs:
       - name: 1부 리그 최신 경기 데이터 업데이트 실행
         run: python data/team18_latest.py
 
+      - name: 1부 리그 팀별 경기 데이터 업데이트 실행
+        run: python data/team18_latest_info.py
+        
       - name: GitHub 자동 업데이트 실행
         env:
           SOCCER_STATS_PAT: ${{ secrets.SOCCER_STATS_PAT }}
