@@ -2398,161 +2398,6 @@
             "squad": []
         },
         {
-            "team": "VfL Bochum",
-            "date": "2025-02-22 14:30",
-            "opponent": "VfL Wolfsburg",
-            "score": "1 - 1",
-            "stadium": "Volkswagen Arena",
-            "referee": "Timo Gerach, Germany",
-            "league_round": "Regular Season - 23",
-            "events": [
-                {
-                    "time": "7'",
-                    "player": "Matúš Bero",
-                    "detail": "Yellow Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "49'",
-                    "player": "E. Mašović",
-                    "detail": "Normal Goal",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "58'",
-                    "player": "Tiago Tomás",
-                    "detail": "Substitution 1",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "58'",
-                    "player": "M. Roerslev",
-                    "detail": "Substitution 2",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "63'",
-                    "player": "P. Wimmer",
-                    "detail": "Substitution 3",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "63'",
-                    "player": "A. Vranckx",
-                    "detail": "Substitution 4",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "66'",
-                    "player": "Jonas Wind",
-                    "detail": "Yellow Card",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "66'",
-                    "player": "Mohamed El Amine Amoura",
-                    "detail": "Goal cancelled",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "72'",
-                    "player": "Ivan Ordets",
-                    "detail": "Yellow Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "78'",
-                    "player": "G. Holtmann",
-                    "detail": "Substitution 1",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "81'",
-                    "player": "M. Svanberg",
-                    "detail": "Normal Goal",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "85'",
-                    "player": "P. Hofmann",
-                    "detail": "Substitution 2",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "86'",
-                    "player": "Sebastiaan Bornauw",
-                    "detail": "Yellow Card",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "89'",
-                    "player": "M. Amoura",
-                    "detail": "Substitution 5",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "90'",
-                    "player": "Maximilian Wittek",
-                    "detail": "Yellow Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "90'",
-                    "player": "G. Masouras",
-                    "detail": "Substitution 3",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "90'",
-                    "player": "I. Sissoko",
-                    "detail": "Substitution 4",
-                    "team": "VfL Bochum"
-                }
-            ],
-            "odds": {
-                "home": "N/A",
-                "draw": "N/A",
-                "away": "N/A"
-            },
-            "past_results": [
-                {
-                    "date": "2025-02-22 14:30",
-                    "score": "1 - 1"
-                },
-                {
-                    "date": "2025-02-15 14:30",
-                    "score": "2 - 0"
-                },
-                {
-                    "date": "2025-02-09 14:30",
-                    "score": "2 - 2"
-                },
-                {
-                    "date": "2025-02-01 14:30",
-                    "score": "0 - 1"
-                },
-                {
-                    "date": "2025-01-25 17:30",
-                    "score": "3 - 0"
-                }
-            ],
-            "future_games": [
-                {
-                    "date": "2025-03-01 14:30",
-                    "opponent": "1899 Hoffenheim"
-                },
-                {
-                    "date": "2025-03-08 14:30",
-                    "opponent": "Bayern München"
-                },
-                {
-                    "date": "2025-03-16 14:30",
-                    "opponent": "Eintracht Frankfurt"
-                }
-            ],
-            "squad": []
-        },
-        {
             "team": "1. FC Heidenheim",
             "date": "2025-02-23 14:30",
             "opponent": "RB Leipzig",
@@ -2709,6 +2554,161 @@
                 {
                     "date": "2025-03-16 16:30",
                     "opponent": "Holstein Kiel"
+                }
+            ],
+            "squad": []
+        },
+        {
+            "team": "VfL Bochum",
+            "date": "2025-02-22 14:30",
+            "opponent": "VfL Wolfsburg",
+            "score": "1 - 1",
+            "stadium": "Volkswagen Arena",
+            "referee": "Timo Gerach, Germany",
+            "league_round": "Regular Season - 23",
+            "events": [
+                {
+                    "time": "7'",
+                    "player": "Matúš Bero",
+                    "detail": "Yellow Card",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "49'",
+                    "player": "E. Mašović",
+                    "detail": "Normal Goal",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "58'",
+                    "player": "Tiago Tomás",
+                    "detail": "Substitution 1",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "58'",
+                    "player": "M. Roerslev",
+                    "detail": "Substitution 2",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "63'",
+                    "player": "P. Wimmer",
+                    "detail": "Substitution 3",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "63'",
+                    "player": "A. Vranckx",
+                    "detail": "Substitution 4",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "66'",
+                    "player": "Jonas Wind",
+                    "detail": "Yellow Card",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "66'",
+                    "player": "Mohamed El Amine Amoura",
+                    "detail": "Goal cancelled",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "72'",
+                    "player": "Ivan Ordets",
+                    "detail": "Yellow Card",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "78'",
+                    "player": "G. Holtmann",
+                    "detail": "Substitution 1",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "81'",
+                    "player": "M. Svanberg",
+                    "detail": "Normal Goal",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "85'",
+                    "player": "P. Hofmann",
+                    "detail": "Substitution 2",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "86'",
+                    "player": "Sebastiaan Bornauw",
+                    "detail": "Yellow Card",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "89'",
+                    "player": "M. Amoura",
+                    "detail": "Substitution 5",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "90'",
+                    "player": "Maximilian Wittek",
+                    "detail": "Yellow Card",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "90'",
+                    "player": "G. Masouras",
+                    "detail": "Substitution 3",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "90'",
+                    "player": "I. Sissoko",
+                    "detail": "Substitution 4",
+                    "team": "VfL Bochum"
+                }
+            ],
+            "odds": {
+                "home": "N/A",
+                "draw": "N/A",
+                "away": "N/A"
+            },
+            "past_results": [
+                {
+                    "date": "2025-02-22 14:30",
+                    "score": "1 - 1"
+                },
+                {
+                    "date": "2025-02-15 14:30",
+                    "score": "2 - 0"
+                },
+                {
+                    "date": "2025-02-09 14:30",
+                    "score": "2 - 2"
+                },
+                {
+                    "date": "2025-02-01 14:30",
+                    "score": "0 - 1"
+                },
+                {
+                    "date": "2025-01-25 17:30",
+                    "score": "3 - 0"
+                }
+            ],
+            "future_games": [
+                {
+                    "date": "2025-03-01 14:30",
+                    "opponent": "1899 Hoffenheim"
+                },
+                {
+                    "date": "2025-03-08 14:30",
+                    "opponent": "Bayern München"
+                },
+                {
+                    "date": "2025-03-16 14:30",
+                    "opponent": "Eintracht Frankfurt"
                 }
             ],
             "squad": []
