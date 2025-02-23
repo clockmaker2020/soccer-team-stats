@@ -1,0 +1,54 @@
+{
+    "fixture": {
+        "id": 1224180,
+        "date": "2025-02-22T14:30:00+00:00",
+        "venue": {
+            "name": "BORUSSIA-PARK",
+            "city": "Mönchengladbach"
+        },
+        "referee": "Florian Exner, Germany"
+    },
+    "league": {
+        "name": "Bundesliga",
+        "season": 2024,
+        "round": "Regular Season - 23"
+    },
+    "teams": {
+        "home": {
+            "id": 163,
+            "name": "Borussia Mönchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+        },
+        "away": {
+            "id": 170,
+            "name": "FC Augsburg",
+            "logo": "https://media.api-sports.io/football/teams/170.png"
+        }
+    },
+    "score": {
+        "halftime": {
+            "home": 0,
+            "away": 0
+        },
+        "fulltime": {
+            "home": 0,
+            "away": 3
+        },
+        "extratime": {
+            "home": null,
+            "away": null
+        },
+        "penalty": {
+            "home": null,
+            "away": null
+        }
+    },
+    "status": {
+        "long": "Match Finished",
+        "elapsed": 90
+    },
+    "events": [],
+    "statistics": [],
+    "lineups": [],
+    "odds": []
+}
