@@ -11,9 +11,10 @@ LEAGUE_ID = 78  # 분데스리가 ID
 SEASON = 2024  # 최신 시즌
 HEADERS = {"x-apisports-key": API_KEY}
 
-# ✅ 저장 폴더 설정
-SAVE_DIR = os.path.join(os.getcwd(), "data/team_data")
+# ✅ 절대 경로 설정 (GitHub Actions 및 로컬 환경 모두 호환되도록 수정)
+SAVE_DIR = os.path.abspath("data/team_data")
 os.makedirs(SAVE_DIR, exist_ok=True)
+os.chmod(SAVE_DIR, 0o777)  # ✅ 저장 폴더에 쓰기 권한 부여
 
 # ✅ 팀명 입력 (정확한 API 표기 사용)
 TARGET_TEAM = "Bayern München"  # API에서 사용되는 공식 팀명
@@ -44,7 +45,7 @@ def fetch_data(url, retries=3):
             time.sleep(3)
     return None
 
-# ✅ 1부 리그 팀 검색 후 특정 팀의 ID 찾기
+# ✅ 특정 팀 ID 가져오기
 def get_team_id(team_name):
     url = f"https://v3.football.api-sports.io/standings?league={LEAGUE_ID}&season={SEASON}"
     data = fetch_data(url)
@@ -53,14 +54,13 @@ def get_team_id(team_name):
         print("⚠️ [ERROR] API 요청 제한으로 인해 팀 ID를 가져올 수 없습니다.")
         return None
     
-    if data:
-        for team in data[0]["league"]["standings"][0]:
-            normalized_team_name = unicodedata.normalize('NFC', team["team"]["name"])
-            if normalized_team_name.lower() == team_name.lower():
-                return team["team"]["id"]
+    for team in data[0]["league"]["standings"][0]:
+        normalized_team_name = unicodedata.normalize('NFC', team["team"]["name"])
+        if normalized_team_name.lower() == team_name.lower():
+            return team["team"]["id"]
     return None
 
-# ✅ 특정 팀 ID 가져오기
+# ✅ 팀 ID 확인 및 데이터 가져오기
 team_id = get_team_id(TARGET_TEAM)
 if not team_id:
     print(f"🚨 [ERROR] {TARGET_TEAM}의 팀 ID를 찾을 수 없습니다. 올바른 팀명을 사용했는지 확인하세요.")
@@ -83,7 +83,6 @@ else:
     
     if not match_data or len(match_data) == 0:
         print("🚨 [ERROR] API 응답에 경기 데이터가 없습니다. 최신 경기 데이터를 가져올 수 없습니다.")
-        print(f"🔍 API 응답 내용: {match_data}")  # API 응답 확인
         exit()
     
     match = match_data[0]
@@ -99,6 +98,8 @@ else:
     
     fixture_detail = fixture_detail[0]
     
+    print(f"🔍 fixture_detail 응답 데이터: {json.dumps(fixture_detail, indent=2, ensure_ascii=False)}")  # ✅ 경기 상세 데이터 확인
+    
     stadium = fixture_detail.get("fixture", {}).get("venue", {}).get("name", "미정")
     referee = fixture_detail.get("fixture", {}).get("referee", "정보 없음")
     league_round = fixture_detail.get("league", {}).get("round", "라운드 정보 없음")
@@ -109,7 +110,10 @@ else:
         "stadium": stadium,
         "referee": referee,
         "league_round": league_round,
+        "fixture_detail": fixture_detail  # ✅ 경기 상세 데이터 포함
     }
+    
+    print(f"✅ 저장되는 데이터: {json.dumps(latest_match_data, indent=2, ensure_ascii=False)}")  # ✅ JSON 저장 전 데이터 확인
     
     # ✅ JSON 저장
     with open(file_path, "w", encoding="utf-8") as file:
