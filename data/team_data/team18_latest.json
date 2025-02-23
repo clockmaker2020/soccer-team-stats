@@ -2512,108 +2512,120 @@
         },
         {
             "team": "1. FC Heidenheim",
-            "date": "2025-02-16 18:30",
-            "opponent": "FSV Mainz 05",
-            "score": "0 - 2",
-            "stadium": "Voith-Arena",
-            "referee": "Felix Brych, Germany",
-            "league_round": "Regular Season - 22",
+            "date": "2025-02-23 14:30",
+            "opponent": "RB Leipzig",
+            "score": "2 - 2",
+            "stadium": "Red Bull Arena",
+            "referee": "Martin Petersen, Germany",
+            "league_round": "Regular Season - 23",
             "events": [
                 {
-                    "time": "28'",
-                    "player": "J. Burkardt",
+                    "time": "6'",
+                    "player": "M. Honsak",
                     "detail": "Normal Goal",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "46'",
-                    "player": "A. Beck",
-                    "detail": "Substitution 1",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "46'",
+                    "time": "6'",
+                    "player": "C. Baumgartner",
+                    "detail": "Yellow Card",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "12'",
+                    "player": "W. Orban",
+                    "detail": "Yellow Card",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "13'",
+                    "player": "M. Pieringer",
+                    "detail": "Penalty",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "15'",
+                    "player": "B. Gimber",
+                    "detail": "Yellow Card",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "33'",
+                    "player": "A. Vermeeren",
+                    "detail": "Substitution 1",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "45'",
+                    "player": "L. Openda",
+                    "detail": "Normal Goal",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "64'",
+                    "player": "B. Sesko",
+                    "detail": "Penalty",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "67'",
+                    "player": "J. Schoppner",
+                    "detail": "Yellow Card",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "74'",
                     "player": "T. Keller",
-                    "detail": "Substitution 2",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "49'",
-                    "player": "N. Weiper",
-                    "detail": "Normal Goal",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "57'",
-                    "player": "J. Föhrenbach",
-                    "detail": "Substitution 3",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "61'",
-                    "player": "Marvin Pieringer",
-                    "detail": "Yellow Card",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "62'",
-                    "player": "J. Burkardt",
                     "detail": "Substitution 1",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "65'",
-                    "player": "Dominik Kohr",
-                    "detail": "Yellow Card",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "68'",
-                    "player": "F. Krätzig",
-                    "detail": "Substitution 4",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "71'",
-                    "player": "Anthony Caci",
-                    "detail": "Yellow Card",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "71'",
-                    "player": "N. Weiper",
+                    "time": "74'",
+                    "player": "M. Busch",
                     "detail": "Substitution 2",
-                    "team": "FSV Mainz 05"
+                    "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "73'",
-                    "player": "Nadiem Amiri",
-                    "detail": "Yellow Card",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "78'",
-                    "player": "A. Caci",
+                    "time": "75'",
+                    "player": "J. Niehues",
                     "detail": "Substitution 3",
-                    "team": "FSV Mainz 05"
+                    "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "79'",
-                    "player": "N. Amiri",
-                    "detail": "Substitution 4",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "79'",
-                    "player": "D. Kohr",
-                    "detail": "Substitution 5",
-                    "team": "FSV Mainz 05"
+                    "time": "77'",
+                    "player": "T. Keller",
+                    "detail": "Yellow Card",
+                    "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "80'",
-                    "player": "J. Schöppner",
+                    "player": "K. Nedeljkovic",
+                    "detail": "Substitution 2",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "80'",
+                    "player": "E. Bitshiabu",
+                    "detail": "Substitution 3",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "83'",
+                    "player": "B. Zivzivadze",
+                    "detail": "Substitution 4",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "90'",
+                    "player": "A. Beck",
                     "detail": "Substitution 5",
                     "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "90'",
+                    "player": "X. Simons",
+                    "detail": "Yellow Card",
+                    "team": "RB Leipzig"
                 }
             ],
             "odds": {
@@ -2622,6 +2634,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-02-23 14:30",
+                    "score": "2 - 2"
+                },
                 {
                     "date": "2025-02-16 18:30",
                     "score": "0 - 2"
@@ -2637,10 +2653,6 @@
                 {
                     "date": "2025-01-25 14:30",
                     "score": "2 - 1"
-                },
-                {
-                    "date": "2025-01-18 14:30",
-                    "score": "0 - 2"
                 }
             ],
             "future_games": [
