@@ -403,7 +403,7 @@
         },
         {
             "time": {
-                "elapsed": 85,
+                "elapsed": 84,
                 "extra": null
             },
             "team": {
@@ -425,7 +425,7 @@
         },
         {
             "time": {
-                "elapsed": 85,
+                "elapsed": 84,
                 "extra": null
             },
             "team": {
@@ -434,12 +434,12 @@
                 "logo": "https://media.api-sports.io/football/teams/165.png"
             },
             "player": {
-                "id": 24845,
-                "name": "J. Ryerson"
+                "id": 21393,
+                "name": "S. Guirassy"
             },
             "assist": {
-                "id": 197448,
-                "name": "Yan Couto"
+                "id": 286894,
+                "name": "J. Gittens"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -456,12 +456,12 @@
                 "logo": "https://media.api-sports.io/football/teams/165.png"
             },
             "player": {
-                "id": 21393,
-                "name": "S. Guirassy"
+                "id": 24845,
+                "name": "J. Ryerson"
             },
             "assist": {
-                "id": 286894,
-                "name": "J. Gittens"
+                "id": 197448,
+                "name": "Yan Couto"
             },
             "type": "subst",
             "detail": "Substitution 5",
@@ -500,11 +500,11 @@
             "statistics": [
                 {
                     "type": "Shots on Goal",
-                    "value": 9
+                    "value": 8
                 },
                 {
                     "type": "Shots off Goal",
-                    "value": 10
+                    "value": 11
                 },
                 {
                     "type": "Total Shots",
@@ -552,7 +552,7 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 580
+                    "value": 581
                 },
                 {
                     "type": "Passes accurate",
@@ -564,7 +564,7 @@
                 },
                 {
                     "type": "expected_goals",
-                    "value": "4.46"
+                    "value": "4.77"
                 },
                 {
                     "type": "goals_prevented",
@@ -633,15 +633,15 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 311
+                    "value": 316
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 236
+                    "value": 238
                 },
                 {
                     "type": "Passes %",
-                    "value": "76%"
+                    "value": "75%"
                 },
                 {
                     "type": "expected_goals",
