@@ -11,7 +11,7 @@
             "events": [
                 {
                     "time": "43'",
-                    "player": "L. Goretzka",
+                    "player": "J. Kimmich",
                     "detail": "Substitution 1",
                     "team": "Bayern München"
                 },
@@ -23,13 +23,13 @@
                 },
                 {
                     "time": "46'",
-                    "player": "E. Skhiri",
+                    "player": "O. Højlund",
                     "detail": "Substitution 1",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "46'",
-                    "player": "E. Wahi",
+                    "player": "C. Uzun",
                     "detail": "Substitution 2",
                     "team": "Eintracht Frankfurt"
                 },
@@ -40,38 +40,38 @@
                     "team": "Bayern München"
                 },
                 {
-                    "time": "62'",
-                    "player": "M. Gotze",
-                    "detail": "Substitution 3",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
                     "time": "63'",
-                    "player": "A. Davies",
+                    "player": "H. Ito",
                     "detail": "Substitution 2",
                     "team": "Bayern München"
                 },
                 {
+                    "time": "63'",
+                    "player": "J. Bahoya",
+                    "detail": "Substitution 3",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
                     "time": "64'",
-                    "player": "H. Kane",
+                    "player": "T. Müller",
                     "detail": "Substitution 3",
                     "team": "Bayern München"
                 },
                 {
                     "time": "75'",
-                    "player": "N. Brown",
+                    "player": "H. Ekitiké",
                     "detail": "Substitution 4",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "75'",
-                    "player": "M. Batshuayi",
+                    "player": "A. Knauff",
                     "detail": "Substitution 5",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "77'",
-                    "player": "L. Sane",
+                    "player": "Leroy Sané",
                     "detail": "Yellow Card",
                     "team": "Bayern München"
                 },
@@ -89,13 +89,13 @@
                 },
                 {
                     "time": "85'",
-                    "player": "K. Coman",
+                    "player": "M. Olise",
                     "detail": "Substitution 4",
                     "team": "Bayern München"
                 },
                 {
                     "time": "85'",
-                    "player": "S. Gnabry",
+                    "player": "J. Musiala",
                     "detail": "Substitution 5",
                     "team": "Bayern München"
                 },
@@ -303,7 +303,7 @@
             "events": [
                 {
                     "time": "43'",
-                    "player": "L. Goretzka",
+                    "player": "J. Kimmich",
                     "detail": "Substitution 1",
                     "team": "Bayern München"
                 },
@@ -315,13 +315,13 @@
                 },
                 {
                     "time": "46'",
-                    "player": "E. Skhiri",
+                    "player": "O. Højlund",
                     "detail": "Substitution 1",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "46'",
-                    "player": "E. Wahi",
+                    "player": "C. Uzun",
                     "detail": "Substitution 2",
                     "team": "Eintracht Frankfurt"
                 },
@@ -332,38 +332,38 @@
                     "team": "Bayern München"
                 },
                 {
-                    "time": "62'",
-                    "player": "M. Gotze",
-                    "detail": "Substitution 3",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
                     "time": "63'",
-                    "player": "A. Davies",
+                    "player": "H. Ito",
                     "detail": "Substitution 2",
                     "team": "Bayern München"
                 },
                 {
+                    "time": "63'",
+                    "player": "J. Bahoya",
+                    "detail": "Substitution 3",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
                     "time": "64'",
-                    "player": "H. Kane",
+                    "player": "T. Müller",
                     "detail": "Substitution 3",
                     "team": "Bayern München"
                 },
                 {
                     "time": "75'",
-                    "player": "N. Brown",
+                    "player": "H. Ekitiké",
                     "detail": "Substitution 4",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "75'",
-                    "player": "M. Batshuayi",
+                    "player": "A. Knauff",
                     "detail": "Substitution 5",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "77'",
-                    "player": "L. Sane",
+                    "player": "Leroy Sané",
                     "detail": "Yellow Card",
                     "team": "Bayern München"
                 },
@@ -381,13 +381,13 @@
                 },
                 {
                     "time": "85'",
-                    "player": "K. Coman",
+                    "player": "M. Olise",
                     "detail": "Substitution 4",
                     "team": "Bayern München"
                 },
                 {
                     "time": "85'",
-                    "player": "S. Gnabry",
+                    "player": "J. Musiala",
                     "detail": "Substitution 5",
                     "team": "Bayern München"
                 },
@@ -941,7 +941,7 @@
                 },
                 {
                     "time": "73'",
-                    "player": "J. Bruun Larsen",
+                    "player": "J. Leweling",
                     "detail": "Substitution 1",
                     "team": "VfB Stuttgart"
                 },
@@ -953,31 +953,31 @@
                 },
                 {
                     "time": "77'",
-                    "player": "H. Tabakovic",
+                    "player": "A. Prass",
                     "detail": "Substitution 1",
                     "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "77'",
-                    "player": "D. Jurasek",
+                    "player": "M. Bülter",
                     "detail": "Substitution 2",
                     "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "82'",
-                    "player": "E. Millot",
+                    "player": "A. Karazor",
                     "detail": "Substitution 2",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "82'",
-                    "player": "E. Demirovic",
+                    "player": "D. Undav",
                     "detail": "Substitution 3",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "84'",
-                    "player": "B. Toure",
+                    "player": "G. Orban",
                     "detail": "Substitution 3",
                     "team": "1899 Hoffenheim"
                 }
@@ -2056,7 +2056,7 @@
                 },
                 {
                     "time": "73'",
-                    "player": "J. Bruun Larsen",
+                    "player": "J. Leweling",
                     "detail": "Substitution 1",
                     "team": "VfB Stuttgart"
                 },
@@ -2068,31 +2068,31 @@
                 },
                 {
                     "time": "77'",
-                    "player": "H. Tabakovic",
+                    "player": "A. Prass",
                     "detail": "Substitution 1",
                     "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "77'",
-                    "player": "D. Jurasek",
+                    "player": "M. Bülter",
                     "detail": "Substitution 2",
                     "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "82'",
-                    "player": "E. Millot",
+                    "player": "A. Karazor",
                     "detail": "Substitution 2",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "82'",
-                    "player": "E. Demirovic",
+                    "player": "D. Undav",
                     "detail": "Substitution 3",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "84'",
-                    "player": "B. Toure",
+                    "player": "G. Orban",
                     "detail": "Substitution 3",
                     "team": "1899 Hoffenheim"
                 }
