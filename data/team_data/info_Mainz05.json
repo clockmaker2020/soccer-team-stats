@@ -1,7 +1,8 @@
 {
     "fixture": {
         "id": 1224179,
-        "date": "2025-02-22T14:30:00+00:00",
+        "utc_date": "2025-02-22T14:30:00+00:00",
+        "kst_date": "2025-02-22 23:30",
         "venue": {
             "name": "MEWA ARENA",
             "city": "Mainz"
