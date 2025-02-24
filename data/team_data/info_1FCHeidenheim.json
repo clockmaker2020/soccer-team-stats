@@ -1,7 +1,8 @@
 {
     "fixture": {
         "id": 1224174,
-        "date": "2025-02-23T14:30:00+00:00",
+        "utc_date": "2025-02-23T14:30:00+00:00",
+        "kst_date": "2025-02-23 23:30",
         "venue": {
             "name": "Red Bull Arena",
             "city": "Leipzig"
