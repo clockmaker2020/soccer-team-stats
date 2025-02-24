@@ -1,7 +1,8 @@
 {
     "fixture": {
         "id": 1224176,
-        "date": "2025-02-23T18:30:00+00:00",
+        "utc_date": "2025-02-23T18:30:00+00:00",
+        "kst_date": "2025-02-24 03:30",
         "venue": {
             "name": "PreZero Arena",
             "city": "Sinsheim"
