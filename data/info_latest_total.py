@@ -2,6 +2,7 @@ import os
 import json
 import requests
 import time
+from datetime import datetime, timezone, timedelta
 
 # ✅ API 설정
 API_KEY = "0776a35eb1067086efe59bb7f93c6498"  # ⚠ 실제 API 키 입력
@@ -35,6 +36,13 @@ teams = {
     "FC St. Pauli": 186,
 }
 
+# ✅ UTC → KST 변환 함수 추가
+def convertToKST(utc_date):
+    """UTC 날짜를 한국시간(KST)으로 변환"""
+    date = datetime.strptime(utc_date, "%Y-%m-%dT%H:%M:%S%z")  # UTC 파싱
+    kst_date = date.astimezone(timezone(timedelta(hours=9)))  # KST 변환
+    return kst_date.strftime("%Y-%m-%d %H:%M")  # YYYY-MM-DD HH:MM 형식 반환
+
 # ✅ API 요청 함수 (최대 3회 재시도)
 def fetch_data(url, retries=3):
     for attempt in range(retries):
@@ -62,14 +70,18 @@ for team_name, team_id in teams.items():
     latest_match = matches[0]  # 가장 최근 경기
     fixture_id = latest_match.get("fixture", {}).get("id", "N/A")
 
+    # ✅ **경기 날짜 한국시간 변환 적용**
+    utc_date = latest_match.get("fixture", {}).get("date", "N/A")
+    kst_date = convertToKST(utc_date) if utc_date != "N/A" else "변환 실패"
+
     # 📌 **이벤트, 경기 통계, 선발 라인업 및 배당률 추가 요청**
     events_url = f"https://v3.football.api-sports.io/fixtures/events?fixture={fixture_id}"
     statistics_url = f"https://v3.football.api-sports.io/fixtures/statistics?fixture={fixture_id}"
     lineups_url = f"https://v3.football.api-sports.io/fixtures/lineups?fixture={fixture_id}"
     odds_url = f"https://v3.football.api-sports.io/odds?fixture={fixture_id}"
 
-    events = fetch_data(events_url)  # 경기 이벤트 (득점, 카드, 페널티킥 등)
-    statistics = fetch_data(statistics_url)  # 경기 통계 (볼 점유율, 슈팅, 패스 성공률 등)
+    events = fetch_data(events_url)  # 경기 이벤트
+    statistics = fetch_data(statistics_url)  # 경기 통계
     lineups = fetch_data(lineups_url)  # 선발 및 교체 선수
     odds = fetch_data(odds_url)  # 승부 예측 & 배당률
 
@@ -82,7 +94,8 @@ for team_name, team_id in teams.items():
     team_data = {
         "fixture": {
             "id": fixture.get("id", "N/A"),
-            "date": fixture.get("date", "N/A"),
+            "utc_date": fixture.get("date", "N/A"),  # 원래 UTC 날짜 저장
+            "kst_date": kst_date,  # ✅ 변환된 KST 날짜 추가
             "venue": {
                 "name": fixture.get("venue", {}).get("name", "Unknown"),
                 "city": fixture.get("venue", {}).get("city", "Unknown"),
