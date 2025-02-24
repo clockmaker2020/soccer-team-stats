@@ -55,6 +55,28 @@
                 "extra": null
             },
             "team": {
+                "id": 173,
+                "name": "RB Leipzig",
+                "logo": "https://media.api-sports.io/football/teams/173.png"
+            },
+            "player": {
+                "id": 715,
+                "name": "Christoph Baumgartner"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Foul"
+        },
+        {
+            "time": {
+                "elapsed": 6,
+                "extra": null
+            },
+            "team": {
                 "id": 180,
                 "name": "1. FC Heidenheim",
                 "logo": "https://media.api-sports.io/football/teams/180.png"
@@ -65,33 +87,11 @@
             },
             "assist": {
                 "id": 127619,
-                "name": "J. Schoppner"
+                "name": "J. Schöppner"
             },
             "type": "Goal",
             "detail": "Normal Goal",
             "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 6,
-                "extra": null
-            },
-            "team": {
-                "id": 173,
-                "name": "RB Leipzig",
-                "logo": "https://media.api-sports.io/football/teams/173.png"
-            },
-            "player": {
-                "id": 715,
-                "name": "C. Baumgartner"
-            },
-            "assist": {
-                "id": null,
-                "name": null
-            },
-            "type": "Card",
-            "detail": "Yellow Card",
-            "comments": "Roughing"
         },
         {
             "time": {
@@ -105,7 +105,7 @@
             },
             "player": {
                 "id": 1148,
-                "name": "W. Orban"
+                "name": "Willi Orbán"
             },
             "assist": {
                 "id": null,
@@ -113,7 +113,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Unsportsmanlike conduct"
+            "comments": "Argument"
         },
         {
             "time": {
@@ -149,7 +149,7 @@
             },
             "player": {
                 "id": 25203,
-                "name": "B. Gimber"
+                "name": "Benedikt Gimber"
             },
             "assist": {
                 "id": null,
@@ -157,7 +157,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Tripping"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -170,12 +170,12 @@
                 "logo": "https://media.api-sports.io/football/teams/173.png"
             },
             "player": {
-                "id": 340154,
-                "name": "A. Vermeeren"
-            },
-            "assist": {
                 "id": 715,
                 "name": "C. Baumgartner"
+            },
+            "assist": {
+                "id": 340154,
+                "name": "A. Vermeeren"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -197,10 +197,32 @@
             },
             "assist": {
                 "id": 115589,
-                "name": "B. Sesko"
+                "name": "B. Šeško"
             },
             "type": "Goal",
             "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 62,
+                "extra": null
+            },
+            "team": {
+                "id": 173,
+                "name": "RB Leipzig",
+                "logo": "https://media.api-sports.io/football/teams/173.png"
+            },
+            "player": {
+                "id": 86,
+                "name": "Loïs Openda"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Var",
+            "detail": "Penalty confirmed",
             "comments": null
         },
         {
@@ -215,7 +237,7 @@
             },
             "player": {
                 "id": 115589,
-                "name": "B. Sesko"
+                "name": "B. Šeško"
             },
             "assist": {
                 "id": null,
@@ -237,7 +259,7 @@
             },
             "player": {
                 "id": 127619,
-                "name": "J. Schoppner"
+                "name": "Jan Schöppner"
             },
             "assist": {
                 "id": null,
@@ -245,11 +267,11 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": null
+            "comments": "Foul"
         },
         {
             "time": {
-                "elapsed": 75,
+                "elapsed": 74,
                 "extra": null
             },
             "team": {
@@ -258,12 +280,12 @@
                 "logo": "https://media.api-sports.io/football/teams/180.png"
             },
             "player": {
-                "id": 125723,
-                "name": "T. Keller"
+                "id": 125720,
+                "name": "S. Conteh"
             },
             "assist": {
-                "id": 280055,
-                "name": "L. Kerber"
+                "id": 24897,
+                "name": "M. Busch"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -271,7 +293,7 @@
         },
         {
             "time": {
-                "elapsed": 75,
+                "elapsed": 74,
                 "extra": null
             },
             "team": {
@@ -280,12 +302,12 @@
                 "logo": "https://media.api-sports.io/football/teams/180.png"
             },
             "player": {
-                "id": 203011,
-                "name": "J. Niehues"
+                "id": 280055,
+                "name": "L. Kerber"
             },
             "assist": {
-                "id": 127619,
-                "name": "J. Schoppner"
+                "id": 125723,
+                "name": "T. Keller"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -293,7 +315,7 @@
         },
         {
             "time": {
-                "elapsed": 75,
+                "elapsed": 74,
                 "extra": null
             },
             "team": {
@@ -302,12 +324,12 @@
                 "logo": "https://media.api-sports.io/football/teams/180.png"
             },
             "player": {
-                "id": 24897,
-                "name": "M. Busch"
+                "id": 127619,
+                "name": "J. Schöppner"
             },
             "assist": {
-                "id": 125720,
-                "name": "S. Conteh"
+                "id": 203011,
+                "name": "J. Niehues"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -325,7 +347,7 @@
             },
             "player": {
                 "id": 125723,
-                "name": "T. Keller"
+                "name": "Thomas Keller"
             },
             "assist": {
                 "id": null,
@@ -333,7 +355,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Holding"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -346,12 +368,12 @@
                 "logo": "https://media.api-sports.io/football/teams/173.png"
             },
             "player": {
-                "id": 342320,
-                "name": "K. Nedeljkovic"
-            },
-            "assist": {
                 "id": 25917,
                 "name": "R. Baku"
+            },
+            "assist": {
+                "id": 342320,
+                "name": "K. Nedeljković"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -368,12 +390,12 @@
                 "logo": "https://media.api-sports.io/football/teams/173.png"
             },
             "player": {
-                "id": 268571,
-                "name": "E. Bitshiabu"
-            },
-            "assist": {
                 "id": 162761,
                 "name": "C. Lukeba"
+            },
+            "assist": {
+                "id": 268571,
+                "name": "E. Bitshiabu"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -390,12 +412,12 @@
                 "logo": "https://media.api-sports.io/football/teams/180.png"
             },
             "player": {
-                "id": 24641,
-                "name": "B. Zivzivadze"
-            },
-            "assist": {
                 "id": 178106,
                 "name": "M. Pieringer"
+            },
+            "assist": {
+                "id": 24641,
+                "name": "B. Zivzivadze"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -412,12 +434,12 @@
                 "logo": "https://media.api-sports.io/football/teams/180.png"
             },
             "player": {
-                "id": 8959,
-                "name": "A. Beck"
-            },
-            "assist": {
                 "id": 177815,
                 "name": "T. Siersleben"
+            },
+            "assist": {
+                "id": 8959,
+                "name": "A. Beck"
             },
             "type": "subst",
             "detail": "Substitution 5",
@@ -435,7 +457,7 @@
             },
             "player": {
                 "id": 162016,
-                "name": "X. Simons"
+                "name": "Xavi Simons"
             },
             "assist": {
                 "id": null,
@@ -443,7 +465,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Unsportsmanlike conduct"
+            "comments": "Argument"
         }
     ],
     "statistics": [
