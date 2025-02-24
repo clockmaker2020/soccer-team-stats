@@ -1,7 +1,8 @@
 {
     "fixture": {
         "id": 1224173,
-        "date": "2025-02-23T16:30:00+00:00",
+        "utc_date": "2025-02-23T16:30:00+00:00",
+        "kst_date": "2025-02-24 01:30",
         "venue": {
             "name": "Allianz Arena",
             "city": "München"
