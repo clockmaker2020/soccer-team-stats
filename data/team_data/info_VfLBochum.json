@@ -69,7 +69,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Foul"
+            "comments": "Argument"
         },
         {
             "time": {
@@ -450,11 +450,11 @@
                 },
                 {
                     "type": "Shots insidebox",
-                    "value": 10
+                    "value": 8
                 },
                 {
                     "type": "Shots outsidebox",
-                    "value": 3
+                    "value": 5
                 },
                 {
                     "type": "Fouls",
@@ -490,7 +490,7 @@
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 377
+                    "value": 376
                 },
                 {
                     "type": "Passes %",
@@ -567,11 +567,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 378
+                    "value": 379
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 292
+                    "value": 291
                 },
                 {
                     "type": "Passes %",
