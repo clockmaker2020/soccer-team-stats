@@ -65,7 +65,7 @@
             },
             "assist": {
                 "id": 25342,
-                "name": "M. Mittelstadt"
+                "name": "M. Mittelstädt"
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -82,12 +82,12 @@
                 "logo": "https://media.api-sports.io/football/teams/172.png"
             },
             "player": {
-                "id": 22,
-                "name": "J. Bruun Larsen"
-            },
-            "assist": {
                 "id": 128533,
                 "name": "J. Leweling"
+            },
+            "assist": {
+                "id": 22,
+                "name": "J. Bruun Larsen"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -109,7 +109,7 @@
             },
             "assist": {
                 "id": 726,
-                "name": "A. Kramaric"
+                "name": "A. Kramarić"
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -126,12 +126,12 @@
                 "logo": "https://media.api-sports.io/football/teams/167.png"
             },
             "player": {
-                "id": 28382,
-                "name": "H. Tabakovic"
+                "id": 7327,
+                "name": "A. Prass"
             },
             "assist": {
-                "id": 25242,
-                "name": "M. Bulter"
+                "id": 128793,
+                "name": "D. Jurásek"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -148,12 +148,12 @@
                 "logo": "https://media.api-sports.io/football/teams/167.png"
             },
             "player": {
-                "id": 128793,
-                "name": "D. Jurasek"
+                "id": 25242,
+                "name": "M. Bülter"
             },
             "assist": {
-                "id": 7327,
-                "name": "A. Prass"
+                "id": 28382,
+                "name": "H. Tabaković"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -170,13 +170,13 @@
                 "logo": "https://media.api-sports.io/football/teams/172.png"
             },
             "player": {
-                "id": 162887,
-                "name": "E. Millot"
-            },
-            "assist": {
                 "id": 24963,
                 "name": "A. Karazor"
             },
+            "assist": {
+                "id": 162887,
+                "name": "E. Millot"
+            },
             "type": "subst",
             "detail": "Substitution 2",
             "comments": null
@@ -192,12 +192,12 @@
                 "logo": "https://media.api-sports.io/football/teams/172.png"
             },
             "player": {
-                "id": 46930,
-                "name": "E. Demirovic"
-            },
-            "assist": {
                 "id": 26475,
                 "name": "D. Undav"
+            },
+            "assist": {
+                "id": 46930,
+                "name": "E. Demirović"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -214,12 +214,12 @@
                 "logo": "https://media.api-sports.io/football/teams/167.png"
             },
             "player": {
-                "id": 387643,
-                "name": "B. Toure"
-            },
-            "assist": {
                 "id": 368260,
                 "name": "G. Orban"
+            },
+            "assist": {
+                "id": 387643,
+                "name": "B. Touré"
             },
             "type": "subst",
             "detail": "Substitution 3",
