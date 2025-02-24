@@ -442,15 +442,15 @@
                 },
                 {
                     "type": "Total Shots",
-                    "value": 9
+                    "value": 10
                 },
                 {
                     "type": "Blocked Shots",
-                    "value": 3
+                    "value": 4
                 },
                 {
                     "type": "Shots insidebox",
-                    "value": 6
+                    "value": 7
                 },
                 {
                     "type": "Shots outsidebox",
@@ -470,7 +470,7 @@
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "52%"
+                    "value": "53%"
                 },
                 {
                     "type": "Yellow Cards",
@@ -486,11 +486,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 423
+                    "value": 425
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 329
+                    "value": 332
                 },
                 {
                     "type": "Passes %",
@@ -498,7 +498,7 @@
                 },
                 {
                     "type": "expected_goals",
-                    "value": "1.30"
+                    "value": "1.34"
                 },
                 {
                     "type": "goals_prevented",
@@ -551,7 +551,7 @@
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "48%"
+                    "value": "47%"
                 },
                 {
                     "type": "Yellow Cards",
@@ -571,11 +571,11 @@
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 296
+                    "value": 294
                 },
                 {
                     "type": "Passes %",
-                    "value": "79%"
+                    "value": "78%"
                 },
                 {
                     "type": "expected_goals",
