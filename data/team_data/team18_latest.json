@@ -774,19 +774,19 @@
             "events": [
                 {
                     "time": "6'",
+                    "player": "Christoph Baumgartner",
+                    "detail": "Yellow Card",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "6'",
                     "player": "M. Honsak",
                     "detail": "Normal Goal",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "6'",
-                    "player": "C. Baumgartner",
-                    "detail": "Yellow Card",
-                    "team": "RB Leipzig"
-                },
-                {
                     "time": "12'",
-                    "player": "W. Orban",
+                    "player": "Willi Orbán",
                     "detail": "Yellow Card",
                     "team": "RB Leipzig"
                 },
@@ -798,13 +798,13 @@
                 },
                 {
                     "time": "15'",
-                    "player": "B. Gimber",
+                    "player": "Benedikt Gimber",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "33'",
-                    "player": "A. Vermeeren",
+                    "player": "C. Baumgartner",
                     "detail": "Substitution 1",
                     "team": "RB Leipzig"
                 },
@@ -815,68 +815,74 @@
                     "team": "RB Leipzig"
                 },
                 {
+                    "time": "62'",
+                    "player": "Loïs Openda",
+                    "detail": "Penalty confirmed",
+                    "team": "RB Leipzig"
+                },
+                {
                     "time": "64'",
-                    "player": "B. Sesko",
+                    "player": "B. Šeško",
                     "detail": "Penalty",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "67'",
-                    "player": "J. Schoppner",
+                    "player": "Jan Schöppner",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "75'",
-                    "player": "T. Keller",
+                    "time": "74'",
+                    "player": "S. Conteh",
                     "detail": "Substitution 1",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "75'",
-                    "player": "J. Niehues",
+                    "time": "74'",
+                    "player": "L. Kerber",
                     "detail": "Substitution 2",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "75'",
-                    "player": "M. Busch",
+                    "time": "74'",
+                    "player": "J. Schöppner",
                     "detail": "Substitution 3",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "77'",
-                    "player": "T. Keller",
+                    "player": "Thomas Keller",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "80'",
-                    "player": "K. Nedeljkovic",
+                    "player": "R. Baku",
                     "detail": "Substitution 2",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "80'",
-                    "player": "E. Bitshiabu",
+                    "player": "C. Lukeba",
                     "detail": "Substitution 3",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "83'",
-                    "player": "B. Zivzivadze",
+                    "player": "M. Pieringer",
                     "detail": "Substitution 4",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "90'",
-                    "player": "A. Beck",
+                    "player": "T. Siersleben",
                     "detail": "Substitution 5",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "90'",
-                    "player": "X. Simons",
+                    "player": "Xavi Simons",
                     "detail": "Yellow Card",
                     "team": "RB Leipzig"
                 }
@@ -2306,19 +2312,19 @@
             "events": [
                 {
                     "time": "6'",
+                    "player": "Christoph Baumgartner",
+                    "detail": "Yellow Card",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "6'",
                     "player": "M. Honsak",
                     "detail": "Normal Goal",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "6'",
-                    "player": "C. Baumgartner",
-                    "detail": "Yellow Card",
-                    "team": "RB Leipzig"
-                },
-                {
                     "time": "12'",
-                    "player": "W. Orban",
+                    "player": "Willi Orbán",
                     "detail": "Yellow Card",
                     "team": "RB Leipzig"
                 },
@@ -2330,13 +2336,13 @@
                 },
                 {
                     "time": "15'",
-                    "player": "B. Gimber",
+                    "player": "Benedikt Gimber",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "33'",
-                    "player": "A. Vermeeren",
+                    "player": "C. Baumgartner",
                     "detail": "Substitution 1",
                     "team": "RB Leipzig"
                 },
@@ -2347,68 +2353,74 @@
                     "team": "RB Leipzig"
                 },
                 {
+                    "time": "62'",
+                    "player": "Loïs Openda",
+                    "detail": "Penalty confirmed",
+                    "team": "RB Leipzig"
+                },
+                {
                     "time": "64'",
-                    "player": "B. Sesko",
+                    "player": "B. Šeško",
                     "detail": "Penalty",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "67'",
-                    "player": "J. Schoppner",
+                    "player": "Jan Schöppner",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "75'",
-                    "player": "T. Keller",
+                    "time": "74'",
+                    "player": "S. Conteh",
                     "detail": "Substitution 1",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "75'",
-                    "player": "J. Niehues",
+                    "time": "74'",
+                    "player": "L. Kerber",
                     "detail": "Substitution 2",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "75'",
-                    "player": "M. Busch",
+                    "time": "74'",
+                    "player": "J. Schöppner",
                     "detail": "Substitution 3",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "77'",
-                    "player": "T. Keller",
+                    "player": "Thomas Keller",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "80'",
-                    "player": "K. Nedeljkovic",
+                    "player": "R. Baku",
                     "detail": "Substitution 2",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "80'",
-                    "player": "E. Bitshiabu",
+                    "player": "C. Lukeba",
                     "detail": "Substitution 3",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "83'",
-                    "player": "B. Zivzivadze",
+                    "player": "M. Pieringer",
                     "detail": "Substitution 4",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "90'",
-                    "player": "A. Beck",
+                    "player": "T. Siersleben",
                     "detail": "Substitution 5",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "90'",
-                    "player": "X. Simons",
+                    "player": "Xavi Simons",
                     "detail": "Yellow Card",
                     "team": "RB Leipzig"
                 }
