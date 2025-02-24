@@ -1,7 +1,8 @@
 {
     "fixture": {
         "id": 1224175,
-        "date": "2025-02-22T17:30:00+00:00",
+        "utc_date": "2025-02-22T17:30:00+00:00",
+        "kst_date": "2025-02-23 02:30",
         "venue": {
             "name": "SIGNAL IDUNA PARK",
             "city": "Dortmund"
