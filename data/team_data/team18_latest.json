@@ -82,7 +82,7 @@
                     "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "83'",
+                    "time": "82'",
                     "player": "J. Musiala",
                     "detail": "Normal Goal",
                     "team": "Bayern München"
@@ -374,7 +374,7 @@
                     "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "83'",
+                    "time": "82'",
                     "player": "J. Musiala",
                     "detail": "Normal Goal",
                     "team": "Bayern München"
@@ -840,13 +840,13 @@
                 },
                 {
                     "time": "74'",
-                    "player": "L. Kerber",
+                    "player": "J. Schöppner",
                     "detail": "Substitution 2",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "74'",
-                    "player": "J. Schöppner",
+                    "time": "75'",
+                    "player": "L. Kerber",
                     "detail": "Substitution 3",
                     "team": "1. FC Heidenheim"
                 },
@@ -2366,13 +2366,13 @@
                 },
                 {
                     "time": "74'",
-                    "player": "L. Kerber",
+                    "player": "J. Schöppner",
                     "detail": "Substitution 2",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "74'",
-                    "player": "J. Schöppner",
+                    "time": "75'",
+                    "player": "L. Kerber",
                     "detail": "Substitution 3",
                     "team": "1. FC Heidenheim"
                 },
