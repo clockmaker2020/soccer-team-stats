@@ -183,7 +183,7 @@
         },
         {
             "time": {
-                "elapsed": 61,
+                "elapsed": 60,
                 "extra": null
             },
             "team": {
@@ -192,12 +192,12 @@
                 "logo": "https://media.api-sports.io/football/teams/162.png"
             },
             "player": {
-                "id": 128853,
-                "name": "D. Köhn"
+                "id": 716,
+                "name": "L. Bittencourt"
             },
             "assist": {
-                "id": 26319,
-                "name": "F. Agu"
+                "id": 15592,
+                "name": "J. Stage"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -205,7 +205,7 @@
         },
         {
             "time": {
-                "elapsed": 61,
+                "elapsed": 60,
                 "extra": null
             },
             "team": {
@@ -236,12 +236,12 @@
                 "logo": "https://media.api-sports.io/football/teams/162.png"
             },
             "player": {
-                "id": 716,
-                "name": "L. Bittencourt"
+                "id": 128853,
+                "name": "D. Köhn"
             },
             "assist": {
-                "id": 15592,
-                "name": "J. Stage"
+                "id": 26319,
+                "name": "F. Agu"
             },
             "type": "subst",
             "detail": "Substitution 3",
