@@ -302,12 +302,12 @@
                 "logo": "https://media.api-sports.io/football/teams/180.png"
             },
             "player": {
-                "id": 280055,
-                "name": "L. Kerber"
+                "id": 127619,
+                "name": "J. Schöppner"
             },
             "assist": {
-                "id": 125723,
-                "name": "T. Keller"
+                "id": 203011,
+                "name": "J. Niehues"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -315,7 +315,7 @@
         },
         {
             "time": {
-                "elapsed": 74,
+                "elapsed": 75,
                 "extra": null
             },
             "team": {
@@ -324,12 +324,12 @@
                 "logo": "https://media.api-sports.io/football/teams/180.png"
             },
             "player": {
-                "id": 127619,
-                "name": "J. Schöppner"
+                "id": 280055,
+                "name": "L. Kerber"
             },
             "assist": {
-                "id": 203011,
-                "name": "J. Niehues"
+                "id": 125723,
+                "name": "T. Keller"
             },
             "type": "subst",
             "detail": "Substitution 3",
