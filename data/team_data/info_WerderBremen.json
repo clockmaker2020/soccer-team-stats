@@ -7,7 +7,7 @@
             "name": "Europa-Park Stadion",
             "city": "Freiburg im Breisgau"
         },
-        "referee": "M. Burda"
+        "referee": "Burda, Max, Germany"
     },
     "league": {
         "name": "Bundesliga",
@@ -970,15 +970,6 @@
             "substitutes": [
                 {
                     "player": {
-                        "id": 26319,
-                        "name": "F. Agu",
-                        "number": 27,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 15592,
                         "name": "J. Stage",
                         "number": 6,
@@ -992,6 +983,15 @@
                         "name": "M. Ducksch",
                         "number": 7,
                         "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 26319,
+                        "name": "F. Agu",
+                        "number": 27,
+                        "pos": "D",
                         "grid": null
                     }
                 },
