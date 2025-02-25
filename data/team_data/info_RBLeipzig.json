@@ -979,18 +979,18 @@
                 },
                 {
                     "player": {
-                        "id": 125723,
-                        "name": "T. Keller",
-                        "number": 27,
+                        "id": 203011,
+                        "name": "J. Niehues",
+                        "number": 16,
                         "pos": "M",
                         "grid": null
                     }
                 },
                 {
                     "player": {
-                        "id": 203011,
-                        "name": "J. Niehues",
-                        "number": 16,
+                        "id": 125723,
+                        "name": "T. Keller",
+                        "number": 27,
                         "pos": "M",
                         "grid": null
                     }
