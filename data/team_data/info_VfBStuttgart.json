@@ -288,7 +288,7 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 473
+                    "value": 476
                 },
                 {
                     "type": "Passes accurate",
@@ -296,11 +296,11 @@
                 },
                 {
                     "type": "Passes %",
-                    "value": "81%"
+                    "value": "80%"
                 },
                 {
                     "type": "expected_goals",
-                    "value": "1.02"
+                    "value": "1.00"
                 },
                 {
                     "type": "goals_prevented",
@@ -381,7 +381,7 @@
                 },
                 {
                     "type": "expected_goals",
-                    "value": "2.96"
+                    "value": "2.99"
                 },
                 {
                     "type": "goals_prevented",
