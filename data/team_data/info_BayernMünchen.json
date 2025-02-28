@@ -546,7 +546,7 @@
                 },
                 {
                     "type": "Fouls",
-                    "value": 11
+                    "value": 12
                 },
                 {
                     "type": "Corner Kicks",
@@ -562,7 +562,7 @@
                 },
                 {
                     "type": "Yellow Cards",
-                    "value": 4
+                    "value": 5
                 },
                 {
                     "type": "Red Cards",
@@ -574,11 +574,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 444
+                    "value": 464
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 370
+                    "value": 386
                 },
                 {
                     "type": "Passes %",
@@ -607,11 +607,11 @@
                 },
                 {
                     "type": "Shots off Goal",
-                    "value": 4
+                    "value": 5
                 },
                 {
                     "type": "Total Shots",
-                    "value": 16
+                    "value": 17
                 },
                 {
                     "type": "Blocked Shots",
@@ -623,7 +623,7 @@
                 },
                 {
                     "type": "Shots outsidebox",
-                    "value": 6
+                    "value": 7
                 },
                 {
                     "type": "Fouls",
@@ -655,11 +655,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 425
+                    "value": 430
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 367
+                    "value": 371
                 },
                 {
                     "type": "Passes %",
@@ -667,7 +667,7 @@
                 },
                 {
                     "type": "expected_goals",
-                    "value": "2.10"
+                    "value": "2.17"
                 },
                 {
                     "type": "goals_prevented",
