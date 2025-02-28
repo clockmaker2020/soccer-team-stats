@@ -818,6 +818,24 @@
                 },
                 {
                     "player": {
+                        "id": 22,
+                        "name": "Jacob Bruun Larsen",
+                        "number": 25,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 46930,
+                        "name": "Ermedin Demirović",
+                        "number": 9,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 25597,
                         "name": "Fabian Bredlow",
                         "number": 1,
@@ -854,28 +872,10 @@
                 },
                 {
                     "player": {
-                        "id": 22,
-                        "name": "Jacob Bruun Larsen",
-                        "number": 25,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 163032,
                         "name": "Fabian Rieder",
                         "number": 32,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 46930,
-                        "name": "Ermedin Demirović",
-                        "number": 9,
-                        "pos": "F",
                         "grid": null
                     }
                 }
@@ -1018,6 +1018,42 @@
                 },
                 {
                     "player": {
+                        "id": 125171,
+                        "name": "Josip Stanišić",
+                        "number": 44,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 32893,
+                        "name": "Hiroki Itō",
+                        "number": 21,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 510,
+                        "name": "Serge Gnabry",
+                        "number": 7,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 522,
+                        "name": "Thomas Müller",
+                        "number": 25,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 203376,
                         "name": "Jonas Urbig",
                         "number": 40,
@@ -1045,46 +1081,10 @@
                 },
                 {
                     "player": {
-                        "id": 32893,
-                        "name": "Hiroki Itō",
-                        "number": 21,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 125171,
-                        "name": "Josip Stanišić",
-                        "number": 44,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 280334,
                         "name": "Gabriel Vidović",
                         "number": 24,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 510,
-                        "name": "Serge Gnabry",
-                        "number": 7,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 522,
-                        "name": "Thomas Müller",
-                        "number": 25,
-                        "pos": "F",
                         "grid": null
                     }
                 }
