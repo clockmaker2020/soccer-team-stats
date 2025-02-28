@@ -2,18 +2,30 @@
     "latest_matches": [
         {
             "team": "Bayern München",
-            "date": "2025-02-23 16:30",
-            "opponent": "Eintracht Frankfurt",
-            "score": "4 - 0",
-            "stadium": "Allianz Arena",
-            "referee": "S. Stegemann",
-            "league_round": "Regular Season - 23",
+            "date": "2025-02-28 19:30",
+            "opponent": "VfB Stuttgart",
+            "score": "1 - 3",
+            "stadium": "MHPArena",
+            "referee": "Benjamin Brand, Germany",
+            "league_round": "Regular Season - 24",
             "events": [
                 {
-                    "time": "43'",
-                    "player": "J. Kimmich",
-                    "detail": "Substitution 1",
-                    "team": "Bayern München"
+                    "time": "34'",
+                    "player": "A. Stiller",
+                    "detail": "Normal Goal",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "39'",
+                    "player": "F. Jeltsch",
+                    "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "42'",
+                    "player": "J. Chabot",
+                    "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
                 },
                 {
                     "time": "45'",
@@ -22,88 +34,106 @@
                     "team": "Bayern München"
                 },
                 {
-                    "time": "46'",
-                    "player": "O. Højlund",
+                    "time": "48'",
+                    "player": "C. Fuhrich",
+                    "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "59'",
+                    "player": "K. Laimer",
+                    "detail": "Yellow Card",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "62'",
+                    "player": "K. Coman",
                     "detail": "Substitution 1",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "46'",
-                    "player": "C. Uzun",
-                    "detail": "Substitution 2",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "61'",
-                    "player": "H. Ito",
-                    "detail": "Normal Goal",
                     "team": "Bayern München"
-                },
-                {
-                    "time": "63'",
-                    "player": "H. Ito",
-                    "detail": "Substitution 2",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "63'",
-                    "player": "J. Bahoya",
-                    "detail": "Substitution 3",
-                    "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "64'",
-                    "player": "T. Müller",
-                    "detail": "Substitution 3",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "75'",
-                    "player": "H. Ekitiké",
-                    "detail": "Substitution 4",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "75'",
-                    "player": "A. Knauff",
-                    "detail": "Substitution 5",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "77'",
-                    "player": "Leroy Sané",
-                    "detail": "Yellow Card",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "80'",
-                    "player": "Tuta",
-                    "detail": "Yellow Card",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "82'",
-                    "player": "J. Musiala",
+                    "player": "L. Goretzka",
                     "detail": "Normal Goal",
                     "team": "Bayern München"
                 },
                 {
-                    "time": "85'",
-                    "player": "M. Olise",
+                    "time": "66'",
+                    "player": "L. Goretzka",
+                    "detail": "Yellow Card",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "70'",
+                    "player": "R. Hendriks",
+                    "detail": "Substitution 1",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "70'",
+                    "player": "E. Millot",
+                    "detail": "Substitution 2",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "76'",
+                    "player": "J. Stanisic",
+                    "detail": "Substitution 2",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "81'",
+                    "player": "E. Demirovic",
+                    "detail": "Substitution 3",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "81'",
+                    "player": "J. Bruun Larsen",
+                    "detail": "Substitution 4",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "87'",
+                    "player": "S. Gnabry",
+                    "detail": "Substitution 3",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "87'",
+                    "player": "T. Muller",
                     "detail": "Substitution 4",
                     "team": "Bayern München"
                 },
                 {
-                    "time": "85'",
-                    "player": "J. Musiala",
+                    "time": "87'",
+                    "player": "H. Ito",
                     "detail": "Substitution 5",
                     "team": "Bayern München"
                 },
                 {
                     "time": "90'",
-                    "player": "S. Gnabry",
+                    "player": "K. Coman",
                     "detail": "Normal Goal",
                     "team": "Bayern München"
+                },
+                {
+                    "time": "90'",
+                    "player": "H. Kane",
+                    "detail": "Yellow Card",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "90'",
+                    "player": "E. Millot",
+                    "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "90'",
+                    "player": "E. Demirovic",
+                    "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
                 }
             ],
             "odds": {
@@ -112,6 +142,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-02-28 19:30",
+                    "score": "1 - 3"
+                },
                 {
                     "date": "2025-02-23 16:30",
                     "score": "4 - 0"
@@ -127,10 +161,6 @@
                 {
                     "date": "2025-02-01 14:30",
                     "score": "4 - 3"
-                },
-                {
-                    "date": "2025-01-25 14:30",
-                    "score": "1 - 2"
                 }
             ],
             "future_games": [
@@ -932,60 +962,138 @@
         },
         {
             "team": "VfB Stuttgart",
-            "date": "2025-02-23 18:30",
-            "opponent": "1899 Hoffenheim",
-            "score": "1 - 1",
-            "stadium": "PreZero Arena",
-            "referee": "C. Dingert",
-            "league_round": "Regular Season - 23",
+            "date": "2025-02-28 19:30",
+            "opponent": "Bayern München",
+            "score": "1 - 3",
+            "stadium": "MHPArena",
+            "referee": "Benjamin Brand, Germany",
+            "league_round": "Regular Season - 24",
             "events": [
                 {
-                    "time": "9'",
-                    "player": "N. Woltemade",
+                    "time": "34'",
+                    "player": "A. Stiller",
                     "detail": "Normal Goal",
                     "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "73'",
-                    "player": "J. Leweling",
-                    "detail": "Substitution 1",
+                    "time": "39'",
+                    "player": "F. Jeltsch",
+                    "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "74'",
-                    "player": "G. Orban",
+                    "time": "42'",
+                    "player": "J. Chabot",
+                    "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "45'",
+                    "player": "M. Olise",
                     "detail": "Normal Goal",
-                    "team": "1899 Hoffenheim"
+                    "team": "Bayern München"
                 },
                 {
-                    "time": "77'",
-                    "player": "A. Prass",
+                    "time": "48'",
+                    "player": "C. Fuhrich",
+                    "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "59'",
+                    "player": "K. Laimer",
+                    "detail": "Yellow Card",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "62'",
+                    "player": "K. Coman",
                     "detail": "Substitution 1",
-                    "team": "1899 Hoffenheim"
+                    "team": "Bayern München"
                 },
                 {
-                    "time": "77'",
-                    "player": "M. Bülter",
-                    "detail": "Substitution 2",
-                    "team": "1899 Hoffenheim"
+                    "time": "64'",
+                    "player": "L. Goretzka",
+                    "detail": "Normal Goal",
+                    "team": "Bayern München"
                 },
                 {
-                    "time": "82'",
-                    "player": "A. Karazor",
+                    "time": "66'",
+                    "player": "L. Goretzka",
+                    "detail": "Yellow Card",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "70'",
+                    "player": "R. Hendriks",
+                    "detail": "Substitution 1",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "70'",
+                    "player": "E. Millot",
                     "detail": "Substitution 2",
                     "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "82'",
-                    "player": "D. Undav",
+                    "time": "76'",
+                    "player": "J. Stanisic",
+                    "detail": "Substitution 2",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "81'",
+                    "player": "E. Demirovic",
                     "detail": "Substitution 3",
                     "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "84'",
-                    "player": "G. Orban",
+                    "time": "81'",
+                    "player": "J. Bruun Larsen",
+                    "detail": "Substitution 4",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "87'",
+                    "player": "S. Gnabry",
                     "detail": "Substitution 3",
-                    "team": "1899 Hoffenheim"
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "87'",
+                    "player": "T. Muller",
+                    "detail": "Substitution 4",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "87'",
+                    "player": "H. Ito",
+                    "detail": "Substitution 5",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "90'",
+                    "player": "K. Coman",
+                    "detail": "Normal Goal",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "90'",
+                    "player": "H. Kane",
+                    "detail": "Yellow Card",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "90'",
+                    "player": "E. Millot",
+                    "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "90'",
+                    "player": "E. Demirovic",
+                    "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
                 }
             ],
             "odds": {
@@ -994,6 +1102,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-02-28 19:30",
+                    "score": "1 - 3"
+                },
                 {
                     "date": "2025-02-23 18:30",
                     "score": "1 - 1"
@@ -1009,10 +1121,6 @@
                 {
                     "date": "2025-02-01 14:30",
                     "score": "1 - 2"
-                },
-                {
-                    "date": "2025-01-25 14:30",
-                    "score": "2 - 0"
                 }
             ],
             "future_games": [
