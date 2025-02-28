@@ -114,8 +114,8 @@
                 "name": "Union Berlin"
             },
             "wins": 6,
-            "draws": 6,
-            "losses": 11
+            "draws": 5,
+            "losses": 12
         },
         {
             "rank": 14,
@@ -138,20 +138,20 @@
         {
             "rank": 16,
             "team": {
+                "name": "VfL Bochum"
+            },
+            "wins": 4,
+            "draws": 5,
+            "losses": 14
+        },
+        {
+            "rank": 17,
+            "team": {
                 "name": "1. FC Heidenheim"
             },
             "wins": 4,
             "draws": 3,
             "losses": 16
-        },
-        {
-            "rank": 17,
-            "team": {
-                "name": "VfL Bochum"
-            },
-            "wins": 3,
-            "draws": 6,
-            "losses": 14
         },
         {
             "rank": 18,
