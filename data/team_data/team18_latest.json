@@ -17,13 +17,13 @@
                 },
                 {
                     "time": "39'",
-                    "player": "F. Jeltsch",
+                    "player": "Finn Jeltsch",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "42'",
-                    "player": "J. Chabot",
+                    "player": "Julian Chabot",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
@@ -35,19 +35,19 @@
                 },
                 {
                     "time": "48'",
-                    "player": "C. Fuhrich",
+                    "player": "Chris Führich",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "59'",
-                    "player": "K. Laimer",
+                    "player": "Konrad Laimer",
                     "detail": "Yellow Card",
                     "team": "Bayern München"
                 },
                 {
                     "time": "62'",
-                    "player": "K. Coman",
+                    "player": "L. Sané",
                     "detail": "Substitution 1",
                     "team": "Bayern München"
                 },
@@ -59,55 +59,55 @@
                 },
                 {
                     "time": "66'",
-                    "player": "L. Goretzka",
+                    "player": "Leon Goretzka",
                     "detail": "Yellow Card",
                     "team": "Bayern München"
                 },
                 {
                     "time": "70'",
-                    "player": "R. Hendriks",
+                    "player": "J. Chabot",
                     "detail": "Substitution 1",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "70'",
-                    "player": "E. Millot",
+                    "player": "J. Leweling",
                     "detail": "Substitution 2",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "76'",
-                    "player": "J. Stanisic",
+                    "player": "K. Laimer",
                     "detail": "Substitution 2",
                     "team": "Bayern München"
                 },
                 {
                     "time": "81'",
-                    "player": "E. Demirovic",
+                    "player": "C. Führich",
                     "detail": "Substitution 3",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "81'",
-                    "player": "J. Bruun Larsen",
+                    "player": "A. Karazor",
                     "detail": "Substitution 4",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "87'",
-                    "player": "S. Gnabry",
+                    "player": "A. Davies",
                     "detail": "Substitution 3",
                     "team": "Bayern München"
                 },
                 {
                     "time": "87'",
-                    "player": "T. Muller",
+                    "player": "J. Musiala",
                     "detail": "Substitution 4",
                     "team": "Bayern München"
                 },
                 {
                     "time": "87'",
-                    "player": "H. Ito",
+                    "player": "M. Olise",
                     "detail": "Substitution 5",
                     "team": "Bayern München"
                 },
@@ -119,19 +119,19 @@
                 },
                 {
                     "time": "90'",
-                    "player": "H. Kane",
-                    "detail": "Yellow Card",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "90'",
-                    "player": "E. Millot",
+                    "player": "Ermedin Demirović",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "90'",
-                    "player": "E. Demirovic",
+                    "player": "Harry Kane",
+                    "detail": "Yellow Card",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "90'",
+                    "player": "Enzo Millot",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 }
@@ -185,7 +185,7 @@
             "opponent": "Holstein Kiel",
             "score": "0 - 2",
             "stadium": "Holstein-Stadion",
-            "referee": "D. Schlager",
+            "referee": "Daniel Schlager, Germany",
             "league_round": "Regular Season - 23",
             "events": [
                 {
@@ -977,13 +977,13 @@
                 },
                 {
                     "time": "39'",
-                    "player": "F. Jeltsch",
+                    "player": "Finn Jeltsch",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "42'",
-                    "player": "J. Chabot",
+                    "player": "Julian Chabot",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
@@ -995,19 +995,19 @@
                 },
                 {
                     "time": "48'",
-                    "player": "C. Fuhrich",
+                    "player": "Chris Führich",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "59'",
-                    "player": "K. Laimer",
+                    "player": "Konrad Laimer",
                     "detail": "Yellow Card",
                     "team": "Bayern München"
                 },
                 {
                     "time": "62'",
-                    "player": "K. Coman",
+                    "player": "L. Sané",
                     "detail": "Substitution 1",
                     "team": "Bayern München"
                 },
@@ -1019,55 +1019,55 @@
                 },
                 {
                     "time": "66'",
-                    "player": "L. Goretzka",
+                    "player": "Leon Goretzka",
                     "detail": "Yellow Card",
                     "team": "Bayern München"
                 },
                 {
                     "time": "70'",
-                    "player": "R. Hendriks",
+                    "player": "J. Chabot",
                     "detail": "Substitution 1",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "70'",
-                    "player": "E. Millot",
+                    "player": "J. Leweling",
                     "detail": "Substitution 2",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "76'",
-                    "player": "J. Stanisic",
+                    "player": "K. Laimer",
                     "detail": "Substitution 2",
                     "team": "Bayern München"
                 },
                 {
                     "time": "81'",
-                    "player": "E. Demirovic",
+                    "player": "C. Führich",
                     "detail": "Substitution 3",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "81'",
-                    "player": "J. Bruun Larsen",
+                    "player": "A. Karazor",
                     "detail": "Substitution 4",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "87'",
-                    "player": "S. Gnabry",
+                    "player": "A. Davies",
                     "detail": "Substitution 3",
                     "team": "Bayern München"
                 },
                 {
                     "time": "87'",
-                    "player": "T. Muller",
+                    "player": "J. Musiala",
                     "detail": "Substitution 4",
                     "team": "Bayern München"
                 },
                 {
                     "time": "87'",
-                    "player": "H. Ito",
+                    "player": "M. Olise",
                     "detail": "Substitution 5",
                     "team": "Bayern München"
                 },
@@ -1079,19 +1079,19 @@
                 },
                 {
                     "time": "90'",
-                    "player": "H. Kane",
-                    "detail": "Yellow Card",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "90'",
-                    "player": "E. Millot",
+                    "player": "Ermedin Demirović",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "90'",
-                    "player": "E. Demirovic",
+                    "player": "Harry Kane",
+                    "detail": "Yellow Card",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "90'",
+                    "player": "Enzo Millot",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 }
@@ -2725,7 +2725,7 @@
             "opponent": "Bayer Leverkusen",
             "score": "0 - 2",
             "stadium": "Holstein-Stadion",
-            "referee": "D. Schlager",
+            "referee": "Daniel Schlager, Germany",
             "league_round": "Regular Season - 23",
             "events": [
                 {
