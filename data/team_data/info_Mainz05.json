@@ -227,7 +227,7 @@
         },
         {
             "time": {
-                "elapsed": 76,
+                "elapsed": 75,
                 "extra": null
             },
             "team": {
@@ -245,6 +245,72 @@
             },
             "type": "subst",
             "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 78,
+                "extra": null
+            },
+            "team": {
+                "id": 173,
+                "name": "RB Leipzig",
+                "logo": "https://media.api-sports.io/football/teams/173.png"
+            },
+            "player": {
+                "id": 1167,
+                "name": "Y. Poulsen"
+            },
+            "assist": {
+                "id": 340154,
+                "name": "A. Vermeeren"
+            },
+            "type": "subst",
+            "detail": "Substitution 5",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 83,
+                "extra": null
+            },
+            "team": {
+                "id": 164,
+                "name": "FSV Mainz 05",
+                "logo": "https://media.api-sports.io/football/teams/164.png"
+            },
+            "player": {
+                "id": 24842,
+                "name": "L. Maloney"
+            },
+            "assist": {
+                "id": 714,
+                "name": "N. Amiri"
+            },
+            "type": "subst",
+            "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 88,
+                "extra": null
+            },
+            "team": {
+                "id": 164,
+                "name": "FSV Mainz 05",
+                "logo": "https://media.api-sports.io/football/teams/164.png"
+            },
+            "player": {
+                "id": 24842,
+                "name": "L. Maloney"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
             "comments": null
         }
     ],
