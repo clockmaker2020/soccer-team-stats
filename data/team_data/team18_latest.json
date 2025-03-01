@@ -700,24 +700,6 @@
                     "player": "N. Weiper",
                     "detail": "Substitution 1",
                     "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "78'",
-                    "player": "Y. Poulsen",
-                    "detail": "Substitution 5",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "83'",
-                    "player": "L. Maloney",
-                    "detail": "Substitution 2",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "89'",
-                    "player": "L. Maloney",
-                    "detail": "Yellow Card",
-                    "team": "FSV Mainz 05"
                 }
             ],
             "odds": {
@@ -824,24 +806,6 @@
                     "time": "76'",
                     "player": "N. Weiper",
                     "detail": "Substitution 1",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "78'",
-                    "player": "Y. Poulsen",
-                    "detail": "Substitution 5",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "83'",
-                    "player": "L. Maloney",
-                    "detail": "Substitution 2",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "89'",
-                    "player": "L. Maloney",
-                    "detail": "Yellow Card",
                     "team": "FSV Mainz 05"
                 }
             ],
@@ -1539,126 +1503,30 @@
         },
         {
             "team": "Werder Bremen",
-            "date": "2025-02-21 19:30",
-            "opponent": "SC Freiburg",
-            "score": "5 - 0",
-            "stadium": "Europa-Park Stadion",
-            "referee": "Burda, Max, Germany",
-            "league_round": "Regular Season - 23",
+            "date": "2025-03-01 14:30",
+            "opponent": "VfL Wolfsburg",
+            "score": "1 - 2",
+            "stadium": "Weserstadion",
+            "referee": "Felix Brych, Germany",
+            "league_round": "Regular Season - 24",
             "events": [
                 {
-                    "time": "15'",
-                    "player": "K. Sildillia",
+                    "time": "6'",
+                    "player": "P. Wimmer",
                     "detail": "Normal Goal",
-                    "team": "SC Freiburg"
+                    "team": "VfL Wolfsburg"
                 },
                 {
-                    "time": "21'",
-                    "player": "Maximilian Eggestein",
-                    "detail": "Yellow Card",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "33'",
-                    "player": "V. Grifo",
-                    "detail": "Normal Goal",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "34'",
-                    "player": "Matthias Ginter",
-                    "detail": "Yellow Card",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "37'",
-                    "player": "Derrick Köhn",
-                    "detail": "Penalty confirmed",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "57'",
-                    "player": "V. Grifo",
-                    "detail": "Normal Goal",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "60'",
-                    "player": "L. Bittencourt",
+                    "time": "46'",
+                    "player": "A. Jung",
                     "detail": "Substitution 1",
                     "team": "Werder Bremen"
                 },
                 {
-                    "time": "60'",
-                    "player": "J. Njinmah",
-                    "detail": "Substitution 2",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "61'",
-                    "player": "D. Köhn",
-                    "detail": "Substitution 3",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "62'",
-                    "player": "Merlin Röhl",
-                    "detail": "Yellow Card",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "71'",
-                    "player": "M. Röhl",
-                    "detail": "Substitution 1",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "71'",
-                    "player": "V. Grifo",
-                    "detail": "Substitution 2",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "72'",
-                    "player": "André Silva",
-                    "detail": "Substitution 4",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "76'",
-                    "player": "R. Doan",
+                    "time": "48'",
+                    "player": "P. Wimmer",
                     "detail": "Normal Goal",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "77'",
-                    "player": "L. Höler",
-                    "detail": "Substitution 3",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "82'",
-                    "player": "M. Eggestein",
-                    "detail": "Substitution 4",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "82'",
-                    "player": "C. Günter",
-                    "detail": "Substitution 5",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "86'",
-                    "player": "A. Pieper",
-                    "detail": "Substitution 5",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "90'",
-                    "player": "R. Doan",
-                    "detail": "Normal Goal",
-                    "team": "SC Freiburg"
+                    "team": "VfL Wolfsburg"
                 }
             ],
             "odds": {
@@ -1667,6 +1535,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-03-01 14:30",
+                    "score": "1 - 2"
+                },
                 {
                     "date": "2025-02-21 19:30",
                     "score": "5 - 0"
@@ -1682,10 +1554,6 @@
                 {
                     "date": "2025-01-31 19:30",
                     "score": "1 - 0"
-                },
-                {
-                    "date": "2025-01-25 14:30",
-                    "score": "2 - 2"
                 }
             ],
             "future_games": [
