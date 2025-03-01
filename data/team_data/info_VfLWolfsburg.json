@@ -150,7 +150,7 @@
                 },
                 {
                     "type": "Fouls",
-                    "value": 11
+                    "value": 13
                 },
                 {
                     "type": "Corner Kicks",
@@ -166,7 +166,7 @@
                 },
                 {
                     "type": "Yellow Cards",
-                    "value": 1
+                    "value": 2
                 },
                 {
                     "type": "Red Cards",
@@ -178,19 +178,19 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 502
+                    "value": 517
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 411
+                    "value": 419
                 },
                 {
                     "type": "Passes %",
-                    "value": "82%"
+                    "value": "81%"
                 },
                 {
                     "type": "expected_goals",
-                    "value": "1.51"
+                    "value": "1.66"
                 },
                 {
                     "type": "goals_prevented",
@@ -259,11 +259,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 403
+                    "value": 413
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 324
+                    "value": 330
                 },
                 {
                     "type": "Passes %",
