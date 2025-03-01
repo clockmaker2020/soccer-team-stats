@@ -3,6 +3,76 @@
     "past_matches": [
         {
             "fixture": {
+                "id": 1224183,
+                "referee": "Daniel Siebert, Germany",
+                "timezone": "UTC",
+                "date": "2025-03-01T14:30:00+00:00",
+                "timestamp": 1740839400,
+                "periods": {
+                    "first": 1740839400,
+                    "second": 1740843000
+                },
+                "venue": {
+                    "id": 738,
+                    "name": "Red Bull Arena",
+                    "city": "Leipzig"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 5
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 24",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 173,
+                    "name": "RB Leipzig",
+                    "logo": "https://media.api-sports.io/football/teams/173.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 164,
+                    "name": "FSV Mainz 05",
+                    "logo": "https://media.api-sports.io/football/teams/164.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
                 "id": 1224179,
                 "referee": "Felix Zwayer, Germany",
                 "timezone": "UTC",
@@ -269,76 +339,6 @@
                 },
                 "fulltime": {
                     "home": 1,
-                    "away": 0
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
-                "id": 1224143,
-                "referee": "Tobias Stieler, Germany",
-                "timezone": "UTC",
-                "date": "2025-01-25T14:30:00+00:00",
-                "timestamp": 1737815400,
-                "periods": {
-                    "first": 1737815400,
-                    "second": 1737819000
-                },
-                "venue": {
-                    "id": 11899,
-                    "name": "MEWA ARENA",
-                    "city": "Mainz"
-                },
-                "status": {
-                    "long": "Match Finished",
-                    "short": "FT",
-                    "elapsed": 90,
-                    "extra": 6
-                }
-            },
-            "league": {
-                "id": 78,
-                "name": "Bundesliga",
-                "country": "Germany",
-                "logo": "https://media.api-sports.io/football/leagues/78.png",
-                "flag": "https://media.api-sports.io/flags/de.svg",
-                "season": 2024,
-                "round": "Regular Season - 19",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 164,
-                    "name": "FSV Mainz 05",
-                    "logo": "https://media.api-sports.io/football/teams/164.png",
-                    "winner": true
-                },
-                "away": {
-                    "id": 172,
-                    "name": "VfB Stuttgart",
-                    "logo": "https://media.api-sports.io/football/teams/172.png",
-                    "winner": false
-                }
-            },
-            "goals": {
-                "home": 2,
-                "away": 0
-            },
-            "score": {
-                "halftime": {
-                    "home": 1,
-                    "away": 0
-                },
-                "fulltime": {
-                    "home": 2,
                     "away": 0
                 },
                 "extratime": {
