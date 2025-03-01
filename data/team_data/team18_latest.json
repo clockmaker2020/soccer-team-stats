@@ -696,9 +696,27 @@
                     "team": "RB Leipzig"
                 },
                 {
-                    "time": "76'",
+                    "time": "75'",
                     "player": "N. Weiper",
                     "detail": "Substitution 1",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "78'",
+                    "player": "Y. Poulsen",
+                    "detail": "Substitution 5",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "83'",
+                    "player": "L. Maloney",
+                    "detail": "Substitution 2",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "88'",
+                    "player": "L. Maloney",
+                    "detail": "Yellow Card",
                     "team": "FSV Mainz 05"
                 }
             ],
@@ -803,9 +821,27 @@
                     "team": "RB Leipzig"
                 },
                 {
-                    "time": "76'",
+                    "time": "75'",
                     "player": "N. Weiper",
                     "detail": "Substitution 1",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "78'",
+                    "player": "Y. Poulsen",
+                    "detail": "Substitution 5",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "83'",
+                    "player": "L. Maloney",
+                    "detail": "Substitution 2",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "88'",
+                    "player": "L. Maloney",
+                    "detail": "Yellow Card",
                     "team": "FSV Mainz 05"
                 }
             ],
@@ -1057,6 +1093,72 @@
                     "player": "P. Wimmer",
                     "detail": "Normal Goal",
                     "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "65'",
+                    "player": "T. Tomas",
+                    "detail": "Substitution 1",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "65'",
+                    "player": "Y. Gerhardt",
+                    "detail": "Substitution 2",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "70'",
+                    "player": "O. Burke",
+                    "detail": "Yellow Card",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "72'",
+                    "player": "K. Topp",
+                    "detail": "Substitution 2",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "72'",
+                    "player": "D. Kohn",
+                    "detail": "Substitution 3",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "72'",
+                    "player": "I. Kabore",
+                    "detail": "Substitution 4",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "73'",
+                    "player": "A. Vranckx",
+                    "detail": "Substitution 3",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "89'",
+                    "player": "K. Fischer",
+                    "detail": "Substitution 4",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "89'",
+                    "player": "K. Behrens",
+                    "detail": "Substitution 5",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "90'",
+                    "player": "M. Weiser",
+                    "detail": "Normal Goal",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "90'",
+                    "player": "M. Veljkovic",
+                    "detail": "Yellow Card",
+                    "team": "Werder Bremen"
                 }
             ],
             "odds": {
@@ -1288,6 +1390,78 @@
                     "time": "50'",
                     "player": "S. Guirassy",
                     "detail": "Normal Goal",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "57'",
+                    "player": "O. Afolayan",
+                    "detail": "Substitution 1",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "58'",
+                    "player": "K. Adeyemi",
+                    "detail": "Normal Goal",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "73'",
+                    "player": "A. Ceesay",
+                    "detail": "Substitution 2",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "74'",
+                    "player": "D. Svensson",
+                    "detail": "Substitution 1",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "74'",
+                    "player": "C. Chukwuemeka",
+                    "detail": "Substitution 2",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "79'",
+                    "player": "A. Ceesay",
+                    "detail": "Yellow Card",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "82'",
+                    "player": "K. Adeyemi",
+                    "detail": "Yellow Card",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "83'",
+                    "player": "J. Gittens",
+                    "detail": "Substitution 3",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "83'",
+                    "player": "M. Saliakas",
+                    "detail": "Substitution 3",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "83'",
+                    "player": "D. Sinani",
+                    "detail": "Substitution 4",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "89'",
+                    "player": "J. Brandt",
+                    "detail": "Substitution 4",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "89'",
+                    "player": "S. Ozcan",
+                    "detail": "Substitution 5",
                     "team": "Borussia Dortmund"
                 }
             ],
@@ -1527,6 +1701,72 @@
                     "player": "P. Wimmer",
                     "detail": "Normal Goal",
                     "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "65'",
+                    "player": "T. Tomas",
+                    "detail": "Substitution 1",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "65'",
+                    "player": "Y. Gerhardt",
+                    "detail": "Substitution 2",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "70'",
+                    "player": "O. Burke",
+                    "detail": "Yellow Card",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "72'",
+                    "player": "K. Topp",
+                    "detail": "Substitution 2",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "72'",
+                    "player": "D. Kohn",
+                    "detail": "Substitution 3",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "72'",
+                    "player": "I. Kabore",
+                    "detail": "Substitution 4",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "73'",
+                    "player": "A. Vranckx",
+                    "detail": "Substitution 3",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "89'",
+                    "player": "K. Fischer",
+                    "detail": "Substitution 4",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "89'",
+                    "player": "K. Behrens",
+                    "detail": "Substitution 5",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "90'",
+                    "player": "M. Weiser",
+                    "detail": "Normal Goal",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "90'",
+                    "player": "M. Veljkovic",
+                    "detail": "Yellow Card",
+                    "team": "Werder Bremen"
                 }
             ],
             "odds": {
@@ -1883,6 +2123,78 @@
                     "time": "50'",
                     "player": "S. Guirassy",
                     "detail": "Normal Goal",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "57'",
+                    "player": "O. Afolayan",
+                    "detail": "Substitution 1",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "58'",
+                    "player": "K. Adeyemi",
+                    "detail": "Normal Goal",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "73'",
+                    "player": "A. Ceesay",
+                    "detail": "Substitution 2",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "74'",
+                    "player": "D. Svensson",
+                    "detail": "Substitution 1",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "74'",
+                    "player": "C. Chukwuemeka",
+                    "detail": "Substitution 2",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "79'",
+                    "player": "A. Ceesay",
+                    "detail": "Yellow Card",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "82'",
+                    "player": "K. Adeyemi",
+                    "detail": "Yellow Card",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "83'",
+                    "player": "J. Gittens",
+                    "detail": "Substitution 3",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "83'",
+                    "player": "M. Saliakas",
+                    "detail": "Substitution 3",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "83'",
+                    "player": "D. Sinani",
+                    "detail": "Substitution 4",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "89'",
+                    "player": "J. Brandt",
+                    "detail": "Substitution 4",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "89'",
+                    "player": "S. Ozcan",
+                    "detail": "Substitution 5",
                     "team": "Borussia Dortmund"
                 }
             ],
