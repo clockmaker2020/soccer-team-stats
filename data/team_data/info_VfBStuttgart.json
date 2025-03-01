@@ -558,7 +558,7 @@
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "52%"
+                    "value": "53%"
                 },
                 {
                     "type": "Yellow Cards",
@@ -574,11 +574,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 464
+                    "value": 472
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 386
+                    "value": 394
                 },
                 {
                     "type": "Passes %",
@@ -586,7 +586,7 @@
                 },
                 {
                     "type": "expected_goals",
-                    "value": "0.94"
+                    "value": "0.89"
                 },
                 {
                     "type": "goals_prevented",
@@ -639,7 +639,7 @@
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "48%"
+                    "value": "47%"
                 },
                 {
                     "type": "Yellow Cards",
@@ -655,7 +655,7 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 430
+                    "value": 432
                 },
                 {
                     "type": "Passes accurate",
@@ -667,7 +667,7 @@
                 },
                 {
                     "type": "expected_goals",
-                    "value": "2.17"
+                    "value": "2.19"
                 },
                 {
                     "type": "goals_prevented",
@@ -881,9 +881,8 @@
                 }
             ],
             "coach": {
-                "id": 1399,
-                "name": "S. Hoeneß",
-                "photo": "https://media.api-sports.io/football/coachs/1399.png"
+                "id": null,
+                "name": null
             }
         },
         {
@@ -1090,9 +1089,8 @@
                 }
             ],
             "coach": {
-                "id": 12590,
-                "name": "V. Kompany",
-                "photo": "https://media.api-sports.io/football/coachs/12590.png"
+                "id": null,
+                "name": null
             }
         }
     ],
