@@ -580,6 +580,51 @@
             "substitutes": [
                 {
                     "player": {
+                        "id": 33019,
+                        "name": "Koji Miyoshi",
+                        "number": 23,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 26227,
+                        "name": "Moritz Broschinski",
+                        "number": 29,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 539,
+                        "name": "Dani de Wit",
+                        "number": 10,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 280368,
+                        "name": "Samuel Bamba",
+                        "number": 18,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 336224,
+                        "name": "Mats Pannewig",
+                        "number": 24,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 26395,
                         "name": "Patrick Drewes",
                         "number": 27,
@@ -607,55 +652,10 @@
                 },
                 {
                     "player": {
-                        "id": 33019,
-                        "name": "Koji Miyoshi",
-                        "number": 23,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 539,
-                        "name": "Dani de Wit",
-                        "number": 10,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 280368,
-                        "name": "Samuel Bamba",
-                        "number": 18,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 25074,
                         "name": "Anthony Losilla",
                         "number": 8,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 336224,
-                        "name": "Mats Pannewig",
-                        "number": 24,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 26227,
-                        "name": "Moritz Broschinski",
-                        "number": 29,
-                        "pos": "F",
                         "grid": null
                     }
                 }
@@ -789,6 +789,42 @@
             "substitutes": [
                 {
                     "player": {
+                        "id": 28382,
+                        "name": "Haris Tabaković",
+                        "number": 26,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 25366,
+                        "name": "Kevin Akpoguma",
+                        "number": 25,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 387643,
+                        "name": "Bazoumana Touré",
+                        "number": 29,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 270,
+                        "name": "Stanley N'Soki",
+                        "number": 34,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 163066,
                         "name": "Luca Philipp",
                         "number": 37,
@@ -807,24 +843,6 @@
                 },
                 {
                     "player": {
-                        "id": 270,
-                        "name": "Stanley N'Soki",
-                        "number": 34,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 25366,
-                        "name": "Kevin Akpoguma",
-                        "number": 25,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 1094,
                         "name": "Diadié Samassékou",
                         "number": 18,
@@ -834,27 +852,9 @@
                 },
                 {
                     "player": {
-                        "id": 387643,
-                        "name": "Bazoumana Touré",
-                        "number": 29,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 128350,
                         "name": "Erencan Yardımcı",
                         "number": 53,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 28382,
-                        "name": "Haris Tabaković",
-                        "number": 26,
                         "pos": "F",
                         "grid": null
                     }
