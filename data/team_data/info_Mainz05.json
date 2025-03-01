@@ -480,18 +480,18 @@
                 },
                 {
                     "player": {
-                        "id": 1153,
-                        "name": "Amadou Haidara",
-                        "number": 8,
+                        "id": 340154,
+                        "name": "Arthur Vermeeren",
+                        "number": 18,
                         "pos": "M",
                         "grid": "3:3"
                     }
                 },
                 {
                     "player": {
-                        "id": 340154,
-                        "name": "Arthur Vermeeren",
-                        "number": 18,
+                        "id": 1153,
+                        "name": "Amadou Haidara",
+                        "number": 8,
                         "pos": "M",
                         "grid": "3:2"
                     }
@@ -536,51 +536,6 @@
             "substitutes": [
                 {
                     "player": {
-                        "id": 24814,
-                        "name": "Leopold Zingerle",
-                        "number": 25,
-                        "pos": "G",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 1924,
-                        "name": "Maarten Vandevoordt",
-                        "number": 26,
-                        "pos": "G",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 162761,
-                        "name": "Castello Lukeba",
-                        "number": 23,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 1144,
-                        "name": "Lukas Klostermann",
-                        "number": 16,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 342320,
-                        "name": "Kosta Nedeljković",
-                        "number": 21,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 1155,
                         "name": "Kevin Kampl",
                         "number": 44,
@@ -599,10 +554,19 @@
                 },
                 {
                     "player": {
-                        "id": 383665,
-                        "name": "Tidiam Gomis",
-                        "number": 27,
-                        "pos": "F",
+                        "id": 162761,
+                        "name": "Castello Lukeba",
+                        "number": 23,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 342320,
+                        "name": "Kosta Nedeljković",
+                        "number": 21,
+                        "pos": "D",
                         "grid": null
                     }
                 },
@@ -611,6 +575,42 @@
                         "id": 1167,
                         "name": "Yussuf Poulsen",
                         "number": 9,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 24814,
+                        "name": "Leopold Zingerle",
+                        "number": 25,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 1924,
+                        "name": "Maarten Vandevoordt",
+                        "number": 26,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 1144,
+                        "name": "Lukas Klostermann",
+                        "number": 16,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 383665,
+                        "name": "Tidiam Gomis",
+                        "number": 27,
                         "pos": "F",
                         "grid": null
                     }
@@ -745,6 +745,24 @@
             "substitutes": [
                 {
                     "player": {
+                        "id": 342177,
+                        "name": "Nelson Weiper",
+                        "number": 44,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 24842,
+                        "name": "Lennard Maloney",
+                        "number": 15,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 180553,
                         "name": "Lasse Riess",
                         "number": 1,
@@ -793,24 +811,6 @@
                         "id": 22097,
                         "name": "Arnaud Nordin",
                         "number": 9,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 24842,
-                        "name": "Lennard Maloney",
-                        "number": 15,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 342177,
-                        "name": "Nelson Weiper",
-                        "number": 44,
                         "pos": "F",
                         "grid": null
                     }
