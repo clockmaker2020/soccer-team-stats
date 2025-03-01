@@ -404,15 +404,6 @@
             "substitutes": [
                 {
                     "player": {
-                        "id": 329578,
-                        "name": "Mio Backhaus",
-                        "number": 30,
-                        "pos": "G",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 15874,
                         "name": "Anthony Jung",
                         "number": 3,
@@ -426,6 +417,33 @@
                         "name": "Issa Kaboré",
                         "number": 29,
                         "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 128853,
+                        "name": "Derrick Köhn",
+                        "number": 19,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 334334,
+                        "name": "Keke Topp",
+                        "number": 42,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 329578,
+                        "name": "Mio Backhaus",
+                        "number": 30,
+                        "pos": "G",
                         "grid": null
                     }
                 },
@@ -449,28 +467,10 @@
                 },
                 {
                     "player": {
-                        "id": 128853,
-                        "name": "Derrick Köhn",
-                        "number": 19,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 455290,
                         "name": "Wesley Adeh",
                         "number": 48,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 334334,
-                        "name": "Keke Topp",
-                        "number": 42,
-                        "pos": "F",
                         "grid": null
                     }
                 },
@@ -613,60 +613,6 @@
             "substitutes": [
                 {
                     "player": {
-                        "id": 25396,
-                        "name": "Pavao Pervan",
-                        "number": 12,
-                        "pos": "G",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 177618,
-                        "name": "Kilian Fischer",
-                        "number": 2,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 394740,
-                        "name": "David Odogu",
-                        "number": 33,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 127413,
-                        "name": "Aster Vranckx",
-                        "number": 6,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 40560,
-                        "name": "Jakub Kamiński",
-                        "number": 16,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 431946,
-                        "name": "Bennit Bröger",
-                        "number": 38,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 25400,
                         "name": "Yannick Gerhardt",
                         "number": 31,
@@ -685,10 +631,64 @@
                 },
                 {
                     "player": {
+                        "id": 127413,
+                        "name": "Aster Vranckx",
+                        "number": 6,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 177618,
+                        "name": "Kilian Fischer",
+                        "number": 2,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 25192,
                         "name": "Kevin Behrens",
                         "number": 17,
                         "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 25396,
+                        "name": "Pavao Pervan",
+                        "number": 12,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 394740,
+                        "name": "David Odogu",
+                        "number": 33,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 40560,
+                        "name": "Jakub Kamiński",
+                        "number": 16,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 431946,
+                        "name": "Bennit Bröger",
+                        "number": 38,
+                        "pos": "M",
                         "grid": null
                     }
                 }
