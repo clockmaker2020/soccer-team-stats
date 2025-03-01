@@ -181,101 +181,113 @@
         },
         {
             "team": "Bayer Leverkusen",
-            "date": "2025-02-22 14:30",
-            "opponent": "Holstein Kiel",
-            "score": "0 - 2",
-            "stadium": "Holstein-Stadion",
-            "referee": "Daniel Schlager, Germany",
-            "league_round": "Regular Season - 23",
+            "date": "2025-03-01 17:30",
+            "opponent": "Eintracht Frankfurt",
+            "score": "1 - 4",
+            "stadium": "Deutsche Bank Park",
+            "referee": "Felix Zwayer, Germany",
+            "league_round": "Regular Season - 24",
             "events": [
                 {
-                    "time": "9'",
+                    "time": "26'",
+                    "player": "N. Tella",
+                    "detail": "Normal Goal",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "29'",
+                    "player": "N. Mukiele",
+                    "detail": "Normal Goal",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "33'",
                     "player": "P. Schick",
                     "detail": "Normal Goal",
                     "team": "Bayer Leverkusen"
                 },
                 {
-                    "time": "12'",
-                    "player": "Magnus Knudsen",
-                    "detail": "Yellow Card",
-                    "team": "Holstein Kiel"
+                    "time": "37'",
+                    "player": "H. Ekitike",
+                    "detail": "Normal Goal",
+                    "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "24'",
-                    "player": "David Zec",
-                    "detail": "Yellow Card",
-                    "team": "Holstein Kiel"
+                    "time": "46'",
+                    "player": "N. Collins",
+                    "detail": "Substitution 1",
+                    "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "45'",
+                    "time": "46'",
+                    "player": "O. Hojlund",
+                    "detail": "Substitution 2",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "58'",
                     "player": "A. Adli",
+                    "detail": "Substitution 1",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "62'",
+                    "player": "A. Garcia",
                     "detail": "Normal Goal",
                     "team": "Bayer Leverkusen"
                 },
                 {
-                    "time": "63'",
-                    "player": "D. Zec",
-                    "detail": "Substitution 1",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "63'",
-                    "player": "S. Machino",
-                    "detail": "Substitution 2",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "63'",
-                    "player": "M. Knudsen",
-                    "detail": "Substitution 3",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "70'",
-                    "player": "A. Adli",
-                    "detail": "Substitution 1",
+                    "time": "69'",
+                    "player": "G. Xhaka",
+                    "detail": "Yellow Card",
                     "team": "Bayer Leverkusen"
                 },
                 {
-                    "time": "75'",
-                    "player": "Dominik Javorček",
-                    "detail": "Yellow Card",
-                    "team": "Holstein Kiel"
+                    "time": "71'",
+                    "player": "M. Batshuayi",
+                    "detail": "Substitution 3",
+                    "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "75'",
-                    "player": "A. Gigović",
+                    "time": "72'",
+                    "player": "J. Bahoya",
                     "detail": "Substitution 4",
-                    "team": "Holstein Kiel"
+                    "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "78'",
-                    "player": "Piero Hincapié",
-                    "detail": "Yellow Card",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "78'",
-                    "player": "D. Javorček",
-                    "detail": "Substitution 5",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "82'",
-                    "player": "Marco Komenda",
-                    "detail": "Yellow Card",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "83'",
-                    "player": "J. Frimpong",
+                    "time": "77'",
+                    "player": "V. Boniface",
                     "detail": "Substitution 2",
                     "team": "Bayer Leverkusen"
                 },
                 {
-                    "time": "83'",
-                    "player": "P. Schick",
+                    "time": "77'",
+                    "player": "E. Palacios",
                     "detail": "Substitution 3",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "78'",
+                    "player": "N. Nkounkou",
+                    "detail": "Substitution 5",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "80'",
+                    "player": "E. Skhiri",
+                    "detail": "Yellow Card",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "83'",
+                    "player": "E. Buendia",
+                    "detail": "Substitution 4",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "83'",
+                    "player": "J. Hofmann",
+                    "detail": "Substitution 5",
                     "team": "Bayer Leverkusen"
                 }
             ],
@@ -285,6 +297,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-03-01 17:30",
+                    "score": "1 - 4"
+                },
                 {
                     "date": "2025-02-22 14:30",
                     "score": "0 - 2"
@@ -300,10 +316,6 @@
                 {
                     "date": "2025-02-02 16:30",
                     "score": "3 - 1"
-                },
-                {
-                    "date": "2025-01-25 14:30",
-                    "score": "2 - 2"
                 }
             ],
             "future_games": [
