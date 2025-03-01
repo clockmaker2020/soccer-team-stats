@@ -108,12 +108,254 @@
                 "name": "P. Wimmer"
             },
             "assist": {
-                "id": 200139,
-                "name": "M. Amoura"
+                "id": null,
+                "name": null
             },
             "type": "Goal",
             "detail": "Normal Goal",
             "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 65,
+                "extra": null
+            },
+            "team": {
+                "id": 161,
+                "name": "VfL Wolfsburg",
+                "logo": "https://media.api-sports.io/football/teams/161.png"
+            },
+            "player": {
+                "id": 265363,
+                "name": "T. Tomas"
+            },
+            "assist": {
+                "id": 200139,
+                "name": "M. Amoura"
+            },
+            "type": "subst",
+            "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 65,
+                "extra": null
+            },
+            "team": {
+                "id": 161,
+                "name": "VfL Wolfsburg",
+                "logo": "https://media.api-sports.io/football/teams/161.png"
+            },
+            "player": {
+                "id": 25400,
+                "name": "Y. Gerhardt"
+            },
+            "assist": {
+                "id": 380503,
+                "name": "B. Dardai"
+            },
+            "type": "subst",
+            "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 70,
+                "extra": null
+            },
+            "team": {
+                "id": 162,
+                "name": "Werder Bremen",
+                "logo": "https://media.api-sports.io/football/teams/162.png"
+            },
+            "player": {
+                "id": 1124,
+                "name": "O. Burke"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Tripping"
+        },
+        {
+            "time": {
+                "elapsed": 72,
+                "extra": null
+            },
+            "team": {
+                "id": 162,
+                "name": "Werder Bremen",
+                "logo": "https://media.api-sports.io/football/teams/162.png"
+            },
+            "player": {
+                "id": 334334,
+                "name": "K. Topp"
+            },
+            "assist": {
+                "id": 2063,
+                "name": "Andre Silva"
+            },
+            "type": "subst",
+            "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 72,
+                "extra": null
+            },
+            "team": {
+                "id": 162,
+                "name": "Werder Bremen",
+                "logo": "https://media.api-sports.io/football/teams/162.png"
+            },
+            "player": {
+                "id": 128853,
+                "name": "D. Kohn"
+            },
+            "assist": {
+                "id": 26319,
+                "name": "F. Agu"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 72,
+                "extra": null
+            },
+            "team": {
+                "id": 162,
+                "name": "Werder Bremen",
+                "logo": "https://media.api-sports.io/football/teams/162.png"
+            },
+            "player": {
+                "id": 140947,
+                "name": "I. Kabore"
+            },
+            "assist": {
+                "id": 716,
+                "name": "L. Bittencourt"
+            },
+            "type": "subst",
+            "detail": "Substitution 4",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 73,
+                "extra": null
+            },
+            "team": {
+                "id": 161,
+                "name": "VfL Wolfsburg",
+                "logo": "https://media.api-sports.io/football/teams/161.png"
+            },
+            "player": {
+                "id": 127413,
+                "name": "A. Vranckx"
+            },
+            "assist": {
+                "id": 126642,
+                "name": "P. Wimmer"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 89,
+                "extra": null
+            },
+            "team": {
+                "id": 161,
+                "name": "VfL Wolfsburg",
+                "logo": "https://media.api-sports.io/football/teams/161.png"
+            },
+            "player": {
+                "id": 177618,
+                "name": "K. Fischer"
+            },
+            "assist": {
+                "id": 15916,
+                "name": "A. Skov Olsen"
+            },
+            "type": "subst",
+            "detail": "Substitution 4",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 89,
+                "extra": null
+            },
+            "team": {
+                "id": 161,
+                "name": "VfL Wolfsburg",
+                "logo": "https://media.api-sports.io/football/teams/161.png"
+            },
+            "player": {
+                "id": 25192,
+                "name": "K. Behrens"
+            },
+            "assist": {
+                "id": 1302,
+                "name": "J. Wind"
+            },
+            "type": "subst",
+            "detail": "Substitution 5",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 90,
+                "extra": null
+            },
+            "team": {
+                "id": 162,
+                "name": "Werder Bremen",
+                "logo": "https://media.api-sports.io/football/teams/162.png"
+            },
+            "player": {
+                "id": 973,
+                "name": "M. Weiser"
+            },
+            "assist": {
+                "id": 15592,
+                "name": "J. Stage"
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 90,
+                "extra": 1
+            },
+            "team": {
+                "id": 162,
+                "name": "Werder Bremen",
+                "logo": "https://media.api-sports.io/football/teams/162.png"
+            },
+            "player": {
+                "id": 2821,
+                "name": "M. Veljkovic"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Roughing"
         }
     ],
     "statistics": [
