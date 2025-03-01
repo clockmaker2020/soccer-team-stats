@@ -499,7 +499,7 @@
             "league_round": "Regular Season - 24",
             "events": [
                 {
-                    "time": "2'",
+                    "time": "1'",
                     "player": "X. Simons",
                     "detail": "Normal Goal",
                     "team": "RB Leipzig"
@@ -791,7 +791,7 @@
             "league_round": "Regular Season - 24",
             "events": [
                 {
-                    "time": "2'",
+                    "time": "1'",
                     "player": "X. Simons",
                     "detail": "Normal Goal",
                     "team": "RB Leipzig"
@@ -1108,7 +1108,7 @@
                 },
                 {
                     "time": "58'",
-                    "player": "O. H. Traore",
+                    "player": "P. Mainka",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
                 },
