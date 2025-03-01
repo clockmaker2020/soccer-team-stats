@@ -765,54 +765,9 @@
                 },
                 {
                     "player": {
-                        "id": 328008,
-                        "name": "Frank Feller",
-                        "number": 40,
-                        "pos": "G",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 24897,
-                        "name": "Marnon Busch",
-                        "number": 2,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 280335,
-                        "name": "Frans Krätzig",
-                        "number": 13,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 24904,
-                        "name": "Niklas Dorsch",
-                        "number": 39,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 8959,
                         "name": "Adrian Beck",
                         "number": 21,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 125723,
-                        "name": "Thomas Keller",
-                        "number": 27,
                         "pos": "M",
                         "grid": null
                     }
@@ -832,6 +787,51 @@
                         "name": "Stefan Schimmer",
                         "number": 9,
                         "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 280335,
+                        "name": "Frans Krätzig",
+                        "number": 13,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 328008,
+                        "name": "Frank Feller",
+                        "number": 40,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 24897,
+                        "name": "Marnon Busch",
+                        "number": 2,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 24904,
+                        "name": "Niklas Dorsch",
+                        "number": 39,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 125723,
+                        "name": "Thomas Keller",
+                        "number": 27,
+                        "pos": "M",
                         "grid": null
                     }
                 }
@@ -965,24 +965,6 @@
             "substitutes": [
                 {
                     "player": {
-                        "id": 25627,
-                        "name": "Tobias Sippel",
-                        "number": 21,
-                        "pos": "G",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 24839,
-                        "name": "Marvin Friedrich",
-                        "number": 5,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 163069,
                         "name": "Luca Netz",
                         "number": 20,
@@ -992,18 +974,9 @@
                 },
                 {
                     "player": {
-                        "id": 322627,
-                        "name": "Fabio Chiarodia",
-                        "number": 2,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 1082,
-                        "name": "Stefan Lainer",
-                        "number": 22,
+                        "id": 24839,
+                        "name": "Marvin Friedrich",
+                        "number": 5,
                         "pos": "D",
                         "grid": null
                     }
@@ -1019,19 +992,46 @@
                 },
                 {
                     "player": {
-                        "id": 25638,
-                        "name": "Florian Neuhaus",
-                        "number": 10,
-                        "pos": "M",
+                        "id": 80434,
+                        "name": "Tomáš Čvančara",
+                        "number": 31,
+                        "pos": "F",
                         "grid": null
                     }
                 },
                 {
                     "player": {
-                        "id": 80434,
-                        "name": "Tomáš Čvančara",
-                        "number": 31,
-                        "pos": "F",
+                        "id": 1082,
+                        "name": "Stefan Lainer",
+                        "number": 22,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 25627,
+                        "name": "Tobias Sippel",
+                        "number": 21,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 322627,
+                        "name": "Fabio Chiarodia",
+                        "number": 2,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 25638,
+                        "name": "Florian Neuhaus",
+                        "number": 10,
+                        "pos": "M",
                         "grid": null
                     }
                 },
