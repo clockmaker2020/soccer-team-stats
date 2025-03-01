@@ -366,6 +366,72 @@
                     "player": "O. Hojlund",
                     "detail": "Substitution 2",
                     "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "58'",
+                    "player": "A. Adli",
+                    "detail": "Substitution 1",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "62'",
+                    "player": "A. Garcia",
+                    "detail": "Normal Goal",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "69'",
+                    "player": "G. Xhaka",
+                    "detail": "Yellow Card",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "71'",
+                    "player": "M. Batshuayi",
+                    "detail": "Substitution 3",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "72'",
+                    "player": "J. Bahoya",
+                    "detail": "Substitution 4",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "77'",
+                    "player": "V. Boniface",
+                    "detail": "Substitution 2",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "77'",
+                    "player": "E. Palacios",
+                    "detail": "Substitution 3",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "78'",
+                    "player": "N. Nkounkou",
+                    "detail": "Substitution 5",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "80'",
+                    "player": "E. Skhiri",
+                    "detail": "Yellow Card",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "83'",
+                    "player": "E. Buendia",
+                    "detail": "Substitution 4",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "83'",
+                    "player": "J. Hofmann",
+                    "detail": "Substitution 5",
+                    "team": "Bayer Leverkusen"
                 }
             ],
             "odds": {
