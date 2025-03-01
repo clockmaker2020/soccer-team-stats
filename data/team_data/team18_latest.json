@@ -328,7 +328,7 @@
             "opponent": "Bayern München",
             "score": "4 - 0",
             "stadium": "Allianz Arena",
-            "referee": "S. Stegemann",
+            "referee": "Sascha Stegemann, Germany",
             "league_round": "Regular Season - 23",
             "events": [
                 {
@@ -644,7 +644,7 @@
             "opponent": "FC St. Pauli",
             "score": "2 - 0",
             "stadium": "MEWA ARENA",
-            "referee": "F. Zwayer",
+            "referee": "Felix Zwayer, Germany",
             "league_round": "Regular Season - 23",
             "events": [
                 {
@@ -799,7 +799,7 @@
             "opponent": "1. FC Heidenheim",
             "score": "2 - 2",
             "stadium": "Red Bull Arena",
-            "referee": "M. Petersen",
+            "referee": "Martin Petersen, Germany",
             "league_round": "Regular Season - 23",
             "events": [
                 {
@@ -1145,7 +1145,7 @@
             "opponent": "VfL Bochum",
             "score": "1 - 1",
             "stadium": "Volkswagen Arena",
-            "referee": "T. Gerach",
+            "referee": "Timo Gerach, Germany",
             "league_round": "Regular Season - 23",
             "events": [
                 {
@@ -1300,7 +1300,7 @@
             "opponent": "FC Augsburg",
             "score": "0 - 3",
             "stadium": "BORUSSIA-PARK",
-            "referee": "F. Exner",
+            "referee": "Florian Exner, Germany",
             "league_round": "Regular Season - 23",
             "events": [
                 {
@@ -1467,7 +1467,7 @@
             "opponent": "Union Berlin",
             "score": "6 - 0",
             "stadium": "SIGNAL IDUNA PARK",
-            "referee": "B. Dankert",
+            "referee": "Bastian Dankert, Germany",
             "league_round": "Regular Season - 23",
             "events": [
                 {
@@ -1640,7 +1640,7 @@
             "opponent": "Borussia Mönchengladbach",
             "score": "0 - 3",
             "stadium": "BORUSSIA-PARK",
-            "referee": "F. Exner",
+            "referee": "Florian Exner, Germany",
             "league_round": "Regular Season - 23",
             "events": [
                 {
@@ -1974,7 +1974,7 @@
             "opponent": "Borussia Dortmund",
             "score": "6 - 0",
             "stadium": "SIGNAL IDUNA PARK",
-            "referee": "B. Dankert",
+            "referee": "Bastian Dankert, Germany",
             "league_round": "Regular Season - 23",
             "events": [
                 {
@@ -2147,7 +2147,7 @@
             "opponent": "VfB Stuttgart",
             "score": "1 - 1",
             "stadium": "PreZero Arena",
-            "referee": "C. Dingert",
+            "referee": "Christian Dingert, Germany",
             "league_round": "Regular Season - 23",
             "events": [
                 {
@@ -2248,7 +2248,7 @@
             "opponent": "FSV Mainz 05",
             "score": "2 - 0",
             "stadium": "MEWA ARENA",
-            "referee": "F. Zwayer",
+            "referee": "Felix Zwayer, Germany",
             "league_round": "Regular Season - 23",
             "events": [
                 {
@@ -2403,7 +2403,7 @@
             "opponent": "VfL Wolfsburg",
             "score": "1 - 1",
             "stadium": "Volkswagen Arena",
-            "referee": "T. Gerach",
+            "referee": "Timo Gerach, Germany",
             "league_round": "Regular Season - 23",
             "events": [
                 {
@@ -2558,7 +2558,7 @@
             "opponent": "RB Leipzig",
             "score": "2 - 2",
             "stadium": "Red Bull Arena",
-            "referee": "M. Petersen",
+            "referee": "Martin Petersen, Germany",
             "league_round": "Regular Season - 23",
             "events": [
                 {
