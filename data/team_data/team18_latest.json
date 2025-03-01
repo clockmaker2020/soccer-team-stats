@@ -324,108 +324,114 @@
         },
         {
             "team": "Eintracht Frankfurt",
-            "date": "2025-02-23 16:30",
-            "opponent": "Bayern München",
-            "score": "4 - 0",
-            "stadium": "Allianz Arena",
-            "referee": "Sascha Stegemann, Germany",
-            "league_round": "Regular Season - 23",
+            "date": "2025-03-01 17:30",
+            "opponent": "Bayer Leverkusen",
+            "score": "1 - 4",
+            "stadium": "Deutsche Bank Park",
+            "referee": "Felix Zwayer, Germany",
+            "league_round": "Regular Season - 24",
             "events": [
                 {
-                    "time": "43'",
-                    "player": "J. Kimmich",
-                    "detail": "Substitution 1",
-                    "team": "Bayern München"
+                    "time": "26'",
+                    "player": "N. Tella",
+                    "detail": "Normal Goal",
+                    "team": "Bayer Leverkusen"
                 },
                 {
-                    "time": "45'",
-                    "player": "M. Olise",
+                    "time": "29'",
+                    "player": "N. Mukiele",
                     "detail": "Normal Goal",
-                    "team": "Bayern München"
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "33'",
+                    "player": "P. Schick",
+                    "detail": "Normal Goal",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "37'",
+                    "player": "H. Ekitike",
+                    "detail": "Normal Goal",
+                    "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "46'",
-                    "player": "O. Højlund",
+                    "player": "N. Collins",
                     "detail": "Substitution 1",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "46'",
-                    "player": "C. Uzun",
+                    "player": "O. Hojlund",
                     "detail": "Substitution 2",
                     "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "61'",
-                    "player": "H. Ito",
+                    "time": "58'",
+                    "player": "A. Adli",
+                    "detail": "Substitution 1",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "62'",
+                    "player": "A. Garcia",
                     "detail": "Normal Goal",
-                    "team": "Bayern München"
+                    "team": "Bayer Leverkusen"
                 },
                 {
-                    "time": "63'",
-                    "player": "H. Ito",
-                    "detail": "Substitution 2",
-                    "team": "Bayern München"
+                    "time": "69'",
+                    "player": "G. Xhaka",
+                    "detail": "Yellow Card",
+                    "team": "Bayer Leverkusen"
                 },
                 {
-                    "time": "63'",
+                    "time": "71'",
+                    "player": "M. Batshuayi",
+                    "detail": "Substitution 3",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "72'",
                     "player": "J. Bahoya",
-                    "detail": "Substitution 3",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "64'",
-                    "player": "T. Müller",
-                    "detail": "Substitution 3",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "75'",
-                    "player": "H. Ekitiké",
                     "detail": "Substitution 4",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "75'",
-                    "player": "A. Knauff",
-                    "detail": "Substitution 5",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "77'",
-                    "player": "Leroy Sané",
-                    "detail": "Yellow Card",
-                    "team": "Bayern München"
+                    "player": "V. Boniface",
+                    "detail": "Substitution 2",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "77'",
+                    "player": "E. Palacios",
+                    "detail": "Substitution 3",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "78'",
+                    "player": "N. Nkounkou",
+                    "detail": "Substitution 5",
+                    "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "80'",
-                    "player": "Tuta",
+                    "player": "E. Skhiri",
                     "detail": "Yellow Card",
                     "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "82'",
-                    "player": "J. Musiala",
-                    "detail": "Normal Goal",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "85'",
-                    "player": "M. Olise",
+                    "time": "83'",
+                    "player": "E. Buendia",
                     "detail": "Substitution 4",
-                    "team": "Bayern München"
+                    "team": "Bayer Leverkusen"
                 },
                 {
-                    "time": "85'",
-                    "player": "J. Musiala",
+                    "time": "83'",
+                    "player": "J. Hofmann",
                     "detail": "Substitution 5",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "90'",
-                    "player": "S. Gnabry",
-                    "detail": "Normal Goal",
-                    "team": "Bayern München"
+                    "team": "Bayer Leverkusen"
                 }
             ],
             "odds": {
