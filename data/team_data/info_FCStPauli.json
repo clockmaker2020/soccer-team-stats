@@ -382,6 +382,42 @@
             "substitutes": [
                 {
                     "player": {
+                        "id": 17756,
+                        "name": "Oladapo Afolayan",
+                        "number": 17,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 474789,
+                        "name": "Abdoulie Ceesay",
+                        "number": 9,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 27157,
+                        "name": "Manolis Saliakas",
+                        "number": 2,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 1672,
+                        "name": "Danel Sinani",
+                        "number": 10,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 119167,
                         "name": "Ben Voll",
                         "number": 1,
@@ -409,24 +445,6 @@
                 },
                 {
                     "player": {
-                        "id": 27157,
-                        "name": "Manolis Saliakas",
-                        "number": 2,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 1672,
-                        "name": "Danel Sinani",
-                        "number": 10,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 107087,
                         "name": "Scott Banks",
                         "number": 18,
@@ -436,27 +454,9 @@
                 },
                 {
                     "player": {
-                        "id": 474789,
-                        "name": "Abdoulie Ceesay",
-                        "number": 9,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 15972,
                         "name": "Andreas Albers",
                         "number": 19,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 17756,
-                        "name": "Oladapo Afolayan",
-                        "number": 17,
                         "pos": "F",
                         "grid": null
                     }
@@ -591,33 +591,6 @@
             "substitutes": [
                 {
                     "player": {
-                        "id": 26292,
-                        "name": "Alexander Meyer",
-                        "number": 33,
-                        "pos": "G",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 506,
-                        "name": "Niklas Süle",
-                        "number": 25,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 25368,
-                        "name": "Waldemar Anton",
-                        "number": 3,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 138935,
                         "name": "Carney Chukwuemeka",
                         "number": 17,
@@ -631,6 +604,15 @@
                         "name": "Daniel Svensson",
                         "number": 24,
                         "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 286894,
+                        "name": "Jamie Gittens",
+                        "number": 43,
+                        "pos": "F",
                         "grid": null
                     }
                 },
@@ -654,10 +636,28 @@
                 },
                 {
                     "player": {
-                        "id": 286894,
-                        "name": "Jamie Gittens",
-                        "number": 43,
-                        "pos": "F",
+                        "id": 26292,
+                        "name": "Alexander Meyer",
+                        "number": 33,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 506,
+                        "name": "Niklas Süle",
+                        "number": 25,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 25368,
+                        "name": "Waldemar Anton",
+                        "number": 3,
+                        "pos": "D",
                         "grid": null
                     }
                 },
