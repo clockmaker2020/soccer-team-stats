@@ -355,76 +355,6 @@
     "future_matches": [
         {
             "fixture": {
-                "id": 1224187,
-                "referee": "Harm Osmers, Germany",
-                "timezone": "UTC",
-                "date": "2025-03-02T16:30:00+00:00",
-                "timestamp": 1740933000,
-                "periods": {
-                    "first": null,
-                    "second": null
-                },
-                "venue": {
-                    "id": 698,
-                    "name": "WWK Arena",
-                    "city": "Augsburg"
-                },
-                "status": {
-                    "long": "Not Started",
-                    "short": "NS",
-                    "elapsed": null,
-                    "extra": null
-                }
-            },
-            "league": {
-                "id": 78,
-                "name": "Bundesliga",
-                "country": "Germany",
-                "logo": "https://media.api-sports.io/football/leagues/78.png",
-                "flag": "https://media.api-sports.io/flags/de.svg",
-                "season": 2024,
-                "round": "Regular Season - 24",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 170,
-                    "name": "FC Augsburg",
-                    "logo": "https://media.api-sports.io/football/teams/170.png",
-                    "winner": null
-                },
-                "away": {
-                    "id": 160,
-                    "name": "SC Freiburg",
-                    "logo": "https://media.api-sports.io/football/teams/160.png",
-                    "winner": null
-                }
-            },
-            "goals": {
-                "home": null,
-                "away": null
-            },
-            "score": {
-                "halftime": {
-                    "home": null,
-                    "away": null
-                },
-                "fulltime": {
-                    "home": null,
-                    "away": null
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
                 "id": 1224193,
                 "referee": null,
                 "timezone": "UTC",
@@ -537,6 +467,76 @@
                     "id": 161,
                     "name": "VfL Wolfsburg",
                     "logo": "https://media.api-sports.io/football/teams/161.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1224213,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2025-03-29T14:30:00+00:00",
+                "timestamp": 1743258600,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": 724,
+                    "name": "PreZero Arena",
+                    "city": "Sinsheim"
+                },
+                "status": {
+                    "long": "Not Started",
+                    "short": "NS",
+                    "elapsed": null,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 27",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 170,
+                    "name": "FC Augsburg",
+                    "logo": "https://media.api-sports.io/football/teams/170.png",
                     "winner": null
                 }
             },
