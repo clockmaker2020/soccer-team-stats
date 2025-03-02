@@ -620,7 +620,7 @@
             "opponent": "Werder Bremen",
             "score": "5 - 0",
             "stadium": "Europa-Park Stadion",
-            "referee": "Burda, Max, Germany",
+            "referee": "M. Burda",
             "league_round": "Regular Season - 23",
             "events": [
                 {
@@ -912,7 +912,7 @@
             "opponent": "Werder Bremen",
             "score": "1 - 2",
             "stadium": "Weserstadion",
-            "referee": "F. Brych",
+            "referee": "Felix Brych, Germany",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -1532,7 +1532,7 @@
             "opponent": "Borussia Mönchengladbach",
             "score": "0 - 3",
             "stadium": "BORUSSIA-PARK",
-            "referee": "Florian Exner, Germany",
+            "referee": "F. Exner",
             "league_round": "Regular Season - 23",
             "events": [
                 {
@@ -1699,7 +1699,7 @@
             "opponent": "VfL Wolfsburg",
             "score": "1 - 2",
             "stadium": "Weserstadion",
-            "referee": "F. Brych",
+            "referee": "Felix Brych, Germany",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -2551,7 +2551,7 @@
             "opponent": "Bayer Leverkusen",
             "score": "0 - 2",
             "stadium": "Holstein-Stadion",
-            "referee": "Daniel Schlager, Germany",
+            "referee": "D. Schlager",
             "league_round": "Regular Season - 23",
             "events": [
                 {
