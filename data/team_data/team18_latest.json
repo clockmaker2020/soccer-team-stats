@@ -2349,6 +2349,149 @@
             "squad": []
         },
         {
+            "team": "Holstein Kiel",
+            "date": "2025-03-02 14:30",
+            "opponent": "Union Berlin",
+            "score": "0 - 1",
+            "stadium": "Stadion An der Alten Försterei",
+            "referee": "Tobias Reichel, Germany",
+            "league_round": "Regular Season - 24",
+            "events": [
+                {
+                    "time": "40'",
+                    "player": "T. Rothe",
+                    "detail": "Yellow Card",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "43'",
+                    "player": "A. Gigovic",
+                    "detail": "Normal Goal",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "45'",
+                    "player": "M. Ljubicic",
+                    "detail": "Yellow Card",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "46'",
+                    "player": "A. Ilic",
+                    "detail": "Substitution 1",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "59'",
+                    "player": "L. Holtby",
+                    "detail": "Substitution 1",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "65'",
+                    "player": "J. Roussillon",
+                    "detail": "Substitution 2",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "65'",
+                    "player": "L. Benes",
+                    "detail": "Substitution 3",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "70'",
+                    "player": "M. Ivezic",
+                    "detail": "Substitution 2",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "70'",
+                    "player": "S. Skrzybski",
+                    "detail": "Substitution 3",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "75'",
+                    "player": "T. Skarke",
+                    "detail": "Substitution 4",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "75'",
+                    "player": "K. Volland",
+                    "detail": "Substitution 5",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "77'",
+                    "player": "K. Volland",
+                    "detail": "Yellow Card",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "83'",
+                    "player": "D. Javorcek",
+                    "detail": "Substitution 4",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "83'",
+                    "player": "M. Schulz",
+                    "detail": "Substitution 5",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "90'",
+                    "player": "J. Juranovic",
+                    "detail": "Yellow Card",
+                    "team": "Union Berlin"
+                }
+            ],
+            "odds": {
+                "home": "N/A",
+                "draw": "N/A",
+                "away": "N/A"
+            },
+            "past_results": [
+                {
+                    "date": "2025-03-02 14:30",
+                    "score": "0 - 1"
+                },
+                {
+                    "date": "2025-02-22 14:30",
+                    "score": "0 - 2"
+                },
+                {
+                    "date": "2025-02-16 16:30",
+                    "score": "3 - 1"
+                },
+                {
+                    "date": "2025-02-09 14:30",
+                    "score": "2 - 2"
+                },
+                {
+                    "date": "2025-02-01 14:30",
+                    "score": "4 - 3"
+                }
+            ],
+            "future_games": [
+                {
+                    "date": "2025-03-08 14:30",
+                    "opponent": "VfB Stuttgart"
+                },
+                {
+                    "date": "2025-03-16 16:30",
+                    "opponent": "1. FC Heidenheim"
+                },
+                {
+                    "date": "2025-03-29 14:30",
+                    "opponent": "Werder Bremen"
+                }
+            ],
+            "squad": []
+        },
+        {
             "team": "1. FC Heidenheim",
             "date": "2025-03-01 14:30",
             "opponent": "Borussia Mönchengladbach",
@@ -2511,149 +2654,6 @@
                 {
                     "date": "2025-03-29 14:30",
                     "opponent": "VfL Wolfsburg"
-                }
-            ],
-            "squad": []
-        },
-        {
-            "team": "Holstein Kiel",
-            "date": "2025-03-02 14:30",
-            "opponent": "Union Berlin",
-            "score": "0 - 1",
-            "stadium": "Stadion An der Alten Försterei",
-            "referee": "Tobias Reichel, Germany",
-            "league_round": "Regular Season - 24",
-            "events": [
-                {
-                    "time": "40'",
-                    "player": "T. Rothe",
-                    "detail": "Yellow Card",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "43'",
-                    "player": "A. Gigovic",
-                    "detail": "Normal Goal",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "45'",
-                    "player": "M. Ljubicic",
-                    "detail": "Yellow Card",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "46'",
-                    "player": "A. Ilic",
-                    "detail": "Substitution 1",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "59'",
-                    "player": "L. Holtby",
-                    "detail": "Substitution 1",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "65'",
-                    "player": "J. Roussillon",
-                    "detail": "Substitution 2",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "65'",
-                    "player": "L. Benes",
-                    "detail": "Substitution 3",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "70'",
-                    "player": "M. Ivezic",
-                    "detail": "Substitution 2",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "70'",
-                    "player": "S. Skrzybski",
-                    "detail": "Substitution 3",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "75'",
-                    "player": "T. Skarke",
-                    "detail": "Substitution 4",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "75'",
-                    "player": "K. Volland",
-                    "detail": "Substitution 5",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "77'",
-                    "player": "K. Volland",
-                    "detail": "Yellow Card",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "83'",
-                    "player": "D. Javorcek",
-                    "detail": "Substitution 4",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "83'",
-                    "player": "M. Schulz",
-                    "detail": "Substitution 5",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "90'",
-                    "player": "J. Juranovic",
-                    "detail": "Yellow Card",
-                    "team": "Union Berlin"
-                }
-            ],
-            "odds": {
-                "home": "N/A",
-                "draw": "N/A",
-                "away": "N/A"
-            },
-            "past_results": [
-                {
-                    "date": "2025-03-02 14:30",
-                    "score": "0 - 1"
-                },
-                {
-                    "date": "2025-02-22 14:30",
-                    "score": "0 - 2"
-                },
-                {
-                    "date": "2025-02-16 16:30",
-                    "score": "3 - 1"
-                },
-                {
-                    "date": "2025-02-09 14:30",
-                    "score": "2 - 2"
-                },
-                {
-                    "date": "2025-02-01 14:30",
-                    "score": "4 - 3"
-                }
-            ],
-            "future_games": [
-                {
-                    "date": "2025-03-08 14:30",
-                    "opponent": "VfB Stuttgart"
-                },
-                {
-                    "date": "2025-03-16 16:30",
-                    "opponent": "1. FC Heidenheim"
-                },
-                {
-                    "date": "2025-03-29 14:30",
-                    "opponent": "Werder Bremen"
                 }
             ],
             "squad": []
