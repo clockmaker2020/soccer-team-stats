@@ -2108,16 +2108,16 @@
             ],
             "future_games": [
                 {
-                    "date": "2025-03-02 14:30",
-                    "opponent": "Holstein Kiel"
-                },
-                {
                     "date": "2025-03-09 14:30",
                     "opponent": "Eintracht Frankfurt"
                 },
                 {
                     "date": "2025-03-15 14:30",
                     "opponent": "Bayern München"
+                },
+                {
+                    "date": "2025-03-30 13:30",
+                    "opponent": "SC Freiburg"
                 }
             ],
             "squad": []
@@ -2674,16 +2674,16 @@
             ],
             "future_games": [
                 {
-                    "date": "2025-03-02 14:30",
-                    "opponent": "Union Berlin"
-                },
-                {
                     "date": "2025-03-08 14:30",
                     "opponent": "VfB Stuttgart"
                 },
                 {
                     "date": "2025-03-16 16:30",
                     "opponent": "1. FC Heidenheim"
+                },
+                {
+                    "date": "2025-03-29 14:30",
+                    "opponent": "Werder Bremen"
                 }
             ],
             "squad": []
