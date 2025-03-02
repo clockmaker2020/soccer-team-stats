@@ -767,16 +767,16 @@
             ],
             "future_games": [
                 {
-                    "date": "2025-03-02 16:30",
-                    "opponent": "FC Augsburg"
-                },
-                {
                     "date": "2025-03-08 17:30",
                     "opponent": "RB Leipzig"
                 },
                 {
                     "date": "2025-03-15 14:30",
                     "opponent": "FSV Mainz 05"
+                },
+                {
+                    "date": "2025-03-30 13:30",
+                    "opponent": "Union Berlin"
                 }
             ],
             "squad": []
@@ -1679,16 +1679,16 @@
             ],
             "future_games": [
                 {
-                    "date": "2025-03-02 16:30",
-                    "opponent": "SC Freiburg"
-                },
-                {
                     "date": "2025-03-08 14:30",
                     "opponent": "Borussia Dortmund"
                 },
                 {
                     "date": "2025-03-15 14:30",
                     "opponent": "VfL Wolfsburg"
+                },
+                {
+                    "date": "2025-03-29 14:30",
+                    "opponent": "1899 Hoffenheim"
                 }
             ],
             "squad": []
@@ -1951,132 +1951,102 @@
         },
         {
             "team": "Union Berlin",
-            "date": "2025-02-22 17:30",
-            "opponent": "Borussia Dortmund",
-            "score": "6 - 0",
-            "stadium": "SIGNAL IDUNA PARK",
-            "referee": "Bastian Dankert, Germany",
-            "league_round": "Regular Season - 23",
+            "date": "2025-03-02 14:30",
+            "opponent": "Holstein Kiel",
+            "score": "0 - 1",
+            "stadium": "Stadion An der Alten Försterei",
+            "referee": "Tobias Reichel, Germany",
+            "league_round": "Regular Season - 24",
             "events": [
                 {
-                    "time": "17'",
-                    "player": "Rani Khedira",
-                    "detail": "Yellow Card",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "25'",
-                    "player": "Diogo Leite",
-                    "detail": "Own Goal",
-                    "team": "Borussia Dortmund"
-                },
-                {
                     "time": "40'",
-                    "player": "S. Guirassy",
+                    "player": "T. Rothe",
+                    "detail": "Yellow Card",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "43'",
+                    "player": "A. Gigovic",
                     "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
+                    "team": "Holstein Kiel"
                 },
                 {
-                    "time": "50'",
-                    "player": "Ramy Bensebaini",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "55'",
-                    "player": "Lucas Tousart",
+                    "time": "45'",
+                    "player": "M. Ljubicic",
                     "detail": "Yellow Card",
                     "team": "Union Berlin"
                 },
                 {
-                    "time": "57'",
-                    "player": "L. Tousart",
+                    "time": "46'",
+                    "player": "A. Ilic",
                     "detail": "Substitution 1",
                     "team": "Union Berlin"
                 },
                 {
-                    "time": "57'",
-                    "player": "R. Khedira",
+                    "time": "59'",
+                    "player": "L. Holtby",
+                    "detail": "Substitution 1",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "65'",
+                    "player": "J. Roussillon",
                     "detail": "Substitution 2",
                     "team": "Union Berlin"
                 },
                 {
-                    "time": "58'",
-                    "player": "Giovanni Reyna",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "70'",
-                    "player": "G. Reyna",
-                    "detail": "Substitution 1",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "70'",
-                    "player": "R. Bensebaini",
-                    "detail": "Substitution 2",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "72'",
-                    "player": "Jeong Wooyeong",
+                    "time": "65'",
+                    "player": "L. Benes",
                     "detail": "Substitution 3",
                     "team": "Union Berlin"
                 },
                 {
-                    "time": "72'",
-                    "player": "B. Hollerbach",
+                    "time": "70'",
+                    "player": "M. Ivezic",
+                    "detail": "Substitution 2",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "70'",
+                    "player": "S. Skrzybski",
+                    "detail": "Substitution 3",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "75'",
+                    "player": "T. Skarke",
                     "detail": "Substitution 4",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "75'",
-                    "player": "S. Guirassy",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "80'",
-                    "player": "S. Guirassy",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "82'",
-                    "player": "A. Schäfer",
+                    "player": "K. Volland",
                     "detail": "Substitution 5",
                     "team": "Union Berlin"
                 },
                 {
+                    "time": "77'",
+                    "player": "K. Volland",
+                    "detail": "Yellow Card",
+                    "team": "Union Berlin"
+                },
+                {
                     "time": "83'",
-                    "player": "S. Guirassy",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "84'",
-                    "player": "M. Sabitzer",
-                    "detail": "Substitution 3",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "84'",
-                    "player": "S. Guirassy",
+                    "player": "D. Javorcek",
                     "detail": "Substitution 4",
-                    "team": "Borussia Dortmund"
+                    "team": "Holstein Kiel"
                 },
                 {
-                    "time": "85'",
-                    "player": "J. Ryerson",
+                    "time": "83'",
+                    "player": "M. Schulz",
                     "detail": "Substitution 5",
-                    "team": "Borussia Dortmund"
+                    "team": "Holstein Kiel"
                 },
                 {
-                    "time": "89'",
-                    "player": "M. Beier",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
+                    "time": "90'",
+                    "player": "J. Juranovic",
+                    "detail": "Yellow Card",
+                    "team": "Union Berlin"
                 }
             ],
             "odds": {
@@ -2547,102 +2517,102 @@
         },
         {
             "team": "Holstein Kiel",
-            "date": "2025-02-22 14:30",
-            "opponent": "Bayer Leverkusen",
-            "score": "0 - 2",
-            "stadium": "Holstein-Stadion",
-            "referee": "Daniel Schlager, Germany",
-            "league_round": "Regular Season - 23",
+            "date": "2025-03-02 14:30",
+            "opponent": "Union Berlin",
+            "score": "0 - 1",
+            "stadium": "Stadion An der Alten Försterei",
+            "referee": "Tobias Reichel, Germany",
+            "league_round": "Regular Season - 24",
             "events": [
                 {
-                    "time": "9'",
-                    "player": "P. Schick",
+                    "time": "40'",
+                    "player": "T. Rothe",
+                    "detail": "Yellow Card",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "43'",
+                    "player": "A. Gigovic",
                     "detail": "Normal Goal",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "12'",
-                    "player": "Magnus Knudsen",
-                    "detail": "Yellow Card",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "24'",
-                    "player": "David Zec",
-                    "detail": "Yellow Card",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "45'",
-                    "player": "A. Adli",
-                    "detail": "Normal Goal",
-                    "team": "Bayer Leverkusen"
+                    "player": "M. Ljubicic",
+                    "detail": "Yellow Card",
+                    "team": "Union Berlin"
                 },
                 {
-                    "time": "63'",
-                    "player": "D. Zec",
+                    "time": "46'",
+                    "player": "A. Ilic",
+                    "detail": "Substitution 1",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "59'",
+                    "player": "L. Holtby",
                     "detail": "Substitution 1",
                     "team": "Holstein Kiel"
                 },
                 {
-                    "time": "63'",
-                    "player": "S. Machino",
+                    "time": "65'",
+                    "player": "J. Roussillon",
                     "detail": "Substitution 2",
-                    "team": "Holstein Kiel"
+                    "team": "Union Berlin"
                 },
                 {
-                    "time": "63'",
-                    "player": "M. Knudsen",
+                    "time": "65'",
+                    "player": "L. Benes",
                     "detail": "Substitution 3",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "70'",
+                    "player": "M. Ivezic",
+                    "detail": "Substitution 2",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "70'",
-                    "player": "A. Adli",
-                    "detail": "Substitution 1",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "75'",
-                    "player": "Dominik Javorček",
-                    "detail": "Yellow Card",
+                    "player": "S. Skrzybski",
+                    "detail": "Substitution 3",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "75'",
-                    "player": "A. Gigović",
+                    "player": "T. Skarke",
+                    "detail": "Substitution 4",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "75'",
+                    "player": "K. Volland",
+                    "detail": "Substitution 5",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "77'",
+                    "player": "K. Volland",
+                    "detail": "Yellow Card",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "83'",
+                    "player": "D. Javorcek",
                     "detail": "Substitution 4",
                     "team": "Holstein Kiel"
                 },
                 {
-                    "time": "78'",
-                    "player": "Piero Hincapié",
-                    "detail": "Yellow Card",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "78'",
-                    "player": "D. Javorček",
+                    "time": "83'",
+                    "player": "M. Schulz",
                     "detail": "Substitution 5",
                     "team": "Holstein Kiel"
                 },
                 {
-                    "time": "82'",
-                    "player": "Marco Komenda",
+                    "time": "90'",
+                    "player": "J. Juranovic",
                     "detail": "Yellow Card",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "83'",
-                    "player": "J. Frimpong",
-                    "detail": "Substitution 2",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "83'",
-                    "player": "P. Schick",
-                    "detail": "Substitution 3",
-                    "team": "Bayer Leverkusen"
+                    "team": "Union Berlin"
                 }
             ],
             "odds": {
