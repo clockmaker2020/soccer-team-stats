@@ -616,125 +616,65 @@
         },
         {
             "team": "SC Freiburg",
-            "date": "2025-02-21 19:30",
-            "opponent": "Werder Bremen",
-            "score": "5 - 0",
-            "stadium": "Europa-Park Stadion",
-            "referee": "Burda, Max, Germany",
-            "league_round": "Regular Season - 23",
+            "date": "2025-03-02 16:30",
+            "opponent": "FC Augsburg",
+            "score": "0 - 0",
+            "stadium": "WWK Arena",
+            "referee": "Harm Osmers, Germany",
+            "league_round": "Regular Season - 24",
             "events": [
                 {
-                    "time": "15'",
-                    "player": "K. Sildillia",
-                    "detail": "Normal Goal",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "21'",
-                    "player": "Maximilian Eggestein",
+                    "time": "45'",
+                    "player": "D. Giannoulis",
                     "detail": "Yellow Card",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "33'",
-                    "player": "V. Grifo",
-                    "detail": "Normal Goal",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "34'",
-                    "player": "Matthias Ginter",
-                    "detail": "Yellow Card",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "37'",
-                    "player": "Derrick Köhn",
-                    "detail": "Penalty confirmed",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "57'",
-                    "player": "V. Grifo",
-                    "detail": "Normal Goal",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "60'",
-                    "player": "L. Bittencourt",
-                    "detail": "Substitution 1",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "60'",
-                    "player": "J. Njinmah",
-                    "detail": "Substitution 2",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "61'",
-                    "player": "D. Köhn",
-                    "detail": "Substitution 3",
-                    "team": "Werder Bremen"
+                    "team": "FC Augsburg"
                 },
                 {
                     "time": "62'",
-                    "player": "Merlin Röhl",
-                    "detail": "Yellow Card",
-                    "team": "SC Freiburg"
+                    "player": "M. Komur",
+                    "detail": "Substitution 1",
+                    "team": "FC Augsburg"
                 },
                 {
-                    "time": "71'",
-                    "player": "M. Röhl",
+                    "time": "62'",
+                    "player": "J. Beste",
                     "detail": "Substitution 1",
                     "team": "SC Freiburg"
                 },
                 {
-                    "time": "71'",
-                    "player": "V. Grifo",
+                    "time": "74'",
+                    "player": "S. Mounie",
+                    "detail": "Substitution 2",
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "74'",
+                    "player": "E. Dinkci",
                     "detail": "Substitution 2",
                     "team": "SC Freiburg"
                 },
                 {
-                    "time": "72'",
-                    "player": "André Silva",
-                    "detail": "Substitution 4",
-                    "team": "Werder Bremen"
+                    "time": "78'",
+                    "player": "A. Maier",
+                    "detail": "Substitution 3",
+                    "team": "FC Augsburg"
                 },
                 {
-                    "time": "76'",
-                    "player": "R. Doan",
-                    "detail": "Normal Goal",
+                    "time": "80'",
+                    "player": "K. Sildillia",
+                    "detail": "Yellow Card",
                     "team": "SC Freiburg"
                 },
                 {
-                    "time": "77'",
-                    "player": "L. Höler",
+                    "time": "83'",
+                    "player": "N. Hofler",
                     "detail": "Substitution 3",
                     "team": "SC Freiburg"
                 },
                 {
-                    "time": "82'",
-                    "player": "M. Eggestein",
+                    "time": "83'",
+                    "player": "M. Gregoritsch",
                     "detail": "Substitution 4",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "82'",
-                    "player": "C. Günter",
-                    "detail": "Substitution 5",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "86'",
-                    "player": "A. Pieper",
-                    "detail": "Substitution 5",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "90'",
-                    "player": "R. Doan",
-                    "detail": "Normal Goal",
                     "team": "SC Freiburg"
                 }
             ],
@@ -1528,126 +1468,66 @@
         },
         {
             "team": "FC Augsburg",
-            "date": "2025-02-22 14:30",
-            "opponent": "Borussia Mönchengladbach",
-            "score": "0 - 3",
-            "stadium": "BORUSSIA-PARK",
-            "referee": "Florian Exner, Germany",
-            "league_round": "Regular Season - 23",
+            "date": "2025-03-02 16:30",
+            "opponent": "SC Freiburg",
+            "score": "0 - 0",
+            "stadium": "WWK Arena",
+            "referee": "Harm Osmers, Germany",
+            "league_round": "Regular Season - 24",
             "events": [
                 {
-                    "time": "13'",
-                    "player": "Dimitrios Giannoulis",
+                    "time": "45'",
+                    "player": "D. Giannoulis",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
                 {
-                    "time": "18'",
-                    "player": "Tim Kleindienst",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "28'",
-                    "player": "Jonas Omlin",
-                    "detail": "Red Card",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "32'",
-                    "player": "K. Stöger",
-                    "detail": "Substitution 1",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "34'",
-                    "player": "Cedric Zesiger",
-                    "detail": "Yellow Card",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "55'",
-                    "player": "A. Claude-Maurice",
-                    "detail": "Normal Goal",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "58'",
-                    "player": "C. Zesiger",
+                    "time": "62'",
+                    "player": "M. Komur",
                     "detail": "Substitution 1",
                     "team": "FC Augsburg"
                 },
                 {
-                    "time": "58'",
-                    "player": "F. Jensen",
+                    "time": "62'",
+                    "player": "J. Beste",
+                    "detail": "Substitution 1",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "74'",
+                    "player": "S. Mounie",
                     "detail": "Substitution 2",
                     "team": "FC Augsburg"
                 },
                 {
-                    "time": "58'",
-                    "player": "F. Onyeka",
-                    "detail": "Substitution 3",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "61'",
-                    "player": "A. Claude-Maurice",
-                    "detail": "Normal Goal",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "68'",
-                    "player": "N. Ngoumou",
+                    "time": "74'",
+                    "player": "E. Dinkci",
                     "detail": "Substitution 2",
-                    "team": "Borussia Mönchengladbach"
+                    "team": "SC Freiburg"
                 },
                 {
-                    "time": "68'",
-                    "player": "P. Sander",
+                    "time": "78'",
+                    "player": "A. Maier",
                     "detail": "Substitution 3",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "70'",
-                    "player": "A. Claude-Maurice",
-                    "detail": "Normal Goal",
                     "team": "FC Augsburg"
                 },
                 {
-                    "time": "71'",
-                    "player": "P. Tietz",
-                    "detail": "Substitution 4",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "75'",
-                    "player": "K. Jakić",
-                    "detail": "Substitution 5",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "76'",
-                    "player": "T. Kleindienst",
-                    "detail": "Substitution 4",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "76'",
-                    "player": "J. Weigl",
-                    "detail": "Substitution 5",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "88'",
-                    "player": "Alassane Pléa",
+                    "time": "80'",
+                    "player": "K. Sildillia",
                     "detail": "Yellow Card",
-                    "team": "Borussia Mönchengladbach"
+                    "team": "SC Freiburg"
                 },
                 {
-                    "time": "90'",
-                    "player": "Ko Itakura",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Mönchengladbach"
+                    "time": "83'",
+                    "player": "N. Hofler",
+                    "detail": "Substitution 3",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "83'",
+                    "player": "M. Gregoritsch",
+                    "detail": "Substitution 4",
+                    "team": "SC Freiburg"
                 }
             ],
             "odds": {
