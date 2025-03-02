@@ -64,30 +64,8 @@
                 "name": "X. Simons"
             },
             "assist": {
-                "id": 1153,
-                "name": "A. Haidara"
-            },
-            "type": "Goal",
-            "detail": "Normal Goal",
-            "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 52,
-                "extra": null
-            },
-            "team": {
-                "id": 164,
-                "name": "FSV Mainz 05",
-                "logo": "https://media.api-sports.io/football/teams/164.png"
-            },
-            "player": {
-                "id": 714,
-                "name": "N. Amiri"
-            },
-            "assist": {
-                "id": 202736,
-                "name": "P. Nebel"
+                "id": null,
+                "name": null
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -105,7 +83,7 @@
             },
             "player": {
                 "id": 1153,
-                "name": "A. Haidara"
+                "name": "Amadou Haidara"
             },
             "assist": {
                 "id": null,
@@ -114,6 +92,28 @@
             "type": "Card",
             "detail": "Yellow Card",
             "comments": "Foul"
+        },
+        {
+            "time": {
+                "elapsed": 52,
+                "extra": null
+            },
+            "team": {
+                "id": 164,
+                "name": "FSV Mainz 05",
+                "logo": "https://media.api-sports.io/football/teams/164.png"
+            },
+            "player": {
+                "id": 714,
+                "name": "N. Amiri"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
         },
         {
             "time": {
@@ -148,12 +148,12 @@
                 "logo": "https://media.api-sports.io/football/teams/173.png"
             },
             "player": {
-                "id": 1155,
-                "name": "K. Kampl"
-            },
-            "assist": {
                 "id": 1153,
                 "name": "A. Haidara"
+            },
+            "assist": {
+                "id": 1155,
+                "name": "K. Kampl"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -170,12 +170,12 @@
                 "logo": "https://media.api-sports.io/football/teams/173.png"
             },
             "player": {
-                "id": 7328,
-                "name": "N. Seiwald"
-            },
-            "assist": {
                 "id": 37143,
                 "name": "L. Geertruida"
+            },
+            "assist": {
+                "id": 7328,
+                "name": "N. Seiwald"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -192,12 +192,12 @@
                 "logo": "https://media.api-sports.io/football/teams/173.png"
             },
             "player": {
-                "id": 162761,
-                "name": "C. Lukeba"
-            },
-            "assist": {
                 "id": 268571,
                 "name": "E. Bitshiabu"
+            },
+            "assist": {
+                "id": 162761,
+                "name": "C. Lukeba"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -214,12 +214,12 @@
                 "logo": "https://media.api-sports.io/football/teams/173.png"
             },
             "player": {
-                "id": 342320,
-                "name": "K. Nedeljkovic"
-            },
-            "assist": {
                 "id": 86,
                 "name": "L. Openda"
+            },
+            "assist": {
+                "id": 342320,
+                "name": "K. Nedeljković"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -236,12 +236,12 @@
                 "logo": "https://media.api-sports.io/football/teams/164.png"
             },
             "player": {
-                "id": 342177,
-                "name": "N. Weiper"
-            },
-            "assist": {
                 "id": 25926,
                 "name": "J. Burkardt"
+            },
+            "assist": {
+                "id": 342177,
+                "name": "N. Weiper"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -258,12 +258,12 @@
                 "logo": "https://media.api-sports.io/football/teams/173.png"
             },
             "player": {
-                "id": 1167,
-                "name": "Y. Poulsen"
-            },
-            "assist": {
                 "id": 340154,
                 "name": "A. Vermeeren"
+            },
+            "assist": {
+                "id": 1167,
+                "name": "Y. Poulsen"
             },
             "type": "subst",
             "detail": "Substitution 5",
@@ -280,12 +280,12 @@
                 "logo": "https://media.api-sports.io/football/teams/164.png"
             },
             "player": {
-                "id": 24842,
-                "name": "L. Maloney"
-            },
-            "assist": {
                 "id": 714,
                 "name": "N. Amiri"
+            },
+            "assist": {
+                "id": 24842,
+                "name": "L. Maloney"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -303,7 +303,7 @@
             },
             "player": {
                 "id": 24842,
-                "name": "L. Maloney"
+                "name": "Lennard Maloney"
             },
             "assist": {
                 "id": null,
@@ -311,7 +311,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": null
+            "comments": "Foul"
         }
     ],
     "statistics": [
