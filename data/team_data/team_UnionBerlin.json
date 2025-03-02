@@ -3,6 +3,76 @@
     "past_matches": [
         {
             "fixture": {
+                "id": 1224188,
+                "referee": "Tobias Reichel, Germany",
+                "timezone": "UTC",
+                "date": "2025-03-02T14:30:00+00:00",
+                "timestamp": 1740925800,
+                "periods": {
+                    "first": 1740925800,
+                    "second": 1740929400
+                },
+                "venue": {
+                    "id": 748,
+                    "name": "Stadion An der Alten Försterei",
+                    "city": "Berlin"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 7
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 24",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 182,
+                    "name": "Union Berlin",
+                    "logo": "https://media.api-sports.io/football/teams/182.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 191,
+                    "name": "Holstein Kiel",
+                    "logo": "https://media.api-sports.io/football/teams/191.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
                 "id": 1224175,
                 "referee": "Bastian Dankert, Germany",
                 "timezone": "UTC",
@@ -269,76 +339,6 @@
                 },
                 "fulltime": {
                     "home": 0,
-                    "away": 0
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
-                "id": 1224145,
-                "referee": "Sören Storks, Germany",
-                "timezone": "UTC",
-                "date": "2025-01-26T16:30:00+00:00",
-                "timestamp": 1737909000,
-                "periods": {
-                    "first": 1737909000,
-                    "second": 1737912600
-                },
-                "venue": {
-                    "id": 745,
-                    "name": "Millerntor-Stadion",
-                    "city": "Hamburg"
-                },
-                "status": {
-                    "long": "Match Finished",
-                    "short": "FT",
-                    "elapsed": 90,
-                    "extra": 4
-                }
-            },
-            "league": {
-                "id": 78,
-                "name": "Bundesliga",
-                "country": "Germany",
-                "logo": "https://media.api-sports.io/football/leagues/78.png",
-                "flag": "https://media.api-sports.io/flags/de.svg",
-                "season": 2024,
-                "round": "Regular Season - 19",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 186,
-                    "name": "FC St. Pauli",
-                    "logo": "https://media.api-sports.io/football/teams/186.png",
-                    "winner": true
-                },
-                "away": {
-                    "id": 182,
-                    "name": "Union Berlin",
-                    "logo": "https://media.api-sports.io/football/teams/182.png",
-                    "winner": false
-                }
-            },
-            "goals": {
-                "home": 3,
-                "away": 0
-            },
-            "score": {
-                "halftime": {
-                    "home": 1,
-                    "away": 0
-                },
-                "fulltime": {
-                    "home": 3,
                     "away": 0
                 },
                 "extratime": {
