@@ -6,7 +6,7 @@
             "opponent": "VfB Stuttgart",
             "score": "1 - 3",
             "stadium": "MHPArena",
-            "referee": "Benjamin Brand, Germany",
+            "referee": "B. Brand",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -185,7 +185,7 @@
             "opponent": "Eintracht Frankfurt",
             "score": "1 - 4",
             "stadium": "Deutsche Bank Park",
-            "referee": "Felix Zwayer, Germany",
+            "referee": "F. Zwayer",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -340,7 +340,7 @@
             "opponent": "Bayer Leverkusen",
             "score": "1 - 4",
             "stadium": "Deutsche Bank Park",
-            "referee": "Felix Zwayer, Germany",
+            "referee": "F. Zwayer",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -495,7 +495,7 @@
             "opponent": "RB Leipzig",
             "score": "1 - 2",
             "stadium": "Red Bull Arena",
-            "referee": "Daniel Siebert, Germany",
+            "referee": "D. Siebert",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -620,7 +620,7 @@
             "opponent": "FC Augsburg",
             "score": "0 - 0",
             "stadium": "WWK Arena",
-            "referee": "Harm Osmers, Germany",
+            "referee": "H. Osmers",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -727,7 +727,7 @@
             "opponent": "FSV Mainz 05",
             "score": "1 - 2",
             "stadium": "Red Bull Arena",
-            "referee": "Daniel Siebert, Germany",
+            "referee": "D. Siebert",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -852,7 +852,7 @@
             "opponent": "Werder Bremen",
             "score": "1 - 2",
             "stadium": "Weserstadion",
-            "referee": "Felix Brych, Germany",
+            "referee": "F. Brych",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -989,7 +989,7 @@
             "opponent": "1. FC Heidenheim",
             "score": "0 - 3",
             "stadium": "Voith-Arena",
-            "referee": "Sören Storks, Germany",
+            "referee": "S. Storks",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -1156,7 +1156,7 @@
             "opponent": "Bayern München",
             "score": "1 - 3",
             "stadium": "MHPArena",
-            "referee": "Benjamin Brand, Germany",
+            "referee": "B. Brand",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -1335,7 +1335,7 @@
             "opponent": "FC St. Pauli",
             "score": "0 - 2",
             "stadium": "Millerntor-Stadion",
-            "referee": "Tobias Stieler, Germany",
+            "referee": "T. Stieler",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -1472,7 +1472,7 @@
             "opponent": "SC Freiburg",
             "score": "0 - 0",
             "stadium": "WWK Arena",
-            "referee": "Harm Osmers, Germany",
+            "referee": "H. Osmers",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -1579,7 +1579,7 @@
             "opponent": "VfL Wolfsburg",
             "score": "1 - 2",
             "stadium": "Weserstadion",
-            "referee": "Felix Brych, Germany",
+            "referee": "F. Brych",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -1716,7 +1716,7 @@
             "opponent": "VfL Bochum",
             "score": "0 - 1",
             "stadium": "Vonovia Ruhrstadion",
-            "referee": "Badstubner, Florian, Germany",
+            "referee": "F. Badstübner",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -1835,7 +1835,7 @@
             "opponent": "Holstein Kiel",
             "score": "0 - 1",
             "stadium": "Stadion An der Alten Försterei",
-            "referee": "Tobias Reichel, Germany",
+            "referee": "T. Reichel",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -1978,7 +1978,7 @@
             "opponent": "Borussia Dortmund",
             "score": "0 - 2",
             "stadium": "Millerntor-Stadion",
-            "referee": "Tobias Stieler, Germany",
+            "referee": "T. Stieler",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -2115,7 +2115,7 @@
             "opponent": "1899 Hoffenheim",
             "score": "0 - 1",
             "stadium": "Vonovia Ruhrstadion",
-            "referee": "Badstubner, Florian, Germany",
+            "referee": "F. Badstübner",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -2234,7 +2234,7 @@
             "opponent": "Union Berlin",
             "score": "0 - 1",
             "stadium": "Stadion An der Alten Försterei",
-            "referee": "Tobias Reichel, Germany",
+            "referee": "T. Reichel",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -2377,7 +2377,7 @@
             "opponent": "Borussia Mönchengladbach",
             "score": "0 - 3",
             "stadium": "Voith-Arena",
-            "referee": "Sören Storks, Germany",
+            "referee": "S. Storks",
             "league_round": "Regular Season - 24",
             "events": [
                 {
