@@ -258,8 +258,8 @@
                 "logo": "https://media.api-sports.io/football/teams/180.png"
             },
             "player": {
-                "id": 25502,
-                "name": "Haktab Omar Traore"
+                "id": 24899,
+                "name": "Patrick Mainka"
             },
             "assist": {
                 "id": null,
@@ -267,7 +267,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Foul"
+            "comments": "Argument"
         },
         {
             "time": {
@@ -478,11 +478,11 @@
             "statistics": [
                 {
                     "type": "Shots on Goal",
-                    "value": 4
+                    "value": 5
                 },
                 {
                     "type": "Shots off Goal",
-                    "value": 6
+                    "value": 4
                 },
                 {
                     "type": "Total Shots",
@@ -490,7 +490,7 @@
                 },
                 {
                     "type": "Blocked Shots",
-                    "value": 10
+                    "value": 11
                 },
                 {
                     "type": "Shots insidebox",
@@ -530,11 +530,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 380
+                    "value": 389
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 318
+                    "value": 326
                 },
                 {
                     "type": "Passes %",
@@ -542,7 +542,7 @@
                 },
                 {
                     "type": "expected_goals",
-                    "value": "1.74"
+                    "value": "1.65"
                 },
                 {
                     "type": "goals_prevented",
@@ -611,19 +611,19 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 493
+                    "value": 502
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 438
+                    "value": 443
                 },
                 {
                     "type": "Passes %",
-                    "value": "89%"
+                    "value": "88%"
                 },
                 {
                     "type": "expected_goals",
-                    "value": "2.02"
+                    "value": "1.81"
                 },
                 {
                     "type": "goals_prevented",
