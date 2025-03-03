@@ -519,11 +519,11 @@
                 },
                 {
                     "type": "Shots off Goal",
-                    "value": 4
+                    "value": 5
                 },
                 {
                     "type": "Total Shots",
-                    "value": 19
+                    "value": 20
                 },
                 {
                     "type": "Blocked Shots",
@@ -531,7 +531,7 @@
                 },
                 {
                     "type": "Shots insidebox",
-                    "value": 13
+                    "value": 14
                 },
                 {
                     "type": "Shots outsidebox",
@@ -579,7 +579,7 @@
                 },
                 {
                     "type": "expected_goals",
-                    "value": "2.06"
+                    "value": "2.17"
                 },
                 {
                     "type": "goals_prevented",
