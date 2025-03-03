@@ -625,55 +625,55 @@
             "events": [
                 {
                     "time": "45'",
-                    "player": "D. Giannoulis",
+                    "player": "Dimitrios Giannoulis",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "62'",
-                    "player": "M. Komur",
+                    "player": "F. Jensen",
                     "detail": "Substitution 1",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "62'",
-                    "player": "J. Beste",
+                    "player": "V. Grifo",
                     "detail": "Substitution 1",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "74'",
-                    "player": "S. Mounie",
+                    "player": "P. Tietz",
                     "detail": "Substitution 2",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "74'",
-                    "player": "E. Dinkci",
+                    "player": "L. Höler",
                     "detail": "Substitution 2",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "78'",
-                    "player": "A. Maier",
+                    "player": "K. Jakić",
                     "detail": "Substitution 3",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "80'",
-                    "player": "K. Sildillia",
+                    "player": "Kiliann Sildillia",
                     "detail": "Yellow Card",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "83'",
-                    "player": "N. Hofler",
+                    "player": "M. Röhl",
                     "detail": "Substitution 3",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "83'",
-                    "player": "M. Gregoritsch",
+                    "player": "M. Eggestein",
                     "detail": "Substitution 4",
                     "team": "SC Freiburg"
                 }
@@ -1477,55 +1477,55 @@
             "events": [
                 {
                     "time": "45'",
-                    "player": "D. Giannoulis",
+                    "player": "Dimitrios Giannoulis",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "62'",
-                    "player": "M. Komur",
+                    "player": "F. Jensen",
                     "detail": "Substitution 1",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "62'",
-                    "player": "J. Beste",
+                    "player": "V. Grifo",
                     "detail": "Substitution 1",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "74'",
-                    "player": "S. Mounie",
+                    "player": "P. Tietz",
                     "detail": "Substitution 2",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "74'",
-                    "player": "E. Dinkci",
+                    "player": "L. Höler",
                     "detail": "Substitution 2",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "78'",
-                    "player": "A. Maier",
+                    "player": "K. Jakić",
                     "detail": "Substitution 3",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "80'",
-                    "player": "K. Sildillia",
+                    "player": "Kiliann Sildillia",
                     "detail": "Yellow Card",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "83'",
-                    "player": "N. Hofler",
+                    "player": "M. Röhl",
                     "detail": "Substitution 3",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "83'",
-                    "player": "M. Gregoritsch",
+                    "player": "M. Eggestein",
                     "detail": "Substitution 4",
                     "team": "SC Freiburg"
                 }
@@ -1726,7 +1726,7 @@
                     "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "58'",
+                    "time": "59'",
                     "player": "M. Moerstedt",
                     "detail": "Substitution 1",
                     "team": "1899 Hoffenheim"
@@ -1840,91 +1840,91 @@
             "events": [
                 {
                     "time": "40'",
-                    "player": "T. Rothe",
+                    "player": "Tom Rothe",
                     "detail": "Yellow Card",
                     "team": "Union Berlin"
                 },
                 {
-                    "time": "43'",
-                    "player": "A. Gigovic",
+                    "time": "42'",
+                    "player": "A. Gigović",
                     "detail": "Normal Goal",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "45'",
-                    "player": "M. Ljubicic",
+                    "player": "Marin Ljubičić",
                     "detail": "Yellow Card",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "46'",
-                    "player": "A. Ilic",
+                    "player": "M. Ljubičić",
                     "detail": "Substitution 1",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "59'",
-                    "player": "L. Holtby",
+                    "player": "A. Gigović",
                     "detail": "Substitution 1",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "65'",
-                    "player": "J. Roussillon",
+                    "player": "Jeong Wooyeong",
                     "detail": "Substitution 2",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "65'",
-                    "player": "L. Benes",
+                    "player": "T. Rothe",
                     "detail": "Substitution 3",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "70'",
-                    "player": "M. Ivezic",
+                    "player": "T. Becker",
                     "detail": "Substitution 2",
                     "team": "Holstein Kiel"
                 },
                 {
-                    "time": "70'",
-                    "player": "S. Skrzybski",
+                    "time": "71'",
+                    "player": "P. Harres",
                     "detail": "Substitution 3",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "75'",
-                    "player": "T. Skarke",
+                    "player": "L. Tousart",
                     "detail": "Substitution 4",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "75'",
-                    "player": "K. Volland",
+                    "player": "B. Hollerbach",
                     "detail": "Substitution 5",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "77'",
-                    "player": "K. Volland",
+                    "player": "Kevin Volland",
                     "detail": "Yellow Card",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "83'",
-                    "player": "D. Javorcek",
+                    "player": "D. Zec",
                     "detail": "Substitution 4",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "83'",
-                    "player": "M. Schulz",
+                    "player": "M. Geschwill",
                     "detail": "Substitution 5",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "90'",
-                    "player": "J. Juranovic",
+                    "player": "Josip Juranović",
                     "detail": "Yellow Card",
                     "team": "Union Berlin"
                 }
@@ -2125,7 +2125,7 @@
                     "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "58'",
+                    "time": "59'",
                     "player": "M. Moerstedt",
                     "detail": "Substitution 1",
                     "team": "1899 Hoffenheim"
@@ -2239,91 +2239,91 @@
             "events": [
                 {
                     "time": "40'",
-                    "player": "T. Rothe",
+                    "player": "Tom Rothe",
                     "detail": "Yellow Card",
                     "team": "Union Berlin"
                 },
                 {
-                    "time": "43'",
-                    "player": "A. Gigovic",
+                    "time": "42'",
+                    "player": "A. Gigović",
                     "detail": "Normal Goal",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "45'",
-                    "player": "M. Ljubicic",
+                    "player": "Marin Ljubičić",
                     "detail": "Yellow Card",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "46'",
-                    "player": "A. Ilic",
+                    "player": "M. Ljubičić",
                     "detail": "Substitution 1",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "59'",
-                    "player": "L. Holtby",
+                    "player": "A. Gigović",
                     "detail": "Substitution 1",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "65'",
-                    "player": "J. Roussillon",
+                    "player": "Jeong Wooyeong",
                     "detail": "Substitution 2",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "65'",
-                    "player": "L. Benes",
+                    "player": "T. Rothe",
                     "detail": "Substitution 3",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "70'",
-                    "player": "M. Ivezic",
+                    "player": "T. Becker",
                     "detail": "Substitution 2",
                     "team": "Holstein Kiel"
                 },
                 {
-                    "time": "70'",
-                    "player": "S. Skrzybski",
+                    "time": "71'",
+                    "player": "P. Harres",
                     "detail": "Substitution 3",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "75'",
-                    "player": "T. Skarke",
+                    "player": "L. Tousart",
                     "detail": "Substitution 4",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "75'",
-                    "player": "K. Volland",
+                    "player": "B. Hollerbach",
                     "detail": "Substitution 5",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "77'",
-                    "player": "K. Volland",
+                    "player": "Kevin Volland",
                     "detail": "Yellow Card",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "83'",
-                    "player": "D. Javorcek",
+                    "player": "D. Zec",
                     "detail": "Substitution 4",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "83'",
-                    "player": "M. Schulz",
+                    "player": "M. Geschwill",
                     "detail": "Substitution 5",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "90'",
-                    "player": "J. Juranovic",
+                    "player": "Josip Juranović",
                     "detail": "Yellow Card",
                     "team": "Union Berlin"
                 }
