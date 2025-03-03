@@ -310,15 +310,15 @@
                 },
                 {
                     "type": "Total Shots",
-                    "value": 13
+                    "value": 12
                 },
                 {
                     "type": "Blocked Shots",
-                    "value": 5
+                    "value": 4
                 },
                 {
                     "type": "Shots insidebox",
-                    "value": 9
+                    "value": 8
                 },
                 {
                     "type": "Shots outsidebox",
@@ -354,11 +354,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 382
+                    "value": 383
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 276
+                    "value": 277
                 },
                 {
                     "type": "Passes %",
@@ -366,7 +366,7 @@
                 },
                 {
                     "type": "expected_goals",
-                    "value": "1.02"
+                    "value": "0.90"
                 },
                 {
                     "type": "goals_prevented",
@@ -411,7 +411,7 @@
                 },
                 {
                     "type": "Corner Kicks",
-                    "value": 4
+                    "value": 5
                 },
                 {
                     "type": "Offsides",
@@ -435,11 +435,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 289
+                    "value": 290
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 184
+                    "value": 186
                 },
                 {
                     "type": "Passes %",
@@ -447,7 +447,7 @@
                 },
                 {
                     "type": "expected_goals",
-                    "value": "0.61"
+                    "value": "0.59"
                 },
                 {
                     "type": "goals_prevented",
