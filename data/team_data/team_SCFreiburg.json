@@ -74,7 +74,7 @@
         {
             "fixture": {
                 "id": 1224177,
-                "referee": "M. Burda",
+                "referee": "Burda, Max, Germany",
                 "timezone": "UTC",
                 "date": "2025-02-21T19:30:00+00:00",
                 "timestamp": 1740166200,
@@ -144,7 +144,7 @@
         {
             "fixture": {
                 "id": 1224172,
-                "referee": "B. Brand",
+                "referee": "Benjamin Brand, Germany",
                 "timezone": "UTC",
                 "date": "2025-02-15T14:30:00+00:00",
                 "timestamp": 1739629800,
@@ -214,7 +214,7 @@
         {
             "fixture": {
                 "id": 1224159,
-                "referee": "T. Reichel",
+                "referee": "Tobias Reichel, Germany",
                 "timezone": "UTC",
                 "date": "2025-02-08T14:30:00+00:00",
                 "timestamp": 1739025000,
@@ -284,7 +284,7 @@
         {
             "fixture": {
                 "id": 1224153,
-                "referee": "T. Welz",
+                "referee": "Tobias Welz, Germany",
                 "timezone": "UTC",
                 "date": "2025-02-01T14:30:00+00:00",
                 "timestamp": 1738420200,
