@@ -442,19 +442,19 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 293
+                    "value": 290
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 196
+                    "value": 192
                 },
                 {
                     "type": "Passes %",
-                    "value": "67%"
+                    "value": "66%"
                 },
                 {
                     "type": "expected_goals",
-                    "value": "1.37"
+                    "value": "1.23"
                 },
                 {
                     "type": "goals_prevented",
@@ -523,11 +523,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 316
+                    "value": 318
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 230
+                    "value": 231
                 },
                 {
                     "type": "Passes %",
@@ -535,7 +535,7 @@
                 },
                 {
                     "type": "expected_goals",
-                    "value": "1.03"
+                    "value": "1.02"
                 },
                 {
                     "type": "goals_prevented",
@@ -617,18 +617,18 @@
                 },
                 {
                     "player": {
-                        "id": 25300,
-                        "name": "R. Khedira",
-                        "number": 8,
+                        "id": 664,
+                        "name": "L. Tousart",
+                        "number": 29,
                         "pos": "M",
                         "grid": "3:3"
                     }
                 },
                 {
                     "player": {
-                        "id": 664,
-                        "name": "L. Tousart",
-                        "number": 29,
+                        "id": 25300,
+                        "name": "R. Khedira",
+                        "number": 8,
                         "pos": "M",
                         "grid": "3:2"
                     }
