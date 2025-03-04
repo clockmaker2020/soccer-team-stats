@@ -4,7 +4,7 @@
         {
             "fixture": {
                 "id": 1224183,
-                "referee": "Daniel Siebert, Germany",
+                "referee": "D. Siebert",
                 "timezone": "UTC",
                 "date": "2025-03-01T14:30:00+00:00",
                 "timestamp": 1740839400,
@@ -74,7 +74,7 @@
         {
             "fixture": {
                 "id": 1224179,
-                "referee": "Felix Zwayer, Germany",
+                "referee": "F. Zwayer",
                 "timezone": "UTC",
                 "date": "2025-02-22T14:30:00+00:00",
                 "timestamp": 1740234600,
@@ -144,7 +144,7 @@
         {
             "fixture": {
                 "id": 1224167,
-                "referee": "Felix Brych, Germany",
+                "referee": "F. Brych",
                 "timezone": "UTC",
                 "date": "2025-02-16T18:30:00+00:00",
                 "timestamp": 1739730600,
@@ -214,7 +214,7 @@
         {
             "fixture": {
                 "id": 1224161,
-                "referee": "Daniel Schlager, Germany",
+                "referee": "D. Schlager",
                 "timezone": "UTC",
                 "date": "2025-02-08T14:30:00+00:00",
                 "timestamp": 1739025000,
@@ -284,7 +284,7 @@
         {
             "fixture": {
                 "id": 1224151,
-                "referee": "Martin Petersen, Germany",
+                "referee": "M. Petersen",
                 "timezone": "UTC",
                 "date": "2025-01-31T19:30:00+00:00",
                 "timestamp": 1738351800,
