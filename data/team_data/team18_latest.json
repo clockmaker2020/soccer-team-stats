@@ -491,82 +491,100 @@
         },
         {
             "team": "FSV Mainz 05",
-            "date": "2025-03-01 14:30",
-            "opponent": "RB Leipzig",
-            "score": "1 - 2",
-            "stadium": "Red Bull Arena",
-            "referee": "D. Siebert",
-            "league_round": "Regular Season - 24",
+            "date": "2025-03-07 19:30",
+            "opponent": "Borussia Mönchengladbach",
+            "score": "1 - 3",
+            "stadium": "BORUSSIA-PARK",
+            "referee": "Sascha Stegemann, Germany",
+            "league_round": "Regular Season - 25",
             "events": [
                 {
-                    "time": "1'",
-                    "player": "X. Simons",
-                    "detail": "Normal Goal",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "52'",
-                    "player": "Amadou Haidara",
-                    "detail": "Yellow Card",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "52'",
-                    "player": "N. Amiri",
+                    "time": "39'",
+                    "player": "P. Nebel",
                     "detail": "Normal Goal",
                     "team": "FSV Mainz 05"
                 },
                 {
-                    "time": "58'",
-                    "player": "J. Burkardt",
+                    "time": "49'",
+                    "player": "D. Kohr",
                     "detail": "Normal Goal",
                     "team": "FSV Mainz 05"
                 },
                 {
-                    "time": "59'",
-                    "player": "A. Haidara",
+                    "time": "56'",
+                    "player": "A. Plea",
                     "detail": "Substitution 1",
-                    "team": "RB Leipzig"
+                    "team": "Borussia Mönchengladbach"
                 },
                 {
-                    "time": "59'",
-                    "player": "L. Geertruida",
+                    "time": "64'",
+                    "player": "A. Hanche-Olsen",
+                    "detail": "Substitution 1",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "70'",
+                    "player": "N. Weiper",
                     "detail": "Substitution 2",
-                    "team": "RB Leipzig"
+                    "team": "FSV Mainz 05"
                 },
                 {
-                    "time": "72'",
-                    "player": "E. Bitshiabu",
+                    "time": "73'",
+                    "player": "S. Lainer",
+                    "detail": "Normal Goal",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "74'",
+                    "player": "L. Netz",
+                    "detail": "Substitution 2",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "74'",
+                    "player": "F. Neuhaus",
                     "detail": "Substitution 3",
-                    "team": "RB Leipzig"
+                    "team": "Borussia Mönchengladbach"
                 },
                 {
-                    "time": "72'",
-                    "player": "L. Openda",
+                    "time": "74'",
+                    "player": "S. Fukuda",
                     "detail": "Substitution 4",
-                    "team": "RB Leipzig"
+                    "team": "Borussia Mönchengladbach"
                 },
                 {
-                    "time": "75'",
-                    "player": "J. Burkardt",
-                    "detail": "Substitution 1",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "78'",
-                    "player": "A. Vermeeren",
-                    "detail": "Substitution 5",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "83'",
+                    "time": "77'",
                     "player": "N. Amiri",
-                    "detail": "Substitution 2",
+                    "detail": "Normal Goal",
                     "team": "FSV Mainz 05"
                 },
                 {
-                    "time": "88'",
-                    "player": "Lennard Maloney",
+                    "time": "85'",
+                    "player": "N. Pesch",
+                    "detail": "Substitution 5",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "87'",
+                    "player": "S. Widmer",
+                    "detail": "Substitution 3",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "87'",
+                    "player": "A. Sieb",
+                    "detail": "Substitution 4",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "87'",
+                    "player": "L. Maloney",
+                    "detail": "Substitution 5",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "90'",
+                    "player": "K. Sano",
                     "detail": "Yellow Card",
                     "team": "FSV Mainz 05"
                 }
@@ -577,6 +595,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-03-07 19:30",
+                    "score": "1 - 3"
+                },
                 {
                     "date": "2025-03-01 14:30",
                     "score": "1 - 2"
@@ -592,10 +614,6 @@
                 {
                     "date": "2025-02-08 14:30",
                     "score": "0 - 0"
-                },
-                {
-                    "date": "2025-01-31 19:30",
-                    "score": "1 - 0"
                 }
             ],
             "future_games": [
@@ -985,126 +1003,102 @@
         },
         {
             "team": "Borussia Mönchengladbach",
-            "date": "2025-03-01 14:30",
-            "opponent": "1. FC Heidenheim",
-            "score": "0 - 3",
-            "stadium": "Voith-Arena",
-            "referee": "S. Storks",
-            "league_round": "Regular Season - 24",
+            "date": "2025-03-07 19:30",
+            "opponent": "FSV Mainz 05",
+            "score": "1 - 3",
+            "stadium": "BORUSSIA-PARK",
+            "referee": "Sascha Stegemann, Germany",
+            "league_round": "Regular Season - 25",
             "events": [
                 {
-                    "time": "6'",
-                    "player": "Joseph Scally",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "8'",
-                    "player": "R. Hack",
+                    "time": "39'",
+                    "player": "P. Nebel",
                     "detail": "Normal Goal",
-                    "team": "Borussia Mönchengladbach"
+                    "team": "FSV Mainz 05"
                 },
                 {
-                    "time": "18'",
-                    "player": "N. Ngoumou",
+                    "time": "49'",
+                    "player": "D. Kohr",
                     "detail": "Normal Goal",
-                    "team": "Borussia Mönchengladbach"
+                    "team": "FSV Mainz 05"
                 },
                 {
-                    "time": "33'",
-                    "player": "L. Kerber",
-                    "detail": "Substitution 1",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "46'",
-                    "player": "B. Zivzivadze",
-                    "detail": "Substitution 2",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "46'",
-                    "player": "S. Conteh",
-                    "detail": "Substitution 3",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "46'",
-                    "player": "L. Ullrich",
+                    "time": "56'",
+                    "player": "A. Plea",
                     "detail": "Substitution 1",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
-                    "time": "49'",
-                    "player": "Benedikt Gimber",
-                    "detail": "Yellow Card",
-                    "team": "1. FC Heidenheim"
+                    "time": "64'",
+                    "player": "A. Hanche-Olsen",
+                    "detail": "Substitution 1",
+                    "team": "FSV Mainz 05"
                 },
                 {
-                    "time": "49'",
-                    "player": "Ko Itakura",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Mönchengladbach"
+                    "time": "70'",
+                    "player": "N. Weiper",
+                    "detail": "Substitution 2",
+                    "team": "FSV Mainz 05"
                 },
                 {
-                    "time": "58'",
-                    "player": "Patrick Mainka",
-                    "detail": "Yellow Card",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "59'",
-                    "player": "R. Hack",
+                    "time": "73'",
+                    "player": "S. Lainer",
                     "detail": "Normal Goal",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
-                    "time": "61'",
-                    "player": "Alassane Pléa",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "62'",
-                    "player": "N. Ngoumou",
+                    "time": "74'",
+                    "player": "L. Netz",
                     "detail": "Substitution 2",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
-                    "time": "62'",
-                    "player": "A. Pléa",
+                    "time": "74'",
+                    "player": "F. Neuhaus",
                     "detail": "Substitution 3",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
-                    "time": "62'",
-                    "player": "J. Föhrenbach",
-                    "detail": "Substitution 4",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "69'",
-                    "player": "Robin Hack",
-                    "detail": "Goal cancelled",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "71'",
-                    "player": "P. Wanner",
-                    "detail": "Substitution 5",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "78'",
-                    "player": "R. Hack",
+                    "time": "74'",
+                    "player": "S. Fukuda",
                     "detail": "Substitution 4",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
-                    "time": "78'",
-                    "player": "J. Scally",
+                    "time": "77'",
+                    "player": "N. Amiri",
+                    "detail": "Normal Goal",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "85'",
+                    "player": "N. Pesch",
                     "detail": "Substitution 5",
                     "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "87'",
+                    "player": "S. Widmer",
+                    "detail": "Substitution 3",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "87'",
+                    "player": "A. Sieb",
+                    "detail": "Substitution 4",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "87'",
+                    "player": "L. Maloney",
+                    "detail": "Substitution 5",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "90'",
+                    "player": "K. Sano",
+                    "detail": "Yellow Card",
+                    "team": "FSV Mainz 05"
                 }
             ],
             "odds": {
@@ -1113,6 +1107,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-03-07 19:30",
+                    "score": "1 - 3"
+                },
                 {
                     "date": "2025-03-01 14:30",
                     "score": "0 - 3"
@@ -1128,10 +1126,6 @@
                 {
                     "date": "2025-02-08 17:30",
                     "score": "1 - 1"
-                },
-                {
-                    "date": "2025-02-01 14:30",
-                    "score": "1 - 2"
                 }
             ],
             "future_games": [
