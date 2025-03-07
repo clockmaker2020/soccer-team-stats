@@ -335,6 +335,149 @@
             "squad": []
         },
         {
+            "team": "FSV Mainz 05",
+            "date": "2025-03-07 19:30",
+            "opponent": "Borussia Mönchengladbach",
+            "score": "1 - 3",
+            "stadium": "BORUSSIA-PARK",
+            "referee": "Sascha Stegemann, Germany",
+            "league_round": "Regular Season - 25",
+            "events": [
+                {
+                    "time": "39'",
+                    "player": "P. Nebel",
+                    "detail": "Normal Goal",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "49'",
+                    "player": "D. Kohr",
+                    "detail": "Normal Goal",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "56'",
+                    "player": "A. Plea",
+                    "detail": "Substitution 1",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "64'",
+                    "player": "A. Hanche-Olsen",
+                    "detail": "Substitution 1",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "70'",
+                    "player": "N. Weiper",
+                    "detail": "Substitution 2",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "73'",
+                    "player": "S. Lainer",
+                    "detail": "Normal Goal",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "74'",
+                    "player": "L. Netz",
+                    "detail": "Substitution 2",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "74'",
+                    "player": "F. Neuhaus",
+                    "detail": "Substitution 3",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "74'",
+                    "player": "S. Fukuda",
+                    "detail": "Substitution 4",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "77'",
+                    "player": "N. Amiri",
+                    "detail": "Normal Goal",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "85'",
+                    "player": "N. Pesch",
+                    "detail": "Substitution 5",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "87'",
+                    "player": "S. Widmer",
+                    "detail": "Substitution 3",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "87'",
+                    "player": "A. Sieb",
+                    "detail": "Substitution 4",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "87'",
+                    "player": "L. Maloney",
+                    "detail": "Substitution 5",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "90'",
+                    "player": "K. Sano",
+                    "detail": "Yellow Card",
+                    "team": "FSV Mainz 05"
+                }
+            ],
+            "odds": {
+                "home": "N/A",
+                "draw": "N/A",
+                "away": "N/A"
+            },
+            "past_results": [
+                {
+                    "date": "2025-03-07 19:30",
+                    "score": "1 - 3"
+                },
+                {
+                    "date": "2025-03-01 14:30",
+                    "score": "1 - 2"
+                },
+                {
+                    "date": "2025-02-22 14:30",
+                    "score": "2 - 0"
+                },
+                {
+                    "date": "2025-02-16 18:30",
+                    "score": "0 - 2"
+                },
+                {
+                    "date": "2025-02-08 14:30",
+                    "score": "0 - 0"
+                }
+            ],
+            "future_games": [
+                {
+                    "date": "2025-03-15 14:30",
+                    "opponent": "SC Freiburg"
+                },
+                {
+                    "date": "2025-03-30 15:30",
+                    "opponent": "Borussia Dortmund"
+                },
+                {
+                    "date": "2025-04-05 13:30",
+                    "opponent": "Holstein Kiel"
+                }
+            ],
+            "squad": []
+        },
+        {
             "team": "Eintracht Frankfurt",
             "date": "2025-03-01 17:30",
             "opponent": "Bayer Leverkusen",
@@ -485,149 +628,6 @@
                 {
                     "date": "2025-03-29 17:30",
                     "opponent": "VfB Stuttgart"
-                }
-            ],
-            "squad": []
-        },
-        {
-            "team": "FSV Mainz 05",
-            "date": "2025-03-07 19:30",
-            "opponent": "Borussia Mönchengladbach",
-            "score": "1 - 3",
-            "stadium": "BORUSSIA-PARK",
-            "referee": "Sascha Stegemann, Germany",
-            "league_round": "Regular Season - 25",
-            "events": [
-                {
-                    "time": "39'",
-                    "player": "P. Nebel",
-                    "detail": "Normal Goal",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "49'",
-                    "player": "D. Kohr",
-                    "detail": "Normal Goal",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "56'",
-                    "player": "A. Plea",
-                    "detail": "Substitution 1",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "64'",
-                    "player": "A. Hanche-Olsen",
-                    "detail": "Substitution 1",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "70'",
-                    "player": "N. Weiper",
-                    "detail": "Substitution 2",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "73'",
-                    "player": "S. Lainer",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "74'",
-                    "player": "L. Netz",
-                    "detail": "Substitution 2",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "74'",
-                    "player": "F. Neuhaus",
-                    "detail": "Substitution 3",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "74'",
-                    "player": "S. Fukuda",
-                    "detail": "Substitution 4",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "77'",
-                    "player": "N. Amiri",
-                    "detail": "Normal Goal",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "85'",
-                    "player": "N. Pesch",
-                    "detail": "Substitution 5",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "87'",
-                    "player": "S. Widmer",
-                    "detail": "Substitution 3",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "87'",
-                    "player": "A. Sieb",
-                    "detail": "Substitution 4",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "87'",
-                    "player": "L. Maloney",
-                    "detail": "Substitution 5",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "90'",
-                    "player": "K. Sano",
-                    "detail": "Yellow Card",
-                    "team": "FSV Mainz 05"
-                }
-            ],
-            "odds": {
-                "home": "N/A",
-                "draw": "N/A",
-                "away": "N/A"
-            },
-            "past_results": [
-                {
-                    "date": "2025-03-07 19:30",
-                    "score": "1 - 3"
-                },
-                {
-                    "date": "2025-03-01 14:30",
-                    "score": "1 - 2"
-                },
-                {
-                    "date": "2025-02-22 14:30",
-                    "score": "2 - 0"
-                },
-                {
-                    "date": "2025-02-16 18:30",
-                    "score": "0 - 2"
-                },
-                {
-                    "date": "2025-02-08 14:30",
-                    "score": "0 - 0"
-                }
-            ],
-            "future_games": [
-                {
-                    "date": "2025-03-15 14:30",
-                    "opponent": "SC Freiburg"
-                },
-                {
-                    "date": "2025-03-30 15:30",
-                    "opponent": "Borussia Dortmund"
-                },
-                {
-                    "date": "2025-04-05 13:30",
-                    "opponent": "Holstein Kiel"
                 }
             ],
             "squad": []
