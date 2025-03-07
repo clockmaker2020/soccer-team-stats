@@ -86,8 +86,8 @@
                 "name": "D. Kohr"
             },
             "assist": {
-                "id": null,
-                "name": null
+                "id": 714,
+                "name": "N. Amiri"
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -174,8 +174,8 @@
                 "name": "S. Lainer"
             },
             "assist": {
-                "id": null,
-                "name": null
+                "id": 725,
+                "name": "R. Hack"
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -704,6 +704,15 @@
                 },
                 {
                     "player": {
+                        "id": 334092,
+                        "name": "Noah Pesch",
+                        "number": 23,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 25627,
                         "name": "Tobias Sippel",
                         "number": 21,
@@ -734,15 +743,6 @@
                         "id": 80434,
                         "name": "Tomáš Čvančara",
                         "number": 31,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 334092,
-                        "name": "Noah Pesch",
-                        "number": 23,
                         "pos": "F",
                         "grid": null
                     }
@@ -895,6 +895,33 @@
                 },
                 {
                     "player": {
+                        "id": 24842,
+                        "name": "Lennard Maloney",
+                        "number": 15,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 48378,
+                        "name": "Silvan Widmer",
+                        "number": 30,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 280339,
+                        "name": "Armindo Sieb",
+                        "number": 11,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 180553,
                         "name": "Lasse Riess",
                         "number": 1,
@@ -922,37 +949,10 @@
                 },
                 {
                     "player": {
-                        "id": 24842,
-                        "name": "Lennard Maloney",
-                        "number": 15,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 26519,
                         "name": "Hyun-Seok Hong",
                         "number": 14,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 48378,
-                        "name": "Silvan Widmer",
-                        "number": 30,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 280339,
-                        "name": "Armindo Sieb",
-                        "number": 11,
-                        "pos": "F",
                         "grid": null
                     }
                 }
