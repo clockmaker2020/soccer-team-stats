@@ -21,20 +21,20 @@
         {
             "rank": 3,
             "team": {
+                "name": "FSV Mainz 05"
+            },
+            "wins": 13,
+            "draws": 5,
+            "losses": 7
+        },
+        {
+            "rank": 4,
+            "team": {
                 "name": "Eintracht Frankfurt"
             },
             "wins": 12,
             "draws": 6,
             "losses": 6
-        },
-        {
-            "rank": 4,
-            "team": {
-                "name": "FSV Mainz 05"
-            },
-            "wins": 12,
-            "draws": 5,
-            "losses": 7
         },
         {
             "rank": 5,
@@ -70,7 +70,7 @@
             },
             "wins": 11,
             "draws": 4,
-            "losses": 9
+            "losses": 10
         },
         {
             "rank": 9,
