@@ -426,7 +426,7 @@
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "57%"
+                    "value": "58%"
                 },
                 {
                     "type": "Yellow Cards",
@@ -442,11 +442,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 604
+                    "value": 608
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 501
+                    "value": 504
                 },
                 {
                     "type": "Passes %",
@@ -507,7 +507,7 @@
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "43%"
+                    "value": "42%"
                 },
                 {
                     "type": "Yellow Cards",
@@ -523,15 +523,15 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 452
+                    "value": 454
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 373
+                    "value": 370
                 },
                 {
                     "type": "Passes %",
-                    "value": "83%"
+                    "value": "81%"
                 },
                 {
                     "type": "expected_goals",
@@ -749,9 +749,8 @@
                 }
             ],
             "coach": {
-                "id": 2017,
-                "name": "G. Seoane",
-                "photo": "https://media.api-sports.io/football/coachs/2017.png"
+                "id": null,
+                "name": null
             }
         },
         {
@@ -958,9 +957,8 @@
                 }
             ],
             "coach": {
-                "id": 1676,
-                "name": "B. Henriksen",
-                "photo": "https://media.api-sports.io/football/coachs/1676.png"
+                "id": null,
+                "name": null
             }
         }
     ],
