@@ -3,6 +3,76 @@
     "past_matches": [
         {
             "fixture": {
+                "id": 1224196,
+                "referee": "Sven Jablonski, Germany",
+                "timezone": "UTC",
+                "date": "2025-03-08T17:30:00+00:00",
+                "timestamp": 1741455000,
+                "periods": {
+                    "first": 1741455000,
+                    "second": 1741458600
+                },
+                "venue": {
+                    "id": 12717,
+                    "name": "Europa-Park Stadion",
+                    "city": "Freiburg im Breisgau"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 2
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 25",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 160,
+                    "name": "SC Freiburg",
+                    "logo": "https://media.api-sports.io/football/teams/160.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 173,
+                    "name": "RB Leipzig",
+                    "logo": "https://media.api-sports.io/football/teams/173.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
                 "id": 1224187,
                 "referee": "Harm Osmers, Germany",
                 "timezone": "UTC",
@@ -270,76 +340,6 @@
                 "fulltime": {
                     "home": 1,
                     "away": 0
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
-                "id": 1224153,
-                "referee": "Tobias Welz, Germany",
-                "timezone": "UTC",
-                "date": "2025-02-01T14:30:00+00:00",
-                "timestamp": 1738420200,
-                "periods": {
-                    "first": 1738420200,
-                    "second": 1738423800
-                },
-                "venue": {
-                    "id": 751,
-                    "name": "Vonovia Ruhrstadion",
-                    "city": "Bochum"
-                },
-                "status": {
-                    "long": "Match Finished",
-                    "short": "FT",
-                    "elapsed": 90,
-                    "extra": 5
-                }
-            },
-            "league": {
-                "id": 78,
-                "name": "Bundesliga",
-                "country": "Germany",
-                "logo": "https://media.api-sports.io/football/leagues/78.png",
-                "flag": "https://media.api-sports.io/flags/de.svg",
-                "season": 2024,
-                "round": "Regular Season - 20",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 176,
-                    "name": "VfL Bochum",
-                    "logo": "https://media.api-sports.io/football/teams/176.png",
-                    "winner": false
-                },
-                "away": {
-                    "id": 160,
-                    "name": "SC Freiburg",
-                    "logo": "https://media.api-sports.io/football/teams/160.png",
-                    "winner": true
-                }
-            },
-            "goals": {
-                "home": 0,
-                "away": 1
-            },
-            "score": {
-                "halftime": {
-                    "home": 0,
-                    "away": 1
-                },
-                "fulltime": {
-                    "home": 0,
-                    "away": 1
                 },
                 "extratime": {
                     "home": null,
