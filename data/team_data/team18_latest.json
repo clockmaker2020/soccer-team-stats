@@ -652,66 +652,72 @@
         },
         {
             "team": "SC Freiburg",
-            "date": "2025-03-02 16:30",
-            "opponent": "FC Augsburg",
+            "date": "2025-03-08 17:30",
+            "opponent": "RB Leipzig",
             "score": "0 - 0",
-            "stadium": "WWK Arena",
-            "referee": "Harm Osmers, Germany",
-            "league_round": "Regular Season - 24",
+            "stadium": "Europa-Park Stadion",
+            "referee": "Sven Jablonski, Germany",
+            "league_round": "Regular Season - 25",
             "events": [
                 {
-                    "time": "45'",
-                    "player": "Dimitrios Giannoulis",
-                    "detail": "Yellow Card",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "62'",
-                    "player": "F. Jensen",
+                    "time": "46'",
+                    "player": "A. Haidara",
                     "detail": "Substitution 1",
-                    "team": "FC Augsburg"
+                    "team": "RB Leipzig"
                 },
                 {
-                    "time": "62'",
+                    "time": "46'",
                     "player": "V. Grifo",
                     "detail": "Substitution 1",
                     "team": "SC Freiburg"
                 },
                 {
-                    "time": "74'",
-                    "player": "P. Tietz",
-                    "detail": "Substitution 2",
-                    "team": "FC Augsburg"
+                    "time": "50'",
+                    "player": "W. Orban",
+                    "detail": "Yellow Card",
+                    "team": "RB Leipzig"
                 },
                 {
-                    "time": "74'",
-                    "player": "L. Höler",
+                    "time": "56'",
+                    "player": "N. Seiwald",
+                    "detail": "Substitution 2",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "63'",
+                    "player": "N. Seiwald",
+                    "detail": "Yellow Card",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "75'",
+                    "player": "J. Beste",
                     "detail": "Substitution 2",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "78'",
-                    "player": "K. Jakić",
+                    "player": "C. Lukeba",
                     "detail": "Substitution 3",
-                    "team": "FC Augsburg"
+                    "team": "RB Leipzig"
                 },
                 {
-                    "time": "80'",
-                    "player": "Kiliann Sildillia",
-                    "detail": "Yellow Card",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "83'",
-                    "player": "M. Röhl",
-                    "detail": "Substitution 3",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "83'",
-                    "player": "M. Eggestein",
+                    "time": "78'",
+                    "player": "Y. Poulsen",
                     "detail": "Substitution 4",
-                    "team": "SC Freiburg"
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "87'",
+                    "player": "D. Raum",
+                    "detail": "Yellow Card",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "88'",
+                    "player": "T. Gomis",
+                    "detail": "Substitution 5",
+                    "team": "RB Leipzig"
                 }
             ],
             "odds": {
@@ -720,6 +726,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-03-08 17:30",
+                    "score": "0 - 0"
+                },
                 {
                     "date": "2025-03-02 16:30",
                     "score": "0 - 0"
@@ -735,10 +745,6 @@
                 {
                     "date": "2025-02-08 14:30",
                     "score": "1 - 0"
-                },
-                {
-                    "date": "2025-02-01 14:30",
-                    "score": "0 - 1"
                 }
             ],
             "future_games": [
