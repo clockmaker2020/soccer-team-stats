@@ -890,84 +890,72 @@
         },
         {
             "team": "RB Leipzig",
-            "date": "2025-03-01 14:30",
-            "opponent": "FSV Mainz 05",
-            "score": "1 - 2",
-            "stadium": "Red Bull Arena",
-            "referee": "Daniel Siebert, Germany",
-            "league_round": "Regular Season - 24",
+            "date": "2025-03-08 17:30",
+            "opponent": "SC Freiburg",
+            "score": "0 - 0",
+            "stadium": "Europa-Park Stadion",
+            "referee": "Sven Jablonski, Germany",
+            "league_round": "Regular Season - 25",
             "events": [
                 {
-                    "time": "1'",
-                    "player": "X. Simons",
-                    "detail": "Normal Goal",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "52'",
-                    "player": "Amadou Haidara",
-                    "detail": "Yellow Card",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "52'",
-                    "player": "N. Amiri",
-                    "detail": "Normal Goal",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "58'",
-                    "player": "J. Burkardt",
-                    "detail": "Normal Goal",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "59'",
+                    "time": "46'",
                     "player": "A. Haidara",
                     "detail": "Substitution 1",
                     "team": "RB Leipzig"
                 },
                 {
-                    "time": "59'",
-                    "player": "L. Geertruida",
+                    "time": "46'",
+                    "player": "V. Grifo",
+                    "detail": "Substitution 1",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "50'",
+                    "player": "W. Orban",
+                    "detail": "Yellow Card",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "56'",
+                    "player": "N. Seiwald",
                     "detail": "Substitution 2",
                     "team": "RB Leipzig"
                 },
                 {
-                    "time": "72'",
-                    "player": "E. Bitshiabu",
-                    "detail": "Substitution 3",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "72'",
-                    "player": "L. Openda",
-                    "detail": "Substitution 4",
+                    "time": "63'",
+                    "player": "N. Seiwald",
+                    "detail": "Yellow Card",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "75'",
-                    "player": "J. Burkardt",
-                    "detail": "Substitution 1",
-                    "team": "FSV Mainz 05"
+                    "player": "J. Beste",
+                    "detail": "Substitution 2",
+                    "team": "SC Freiburg"
                 },
                 {
                     "time": "78'",
-                    "player": "A. Vermeeren",
-                    "detail": "Substitution 5",
+                    "player": "C. Lukeba",
+                    "detail": "Substitution 3",
                     "team": "RB Leipzig"
                 },
                 {
-                    "time": "83'",
-                    "player": "N. Amiri",
-                    "detail": "Substitution 2",
-                    "team": "FSV Mainz 05"
+                    "time": "78'",
+                    "player": "Y. Poulsen",
+                    "detail": "Substitution 4",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "87'",
+                    "player": "D. Raum",
+                    "detail": "Yellow Card",
+                    "team": "RB Leipzig"
                 },
                 {
                     "time": "88'",
-                    "player": "Lennard Maloney",
-                    "detail": "Yellow Card",
-                    "team": "FSV Mainz 05"
+                    "player": "T. Gomis",
+                    "detail": "Substitution 5",
+                    "team": "RB Leipzig"
                 }
             ],
             "odds": {
@@ -976,6 +964,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-03-08 17:30",
+                    "score": "0 - 0"
+                },
                 {
                     "date": "2025-03-01 14:30",
                     "score": "1 - 2"
@@ -991,10 +983,6 @@
                 {
                     "date": "2025-02-09 16:30",
                     "score": "2 - 0"
-                },
-                {
-                    "date": "2025-02-01 17:30",
-                    "score": "0 - 0"
                 }
             ],
             "future_games": [
