@@ -678,7 +678,7 @@
                     "team": "RB Leipzig"
                 },
                 {
-                    "time": "56'",
+                    "time": "57'",
                     "player": "N. Seiwald",
                     "detail": "Substitution 2",
                     "team": "RB Leipzig"
@@ -759,6 +759,119 @@
                 {
                     "date": "2025-04-05 13:30",
                     "opponent": "Borussia Dortmund"
+                }
+            ],
+            "squad": []
+        },
+        {
+            "team": "RB Leipzig",
+            "date": "2025-03-08 17:30",
+            "opponent": "SC Freiburg",
+            "score": "0 - 0",
+            "stadium": "Europa-Park Stadion",
+            "referee": "Sven Jablonski, Germany",
+            "league_round": "Regular Season - 25",
+            "events": [
+                {
+                    "time": "46'",
+                    "player": "A. Haidara",
+                    "detail": "Substitution 1",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "46'",
+                    "player": "V. Grifo",
+                    "detail": "Substitution 1",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "50'",
+                    "player": "W. Orban",
+                    "detail": "Yellow Card",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "57'",
+                    "player": "N. Seiwald",
+                    "detail": "Substitution 2",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "63'",
+                    "player": "N. Seiwald",
+                    "detail": "Yellow Card",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "75'",
+                    "player": "J. Beste",
+                    "detail": "Substitution 2",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "78'",
+                    "player": "C. Lukeba",
+                    "detail": "Substitution 3",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "78'",
+                    "player": "Y. Poulsen",
+                    "detail": "Substitution 4",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "87'",
+                    "player": "D. Raum",
+                    "detail": "Yellow Card",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "88'",
+                    "player": "T. Gomis",
+                    "detail": "Substitution 5",
+                    "team": "RB Leipzig"
+                }
+            ],
+            "odds": {
+                "home": "N/A",
+                "draw": "N/A",
+                "away": "N/A"
+            },
+            "past_results": [
+                {
+                    "date": "2025-03-08 17:30",
+                    "score": "0 - 0"
+                },
+                {
+                    "date": "2025-03-01 14:30",
+                    "score": "1 - 2"
+                },
+                {
+                    "date": "2025-02-23 14:30",
+                    "score": "2 - 2"
+                },
+                {
+                    "date": "2025-02-14 19:30",
+                    "score": "0 - 0"
+                },
+                {
+                    "date": "2025-02-09 16:30",
+                    "score": "2 - 0"
+                }
+            ],
+            "future_games": [
+                {
+                    "date": "2025-03-15 17:30",
+                    "opponent": "Borussia Dortmund"
+                },
+                {
+                    "date": "2025-03-29 14:30",
+                    "opponent": "Borussia Mönchengladbach"
+                },
+                {
+                    "date": "2025-04-05 13:30",
+                    "opponent": "1899 Hoffenheim"
                 }
             ],
             "squad": []
@@ -884,119 +997,6 @@
                 {
                     "date": "2025-04-06 15:30",
                     "opponent": "Union Berlin"
-                }
-            ],
-            "squad": []
-        },
-        {
-            "team": "RB Leipzig",
-            "date": "2025-03-08 17:30",
-            "opponent": "SC Freiburg",
-            "score": "0 - 0",
-            "stadium": "Europa-Park Stadion",
-            "referee": "Sven Jablonski, Germany",
-            "league_round": "Regular Season - 25",
-            "events": [
-                {
-                    "time": "46'",
-                    "player": "A. Haidara",
-                    "detail": "Substitution 1",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "46'",
-                    "player": "V. Grifo",
-                    "detail": "Substitution 1",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "50'",
-                    "player": "W. Orban",
-                    "detail": "Yellow Card",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "56'",
-                    "player": "N. Seiwald",
-                    "detail": "Substitution 2",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "63'",
-                    "player": "N. Seiwald",
-                    "detail": "Yellow Card",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "75'",
-                    "player": "J. Beste",
-                    "detail": "Substitution 2",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "78'",
-                    "player": "C. Lukeba",
-                    "detail": "Substitution 3",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "78'",
-                    "player": "Y. Poulsen",
-                    "detail": "Substitution 4",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "87'",
-                    "player": "D. Raum",
-                    "detail": "Yellow Card",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "88'",
-                    "player": "T. Gomis",
-                    "detail": "Substitution 5",
-                    "team": "RB Leipzig"
-                }
-            ],
-            "odds": {
-                "home": "N/A",
-                "draw": "N/A",
-                "away": "N/A"
-            },
-            "past_results": [
-                {
-                    "date": "2025-03-08 17:30",
-                    "score": "0 - 0"
-                },
-                {
-                    "date": "2025-03-01 14:30",
-                    "score": "1 - 2"
-                },
-                {
-                    "date": "2025-02-23 14:30",
-                    "score": "2 - 2"
-                },
-                {
-                    "date": "2025-02-14 19:30",
-                    "score": "0 - 0"
-                },
-                {
-                    "date": "2025-02-09 16:30",
-                    "score": "2 - 0"
-                }
-            ],
-            "future_games": [
-                {
-                    "date": "2025-03-15 17:30",
-                    "opponent": "Borussia Dortmund"
-                },
-                {
-                    "date": "2025-03-29 14:30",
-                    "opponent": "Borussia Mönchengladbach"
-                },
-                {
-                    "date": "2025-04-05 13:30",
-                    "opponent": "1899 Hoffenheim"
                 }
             ],
             "squad": []
