@@ -42,26 +42,26 @@
                 "name": "SC Freiburg"
             },
             "wins": 12,
-            "draws": 4,
+            "draws": 5,
             "losses": 8
         },
         {
             "rank": 6,
+            "team": {
+                "name": "RB Leipzig"
+            },
+            "wins": 10,
+            "draws": 9,
+            "losses": 6
+        },
+        {
+            "rank": 7,
             "team": {
                 "name": "VfL Wolfsburg"
             },
             "wins": 10,
             "draws": 8,
             "losses": 7
-        },
-        {
-            "rank": 7,
-            "team": {
-                "name": "RB Leipzig"
-            },
-            "wins": 10,
-            "draws": 8,
-            "losses": 6
         },
         {
             "rank": 8,
