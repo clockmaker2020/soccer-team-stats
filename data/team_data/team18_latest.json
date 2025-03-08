@@ -1462,66 +1462,120 @@
         },
         {
             "team": "FC Augsburg",
-            "date": "2025-03-02 16:30",
-            "opponent": "SC Freiburg",
-            "score": "0 - 0",
-            "stadium": "WWK Arena",
-            "referee": "Harm Osmers, Germany",
-            "league_round": "Regular Season - 24",
+            "date": "2025-03-08 14:30",
+            "opponent": "Borussia Dortmund",
+            "score": "0 - 1",
+            "stadium": "SIGNAL IDUNA PARK",
+            "referee": "Deniz Aytekin, Germany",
+            "league_round": "Regular Season - 25",
             "events": [
                 {
-                    "time": "45'",
-                    "player": "Dimitrios Giannoulis",
+                    "time": "23'",
+                    "player": "J. Gouweleeuw",
+                    "detail": "Normal Goal",
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "50'",
+                    "player": "J. Brandt",
+                    "detail": "Goal Disallowed - offside",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "58'",
+                    "player": "E. Rexhbecaj",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
                 {
-                    "time": "62'",
-                    "player": "F. Jensen",
-                    "detail": "Substitution 1",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "62'",
-                    "player": "V. Grifo",
-                    "detail": "Substitution 1",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "74'",
-                    "player": "P. Tietz",
-                    "detail": "Substitution 2",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "74'",
-                    "player": "L. Höler",
-                    "detail": "Substitution 2",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "78'",
-                    "player": "K. Jakić",
-                    "detail": "Substitution 3",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "80'",
-                    "player": "Kiliann Sildillia",
+                    "time": "58'",
+                    "player": "S. Guirassy",
                     "detail": "Yellow Card",
-                    "team": "SC Freiburg"
+                    "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "83'",
-                    "player": "M. Röhl",
+                    "time": "58'",
+                    "player": "S. Essende",
+                    "detail": "Substitution 1",
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "58'",
+                    "player": "K. Jakic",
+                    "detail": "Substitution 2",
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "61'",
+                    "player": "S. Ozcan",
+                    "detail": "Goal Disallowed - offside",
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "63'",
+                    "player": "M. Beier",
+                    "detail": "Substitution 1",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "63'",
+                    "player": "J. Ryerson",
+                    "detail": "Substitution 2",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "70'",
+                    "player": "F. Onyeka",
+                    "detail": "Yellow Card",
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "74'",
+                    "player": "A. Maier",
                     "detail": "Substitution 3",
-                    "team": "SC Freiburg"
+                    "team": "FC Augsburg"
                 },
                 {
-                    "time": "83'",
-                    "player": "M. Eggestein",
+                    "time": "74'",
+                    "player": "M. Komur",
                     "detail": "Substitution 4",
-                    "team": "SC Freiburg"
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "75'",
+                    "player": "M. Sabitzer",
+                    "detail": "Substitution 3",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "75'",
+                    "player": "J. Duranville",
+                    "detail": "Substitution 4",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "82'",
+                    "player": "N. Banks",
+                    "detail": "Substitution 5",
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "82'",
+                    "player": "N. Banks",
+                    "detail": "Yellow Card",
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "85'",
+                    "player": "K. Jakic",
+                    "detail": "Yellow Card",
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "90'",
+                    "player": "W. Anton",
+                    "detail": "Substitution 5",
+                    "team": "Borussia Dortmund"
                 }
             ],
             "odds": {
@@ -2224,102 +2278,120 @@
         },
         {
             "team": "Holstein Kiel",
-            "date": "2025-03-02 14:30",
-            "opponent": "Union Berlin",
-            "score": "0 - 1",
-            "stadium": "Stadion An der Alten Försterei",
-            "referee": "Tobias Reichel, Germany",
-            "league_round": "Regular Season - 24",
+            "date": "2025-03-08 14:30",
+            "opponent": "VfB Stuttgart",
+            "score": "2 - 2",
+            "stadium": "Holstein-Stadion",
+            "referee": "Bastian Dankert, Germany",
+            "league_round": "Regular Season - 25",
             "events": [
                 {
-                    "time": "40'",
-                    "player": "Tom Rothe",
+                    "time": "8'",
+                    "player": "E. Millot",
                     "detail": "Yellow Card",
-                    "team": "Union Berlin"
+                    "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "42'",
-                    "player": "A. Gigović",
+                    "time": "15'",
+                    "player": "J. Leweling",
+                    "detail": "Normal Goal",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "30'",
+                    "player": "S. Skrzybski",
                     "detail": "Normal Goal",
                     "team": "Holstein Kiel"
                 },
                 {
-                    "time": "45'",
-                    "player": "Marin Ljubičić",
-                    "detail": "Yellow Card",
-                    "team": "Union Berlin"
+                    "time": "46'",
+                    "player": "J. Bruun Larsen",
+                    "detail": "Substitution 1",
+                    "team": "VfB Stuttgart"
                 },
                 {
                     "time": "46'",
-                    "player": "M. Ljubičić",
-                    "detail": "Substitution 1",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "59'",
-                    "player": "A. Gigović",
-                    "detail": "Substitution 1",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "65'",
-                    "player": "Jeong Wooyeong",
+                    "player": "E. Demirovic",
                     "detail": "Substitution 2",
-                    "team": "Union Berlin"
+                    "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "65'",
-                    "player": "T. Rothe",
+                    "time": "46'",
+                    "player": "S. Skrzybski",
+                    "detail": "Normal Goal",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "53'",
+                    "player": "L. Stergiou",
+                    "detail": "Red Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "55'",
+                    "player": "E. Demirovic",
+                    "detail": "Normal Goal",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "61'",
+                    "player": "J. Vagnoman",
                     "detail": "Substitution 3",
-                    "team": "Union Berlin"
+                    "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "70'",
-                    "player": "T. Becker",
+                    "time": "63'",
+                    "player": "A. Bernhardsson",
+                    "detail": "Substitution 1",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "63'",
+                    "player": "J. Arp",
                     "detail": "Substitution 2",
                     "team": "Holstein Kiel"
-                },
-                {
-                    "time": "71'",
-                    "player": "P. Harres",
-                    "detail": "Substitution 3",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "75'",
-                    "player": "L. Tousart",
-                    "detail": "Substitution 4",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "75'",
-                    "player": "B. Hollerbach",
-                    "detail": "Substitution 5",
-                    "team": "Union Berlin"
                 },
                 {
                     "time": "77'",
-                    "player": "Kevin Volland",
-                    "detail": "Yellow Card",
-                    "team": "Union Berlin"
+                    "player": "L. Holtby",
+                    "detail": "Substitution 3",
+                    "team": "Holstein Kiel"
                 },
                 {
-                    "time": "83'",
-                    "player": "D. Zec",
+                    "time": "77'",
+                    "player": "F. Porath",
                     "detail": "Substitution 4",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "83'",
-                    "player": "M. Geschwill",
+                    "player": "T. Becker",
+                    "detail": "Yellow Card",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "84'",
+                    "player": "M. Schulz",
                     "detail": "Substitution 5",
                     "team": "Holstein Kiel"
                 },
                 {
+                    "time": "87'",
+                    "player": "E. B. Toure",
+                    "detail": "Substitution 4",
+                    "team": "VfB Stuttgart"
+                },
+                {
                     "time": "90'",
-                    "player": "Josip Juranović",
+                    "player": "J. Leweling",
                     "detail": "Yellow Card",
-                    "team": "Union Berlin"
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "90'",
+                    "player": "P. Stenzel",
+                    "detail": "Substitution 5",
+                    "team": "VfB Stuttgart"
                 }
             ],
             "odds": {
@@ -2328,6 +2400,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-03-08 14:30",
+                    "score": "2 - 2"
+                },
                 {
                     "date": "2025-03-02 14:30",
                     "score": "0 - 1"
@@ -2343,10 +2419,6 @@
                 {
                     "date": "2025-02-09 14:30",
                     "score": "2 - 2"
-                },
-                {
-                    "date": "2025-02-01 14:30",
-                    "score": "4 - 3"
                 }
             ],
             "future_games": [
