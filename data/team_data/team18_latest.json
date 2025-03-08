@@ -185,7 +185,7 @@
             "opponent": "Eintracht Frankfurt",
             "score": "1 - 4",
             "stadium": "Deutsche Bank Park",
-            "referee": "F. Zwayer",
+            "referee": "Felix Zwayer, Germany",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -350,26 +350,26 @@
                     "team": "FSV Mainz 05"
                 },
                 {
-                    "time": "49'",
+                    "time": "48'",
                     "player": "D. Kohr",
                     "detail": "Normal Goal",
                     "team": "FSV Mainz 05"
                 },
                 {
                     "time": "56'",
-                    "player": "A. Plea",
+                    "player": "K. Stöger",
                     "detail": "Substitution 1",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "64'",
-                    "player": "A. Hanche-Olsen",
+                    "player": "D. da Costa",
                     "detail": "Substitution 1",
                     "team": "FSV Mainz 05"
                 },
                 {
                     "time": "70'",
-                    "player": "N. Weiper",
+                    "player": "J. Burkardt",
                     "detail": "Substitution 2",
                     "team": "FSV Mainz 05"
                 },
@@ -381,19 +381,19 @@
                 },
                 {
                     "time": "74'",
-                    "player": "L. Netz",
+                    "player": "L. Ullrich",
                     "detail": "Substitution 2",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "74'",
-                    "player": "F. Neuhaus",
+                    "player": "P. Sander",
                     "detail": "Substitution 3",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "74'",
-                    "player": "S. Fukuda",
+                    "player": "R. Hack",
                     "detail": "Substitution 4",
                     "team": "Borussia Mönchengladbach"
                 },
@@ -405,31 +405,31 @@
                 },
                 {
                     "time": "85'",
-                    "player": "N. Pesch",
+                    "player": "N. Ngoumou",
                     "detail": "Substitution 5",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "87'",
-                    "player": "S. Widmer",
+                    "player": "A. Caci",
                     "detail": "Substitution 3",
                     "team": "FSV Mainz 05"
                 },
                 {
                     "time": "87'",
-                    "player": "A. Sieb",
+                    "player": "N. Amiri",
                     "detail": "Substitution 4",
                     "team": "FSV Mainz 05"
                 },
                 {
                     "time": "87'",
-                    "player": "L. Maloney",
+                    "player": "Lee Jae-Sung",
                     "detail": "Substitution 5",
                     "team": "FSV Mainz 05"
                 },
                 {
                     "time": "90'",
-                    "player": "K. Sano",
+                    "player": "Kaishu Sano",
                     "detail": "Yellow Card",
                     "team": "FSV Mainz 05"
                 }
@@ -483,7 +483,7 @@
             "opponent": "Bayer Leverkusen",
             "score": "1 - 4",
             "stadium": "Deutsche Bank Park",
-            "referee": "F. Zwayer",
+            "referee": "Felix Zwayer, Germany",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -638,7 +638,7 @@
             "opponent": "FC Augsburg",
             "score": "0 - 0",
             "stadium": "WWK Arena",
-            "referee": "H. Osmers",
+            "referee": "Harm Osmers, Germany",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -745,7 +745,7 @@
             "opponent": "FSV Mainz 05",
             "score": "1 - 2",
             "stadium": "Red Bull Arena",
-            "referee": "D. Siebert",
+            "referee": "Daniel Siebert, Germany",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -870,7 +870,7 @@
             "opponent": "Werder Bremen",
             "score": "1 - 2",
             "stadium": "Weserstadion",
-            "referee": "F. Brych",
+            "referee": "Felix Brych, Germany",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -1017,26 +1017,26 @@
                     "team": "FSV Mainz 05"
                 },
                 {
-                    "time": "49'",
+                    "time": "48'",
                     "player": "D. Kohr",
                     "detail": "Normal Goal",
                     "team": "FSV Mainz 05"
                 },
                 {
                     "time": "56'",
-                    "player": "A. Plea",
+                    "player": "K. Stöger",
                     "detail": "Substitution 1",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "64'",
-                    "player": "A. Hanche-Olsen",
+                    "player": "D. da Costa",
                     "detail": "Substitution 1",
                     "team": "FSV Mainz 05"
                 },
                 {
                     "time": "70'",
-                    "player": "N. Weiper",
+                    "player": "J. Burkardt",
                     "detail": "Substitution 2",
                     "team": "FSV Mainz 05"
                 },
@@ -1048,19 +1048,19 @@
                 },
                 {
                     "time": "74'",
-                    "player": "L. Netz",
+                    "player": "L. Ullrich",
                     "detail": "Substitution 2",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "74'",
-                    "player": "F. Neuhaus",
+                    "player": "P. Sander",
                     "detail": "Substitution 3",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "74'",
-                    "player": "S. Fukuda",
+                    "player": "R. Hack",
                     "detail": "Substitution 4",
                     "team": "Borussia Mönchengladbach"
                 },
@@ -1072,31 +1072,31 @@
                 },
                 {
                     "time": "85'",
-                    "player": "N. Pesch",
+                    "player": "N. Ngoumou",
                     "detail": "Substitution 5",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "87'",
-                    "player": "S. Widmer",
+                    "player": "A. Caci",
                     "detail": "Substitution 3",
                     "team": "FSV Mainz 05"
                 },
                 {
                     "time": "87'",
-                    "player": "A. Sieb",
+                    "player": "N. Amiri",
                     "detail": "Substitution 4",
                     "team": "FSV Mainz 05"
                 },
                 {
                     "time": "87'",
-                    "player": "L. Maloney",
+                    "player": "Lee Jae-Sung",
                     "detail": "Substitution 5",
                     "team": "FSV Mainz 05"
                 },
                 {
                     "time": "90'",
-                    "player": "K. Sano",
+                    "player": "Kaishu Sano",
                     "detail": "Yellow Card",
                     "team": "FSV Mainz 05"
                 }
@@ -1329,7 +1329,7 @@
             "opponent": "FC St. Pauli",
             "score": "0 - 2",
             "stadium": "Millerntor-Stadion",
-            "referee": "T. Stieler",
+            "referee": "Tobias Stieler, Germany",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -1466,7 +1466,7 @@
             "opponent": "SC Freiburg",
             "score": "0 - 0",
             "stadium": "WWK Arena",
-            "referee": "H. Osmers",
+            "referee": "Harm Osmers, Germany",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -1573,7 +1573,7 @@
             "opponent": "VfL Wolfsburg",
             "score": "1 - 2",
             "stadium": "Weserstadion",
-            "referee": "F. Brych",
+            "referee": "Felix Brych, Germany",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -1710,7 +1710,7 @@
             "opponent": "VfL Bochum",
             "score": "0 - 1",
             "stadium": "Vonovia Ruhrstadion",
-            "referee": "F. Badstübner",
+            "referee": "Badstubner, Florian, Germany",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -1829,7 +1829,7 @@
             "opponent": "Holstein Kiel",
             "score": "0 - 1",
             "stadium": "Stadion An der Alten Försterei",
-            "referee": "T. Reichel",
+            "referee": "Tobias Reichel, Germany",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -1972,7 +1972,7 @@
             "opponent": "Borussia Dortmund",
             "score": "0 - 2",
             "stadium": "Millerntor-Stadion",
-            "referee": "T. Stieler",
+            "referee": "Tobias Stieler, Germany",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -2109,7 +2109,7 @@
             "opponent": "1899 Hoffenheim",
             "score": "0 - 1",
             "stadium": "Vonovia Ruhrstadion",
-            "referee": "F. Badstübner",
+            "referee": "Badstubner, Florian, Germany",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -2228,7 +2228,7 @@
             "opponent": "Union Berlin",
             "score": "0 - 1",
             "stadium": "Stadion An der Alten Försterei",
-            "referee": "T. Reichel",
+            "referee": "Tobias Reichel, Germany",
             "league_round": "Regular Season - 24",
             "events": [
                 {
@@ -2371,7 +2371,7 @@
             "opponent": "Borussia Mönchengladbach",
             "score": "0 - 3",
             "stadium": "Voith-Arena",
-            "referee": "S. Storks",
+            "referee": "Sören Storks, Germany",
             "league_round": "Regular Season - 24",
             "events": [
                 {
