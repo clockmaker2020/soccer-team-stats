@@ -482,19 +482,19 @@
                 },
                 {
                     "type": "Shots off Goal",
-                    "value": 5
+                    "value": 7
                 },
                 {
                     "type": "Total Shots",
-                    "value": 13
+                    "value": 17
                 },
                 {
                     "type": "Blocked Shots",
-                    "value": 4
+                    "value": 6
                 },
                 {
                     "type": "Shots insidebox",
-                    "value": 6
+                    "value": 10
                 },
                 {
                     "type": "Shots outsidebox",
@@ -502,11 +502,11 @@
                 },
                 {
                     "type": "Fouls",
-                    "value": 11
+                    "value": 12
                 },
                 {
                     "type": "Corner Kicks",
-                    "value": 8
+                    "value": 10
                 },
                 {
                     "type": "Offsides",
@@ -514,11 +514,11 @@
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "74%"
+                    "value": "73%"
                 },
                 {
                     "type": "Yellow Cards",
-                    "value": 2
+                    "value": 4
                 },
                 {
                     "type": "Red Cards",
@@ -530,19 +530,19 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 653
+                    "value": 683
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 591
+                    "value": 615
                 },
                 {
                     "type": "Passes %",
-                    "value": "91%"
+                    "value": "90%"
                 },
                 {
                     "type": "expected_goals",
-                    "value": "1.14"
+                    "value": "1.41"
                 },
                 {
                     "type": "goals_prevented",
@@ -559,15 +559,15 @@
             "statistics": [
                 {
                     "type": "Shots on Goal",
-                    "value": 6
+                    "value": 7
                 },
                 {
                     "type": "Shots off Goal",
-                    "value": 1
+                    "value": 2
                 },
                 {
                     "type": "Total Shots",
-                    "value": 9
+                    "value": 11
                 },
                 {
                     "type": "Blocked Shots",
@@ -575,15 +575,15 @@
                 },
                 {
                     "type": "Shots insidebox",
-                    "value": 8
+                    "value": 9
                 },
                 {
                     "type": "Shots outsidebox",
-                    "value": 1
+                    "value": 2
                 },
                 {
                     "type": "Fouls",
-                    "value": 9
+                    "value": 10
                 },
                 {
                     "type": "Corner Kicks",
@@ -595,7 +595,7 @@
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "26%"
+                    "value": "27%"
                 },
                 {
                     "type": "Yellow Cards",
@@ -611,11 +611,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 230
+                    "value": 261
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 161
+                    "value": 183
                 },
                 {
                     "type": "Passes %",
@@ -623,7 +623,7 @@
                 },
                 {
                     "type": "expected_goals",
-                    "value": "0.67"
+                    "value": "1.21"
                 },
                 {
                     "type": "goals_prevented",
@@ -992,6 +992,15 @@
                 },
                 {
                     "player": {
+                        "id": 334334,
+                        "name": "Keke Topp",
+                        "number": 42,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 329578,
                         "name": "Mio Backhaus",
                         "number": 30,
@@ -1032,15 +1041,6 @@
                         "name": "Skelly Alvero",
                         "number": 28,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 334334,
-                        "name": "Keke Topp",
-                        "number": 42,
-                        "pos": "F",
                         "grid": null
                     }
                 }
