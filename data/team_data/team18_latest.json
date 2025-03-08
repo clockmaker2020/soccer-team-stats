@@ -884,96 +884,84 @@
         },
         {
             "team": "VfL Wolfsburg",
-            "date": "2025-03-01 14:30",
-            "opponent": "Werder Bremen",
-            "score": "1 - 2",
-            "stadium": "Weserstadion",
-            "referee": "Felix Brych, Germany",
-            "league_round": "Regular Season - 24",
+            "date": "2025-03-08 14:30",
+            "opponent": "FC St. Pauli",
+            "score": "1 - 1",
+            "stadium": "Volkswagen Arena",
+            "referee": "Robert Hartmann, Germany",
+            "league_round": "Regular Season - 25",
             "events": [
                 {
-                    "time": "6'",
-                    "player": "P. Wimmer",
+                    "time": "38'",
+                    "player": "S. Van Der Heyden",
                     "detail": "Normal Goal",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "46'",
+                    "player": "M. Saliakas",
+                    "detail": "Substitution 1",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "46'",
+                    "player": "E. Saad",
+                    "detail": "Substitution 2",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "46'",
+                    "player": "M. Roerslev Rasmussen",
+                    "detail": "Substitution 1",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "46'",
-                    "player": "N. Stark",
-                    "detail": "Substitution 1",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "48'",
-                    "player": "P. Wimmer",
-                    "detail": "Normal Goal",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "65'",
-                    "player": "B. Dárdai",
-                    "detail": "Substitution 1",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "65'",
-                    "player": "M. Amoura",
+                    "player": "M. Arnold",
                     "detail": "Substitution 2",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "46'",
+                    "player": "M. Amoura",
+                    "detail": "Yellow Card",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "63'",
+                    "player": "J. Kaminski",
+                    "detail": "Substitution 3",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "63'",
+                    "player": "B. Dardai",
+                    "detail": "Substitution 4",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "70'",
-                    "player": "Oliver Burke",
-                    "detail": "Yellow Card",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "72'",
-                    "player": "L. Bittencourt",
-                    "detail": "Substitution 2",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "72'",
-                    "player": "André Silva",
-                    "detail": "Substitution 3",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "72'",
-                    "player": "F. Agu",
-                    "detail": "Substitution 4",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "73'",
-                    "player": "P. Wimmer",
-                    "detail": "Substitution 3",
+                    "player": "M. Amoura",
+                    "detail": "Penalty",
                     "team": "VfL Wolfsburg"
                 },
                 {
-                    "time": "89'",
-                    "player": "A. Skov Olsen",
-                    "detail": "Substitution 4",
-                    "team": "VfL Wolfsburg"
+                    "time": "71'",
+                    "player": "C. Boukhalfa",
+                    "detail": "Substitution 3",
+                    "team": "FC St. Pauli"
                 },
                 {
-                    "time": "89'",
-                    "player": "J. Wind",
+                    "time": "79'",
+                    "player": "K. Behrens",
                     "detail": "Substitution 5",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "90'",
-                    "player": "Miloš Veljković",
-                    "detail": "Yellow Card",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "90'",
-                    "player": "M. Weiser",
-                    "detail": "Normal Goal",
-                    "team": "Werder Bremen"
+                    "player": "J. Eggestein",
+                    "detail": "Substitution 4",
+                    "team": "FC St. Pauli"
                 }
             ],
             "odds": {
@@ -982,6 +970,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-03-08 14:30",
+                    "score": "1 - 1"
+                },
                 {
                     "date": "2025-03-01 14:30",
                     "score": "1 - 2"
@@ -997,10 +989,6 @@
                 {
                     "date": "2025-02-08 14:30",
                     "score": "0 - 0"
-                },
-                {
-                    "date": "2025-02-02 14:30",
-                    "score": "1 - 1"
                 }
             ],
             "future_games": [
@@ -1325,94 +1313,118 @@
         },
         {
             "team": "Borussia Dortmund",
-            "date": "2025-03-01 14:30",
-            "opponent": "FC St. Pauli",
-            "score": "0 - 2",
-            "stadium": "Millerntor-Stadion",
-            "referee": "Tobias Stieler, Germany",
-            "league_round": "Regular Season - 24",
+            "date": "2025-03-08 14:30",
+            "opponent": "FC Augsburg",
+            "score": "0 - 1",
+            "stadium": "SIGNAL IDUNA PARK",
+            "referee": "Deniz Aytekin, Germany",
+            "league_round": "Regular Season - 25",
             "events": [
                 {
-                    "time": "13'",
-                    "player": "Nico Schlotterbeck",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Dortmund"
+                    "time": "23'",
+                    "player": "J. Gouweleeuw",
+                    "detail": "Normal Goal",
+                    "team": "FC Augsburg"
                 },
                 {
                     "time": "50'",
-                    "player": "S. Guirassy",
-                    "detail": "Normal Goal",
+                    "player": "J. Brandt",
+                    "detail": "Goal Disallowed - offside",
                     "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "57'",
-                    "player": "E. Saad",
-                    "detail": "Substitution 1",
-                    "team": "FC St. Pauli"
                 },
                 {
                     "time": "58'",
-                    "player": "K. Adeyemi",
-                    "detail": "Normal Goal",
+                    "player": "E. Rexhbecaj",
+                    "detail": "Yellow Card",
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "58'",
+                    "player": "S. Guirassy",
+                    "detail": "Yellow Card",
                     "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "73'",
-                    "player": "J. Eggestein",
-                    "detail": "Substitution 2",
-                    "team": "FC St. Pauli"
+                    "time": "58'",
+                    "player": "S. Essende",
+                    "detail": "Substitution 1",
+                    "team": "FC Augsburg"
                 },
                 {
-                    "time": "74'",
-                    "player": "G. Reyna",
+                    "time": "58'",
+                    "player": "K. Jakic",
+                    "detail": "Substitution 2",
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "61'",
+                    "player": "S. Ozcan",
+                    "detail": "Goal Disallowed - offside",
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "63'",
+                    "player": "M. Beier",
                     "detail": "Substitution 1",
                     "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "74'",
-                    "player": "R. Bensebaini",
+                    "time": "63'",
+                    "player": "J. Ryerson",
                     "detail": "Substitution 2",
                     "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "79'",
-                    "player": "Abdoulie Ceesay",
+                    "time": "70'",
+                    "player": "F. Onyeka",
                     "detail": "Yellow Card",
-                    "team": "FC St. Pauli"
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "74'",
+                    "player": "A. Maier",
+                    "detail": "Substitution 3",
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "74'",
+                    "player": "M. Komur",
+                    "detail": "Substitution 4",
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "75'",
+                    "player": "M. Sabitzer",
+                    "detail": "Substitution 3",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "75'",
+                    "player": "J. Duranville",
+                    "detail": "Substitution 4",
+                    "team": "Borussia Dortmund"
                 },
                 {
                     "time": "82'",
-                    "player": "Karim Adeyemi",
+                    "player": "N. Banks",
+                    "detail": "Substitution 5",
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "82'",
+                    "player": "N. Banks",
                     "detail": "Yellow Card",
-                    "team": "Borussia Dortmund"
+                    "team": "FC Augsburg"
                 },
                 {
-                    "time": "83'",
-                    "player": "N. Weißhaupt",
-                    "detail": "Substitution 3",
-                    "team": "FC St. Pauli"
+                    "time": "85'",
+                    "player": "K. Jakic",
+                    "detail": "Yellow Card",
+                    "team": "FC Augsburg"
                 },
                 {
-                    "time": "83'",
-                    "player": "L. Ritzka",
-                    "detail": "Substitution 4",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "83'",
-                    "player": "K. Adeyemi",
-                    "detail": "Substitution 3",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "89'",
-                    "player": "S. Guirassy",
-                    "detail": "Substitution 4",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "89'",
-                    "player": "M. Beier",
+                    "time": "90'",
+                    "player": "W. Anton",
                     "detail": "Substitution 5",
                     "team": "Borussia Dortmund"
                 }
@@ -1623,96 +1635,126 @@
         },
         {
             "team": "Werder Bremen",
-            "date": "2025-03-01 14:30",
-            "opponent": "VfL Wolfsburg",
-            "score": "1 - 2",
-            "stadium": "Weserstadion",
-            "referee": "Felix Brych, Germany",
-            "league_round": "Regular Season - 24",
+            "date": "2025-03-08 14:30",
+            "opponent": "Bayer Leverkusen",
+            "score": "0 - 2",
+            "stadium": "BayArena",
+            "referee": "Tobias Welz, Germany",
+            "league_round": "Regular Season - 25",
             "events": [
                 {
-                    "time": "6'",
-                    "player": "P. Wimmer",
+                    "time": "7'",
+                    "player": "R. Schmid",
                     "detail": "Normal Goal",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "46'",
-                    "player": "N. Stark",
-                    "detail": "Substitution 1",
                     "team": "Werder Bremen"
                 },
                 {
-                    "time": "48'",
-                    "player": "P. Wimmer",
-                    "detail": "Normal Goal",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "65'",
-                    "player": "B. Dárdai",
-                    "detail": "Substitution 1",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "65'",
-                    "player": "M. Amoura",
-                    "detail": "Substitution 2",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "70'",
-                    "player": "Oliver Burke",
+                    "time": "18'",
+                    "player": "S. Lynen",
                     "detail": "Yellow Card",
                     "team": "Werder Bremen"
                 },
                 {
+                    "time": "21'",
+                    "player": "P. Schick",
+                    "detail": "Yellow Card",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "46'",
+                    "player": "F. Wirtz",
+                    "detail": "Substitution 1",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "46'",
+                    "player": "E. Palacios",
+                    "detail": "Substitution 2",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "46'",
+                    "player": "N. Mukiele",
+                    "detail": "Substitution 3",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "53'",
+                    "player": "M. Weiser",
+                    "detail": "Yellow Card",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "59'",
+                    "player": "A. Grimaldo",
+                    "detail": "Substitution 4",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "65'",
+                    "player": "J. Frimpong",
+                    "detail": "Substitution 5",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "69'",
+                    "player": "O. Burke",
+                    "detail": "Yellow Card",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "69'",
+                    "player": "J. Njinmah",
+                    "detail": "Substitution 1",
+                    "team": "Werder Bremen"
+                },
+                {
                     "time": "72'",
+                    "player": "J. Stage",
+                    "detail": "Yellow Card",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "78'",
                     "player": "L. Bittencourt",
                     "detail": "Substitution 2",
                     "team": "Werder Bremen"
                 },
                 {
-                    "time": "72'",
-                    "player": "André Silva",
+                    "time": "78'",
+                    "player": "M. Grull",
                     "detail": "Substitution 3",
                     "team": "Werder Bremen"
                 },
                 {
-                    "time": "72'",
-                    "player": "F. Agu",
-                    "detail": "Substitution 4",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "73'",
-                    "player": "P. Wimmer",
-                    "detail": "Substitution 3",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "89'",
-                    "player": "A. Skov Olsen",
-                    "detail": "Substitution 4",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "89'",
-                    "player": "J. Wind",
-                    "detail": "Substitution 5",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "90'",
-                    "player": "Miloš Veljković",
+                    "time": "88'",
+                    "player": "A. Adli",
                     "detail": "Yellow Card",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "90'",
+                    "player": "K. Topp",
+                    "detail": "Substitution 4",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "90'",
-                    "player": "M. Weiser",
+                    "player": "J. Njinmah",
                     "detail": "Normal Goal",
                     "team": "Werder Bremen"
+                },
+                {
+                    "time": "90'",
+                    "player": "E. Palacios",
+                    "detail": "Yellow Card",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "90'",
+                    "player": "A. Garcia",
+                    "detail": "Yellow Card",
+                    "team": "Bayer Leverkusen"
                 }
             ],
             "odds": {
@@ -1721,6 +1763,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-03-08 14:30",
+                    "score": "0 - 2"
+                },
                 {
                     "date": "2025-03-01 14:30",
                     "score": "1 - 2"
@@ -1736,10 +1782,6 @@
                 {
                     "date": "2025-02-07 19:30",
                     "score": "3 - 0"
-                },
-                {
-                    "date": "2025-01-31 19:30",
-                    "score": "1 - 0"
                 }
             ],
             "future_games": [
@@ -2022,96 +2064,84 @@
         },
         {
             "team": "FC St. Pauli",
-            "date": "2025-03-01 14:30",
-            "opponent": "Borussia Dortmund",
-            "score": "0 - 2",
-            "stadium": "Millerntor-Stadion",
-            "referee": "Tobias Stieler, Germany",
-            "league_round": "Regular Season - 24",
+            "date": "2025-03-08 14:30",
+            "opponent": "VfL Wolfsburg",
+            "score": "1 - 1",
+            "stadium": "Volkswagen Arena",
+            "referee": "Robert Hartmann, Germany",
+            "league_round": "Regular Season - 25",
             "events": [
                 {
-                    "time": "13'",
-                    "player": "Nico Schlotterbeck",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "50'",
-                    "player": "S. Guirassy",
+                    "time": "38'",
+                    "player": "S. Van Der Heyden",
                     "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
+                    "team": "FC St. Pauli"
                 },
                 {
-                    "time": "57'",
+                    "time": "46'",
+                    "player": "M. Saliakas",
+                    "detail": "Substitution 1",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "46'",
                     "player": "E. Saad",
-                    "detail": "Substitution 1",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "58'",
-                    "player": "K. Adeyemi",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "73'",
-                    "player": "J. Eggestein",
                     "detail": "Substitution 2",
                     "team": "FC St. Pauli"
                 },
                 {
-                    "time": "74'",
-                    "player": "G. Reyna",
+                    "time": "46'",
+                    "player": "M. Roerslev Rasmussen",
                     "detail": "Substitution 1",
-                    "team": "Borussia Dortmund"
+                    "team": "VfL Wolfsburg"
                 },
                 {
-                    "time": "74'",
-                    "player": "R. Bensebaini",
+                    "time": "46'",
+                    "player": "M. Arnold",
                     "detail": "Substitution 2",
-                    "team": "Borussia Dortmund"
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "46'",
+                    "player": "M. Amoura",
+                    "detail": "Yellow Card",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "63'",
+                    "player": "J. Kaminski",
+                    "detail": "Substitution 3",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "63'",
+                    "player": "B. Dardai",
+                    "detail": "Substitution 4",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "70'",
+                    "player": "M. Amoura",
+                    "detail": "Penalty",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "71'",
+                    "player": "C. Boukhalfa",
+                    "detail": "Substitution 3",
+                    "team": "FC St. Pauli"
                 },
                 {
                     "time": "79'",
-                    "player": "Abdoulie Ceesay",
-                    "detail": "Yellow Card",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "82'",
-                    "player": "Karim Adeyemi",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "83'",
-                    "player": "N. Weißhaupt",
-                    "detail": "Substitution 3",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "83'",
-                    "player": "L. Ritzka",
-                    "detail": "Substitution 4",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "83'",
-                    "player": "K. Adeyemi",
-                    "detail": "Substitution 3",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "89'",
-                    "player": "S. Guirassy",
-                    "detail": "Substitution 4",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "89'",
-                    "player": "M. Beier",
+                    "player": "K. Behrens",
                     "detail": "Substitution 5",
-                    "team": "Borussia Dortmund"
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "90'",
+                    "player": "J. Eggestein",
+                    "detail": "Substitution 4",
+                    "team": "FC St. Pauli"
                 }
             ],
             "odds": {
@@ -2120,6 +2150,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-03-08 14:30",
+                    "score": "1 - 1"
+                },
                 {
                     "date": "2025-03-01 14:30",
                     "score": "0 - 2"
@@ -2135,10 +2169,6 @@
                 {
                     "date": "2025-02-09 16:30",
                     "score": "2 - 0"
-                },
-                {
-                    "date": "2025-02-01 14:30",
-                    "score": "1 - 1"
                 }
             ],
             "future_games": [
@@ -2159,78 +2189,144 @@
         },
         {
             "team": "VfL Bochum",
-            "date": "2025-03-01 14:30",
-            "opponent": "1899 Hoffenheim",
-            "score": "0 - 1",
-            "stadium": "Vonovia Ruhrstadion",
-            "referee": "Badstubner, Florian, Germany",
-            "league_round": "Regular Season - 24",
+            "date": "2025-03-08 14:30",
+            "opponent": "Bayern München",
+            "score": "2 - 3",
+            "stadium": "Allianz Arena",
+            "referee": "Christian Dingert, Germany",
+            "league_round": "Regular Season - 25",
             "events": [
                 {
-                    "time": "53'",
-                    "player": "Anton Stach",
-                    "detail": "Yellow Card",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "59'",
-                    "player": "M. Moerstedt",
-                    "detail": "Substitution 1",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "59'",
-                    "player": "Arthur Chaves",
-                    "detail": "Substitution 2",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "72'",
-                    "player": "T. Bischof",
+                    "time": "14'",
+                    "player": "R. Guerreiro",
                     "detail": "Normal Goal",
-                    "team": "1899 Hoffenheim"
+                    "team": "Bayern München"
                 },
                 {
-                    "time": "75'",
-                    "player": "G. Masouras",
+                    "time": "21'",
+                    "player": "J. Medic",
+                    "detail": "Yellow Card",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "22'",
+                    "player": "S. Gnabry",
+                    "detail": "Missed Penalty",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "28'",
+                    "player": "R. Guerreiro",
+                    "detail": "Normal Goal",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "31'",
+                    "player": "J. Medic",
+                    "detail": "Normal Goal",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "43'",
+                    "player": "J. Palhinha",
+                    "detail": "Red Card",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "51'",
+                    "player": "I. Sissoko",
+                    "detail": "Normal Goal",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "56'",
+                    "player": "Bernardo",
+                    "detail": "Yellow Card",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "62'",
+                    "player": "H. Kane",
+                    "detail": "Substitution 1",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "63'",
+                    "player": "J. Musiala",
+                    "detail": "Substitution 2",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "63'",
+                    "player": "K. Laimer",
+                    "detail": "Substitution 3",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "63'",
+                    "player": "M. Olise",
+                    "detail": "Substitution 4",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "71'",
+                    "player": "M. Bero",
+                    "detail": "Normal Goal",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "73'",
+                    "player": "M. Broschinski",
                     "detail": "Substitution 1",
                     "team": "VfL Bochum"
                 },
                 {
-                    "time": "75'",
-                    "player": "F. Passlack",
-                    "detail": "Substitution 2",
+                    "time": "73'",
+                    "player": "M. Wittek",
+                    "detail": "Yellow Card",
                     "team": "VfL Bochum"
+                },
+                {
+                    "time": "76'",
+                    "player": "J. Kimmich",
+                    "detail": "Substitution 5",
+                    "team": "Bayern München"
                 },
                 {
                     "time": "80'",
-                    "player": "T. Krauß",
-                    "detail": "Substitution 3",
+                    "player": "T. Horn",
+                    "detail": "Yellow Card",
                     "team": "VfL Bochum"
                 },
                 {
-                    "time": "84'",
-                    "player": "G. Orban",
-                    "detail": "Substitution 3",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "87'",
-                    "player": "M. Wittek",
-                    "detail": "Substitution 4",
+                    "time": "82'",
+                    "player": "C. Gamboa",
+                    "detail": "Substitution 2",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "87'",
                     "player": "I. Sissoko",
-                    "detail": "Substitution 5",
+                    "detail": "Yellow Card",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "87'",
-                    "player": "A. Kramarić",
+                    "player": "A. Losilla",
+                    "detail": "Substitution 3",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "88'",
+                    "player": "E. Masovic",
                     "detail": "Substitution 4",
-                    "team": "1899 Hoffenheim"
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "90'",
+                    "player": "A. Losilla",
+                    "detail": "Yellow Card",
+                    "team": "VfL Bochum"
                 }
             ],
             "odds": {
@@ -2239,6 +2335,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-03-08 14:30",
+                    "score": "2 - 3"
+                },
                 {
                     "date": "2025-03-01 14:30",
                     "score": "0 - 1"
@@ -2254,10 +2354,6 @@
                 {
                     "date": "2025-02-09 14:30",
                     "score": "2 - 2"
-                },
-                {
-                    "date": "2025-02-01 14:30",
-                    "score": "0 - 1"
                 }
             ],
             "future_games": [
