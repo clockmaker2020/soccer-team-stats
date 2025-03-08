@@ -783,24 +783,6 @@
                 },
                 {
                     "player": {
-                        "id": 138804,
-                        "name": "Matěj Kovář",
-                        "number": 17,
-                        "pos": "G",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 127817,
-                        "name": "Piero Hincapié",
-                        "number": 3,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 563,
                         "name": "Alejandro Grimaldo",
                         "number": 20,
@@ -813,6 +795,24 @@
                         "id": 152654,
                         "name": "Jeremie Frimpong",
                         "number": 30,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 138804,
+                        "name": "Matěj Kovář",
+                        "number": 17,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 127817,
+                        "name": "Piero Hincapié",
+                        "number": 3,
                         "pos": "D",
                         "grid": null
                     }
@@ -965,6 +965,33 @@
             "substitutes": [
                 {
                     "player": {
+                        "id": 177807,
+                        "name": "Justin Njinmah",
+                        "number": 11,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 7073,
+                        "name": "Marco Grüll",
+                        "number": 17,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 716,
+                        "name": "Leonardo Bittencourt",
+                        "number": 10,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 329578,
                         "name": "Mio Backhaus",
                         "number": 30,
@@ -1001,24 +1028,6 @@
                 },
                 {
                     "player": {
-                        "id": 7073,
-                        "name": "Marco Grüll",
-                        "number": 17,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 716,
-                        "name": "Leonardo Bittencourt",
-                        "number": 10,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 193720,
                         "name": "Skelly Alvero",
                         "number": 28,
@@ -1031,15 +1040,6 @@
                         "id": 334334,
                         "name": "Keke Topp",
                         "number": 42,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 177807,
-                        "name": "Justin Njinmah",
-                        "number": 11,
                         "pos": "F",
                         "grid": null
                     }
