@@ -838,6 +838,15 @@
                 },
                 {
                     "player": {
+                        "id": 25326,
+                        "name": "Johannes Eggestein",
+                        "number": 11,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 119167,
                         "name": "Ben Voll",
                         "number": 1,
@@ -869,15 +878,6 @@
                         "name": "Erik Ahlstrand",
                         "number": 20,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 25326,
-                        "name": "Johannes Eggestein",
-                        "number": 11,
-                        "pos": "F",
                         "grid": null
                     }
                 },
