@@ -770,6 +770,15 @@
                 },
                 {
                     "player": {
+                        "id": 25368,
+                        "name": "Waldemar Anton",
+                        "number": 3,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 26292,
                         "name": "Alexander Meyer",
                         "number": 33,
@@ -782,15 +791,6 @@
                         "id": 506,
                         "name": "Niklas Süle",
                         "number": 25,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 25368,
-                        "name": "Waldemar Anton",
-                        "number": 3,
                         "pos": "D",
                         "grid": null
                     }
