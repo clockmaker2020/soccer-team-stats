@@ -355,76 +355,6 @@
     "future_matches": [
         {
             "fixture": {
-                "id": 1224193,
-                "referee": "Deniz Aytekin, Germany",
-                "timezone": "UTC",
-                "date": "2025-03-08T14:30:00+00:00",
-                "timestamp": 1741444200,
-                "periods": {
-                    "first": null,
-                    "second": null
-                },
-                "venue": {
-                    "id": 19381,
-                    "name": "SIGNAL IDUNA PARK",
-                    "city": "Dortmund"
-                },
-                "status": {
-                    "long": "Not Started",
-                    "short": "NS",
-                    "elapsed": null,
-                    "extra": null
-                }
-            },
-            "league": {
-                "id": 78,
-                "name": "Bundesliga",
-                "country": "Germany",
-                "logo": "https://media.api-sports.io/football/leagues/78.png",
-                "flag": "https://media.api-sports.io/flags/de.svg",
-                "season": 2024,
-                "round": "Regular Season - 25",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 165,
-                    "name": "Borussia Dortmund",
-                    "logo": "https://media.api-sports.io/football/teams/165.png",
-                    "winner": null
-                },
-                "away": {
-                    "id": 170,
-                    "name": "FC Augsburg",
-                    "logo": "https://media.api-sports.io/football/teams/170.png",
-                    "winner": null
-                }
-            },
-            "goals": {
-                "home": null,
-                "away": null
-            },
-            "score": {
-                "halftime": {
-                    "home": null,
-                    "away": null
-                },
-                "fulltime": {
-                    "home": null,
-                    "away": null
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
                 "id": 1224204,
                 "referee": null,
                 "timezone": "UTC",
@@ -537,6 +467,76 @@
                     "id": 170,
                     "name": "FC Augsburg",
                     "logo": "https://media.api-sports.io/football/teams/170.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1224222,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2025-04-04T18:30:00+00:00",
+                "timestamp": 1743791400,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": 698,
+                    "name": "WWK Arena",
+                    "city": "Augsburg"
+                },
+                "status": {
+                    "long": "Not Started",
+                    "short": "NS",
+                    "elapsed": null,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 28",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 170,
+                    "name": "FC Augsburg",
+                    "logo": "https://media.api-sports.io/football/teams/170.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 157,
+                    "name": "Bayern München",
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
                     "winner": null
                 }
             },
