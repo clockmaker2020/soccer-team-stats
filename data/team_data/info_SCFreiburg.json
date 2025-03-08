@@ -558,6 +558,24 @@
             "substitutes": [
                 {
                     "player": {
+                        "id": 26248,
+                        "name": "Vincenzo Grifo",
+                        "number": 32,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 25313,
+                        "name": "Jan-Niklas Beste",
+                        "number": 19,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 25905,
                         "name": "Florian Müller",
                         "number": 21,
@@ -579,24 +597,6 @@
                         "id": 26239,
                         "name": "Lukas Kübler",
                         "number": 17,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 26248,
-                        "name": "Vincenzo Grifo",
-                        "number": 32,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 25313,
-                        "name": "Jan-Niklas Beste",
-                        "number": 19,
                         "pos": "D",
                         "grid": null
                     }
@@ -662,7 +662,7 @@
                     }
                 }
             },
-            "formation": "3-4-2-1",
+            "formation": "4-4-2",
             "startXI": [
                 {
                     "player": {
@@ -679,7 +679,7 @@
                         "name": "Lutsharel Geertruida",
                         "number": 3,
                         "pos": "D",
-                        "grid": "2:3"
+                        "grid": "2:4"
                     }
                 },
                 {
@@ -688,7 +688,7 @@
                         "name": "Willi Orbán",
                         "number": 4,
                         "pos": "D",
-                        "grid": "2:2"
+                        "grid": "2:3"
                     }
                 },
                 {
@@ -696,6 +696,15 @@
                         "id": 268571,
                         "name": "El Chadaille Bitshiabu",
                         "number": 5,
+                        "pos": "D",
+                        "grid": "2:2"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 25158,
+                        "name": "David Raum",
+                        "number": 22,
                         "pos": "D",
                         "grid": "2:1"
                     }
@@ -729,9 +738,9 @@
                 },
                 {
                     "player": {
-                        "id": 25158,
-                        "name": "David Raum",
-                        "number": 22,
+                        "id": 162016,
+                        "name": "Xavi Simons",
+                        "number": 10,
                         "pos": "M",
                         "grid": "3:1"
                     }
@@ -747,24 +756,60 @@
                 },
                 {
                     "player": {
-                        "id": 162016,
-                        "name": "Xavi Simons",
-                        "number": 10,
-                        "pos": "F",
-                        "grid": "4:1"
-                    }
-                },
-                {
-                    "player": {
                         "id": 115589,
                         "name": "Benjamin Šeško",
                         "number": 30,
                         "pos": "F",
-                        "grid": "5:1"
+                        "grid": "4:1"
                     }
                 }
             ],
             "substitutes": [
+                {
+                    "player": {
+                        "id": 1153,
+                        "name": "Amadou Haidara",
+                        "number": 8,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 7328,
+                        "name": "Nicolas Seiwald",
+                        "number": 13,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 162761,
+                        "name": "Castello Lukeba",
+                        "number": 23,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 1167,
+                        "name": "Yussuf Poulsen",
+                        "number": 9,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 383665,
+                        "name": "Tidiam Gomis",
+                        "number": 27,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
                 {
                     "player": {
                         "id": 1924,
@@ -785,55 +830,10 @@
                 },
                 {
                     "player": {
-                        "id": 162761,
-                        "name": "Castello Lukeba",
-                        "number": 23,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 342320,
                         "name": "Kosta Nedeljković",
                         "number": 21,
                         "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 1153,
-                        "name": "Amadou Haidara",
-                        "number": 8,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 383665,
-                        "name": "Tidiam Gomis",
-                        "number": 27,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 7328,
-                        "name": "Nicolas Seiwald",
-                        "number": 13,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 1167,
-                        "name": "Yussuf Poulsen",
-                        "number": 9,
-                        "pos": "F",
                         "grid": null
                     }
                 }
