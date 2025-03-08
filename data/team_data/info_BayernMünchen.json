@@ -822,6 +822,51 @@
             "substitutes": [
                 {
                     "player": {
+                        "id": 184,
+                        "name": "Harry Kane",
+                        "number": 9,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 181812,
+                        "name": "Jamal Musiala",
+                        "number": 42,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 19617,
+                        "name": "Michael Olise",
+                        "number": 17,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 1157,
+                        "name": "Konrad Laimer",
+                        "number": 27,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 502,
+                        "name": "Joshua Kimmich",
+                        "number": 6,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 498,
                         "name": "Sven Ulreich",
                         "number": 26,
@@ -849,55 +894,10 @@
                 },
                 {
                     "player": {
-                        "id": 502,
-                        "name": "Joshua Kimmich",
-                        "number": 6,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 181812,
-                        "name": "Jamal Musiala",
-                        "number": 42,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 19617,
-                        "name": "Michael Olise",
-                        "number": 17,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 280334,
                         "name": "Gabriel Vidović",
                         "number": 24,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 1157,
-                        "name": "Konrad Laimer",
-                        "number": 27,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 184,
-                        "name": "Harry Kane",
-                        "number": 9,
-                        "pos": "F",
                         "grid": null
                     }
                 }
@@ -1031,10 +1031,19 @@
             "substitutes": [
                 {
                     "player": {
-                        "id": 26395,
-                        "name": "Patrick Drewes",
-                        "number": 27,
-                        "pos": "G",
+                        "id": 26227,
+                        "name": "Moritz Broschinski",
+                        "number": 29,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 1109,
+                        "name": "Cristian Gamboa",
+                        "number": 2,
+                        "pos": "D",
                         "grid": null
                     }
                 },
@@ -1049,10 +1058,19 @@
                 },
                 {
                     "player": {
-                        "id": 1109,
-                        "name": "Cristian Gamboa",
-                        "number": 2,
-                        "pos": "D",
+                        "id": 25074,
+                        "name": "Anthony Losilla",
+                        "number": 8,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 26395,
+                        "name": "Patrick Drewes",
+                        "number": 27,
+                        "pos": "G",
                         "grid": null
                     }
                 },
@@ -1076,15 +1094,6 @@
                 },
                 {
                     "player": {
-                        "id": 25074,
-                        "name": "Anthony Losilla",
-                        "number": 8,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 336224,
                         "name": "Mats Pannewig",
                         "number": 24,
@@ -1098,15 +1107,6 @@
                         "name": "Koji Miyoshi",
                         "number": 23,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 26227,
-                        "name": "Moritz Broschinski",
-                        "number": 29,
-                        "pos": "F",
                         "grid": null
                     }
                 }
