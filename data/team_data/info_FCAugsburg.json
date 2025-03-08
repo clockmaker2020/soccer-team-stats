@@ -73,7 +73,7 @@
         },
         {
             "time": {
-                "elapsed": 50,
+                "elapsed": 51,
                 "extra": null
             },
             "team": {
@@ -95,7 +95,7 @@
         },
         {
             "time": {
-                "elapsed": 58,
+                "elapsed": 57,
                 "extra": null
             },
             "team": {
@@ -117,7 +117,7 @@
         },
         {
             "time": {
-                "elapsed": 58,
+                "elapsed": 57,
                 "extra": null
             },
             "team": {
@@ -183,7 +183,7 @@
         },
         {
             "time": {
-                "elapsed": 61,
+                "elapsed": 62,
                 "extra": null
             },
             "team": {
@@ -205,7 +205,7 @@
         },
         {
             "time": {
-                "elapsed": 63,
+                "elapsed": 62,
                 "extra": null
             },
             "team": {
@@ -359,7 +359,7 @@
         },
         {
             "time": {
-                "elapsed": 82,
+                "elapsed": 81,
                 "extra": null
             },
             "team": {
@@ -403,7 +403,7 @@
         },
         {
             "time": {
-                "elapsed": 85,
+                "elapsed": 84,
                 "extra": null
             },
             "team": {
@@ -426,7 +426,7 @@
         {
             "time": {
                 "elapsed": 90,
-                "extra": 3
+                "extra": 2
             },
             "team": {
                 "id": 165,
