@@ -488,11 +488,11 @@
                 },
                 {
                     "type": "Offsides",
-                    "value": 1
+                    "value": 2
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "52%"
+                    "value": "53%"
                 },
                 {
                     "type": "Yellow Cards",
@@ -508,11 +508,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 449
+                    "value": 477
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 380
+                    "value": 404
                 },
                 {
                     "type": "Passes %",
@@ -561,7 +561,7 @@
                 },
                 {
                     "type": "Fouls",
-                    "value": 7
+                    "value": 9
                 },
                 {
                     "type": "Corner Kicks",
@@ -573,11 +573,11 @@
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "48%"
+                    "value": "47%"
                 },
                 {
                     "type": "Yellow Cards",
-                    "value": 1
+                    "value": 2
                 },
                 {
                     "type": "Red Cards",
@@ -589,11 +589,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 440
+                    "value": 447
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 366
+                    "value": 369
                 },
                 {
                     "type": "Passes %",
@@ -601,7 +601,7 @@
                 },
                 {
                     "type": "expected_goals",
-                    "value": "0.65"
+                    "value": "0.70"
                 },
                 {
                     "type": "goals_prevented",
@@ -979,19 +979,19 @@
                 },
                 {
                     "player": {
-                        "id": 25597,
-                        "name": "Fabian Bredlow",
-                        "number": 1,
-                        "pos": "G",
+                        "id": 26244,
+                        "name": "Pascal Stenzel",
+                        "number": 15,
+                        "pos": "D",
                         "grid": null
                     }
                 },
                 {
                     "player": {
-                        "id": 26244,
-                        "name": "Pascal Stenzel",
-                        "number": 15,
-                        "pos": "D",
+                        "id": 25597,
+                        "name": "Fabian Bredlow",
+                        "number": 1,
+                        "pos": "G",
                         "grid": null
                     }
                 },
