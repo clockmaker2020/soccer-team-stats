@@ -3,6 +3,76 @@
     "past_matches": [
         {
             "fixture": {
+                "id": 1224191,
+                "referee": "Tobias Welz, Germany",
+                "timezone": "UTC",
+                "date": "2025-03-08T14:30:00+00:00",
+                "timestamp": 1741444200,
+                "periods": {
+                    "first": 1741444200,
+                    "second": 1741447800
+                },
+                "venue": {
+                    "id": 699,
+                    "name": "BayArena",
+                    "city": "Leverkusen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 9
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 25",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 168,
+                    "name": "Bayer Leverkusen",
+                    "logo": "https://media.api-sports.io/football/teams/168.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
                 "id": 1224186,
                 "referee": "Felix Brych, Germany",
                 "timezone": "UTC",
@@ -269,76 +339,6 @@
                 },
                 "fulltime": {
                     "home": 3,
-                    "away": 0
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
-                "id": 1224151,
-                "referee": "Martin Petersen, Germany",
-                "timezone": "UTC",
-                "date": "2025-01-31T19:30:00+00:00",
-                "timestamp": 1738351800,
-                "periods": {
-                    "first": 1738351800,
-                    "second": 1738355400
-                },
-                "venue": {
-                    "id": 755,
-                    "name": "Weserstadion",
-                    "city": "Bremen"
-                },
-                "status": {
-                    "long": "Match Finished",
-                    "short": "FT",
-                    "elapsed": 90,
-                    "extra": 9
-                }
-            },
-            "league": {
-                "id": 78,
-                "name": "Bundesliga",
-                "country": "Germany",
-                "logo": "https://media.api-sports.io/football/leagues/78.png",
-                "flag": "https://media.api-sports.io/flags/de.svg",
-                "season": 2024,
-                "round": "Regular Season - 20",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 162,
-                    "name": "Werder Bremen",
-                    "logo": "https://media.api-sports.io/football/teams/162.png",
-                    "winner": true
-                },
-                "away": {
-                    "id": 164,
-                    "name": "FSV Mainz 05",
-                    "logo": "https://media.api-sports.io/football/teams/164.png",
-                    "winner": false
-                }
-            },
-            "goals": {
-                "home": 1,
-                "away": 0
-            },
-            "score": {
-                "halftime": {
-                    "home": 1,
-                    "away": 0
-                },
-                "fulltime": {
-                    "home": 1,
                     "away": 0
                 },
                 "extratime": {
