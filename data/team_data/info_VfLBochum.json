@@ -205,7 +205,7 @@
         },
         {
             "time": {
-                "elapsed": 56,
+                "elapsed": 57,
                 "extra": null
             },
             "team": {
@@ -223,7 +223,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Tripping"
+            "comments": null
         },
         {
             "time": {
