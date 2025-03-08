@@ -460,19 +460,19 @@
                 },
                 {
                     "type": "Shots off Goal",
-                    "value": 7
-                },
-                {
-                    "type": "Total Shots",
-                    "value": 14
-                },
-                {
-                    "type": "Blocked Shots",
                     "value": 6
                 },
                 {
+                    "type": "Total Shots",
+                    "value": 12
+                },
+                {
+                    "type": "Blocked Shots",
+                    "value": 5
+                },
+                {
                     "type": "Shots insidebox",
-                    "value": 11
+                    "value": 9
                 },
                 {
                     "type": "Shots outsidebox",
@@ -488,11 +488,11 @@
                 },
                 {
                     "type": "Offsides",
-                    "value": 4
+                    "value": 3
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "72%"
+                    "value": "71%"
                 },
                 {
                     "type": "Yellow Cards",
@@ -508,11 +508,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 560
+                    "value": 521
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 482
+                    "value": 446
                 },
                 {
                     "type": "Passes %",
@@ -520,7 +520,7 @@
                 },
                 {
                     "type": "expected_goals",
-                    "value": "1.02"
+                    "value": "1.00"
                 },
                 {
                     "type": "goals_prevented",
@@ -573,11 +573,11 @@
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "28%"
+                    "value": "29%"
                 },
                 {
                     "type": "Yellow Cards",
-                    "value": 4
+                    "value": 3
                 },
                 {
                     "type": "Red Cards",
@@ -589,11 +589,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 231
+                    "value": 222
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 156
+                    "value": 150
                 },
                 {
                     "type": "Passes %",
@@ -734,19 +734,46 @@
             "substitutes": [
                 {
                     "player": {
-                        "id": 26292,
-                        "name": "Alexander Meyer",
-                        "number": 33,
-                        "pos": "G",
+                        "id": 24845,
+                        "name": "Julian Ryerson",
+                        "number": 26,
+                        "pos": "D",
                         "grid": null
                     }
                 },
                 {
                     "player": {
-                        "id": 24845,
-                        "name": "Julian Ryerson",
-                        "number": 26,
-                        "pos": "D",
+                        "id": 158644,
+                        "name": "Maximilian Beier",
+                        "number": 14,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 1159,
+                        "name": "Marcel Sabitzer",
+                        "number": 20,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 368230,
+                        "name": "Julien Duranville",
+                        "number": 16,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 26292,
+                        "name": "Alexander Meyer",
+                        "number": 33,
+                        "pos": "G",
                         "grid": null
                     }
                 },
@@ -770,37 +797,10 @@
                 },
                 {
                     "player": {
-                        "id": 1159,
-                        "name": "Marcel Sabitzer",
-                        "number": 20,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 161921,
                         "name": "Giovanni Reyna",
                         "number": 7,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 158644,
-                        "name": "Maximilian Beier",
-                        "number": 14,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 368230,
-                        "name": "Julien Duranville",
-                        "number": 16,
-                        "pos": "F",
                         "grid": null
                     }
                 }
@@ -934,37 +934,19 @@
             "substitutes": [
                 {
                     "player": {
-                        "id": 14553,
-                        "name": "Nediljko Labrović",
-                        "number": 22,
-                        "pos": "G",
+                        "id": 14395,
+                        "name": "Kristijan Jakić",
+                        "number": 17,
+                        "pos": "M",
                         "grid": null
                     }
                 },
                 {
                     "player": {
-                        "id": 468698,
-                        "name": "Felix Meiser",
-                        "number": 41,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 26242,
-                        "name": "Keven Schlotterbeck",
-                        "number": 31,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 413065,
-                        "name": "Noahkai Banks",
-                        "number": 40,
-                        "pos": "D",
+                        "id": 8651,
+                        "name": "Samuel Essende",
+                        "number": 9,
+                        "pos": "F",
                         "grid": null
                     }
                 },
@@ -988,19 +970,37 @@
                 },
                 {
                     "player": {
-                        "id": 14395,
-                        "name": "Kristijan Jakić",
-                        "number": 17,
-                        "pos": "M",
+                        "id": 413065,
+                        "name": "Noahkai Banks",
+                        "number": 40,
+                        "pos": "D",
                         "grid": null
                     }
                 },
                 {
                     "player": {
-                        "id": 8651,
-                        "name": "Samuel Essende",
-                        "number": 9,
-                        "pos": "F",
+                        "id": 14553,
+                        "name": "Nediljko Labrović",
+                        "number": 22,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 468698,
+                        "name": "Felix Meiser",
+                        "number": 41,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 26242,
+                        "name": "Keven Schlotterbeck",
+                        "number": 31,
+                        "pos": "D",
                         "grid": null
                     }
                 },
