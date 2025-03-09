@@ -61,7 +61,7 @@
             },
             "player": {
                 "id": 8,
-                "name": "R. Guerreiro"
+                "name": "Raphaël Guerreiro"
             },
             "assist": {
                 "id": 510,
@@ -83,7 +83,7 @@
             },
             "player": {
                 "id": 80219,
-                "name": "J. Medic"
+                "name": "Jakov Medić"
             },
             "assist": {
                 "id": null,
@@ -91,29 +91,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Roughing"
-        },
-        {
-            "time": {
-                "elapsed": 22,
-                "extra": null
-            },
-            "team": {
-                "id": 157,
-                "name": "Bayern München",
-                "logo": "https://media.api-sports.io/football/teams/157.png"
-            },
-            "player": {
-                "id": 510,
-                "name": "S. Gnabry"
-            },
-            "assist": {
-                "id": 510,
-                "name": "S. Gnabry"
-            },
-            "type": "Goal",
-            "detail": "Missed Penalty",
-            "comments": null
+            "comments": "Foul"
         },
         {
             "time": {
@@ -127,11 +105,11 @@
             },
             "player": {
                 "id": 8,
-                "name": "R. Guerreiro"
+                "name": "Raphaël Guerreiro"
             },
             "assist": {
                 "id": 522,
-                "name": "T. Muller"
+                "name": "T. Müller"
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -149,7 +127,7 @@
             },
             "player": {
                 "id": 80219,
-                "name": "J. Medic"
+                "name": "J. Medić"
             },
             "assist": {
                 "id": null,
@@ -161,7 +139,7 @@
         },
         {
             "time": {
-                "elapsed": 43,
+                "elapsed": 42,
                 "extra": null
             },
             "team": {
@@ -171,7 +149,7 @@
             },
             "player": {
                 "id": 41104,
-                "name": "J. Palhinha"
+                "name": "João Palhinha"
             },
             "assist": {
                 "id": null,
@@ -179,7 +157,7 @@
             },
             "type": "Card",
             "detail": "Red Card",
-            "comments": "Roughing"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -205,7 +183,7 @@
         },
         {
             "time": {
-                "elapsed": 57,
+                "elapsed": 56,
                 "extra": null
             },
             "team": {
@@ -223,7 +201,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": null
+            "comments": "Foul"
         },
         {
             "time": {
@@ -236,12 +214,12 @@
                 "logo": "https://media.api-sports.io/football/teams/157.png"
             },
             "player": {
-                "id": 184,
-                "name": "H. Kane"
+                "id": 522,
+                "name": "T. Müller"
             },
             "assist": {
-                "id": 522,
-                "name": "T. Muller"
+                "id": 184,
+                "name": "H. Kane"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -258,12 +236,12 @@
                 "logo": "https://media.api-sports.io/football/teams/157.png"
             },
             "player": {
-                "id": 181812,
-                "name": "J. Musiala"
+                "id": 644,
+                "name": "L. Sané"
             },
             "assist": {
-                "id": 510,
-                "name": "S. Gnabry"
+                "id": 19617,
+                "name": "M. Olise"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -280,12 +258,12 @@
                 "logo": "https://media.api-sports.io/football/teams/157.png"
             },
             "player": {
-                "id": 1157,
-                "name": "K. Laimer"
-            },
-            "assist": {
                 "id": 2195,
                 "name": "S. Boey"
+            },
+            "assist": {
+                "id": 1157,
+                "name": "K. Laimer"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -302,12 +280,12 @@
                 "logo": "https://media.api-sports.io/football/teams/157.png"
             },
             "player": {
-                "id": 19617,
-                "name": "M. Olise"
+                "id": 510,
+                "name": "S. Gnabry"
             },
             "assist": {
-                "id": 644,
-                "name": "L. Sane"
+                "id": 181812,
+                "name": "J. Musiala"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -328,8 +306,8 @@
                 "name": "M. Bero"
             },
             "assist": {
-                "id": 26287,
-                "name": "P. Hofmann"
+                "id": null,
+                "name": null
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -346,12 +324,12 @@
                 "logo": "https://media.api-sports.io/football/teams/176.png"
             },
             "player": {
-                "id": 26227,
-                "name": "M. Broschinski"
-            },
-            "assist": {
                 "id": 1610,
                 "name": "G. Masouras"
+            },
+            "assist": {
+                "id": 26227,
+                "name": "M. Broschinski"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -369,7 +347,7 @@
             },
             "player": {
                 "id": 25151,
-                "name": "M. Wittek"
+                "name": "Maximilian Wittek"
             },
             "assist": {
                 "id": null,
@@ -390,12 +368,12 @@
                 "logo": "https://media.api-sports.io/football/teams/157.png"
             },
             "player": {
-                "id": 502,
-                "name": "J. Kimmich"
-            },
-            "assist": {
                 "id": 32893,
                 "name": "H. Ito"
+            },
+            "assist": {
+                "id": 502,
+                "name": "J. Kimmich"
             },
             "type": "subst",
             "detail": "Substitution 5",
@@ -413,7 +391,7 @@
             },
             "player": {
                 "id": 24785,
-                "name": "T. Horn"
+                "name": "Timo Horn"
             },
             "assist": {
                 "id": null,
@@ -421,7 +399,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Unsportsmanlike conduct"
+            "comments": "Time wasting"
         },
         {
             "time": {
@@ -434,12 +412,12 @@
                 "logo": "https://media.api-sports.io/football/teams/176.png"
             },
             "player": {
-                "id": 1109,
-                "name": "C. Gamboa"
-            },
-            "assist": {
                 "id": 19068,
                 "name": "F. Passlack"
+            },
+            "assist": {
+                "id": 1109,
+                "name": "C. Gamboa"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -456,16 +434,16 @@
                 "logo": "https://media.api-sports.io/football/teams/176.png"
             },
             "player": {
-                "id": 22260,
-                "name": "I. Sissoko"
+                "id": 37122,
+                "name": "M. Bero"
             },
             "assist": {
-                "id": null,
-                "name": null
+                "id": 25074,
+                "name": "A. Losilla"
             },
-            "type": "Card",
-            "detail": "Yellow Card",
-            "comments": "Foul"
+            "type": "subst",
+            "detail": "Substitution 3",
+            "comments": null
         },
         {
             "time": {
@@ -478,16 +456,16 @@
                 "logo": "https://media.api-sports.io/football/teams/176.png"
             },
             "player": {
-                "id": 25074,
-                "name": "A. Losilla"
+                "id": 22260,
+                "name": "Ibrahima Sissoko"
             },
             "assist": {
-                "id": 37122,
-                "name": "M. Bero"
+                "id": null,
+                "name": null
             },
-            "type": "subst",
-            "detail": "Substitution 3",
-            "comments": null
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Foul"
         },
         {
             "time": {
@@ -500,12 +478,12 @@
                 "logo": "https://media.api-sports.io/football/teams/176.png"
             },
             "player": {
-                "id": 61411,
-                "name": "E. Masovic"
-            },
-            "assist": {
                 "id": 25151,
                 "name": "M. Wittek"
+            },
+            "assist": {
+                "id": 61411,
+                "name": "E. Mašović"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -523,7 +501,7 @@
             },
             "player": {
                 "id": 25074,
-                "name": "A. Losilla"
+                "name": "Anthony Losilla"
             },
             "assist": {
                 "id": null,
