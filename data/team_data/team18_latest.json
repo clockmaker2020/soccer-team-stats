@@ -1969,77 +1969,89 @@
         },
         {
             "team": "1899 Hoffenheim",
-            "date": "2025-03-01 14:30",
-            "opponent": "VfL Bochum",
-            "score": "0 - 1",
-            "stadium": "Vonovia Ruhrstadion",
-            "referee": "Badstubner, Florian, Germany",
-            "league_round": "Regular Season - 24",
+            "date": "2025-03-09 16:30",
+            "opponent": "1. FC Heidenheim",
+            "score": "1 - 1",
+            "stadium": "PreZero Arena",
+            "referee": "Daniel Schlager, Germany",
+            "league_round": "Regular Season - 25",
             "events": [
                 {
-                    "time": "53'",
-                    "player": "Anton Stach",
-                    "detail": "Yellow Card",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "59'",
-                    "player": "M. Moerstedt",
+                    "time": "5'",
+                    "player": "K. Akpoguma",
                     "detail": "Substitution 1",
                     "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "59'",
-                    "player": "Arthur Chaves",
-                    "detail": "Substitution 2",
-                    "team": "1899 Hoffenheim"
+                    "time": "9'",
+                    "player": "T. Siersleben",
+                    "detail": "Yellow Card",
+                    "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "72'",
-                    "player": "T. Bischof",
+                    "time": "13'",
+                    "player": "M. Pieringer",
+                    "detail": "Yellow Card",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "34'",
+                    "player": "H. Tabakovic",
                     "detail": "Normal Goal",
                     "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "75'",
-                    "player": "G. Masouras",
+                    "time": "46'",
+                    "player": "B. Zivzivadze",
                     "detail": "Substitution 1",
-                    "team": "VfL Bochum"
+                    "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "75'",
-                    "player": "F. Passlack",
+                    "time": "65'",
+                    "player": "B. Zivzivadze",
+                    "detail": "Normal Goal",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "69'",
+                    "player": "D. Geiger",
                     "detail": "Substitution 2",
-                    "team": "VfL Bochum"
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "70'",
+                    "player": "P. Wanner",
+                    "detail": "Substitution 2",
+                    "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "80'",
-                    "player": "T. Krauß",
-                    "detail": "Substitution 3",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "84'",
-                    "player": "G. Orban",
+                    "player": "B. Toure",
                     "detail": "Substitution 3",
                     "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "87'",
-                    "player": "M. Wittek",
-                    "detail": "Substitution 4",
-                    "team": "VfL Bochum"
+                    "time": "85'",
+                    "player": "S. Conteh",
+                    "detail": "Substitution 3",
+                    "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "87'",
-                    "player": "I. Sissoko",
-                    "detail": "Substitution 5",
-                    "team": "VfL Bochum"
+                    "time": "90'",
+                    "player": "Arthur Chaves",
+                    "detail": "Yellow Card",
+                    "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "87'",
-                    "player": "A. Kramarić",
-                    "detail": "Substitution 4",
+                    "time": "90'",
+                    "player": "O. H. Traore",
+                    "detail": "Yellow Card",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "90'",
+                    "player": "F. O. Becker",
+                    "detail": "Yellow Card",
                     "team": "1899 Hoffenheim"
                 }
             ],
@@ -2049,6 +2061,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-03-09 16:30",
+                    "score": "1 - 1"
+                },
                 {
                     "date": "2025-03-01 14:30",
                     "score": "0 - 1"
@@ -2064,10 +2080,6 @@
                 {
                     "date": "2025-02-08 14:30",
                     "score": "0 - 4"
-                },
-                {
-                    "date": "2025-02-02 16:30",
-                    "score": "3 - 1"
                 }
             ],
             "future_games": [
@@ -2553,126 +2565,90 @@
         },
         {
             "team": "1. FC Heidenheim",
-            "date": "2025-03-01 14:30",
-            "opponent": "Borussia Mönchengladbach",
-            "score": "0 - 3",
-            "stadium": "Voith-Arena",
-            "referee": "Sören Storks, Germany",
-            "league_round": "Regular Season - 24",
+            "date": "2025-03-09 16:30",
+            "opponent": "1899 Hoffenheim",
+            "score": "1 - 1",
+            "stadium": "PreZero Arena",
+            "referee": "Daniel Schlager, Germany",
+            "league_round": "Regular Season - 25",
             "events": [
                 {
-                    "time": "6'",
-                    "player": "Joseph Scally",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "8'",
-                    "player": "R. Hack",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "18'",
-                    "player": "N. Ngoumou",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "33'",
-                    "player": "L. Kerber",
+                    "time": "5'",
+                    "player": "K. Akpoguma",
                     "detail": "Substitution 1",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "9'",
+                    "player": "T. Siersleben",
+                    "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "13'",
+                    "player": "M. Pieringer",
+                    "detail": "Yellow Card",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "34'",
+                    "player": "H. Tabakovic",
+                    "detail": "Normal Goal",
+                    "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "46'",
                     "player": "B. Zivzivadze",
+                    "detail": "Substitution 1",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "65'",
+                    "player": "B. Zivzivadze",
+                    "detail": "Normal Goal",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "69'",
+                    "player": "D. Geiger",
+                    "detail": "Substitution 2",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "70'",
+                    "player": "P. Wanner",
                     "detail": "Substitution 2",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "46'",
+                    "time": "80'",
+                    "player": "B. Toure",
+                    "detail": "Substitution 3",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "85'",
                     "player": "S. Conteh",
                     "detail": "Substitution 3",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "46'",
-                    "player": "L. Ullrich",
-                    "detail": "Substitution 1",
-                    "team": "Borussia Mönchengladbach"
+                    "time": "90'",
+                    "player": "Arthur Chaves",
+                    "detail": "Yellow Card",
+                    "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "49'",
-                    "player": "Benedikt Gimber",
+                    "time": "90'",
+                    "player": "O. H. Traore",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "49'",
-                    "player": "Ko Itakura",
+                    "time": "90'",
+                    "player": "F. O. Becker",
                     "detail": "Yellow Card",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "58'",
-                    "player": "Patrick Mainka",
-                    "detail": "Yellow Card",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "59'",
-                    "player": "R. Hack",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "61'",
-                    "player": "Alassane Pléa",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "62'",
-                    "player": "N. Ngoumou",
-                    "detail": "Substitution 2",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "62'",
-                    "player": "A. Pléa",
-                    "detail": "Substitution 3",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "62'",
-                    "player": "J. Föhrenbach",
-                    "detail": "Substitution 4",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "69'",
-                    "player": "Robin Hack",
-                    "detail": "Goal cancelled",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "71'",
-                    "player": "P. Wanner",
-                    "detail": "Substitution 5",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "78'",
-                    "player": "R. Hack",
-                    "detail": "Substitution 4",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "78'",
-                    "player": "J. Scally",
-                    "detail": "Substitution 5",
-                    "team": "Borussia Mönchengladbach"
+                    "team": "1899 Hoffenheim"
                 }
             ],
             "odds": {
@@ -2681,6 +2657,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-03-09 16:30",
+                    "score": "1 - 1"
+                },
                 {
                     "date": "2025-03-01 14:30",
                     "score": "0 - 3"
@@ -2696,10 +2676,6 @@
                 {
                     "date": "2025-02-08 14:30",
                     "score": "1 - 0"
-                },
-                {
-                    "date": "2025-02-01 14:30",
-                    "score": "1 - 2"
                 }
             ],
             "future_games": [
