@@ -3,6 +3,76 @@
     "past_matches": [
         {
             "fixture": {
+                "id": 1224194,
+                "referee": "Frank Willenborg, Germany",
+                "timezone": "UTC",
+                "date": "2025-03-09T14:30:00+00:00",
+                "timestamp": 1741530600,
+                "periods": {
+                    "first": 1741530600,
+                    "second": 1741534200
+                },
+                "venue": {
+                    "id": 10491,
+                    "name": "Deutsche Bank Park",
+                    "city": "Frankfurt am Main"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 6
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 25",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 169,
+                    "name": "Eintracht Frankfurt",
+                    "logo": "https://media.api-sports.io/football/teams/169.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 182,
+                    "name": "Union Berlin",
+                    "logo": "https://media.api-sports.io/football/teams/182.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
                 "id": 1224184,
                 "referee": "Felix Zwayer, Germany",
                 "timezone": "UTC",
@@ -266,76 +336,6 @@
                 "halftime": {
                     "home": 1,
                     "away": 1
-                },
-                "fulltime": {
-                    "home": 1,
-                    "away": 1
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
-                "id": 1224149,
-                "referee": "Benjamin Brand, Germany",
-                "timezone": "UTC",
-                "date": "2025-02-02T14:30:00+00:00",
-                "timestamp": 1738506600,
-                "periods": {
-                    "first": 1738506600,
-                    "second": 1738510200
-                },
-                "venue": {
-                    "id": 10491,
-                    "name": "Deutsche Bank Park",
-                    "city": "Frankfurt am Main"
-                },
-                "status": {
-                    "long": "Match Finished",
-                    "short": "FT",
-                    "elapsed": 90,
-                    "extra": 6
-                }
-            },
-            "league": {
-                "id": 78,
-                "name": "Bundesliga",
-                "country": "Germany",
-                "logo": "https://media.api-sports.io/football/leagues/78.png",
-                "flag": "https://media.api-sports.io/flags/de.svg",
-                "season": 2024,
-                "round": "Regular Season - 20",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 169,
-                    "name": "Eintracht Frankfurt",
-                    "logo": "https://media.api-sports.io/football/teams/169.png",
-                    "winner": null
-                },
-                "away": {
-                    "id": 161,
-                    "name": "VfL Wolfsburg",
-                    "logo": "https://media.api-sports.io/football/teams/161.png",
-                    "winner": null
-                }
-            },
-            "goals": {
-                "home": 1,
-                "away": 1
-            },
-            "score": {
-                "halftime": {
-                    "home": 0,
-                    "away": 0
                 },
                 "fulltime": {
                     "home": 1,
