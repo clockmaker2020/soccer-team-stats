@@ -333,7 +333,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": null
+            "comments": "Roughing"
         }
     ],
     "statistics": [
@@ -633,24 +633,6 @@
                 },
                 {
                     "player": {
-                        "id": 163066,
-                        "name": "Luca Philipp",
-                        "number": 37,
-                        "pos": "G",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 270,
-                        "name": "Stanley N'Soki",
-                        "number": 34,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 718,
                         "name": "Dennis Geiger",
                         "number": 8,
@@ -664,6 +646,24 @@
                         "name": "Bazoumana Touré",
                         "number": 29,
                         "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 163066,
+                        "name": "Luca Philipp",
+                        "number": 37,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 270,
+                        "name": "Stanley N'Soki",
+                        "number": 34,
+                        "pos": "D",
                         "grid": null
                     }
                 },
@@ -842,6 +842,24 @@
                 },
                 {
                     "player": {
+                        "id": 327895,
+                        "name": "Paul Wanner",
+                        "number": 10,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 125720,
+                        "name": "Sirlord Conteh",
+                        "number": 31,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 328008,
                         "name": "Frank Feller",
                         "number": 40,
@@ -855,15 +873,6 @@
                         "name": "Jonas Föhrenbach",
                         "number": 19,
                         "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 327895,
-                        "name": "Paul Wanner",
-                        "number": 10,
-                        "pos": "M",
                         "grid": null
                     }
                 },
@@ -899,15 +908,6 @@
                         "id": 128849,
                         "name": "Maximilian Breunig",
                         "number": 14,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 125720,
-                        "name": "Sirlord Conteh",
-                        "number": 31,
                         "pos": "F",
                         "grid": null
                     }
