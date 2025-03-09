@@ -73,7 +73,7 @@
         },
         {
             "time": {
-                "elapsed": 51,
+                "elapsed": 52,
                 "extra": null
             },
             "team": {
@@ -83,37 +83,15 @@
             },
             "player": {
                 "id": 984,
-                "name": "J. Brandt"
+                "name": "Julian Brandt"
             },
             "assist": {
                 "id": null,
                 "name": null
             },
             "type": "Var",
-            "detail": "Goal Disallowed - offside",
+            "detail": "Goal cancelled",
             "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 57,
-                "extra": null
-            },
-            "team": {
-                "id": 170,
-                "name": "FC Augsburg",
-                "logo": "https://media.api-sports.io/football/teams/170.png"
-            },
-            "player": {
-                "id": 25413,
-                "name": "E. Rexhbecaj"
-            },
-            "assist": {
-                "id": null,
-                "name": null
-            },
-            "type": "Card",
-            "detail": "Yellow Card",
-            "comments": "Unsportsmanlike conduct"
         },
         {
             "time": {
@@ -127,7 +105,7 @@
             },
             "player": {
                 "id": 21393,
-                "name": "S. Guirassy"
+                "name": "Serhou Guirassy"
             },
             "assist": {
                 "id": null,
@@ -135,7 +113,29 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Unsportsmanlike conduct"
+            "comments": "Argument"
+        },
+        {
+            "time": {
+                "elapsed": 57,
+                "extra": null
+            },
+            "team": {
+                "id": 170,
+                "name": "FC Augsburg",
+                "logo": "https://media.api-sports.io/football/teams/170.png"
+            },
+            "player": {
+                "id": 25413,
+                "name": "Elvis Rexhbeçaj"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Foul"
         },
         {
             "time": {
@@ -148,12 +148,12 @@
                 "logo": "https://media.api-sports.io/football/teams/170.png"
             },
             "player": {
-                "id": 8651,
-                "name": "S. Essende"
+                "id": 25413,
+                "name": "E. Rexhbeçaj"
             },
             "assist": {
-                "id": 26171,
-                "name": "P. Tietz"
+                "id": 14395,
+                "name": "K. Jakić"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -170,12 +170,12 @@
                 "logo": "https://media.api-sports.io/football/teams/170.png"
             },
             "player": {
-                "id": 14395,
-                "name": "K. Jakic"
+                "id": 26171,
+                "name": "P. Tietz"
             },
             "assist": {
-                "id": 25413,
-                "name": "E. Rexhbecaj"
+                "id": 8651,
+                "name": "S. Essende"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -183,29 +183,7 @@
         },
         {
             "time": {
-                "elapsed": 62,
-                "extra": null
-            },
-            "team": {
-                "id": 170,
-                "name": "FC Augsburg",
-                "logo": "https://media.api-sports.io/football/teams/170.png"
-            },
-            "player": {
-                "id": 24807,
-                "name": "S. Ozcan"
-            },
-            "assist": {
-                "id": null,
-                "name": null
-            },
-            "type": "Var",
-            "detail": "Goal Disallowed - offside",
-            "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 62,
+                "elapsed": 63,
                 "extra": null
             },
             "team": {
@@ -214,12 +192,12 @@
                 "logo": "https://media.api-sports.io/football/teams/165.png"
             },
             "player": {
-                "id": 158644,
-                "name": "M. Beier"
+                "id": 197448,
+                "name": "Yan Couto"
             },
             "assist": {
-                "id": 197448,
-                "name": "Y. Couto"
+                "id": 158644,
+                "name": "M. Beier"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -236,15 +214,37 @@
                 "logo": "https://media.api-sports.io/football/teams/165.png"
             },
             "player": {
-                "id": 24845,
-                "name": "J. Ryerson"
-            },
-            "assist": {
                 "id": 2194,
                 "name": "R. Bensebaini"
             },
+            "assist": {
+                "id": 24845,
+                "name": "J. Ryerson"
+            },
             "type": "subst",
             "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 64,
+                "extra": null
+            },
+            "team": {
+                "id": 165,
+                "name": "Borussia Dortmund",
+                "logo": "https://media.api-sports.io/football/teams/165.png"
+            },
+            "player": {
+                "id": 24807,
+                "name": "Salih Özcan"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Var",
+            "detail": "Goal cancelled",
             "comments": null
         },
         {
@@ -259,7 +259,7 @@
             },
             "player": {
                 "id": 15799,
-                "name": "F. Onyeka"
+                "name": "Frank Onyeka"
             },
             "assist": {
                 "id": null,
@@ -267,7 +267,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Roughing"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -280,12 +280,12 @@
                 "logo": "https://media.api-sports.io/football/teams/170.png"
             },
             "player": {
-                "id": 25355,
-                "name": "A. Maier"
-            },
-            "assist": {
                 "id": 20634,
                 "name": "A. Claude-Maurice"
+            },
+            "assist": {
+                "id": 25355,
+                "name": "A. Maier"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -302,12 +302,12 @@
                 "logo": "https://media.api-sports.io/football/teams/170.png"
             },
             "player": {
-                "id": 348888,
-                "name": "M. Komur"
-            },
-            "assist": {
                 "id": 25299,
                 "name": "F. Jensen"
+            },
+            "assist": {
+                "id": 348888,
+                "name": "M. Kömür"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -324,12 +324,12 @@
                 "logo": "https://media.api-sports.io/football/teams/165.png"
             },
             "player": {
-                "id": 1159,
-                "name": "M. Sabitzer"
+                "id": 18970,
+                "name": "P. Groß"
             },
             "assist": {
-                "id": 18970,
-                "name": "P. Gross"
+                "id": 1159,
+                "name": "M. Sabitzer"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -346,12 +346,12 @@
                 "logo": "https://media.api-sports.io/football/teams/165.png"
             },
             "player": {
-                "id": 368230,
-                "name": "J. Duranville"
-            },
-            "assist": {
                 "id": 286894,
                 "name": "J. Gittens"
+            },
+            "assist": {
+                "id": 368230,
+                "name": "J. Duranville"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -368,12 +368,12 @@
                 "logo": "https://media.api-sports.io/football/teams/170.png"
             },
             "player": {
-                "id": 413065,
-                "name": "N. Banks"
-            },
-            "assist": {
                 "id": 26,
                 "name": "M. Wolf"
+            },
+            "assist": {
+                "id": 413065,
+                "name": "N. Banks"
             },
             "type": "subst",
             "detail": "Substitution 5",
@@ -391,7 +391,7 @@
             },
             "player": {
                 "id": 413065,
-                "name": "N. Banks"
+                "name": "Noahkai Banks"
             },
             "assist": {
                 "id": null,
@@ -399,7 +399,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Delay of game"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -413,7 +413,7 @@
             },
             "player": {
                 "id": 14395,
-                "name": "K. Jakic"
+                "name": "Kristijan Jakić"
             },
             "assist": {
                 "id": null,
@@ -421,7 +421,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Holding"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -434,12 +434,12 @@
                 "logo": "https://media.api-sports.io/football/teams/165.png"
             },
             "player": {
-                "id": 25368,
-                "name": "W. Anton"
-            },
-            "assist": {
                 "id": 7334,
                 "name": "K. Adeyemi"
+            },
+            "assist": {
+                "id": 25368,
+                "name": "W. Anton"
             },
             "type": "subst",
             "detail": "Substitution 5",
