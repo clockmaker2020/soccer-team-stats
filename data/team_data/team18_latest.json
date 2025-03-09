@@ -1801,125 +1801,6 @@
             "squad": []
         },
         {
-            "team": "1899 Hoffenheim",
-            "date": "2025-03-01 14:30",
-            "opponent": "VfL Bochum",
-            "score": "0 - 1",
-            "stadium": "Vonovia Ruhrstadion",
-            "referee": "Badstubner, Florian, Germany",
-            "league_round": "Regular Season - 24",
-            "events": [
-                {
-                    "time": "53'",
-                    "player": "Anton Stach",
-                    "detail": "Yellow Card",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "59'",
-                    "player": "M. Moerstedt",
-                    "detail": "Substitution 1",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "59'",
-                    "player": "Arthur Chaves",
-                    "detail": "Substitution 2",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "72'",
-                    "player": "T. Bischof",
-                    "detail": "Normal Goal",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "75'",
-                    "player": "G. Masouras",
-                    "detail": "Substitution 1",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "75'",
-                    "player": "F. Passlack",
-                    "detail": "Substitution 2",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "80'",
-                    "player": "T. Krauß",
-                    "detail": "Substitution 3",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "84'",
-                    "player": "G. Orban",
-                    "detail": "Substitution 3",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "87'",
-                    "player": "M. Wittek",
-                    "detail": "Substitution 4",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "87'",
-                    "player": "I. Sissoko",
-                    "detail": "Substitution 5",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "87'",
-                    "player": "A. Kramarić",
-                    "detail": "Substitution 4",
-                    "team": "1899 Hoffenheim"
-                }
-            ],
-            "odds": {
-                "home": "N/A",
-                "draw": "N/A",
-                "away": "N/A"
-            },
-            "past_results": [
-                {
-                    "date": "2025-03-01 14:30",
-                    "score": "0 - 1"
-                },
-                {
-                    "date": "2025-02-23 18:30",
-                    "score": "1 - 1"
-                },
-                {
-                    "date": "2025-02-16 14:30",
-                    "score": "1 - 3"
-                },
-                {
-                    "date": "2025-02-08 14:30",
-                    "score": "0 - 4"
-                },
-                {
-                    "date": "2025-02-02 16:30",
-                    "score": "3 - 1"
-                }
-            ],
-            "future_games": [
-                {
-                    "date": "2025-03-14 19:30",
-                    "opponent": "FC St. Pauli"
-                },
-                {
-                    "date": "2025-03-29 14:30",
-                    "opponent": "FC Augsburg"
-                },
-                {
-                    "date": "2025-04-05 13:30",
-                    "opponent": "RB Leipzig"
-                }
-            ],
-            "squad": []
-        },
-        {
             "team": "Union Berlin",
             "date": "2025-03-09 14:30",
             "opponent": "Eintracht Frankfurt",
@@ -2082,6 +1963,125 @@
                 {
                     "date": "2025-04-06 15:30",
                     "opponent": "VfL Wolfsburg"
+                }
+            ],
+            "squad": []
+        },
+        {
+            "team": "1899 Hoffenheim",
+            "date": "2025-03-01 14:30",
+            "opponent": "VfL Bochum",
+            "score": "0 - 1",
+            "stadium": "Vonovia Ruhrstadion",
+            "referee": "Badstubner, Florian, Germany",
+            "league_round": "Regular Season - 24",
+            "events": [
+                {
+                    "time": "53'",
+                    "player": "Anton Stach",
+                    "detail": "Yellow Card",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "59'",
+                    "player": "M. Moerstedt",
+                    "detail": "Substitution 1",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "59'",
+                    "player": "Arthur Chaves",
+                    "detail": "Substitution 2",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "72'",
+                    "player": "T. Bischof",
+                    "detail": "Normal Goal",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "75'",
+                    "player": "G. Masouras",
+                    "detail": "Substitution 1",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "75'",
+                    "player": "F. Passlack",
+                    "detail": "Substitution 2",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "80'",
+                    "player": "T. Krauß",
+                    "detail": "Substitution 3",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "84'",
+                    "player": "G. Orban",
+                    "detail": "Substitution 3",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "87'",
+                    "player": "M. Wittek",
+                    "detail": "Substitution 4",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "87'",
+                    "player": "I. Sissoko",
+                    "detail": "Substitution 5",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "87'",
+                    "player": "A. Kramarić",
+                    "detail": "Substitution 4",
+                    "team": "1899 Hoffenheim"
+                }
+            ],
+            "odds": {
+                "home": "N/A",
+                "draw": "N/A",
+                "away": "N/A"
+            },
+            "past_results": [
+                {
+                    "date": "2025-03-01 14:30",
+                    "score": "0 - 1"
+                },
+                {
+                    "date": "2025-02-23 18:30",
+                    "score": "1 - 1"
+                },
+                {
+                    "date": "2025-02-16 14:30",
+                    "score": "1 - 3"
+                },
+                {
+                    "date": "2025-02-08 14:30",
+                    "score": "0 - 4"
+                },
+                {
+                    "date": "2025-02-02 16:30",
+                    "score": "3 - 1"
+                }
+            ],
+            "future_games": [
+                {
+                    "date": "2025-03-14 19:30",
+                    "opponent": "FC St. Pauli"
+                },
+                {
+                    "date": "2025-03-29 14:30",
+                    "opponent": "FC Augsburg"
+                },
+                {
+                    "date": "2025-04-05 13:30",
+                    "opponent": "RB Leipzig"
                 }
             ],
             "squad": []
