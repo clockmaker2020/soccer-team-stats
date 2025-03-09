@@ -661,61 +661,61 @@
             "events": [
                 {
                     "time": "46'",
-                    "player": "A. Haidara",
-                    "detail": "Substitution 1",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "46'",
-                    "player": "V. Grifo",
+                    "player": "E. Dinkçi",
                     "detail": "Substitution 1",
                     "team": "SC Freiburg"
                 },
                 {
+                    "time": "46'",
+                    "player": "K. Kampl",
+                    "detail": "Substitution 1",
+                    "team": "RB Leipzig"
+                },
+                {
                     "time": "50'",
-                    "player": "W. Orban",
+                    "player": "Willi Orbán",
                     "detail": "Yellow Card",
                     "team": "RB Leipzig"
                 },
                 {
-                    "time": "57'",
-                    "player": "N. Seiwald",
+                    "time": "56'",
+                    "player": "A. Vermeeren",
                     "detail": "Substitution 2",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "63'",
-                    "player": "N. Seiwald",
+                    "player": "Nicolas Seiwald",
                     "detail": "Yellow Card",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "75'",
-                    "player": "J. Beste",
+                    "player": "J. Adamu",
                     "detail": "Substitution 2",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "78'",
-                    "player": "C. Lukeba",
+                    "player": "E. Bitshiabu",
                     "detail": "Substitution 3",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "78'",
-                    "player": "Y. Poulsen",
+                    "player": "B. Šeško",
                     "detail": "Substitution 4",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "87'",
-                    "player": "D. Raum",
+                    "player": "David Raum",
                     "detail": "Yellow Card",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "88'",
-                    "player": "T. Gomis",
+                    "player": "X. Simons",
                     "detail": "Substitution 5",
                     "team": "RB Leipzig"
                 }
@@ -774,61 +774,61 @@
             "events": [
                 {
                     "time": "46'",
-                    "player": "A. Haidara",
-                    "detail": "Substitution 1",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "46'",
-                    "player": "V. Grifo",
+                    "player": "E. Dinkçi",
                     "detail": "Substitution 1",
                     "team": "SC Freiburg"
                 },
                 {
+                    "time": "46'",
+                    "player": "K. Kampl",
+                    "detail": "Substitution 1",
+                    "team": "RB Leipzig"
+                },
+                {
                     "time": "50'",
-                    "player": "W. Orban",
+                    "player": "Willi Orbán",
                     "detail": "Yellow Card",
                     "team": "RB Leipzig"
                 },
                 {
-                    "time": "57'",
-                    "player": "N. Seiwald",
+                    "time": "56'",
+                    "player": "A. Vermeeren",
                     "detail": "Substitution 2",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "63'",
-                    "player": "N. Seiwald",
+                    "player": "Nicolas Seiwald",
                     "detail": "Yellow Card",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "75'",
-                    "player": "J. Beste",
+                    "player": "J. Adamu",
                     "detail": "Substitution 2",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "78'",
-                    "player": "C. Lukeba",
+                    "player": "E. Bitshiabu",
                     "detail": "Substitution 3",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "78'",
-                    "player": "Y. Poulsen",
+                    "player": "B. Šeško",
                     "detail": "Substitution 4",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "87'",
-                    "player": "D. Raum",
+                    "player": "David Raum",
                     "detail": "Yellow Card",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "88'",
-                    "player": "T. Gomis",
+                    "player": "X. Simons",
                     "detail": "Substitution 5",
                     "team": "RB Leipzig"
                 }
