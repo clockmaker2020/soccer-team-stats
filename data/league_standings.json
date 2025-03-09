@@ -111,20 +111,20 @@
         {
             "rank": 13,
             "team": {
+                "name": "1899 Hoffenheim"
+            },
+            "wins": 6,
+            "draws": 8,
+            "losses": 11
+        },
+        {
+            "rank": 14,
+            "team": {
                 "name": "Union Berlin"
             },
             "wins": 7,
             "draws": 5,
             "losses": 13
-        },
-        {
-            "rank": 14,
-            "team": {
-                "name": "1899 Hoffenheim"
-            },
-            "wins": 6,
-            "draws": 7,
-            "losses": 11
         },
         {
             "rank": 15,
@@ -159,7 +159,7 @@
                 "name": "1. FC Heidenheim"
             },
             "wins": 4,
-            "draws": 3,
+            "draws": 4,
             "losses": 17
         }
     ]
