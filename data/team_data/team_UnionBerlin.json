@@ -3,6 +3,76 @@
     "past_matches": [
         {
             "fixture": {
+                "id": 1224194,
+                "referee": "Frank Willenborg, Germany",
+                "timezone": "UTC",
+                "date": "2025-03-09T14:30:00+00:00",
+                "timestamp": 1741530600,
+                "periods": {
+                    "first": 1741530600,
+                    "second": 1741534200
+                },
+                "venue": {
+                    "id": 10491,
+                    "name": "Deutsche Bank Park",
+                    "city": "Frankfurt am Main"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 6
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 25",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 169,
+                    "name": "Eintracht Frankfurt",
+                    "logo": "https://media.api-sports.io/football/teams/169.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 182,
+                    "name": "Union Berlin",
+                    "logo": "https://media.api-sports.io/football/teams/182.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
                 "id": 1224188,
                 "referee": "Tobias Reichel, Germany",
                 "timezone": "UTC",
@@ -270,76 +340,6 @@
                 "fulltime": {
                     "home": 0,
                     "away": 4
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
-                "id": 1224152,
-                "referee": "Daniel Schlager, Germany",
-                "timezone": "UTC",
-                "date": "2025-02-01T17:30:00+00:00",
-                "timestamp": 1738431000,
-                "periods": {
-                    "first": 1738431000,
-                    "second": 1738434600
-                },
-                "venue": {
-                    "id": 748,
-                    "name": "Stadion An der Alten Försterei",
-                    "city": "Berlin"
-                },
-                "status": {
-                    "long": "Match Finished",
-                    "short": "FT",
-                    "elapsed": 90,
-                    "extra": 7
-                }
-            },
-            "league": {
-                "id": 78,
-                "name": "Bundesliga",
-                "country": "Germany",
-                "logo": "https://media.api-sports.io/football/leagues/78.png",
-                "flag": "https://media.api-sports.io/flags/de.svg",
-                "season": 2024,
-                "round": "Regular Season - 20",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 182,
-                    "name": "Union Berlin",
-                    "logo": "https://media.api-sports.io/football/teams/182.png",
-                    "winner": null
-                },
-                "away": {
-                    "id": 173,
-                    "name": "RB Leipzig",
-                    "logo": "https://media.api-sports.io/football/teams/173.png",
-                    "winner": null
-                }
-            },
-            "goals": {
-                "home": 0,
-                "away": 0
-            },
-            "score": {
-                "halftime": {
-                    "home": 0,
-                    "away": 0
-                },
-                "fulltime": {
-                    "home": 0,
-                    "away": 0
                 },
                 "extratime": {
                     "home": null,
