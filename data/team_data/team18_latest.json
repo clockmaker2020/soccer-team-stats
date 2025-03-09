@@ -11,37 +11,31 @@
             "events": [
                 {
                     "time": "14'",
-                    "player": "R. Guerreiro",
+                    "player": "Raphaël Guerreiro",
                     "detail": "Normal Goal",
                     "team": "Bayern München"
                 },
                 {
                     "time": "21'",
-                    "player": "J. Medic",
+                    "player": "Jakov Medić",
                     "detail": "Yellow Card",
                     "team": "VfL Bochum"
                 },
                 {
-                    "time": "22'",
-                    "player": "S. Gnabry",
-                    "detail": "Missed Penalty",
-                    "team": "Bayern München"
-                },
-                {
                     "time": "28'",
-                    "player": "R. Guerreiro",
+                    "player": "Raphaël Guerreiro",
                     "detail": "Normal Goal",
                     "team": "Bayern München"
                 },
                 {
                     "time": "31'",
-                    "player": "J. Medic",
+                    "player": "J. Medić",
                     "detail": "Normal Goal",
                     "team": "VfL Bochum"
                 },
                 {
-                    "time": "43'",
-                    "player": "J. Palhinha",
+                    "time": "42'",
+                    "player": "João Palhinha",
                     "detail": "Red Card",
                     "team": "Bayern München"
                 },
@@ -52,32 +46,32 @@
                     "team": "VfL Bochum"
                 },
                 {
-                    "time": "57'",
+                    "time": "56'",
                     "player": "Bernardo",
                     "detail": "Yellow Card",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "62'",
-                    "player": "H. Kane",
+                    "player": "T. Müller",
                     "detail": "Substitution 1",
                     "team": "Bayern München"
                 },
                 {
                     "time": "63'",
-                    "player": "J. Musiala",
+                    "player": "L. Sané",
                     "detail": "Substitution 2",
                     "team": "Bayern München"
                 },
                 {
                     "time": "63'",
-                    "player": "K. Laimer",
+                    "player": "S. Boey",
                     "detail": "Substitution 3",
                     "team": "Bayern München"
                 },
                 {
                     "time": "63'",
-                    "player": "M. Olise",
+                    "player": "S. Gnabry",
                     "detail": "Substitution 4",
                     "team": "Bayern München"
                 },
@@ -89,55 +83,55 @@
                 },
                 {
                     "time": "73'",
-                    "player": "M. Broschinski",
+                    "player": "G. Masouras",
                     "detail": "Substitution 1",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "73'",
-                    "player": "M. Wittek",
+                    "player": "Maximilian Wittek",
                     "detail": "Yellow Card",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "76'",
-                    "player": "J. Kimmich",
+                    "player": "H. Ito",
                     "detail": "Substitution 5",
                     "team": "Bayern München"
                 },
                 {
                     "time": "80'",
-                    "player": "T. Horn",
+                    "player": "Timo Horn",
                     "detail": "Yellow Card",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "82'",
-                    "player": "C. Gamboa",
+                    "player": "F. Passlack",
                     "detail": "Substitution 2",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "87'",
-                    "player": "I. Sissoko",
-                    "detail": "Yellow Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "87'",
-                    "player": "A. Losilla",
+                    "player": "M. Bero",
                     "detail": "Substitution 3",
                     "team": "VfL Bochum"
                 },
                 {
+                    "time": "87'",
+                    "player": "Ibrahima Sissoko",
+                    "detail": "Yellow Card",
+                    "team": "VfL Bochum"
+                },
+                {
                     "time": "88'",
-                    "player": "E. Masovic",
+                    "player": "M. Wittek",
                     "detail": "Substitution 4",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "90'",
-                    "player": "A. Losilla",
+                    "player": "Anthony Losilla",
                     "detail": "Yellow Card",
                     "team": "VfL Bochum"
                 }
@@ -202,93 +196,87 @@
                 },
                 {
                     "time": "18'",
-                    "player": "S. Lynen",
+                    "player": "Senne Lynen",
                     "detail": "Yellow Card",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "21'",
-                    "player": "P. Schick",
+                    "player": "Patrik Schick",
                     "detail": "Yellow Card",
                     "team": "Bayer Leverkusen"
                 },
                 {
                     "time": "46'",
-                    "player": "F. Wirtz",
+                    "player": "E. Tapsoba",
                     "detail": "Substitution 1",
                     "team": "Bayer Leverkusen"
                 },
                 {
                     "time": "46'",
-                    "player": "E. Palacios",
+                    "player": "E. Buendía",
                     "detail": "Substitution 2",
                     "team": "Bayer Leverkusen"
                 },
                 {
                     "time": "46'",
-                    "player": "N. Mukiele",
+                    "player": "G. Xhaka",
                     "detail": "Substitution 3",
                     "team": "Bayer Leverkusen"
                 },
                 {
-                    "time": "53'",
-                    "player": "M. Weiser",
+                    "time": "52'",
+                    "player": "Mitchell Weiser",
                     "detail": "Yellow Card",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "59'",
-                    "player": "A. Grimaldo",
+                    "player": "F. Wirtz",
                     "detail": "Substitution 4",
                     "team": "Bayer Leverkusen"
                 },
                 {
                     "time": "65'",
-                    "player": "J. Frimpong",
+                    "player": "Arthur",
                     "detail": "Substitution 5",
                     "team": "Bayer Leverkusen"
                 },
                 {
                     "time": "69'",
-                    "player": "O. Burke",
+                    "player": "Oliver Burke",
                     "detail": "Yellow Card",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "69'",
-                    "player": "J. Njinmah",
+                    "player": "O. Burke",
                     "detail": "Substitution 1",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "72'",
-                    "player": "J. Stage",
+                    "player": "Jens Stage",
                     "detail": "Yellow Card",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "78'",
-                    "player": "L. Bittencourt",
+                    "player": "S. Lynen",
                     "detail": "Substitution 2",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "78'",
-                    "player": "M. Grull",
+                    "player": "André Silva",
                     "detail": "Substitution 3",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "88'",
-                    "player": "A. Adli",
+                    "player": "Amine Adli",
                     "detail": "Yellow Card",
                     "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "90'",
-                    "player": "K. Topp",
-                    "detail": "Substitution 4",
-                    "team": "Werder Bremen"
                 },
                 {
                     "time": "90'",
@@ -298,13 +286,19 @@
                 },
                 {
                     "time": "90'",
-                    "player": "E. Palacios",
+                    "player": "Aleix García",
                     "detail": "Yellow Card",
                     "team": "Bayer Leverkusen"
                 },
                 {
                     "time": "90'",
-                    "player": "A. Garcia",
+                    "player": "R. Schmid",
+                    "detail": "Substitution 4",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "90'",
+                    "player": "Exequiel Palacios",
                     "detail": "Yellow Card",
                     "team": "Bayer Leverkusen"
                 }
@@ -887,49 +881,49 @@
             "events": [
                 {
                     "time": "38'",
-                    "player": "S. Van Der Heyden",
+                    "player": "S. Van der Heyden",
                     "detail": "Normal Goal",
                     "team": "FC St. Pauli"
                 },
                 {
                     "time": "46'",
-                    "player": "M. Saliakas",
-                    "detail": "Substitution 1",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "46'",
-                    "player": "E. Saad",
-                    "detail": "Substitution 2",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "46'",
-                    "player": "M. Roerslev Rasmussen",
-                    "detail": "Substitution 1",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "46'",
-                    "player": "M. Arnold",
-                    "detail": "Substitution 2",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "46'",
-                    "player": "M. Amoura",
+                    "player": "Mohamed El Amine Amoura",
                     "detail": "Yellow Card",
                     "team": "VfL Wolfsburg"
                 },
                 {
+                    "time": "46'",
+                    "player": "K. Fischer",
+                    "detail": "Substitution 1",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "46'",
+                    "player": "Y. Gerhardt",
+                    "detail": "Substitution 2",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "46'",
+                    "player": "L. Ritzka",
+                    "detail": "Substitution 1",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "46'",
+                    "player": "O. Afolayan",
+                    "detail": "Substitution 2",
+                    "team": "FC St. Pauli"
+                },
+                {
                     "time": "63'",
-                    "player": "J. Kaminski",
+                    "player": "A. Skov Olsen",
                     "detail": "Substitution 3",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "63'",
-                    "player": "B. Dardai",
+                    "player": "J. Wind",
                     "detail": "Substitution 4",
                     "team": "VfL Wolfsburg"
                 },
@@ -941,19 +935,19 @@
                 },
                 {
                     "time": "71'",
-                    "player": "C. Boukhalfa",
+                    "player": "N. Weißhaupt",
                     "detail": "Substitution 3",
                     "team": "FC St. Pauli"
                 },
                 {
                     "time": "79'",
-                    "player": "K. Behrens",
+                    "player": "Tiago Tomás",
                     "detail": "Substitution 5",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "90'",
-                    "player": "J. Eggestein",
+                    "player": "D. Sinani",
                     "detail": "Substitution 4",
                     "team": "FC St. Pauli"
                 }
@@ -1012,7 +1006,7 @@
             "events": [
                 {
                     "time": "8'",
-                    "player": "E. Millot",
+                    "player": "Enzo Millot",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
@@ -1030,92 +1024,92 @@
                 },
                 {
                     "time": "46'",
-                    "player": "J. Bruun Larsen",
-                    "detail": "Substitution 1",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "46'",
-                    "player": "E. Demirovic",
-                    "detail": "Substitution 2",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "46'",
                     "player": "S. Skrzybski",
                     "detail": "Normal Goal",
                     "team": "Holstein Kiel"
                 },
                 {
-                    "time": "53'",
-                    "player": "L. Stergiou",
+                    "time": "46'",
+                    "player": "C. Führich",
+                    "detail": "Substitution 1",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "46'",
+                    "player": "D. Undav",
+                    "detail": "Substitution 2",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "52'",
+                    "player": "Leonidas Stergiou",
                     "detail": "Red Card",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "55'",
-                    "player": "E. Demirovic",
+                    "player": "E. Demirović",
                     "detail": "Normal Goal",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "61'",
-                    "player": "J. Vagnoman",
+                    "player": "E. Millot",
                     "detail": "Substitution 3",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "63'",
-                    "player": "A. Bernhardsson",
+                    "player": "S. Skrzybski",
                     "detail": "Substitution 1",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "63'",
-                    "player": "J. Arp",
+                    "player": "M. Ivezić",
                     "detail": "Substitution 2",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "77'",
-                    "player": "L. Holtby",
+                    "player": "M. Komenda",
                     "detail": "Substitution 3",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "77'",
-                    "player": "F. Porath",
+                    "player": "M. Knudsen",
                     "detail": "Substitution 4",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "83'",
-                    "player": "N. Remberg",
+                    "player": "Nicolai Remberg",
                     "detail": "Yellow Card",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "84'",
-                    "player": "M. Schulz",
+                    "player": "A. Gigović",
                     "detail": "Substitution 5",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "87'",
-                    "player": "E. B. Toure",
+                    "player": "N. Woltemade",
                     "detail": "Substitution 4",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "90'",
                     "player": "J. Leweling",
-                    "detail": "Yellow Card",
+                    "detail": "Substitution 5",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "90'",
-                    "player": "P. Stenzel",
-                    "detail": "Substitution 5",
+                    "player": "Jamie Leweling",
+                    "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 }
             ],
@@ -1321,104 +1315,104 @@
                     "team": "FC Augsburg"
                 },
                 {
-                    "time": "51'",
-                    "player": "J. Brandt",
-                    "detail": "Goal Disallowed - offside",
+                    "time": "52'",
+                    "player": "Julian Brandt",
+                    "detail": "Goal cancelled",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "57'",
-                    "player": "E. Rexhbecaj",
+                    "player": "Serhou Guirassy",
+                    "detail": "Yellow Card",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "57'",
+                    "player": "Elvis Rexhbeçaj",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
                 {
-                    "time": "57'",
-                    "player": "S. Guirassy",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Dortmund"
-                },
-                {
                     "time": "58'",
-                    "player": "S. Essende",
+                    "player": "E. Rexhbeçaj",
                     "detail": "Substitution 1",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "58'",
-                    "player": "K. Jakic",
+                    "player": "P. Tietz",
                     "detail": "Substitution 2",
                     "team": "FC Augsburg"
                 },
                 {
-                    "time": "62'",
-                    "player": "S. Ozcan",
-                    "detail": "Goal Disallowed - offside",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "62'",
-                    "player": "M. Beier",
+                    "time": "63'",
+                    "player": "Yan Couto",
                     "detail": "Substitution 1",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "63'",
-                    "player": "J. Ryerson",
+                    "player": "R. Bensebaini",
                     "detail": "Substitution 2",
                     "team": "Borussia Dortmund"
                 },
                 {
+                    "time": "64'",
+                    "player": "Salih Özcan",
+                    "detail": "Goal cancelled",
+                    "team": "Borussia Dortmund"
+                },
+                {
                     "time": "70'",
-                    "player": "F. Onyeka",
+                    "player": "Frank Onyeka",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "74'",
-                    "player": "A. Maier",
+                    "player": "A. Claude-Maurice",
                     "detail": "Substitution 3",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "74'",
-                    "player": "M. Komur",
+                    "player": "F. Jensen",
                     "detail": "Substitution 4",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "75'",
-                    "player": "M. Sabitzer",
+                    "player": "P. Groß",
                     "detail": "Substitution 3",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "75'",
-                    "player": "J. Duranville",
+                    "player": "J. Gittens",
                     "detail": "Substitution 4",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "81'",
-                    "player": "N. Banks",
+                    "player": "M. Wolf",
                     "detail": "Substitution 5",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "82'",
-                    "player": "N. Banks",
+                    "player": "Noahkai Banks",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "84'",
-                    "player": "K. Jakic",
+                    "player": "Kristijan Jakić",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "90'",
-                    "player": "W. Anton",
+                    "player": "K. Adeyemi",
                     "detail": "Substitution 5",
                     "team": "Borussia Dortmund"
                 }
@@ -1482,104 +1476,104 @@
                     "team": "FC Augsburg"
                 },
                 {
-                    "time": "51'",
-                    "player": "J. Brandt",
-                    "detail": "Goal Disallowed - offside",
+                    "time": "52'",
+                    "player": "Julian Brandt",
+                    "detail": "Goal cancelled",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "57'",
-                    "player": "E. Rexhbecaj",
+                    "player": "Serhou Guirassy",
+                    "detail": "Yellow Card",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "57'",
+                    "player": "Elvis Rexhbeçaj",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
                 {
-                    "time": "57'",
-                    "player": "S. Guirassy",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Dortmund"
-                },
-                {
                     "time": "58'",
-                    "player": "S. Essende",
+                    "player": "E. Rexhbeçaj",
                     "detail": "Substitution 1",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "58'",
-                    "player": "K. Jakic",
+                    "player": "P. Tietz",
                     "detail": "Substitution 2",
                     "team": "FC Augsburg"
                 },
                 {
-                    "time": "62'",
-                    "player": "S. Ozcan",
-                    "detail": "Goal Disallowed - offside",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "62'",
-                    "player": "M. Beier",
+                    "time": "63'",
+                    "player": "Yan Couto",
                     "detail": "Substitution 1",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "63'",
-                    "player": "J. Ryerson",
+                    "player": "R. Bensebaini",
                     "detail": "Substitution 2",
                     "team": "Borussia Dortmund"
                 },
                 {
+                    "time": "64'",
+                    "player": "Salih Özcan",
+                    "detail": "Goal cancelled",
+                    "team": "Borussia Dortmund"
+                },
+                {
                     "time": "70'",
-                    "player": "F. Onyeka",
+                    "player": "Frank Onyeka",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "74'",
-                    "player": "A. Maier",
+                    "player": "A. Claude-Maurice",
                     "detail": "Substitution 3",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "74'",
-                    "player": "M. Komur",
+                    "player": "F. Jensen",
                     "detail": "Substitution 4",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "75'",
-                    "player": "M. Sabitzer",
+                    "player": "P. Groß",
                     "detail": "Substitution 3",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "75'",
-                    "player": "J. Duranville",
+                    "player": "J. Gittens",
                     "detail": "Substitution 4",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "81'",
-                    "player": "N. Banks",
+                    "player": "M. Wolf",
                     "detail": "Substitution 5",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "82'",
-                    "player": "N. Banks",
+                    "player": "Noahkai Banks",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "84'",
-                    "player": "K. Jakic",
+                    "player": "Kristijan Jakić",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "90'",
-                    "player": "W. Anton",
+                    "player": "K. Adeyemi",
                     "detail": "Substitution 5",
                     "team": "Borussia Dortmund"
                 }
@@ -1644,93 +1638,87 @@
                 },
                 {
                     "time": "18'",
-                    "player": "S. Lynen",
+                    "player": "Senne Lynen",
                     "detail": "Yellow Card",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "21'",
-                    "player": "P. Schick",
+                    "player": "Patrik Schick",
                     "detail": "Yellow Card",
                     "team": "Bayer Leverkusen"
                 },
                 {
                     "time": "46'",
-                    "player": "F. Wirtz",
+                    "player": "E. Tapsoba",
                     "detail": "Substitution 1",
                     "team": "Bayer Leverkusen"
                 },
                 {
                     "time": "46'",
-                    "player": "E. Palacios",
+                    "player": "E. Buendía",
                     "detail": "Substitution 2",
                     "team": "Bayer Leverkusen"
                 },
                 {
                     "time": "46'",
-                    "player": "N. Mukiele",
+                    "player": "G. Xhaka",
                     "detail": "Substitution 3",
                     "team": "Bayer Leverkusen"
                 },
                 {
-                    "time": "53'",
-                    "player": "M. Weiser",
+                    "time": "52'",
+                    "player": "Mitchell Weiser",
                     "detail": "Yellow Card",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "59'",
-                    "player": "A. Grimaldo",
+                    "player": "F. Wirtz",
                     "detail": "Substitution 4",
                     "team": "Bayer Leverkusen"
                 },
                 {
                     "time": "65'",
-                    "player": "J. Frimpong",
+                    "player": "Arthur",
                     "detail": "Substitution 5",
                     "team": "Bayer Leverkusen"
                 },
                 {
                     "time": "69'",
-                    "player": "O. Burke",
+                    "player": "Oliver Burke",
                     "detail": "Yellow Card",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "69'",
-                    "player": "J. Njinmah",
+                    "player": "O. Burke",
                     "detail": "Substitution 1",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "72'",
-                    "player": "J. Stage",
+                    "player": "Jens Stage",
                     "detail": "Yellow Card",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "78'",
-                    "player": "L. Bittencourt",
+                    "player": "S. Lynen",
                     "detail": "Substitution 2",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "78'",
-                    "player": "M. Grull",
+                    "player": "André Silva",
                     "detail": "Substitution 3",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "88'",
-                    "player": "A. Adli",
+                    "player": "Amine Adli",
                     "detail": "Yellow Card",
                     "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "90'",
-                    "player": "K. Topp",
-                    "detail": "Substitution 4",
-                    "team": "Werder Bremen"
                 },
                 {
                     "time": "90'",
@@ -1740,13 +1728,19 @@
                 },
                 {
                     "time": "90'",
-                    "player": "E. Palacios",
+                    "player": "Aleix García",
                     "detail": "Yellow Card",
                     "team": "Bayer Leverkusen"
                 },
                 {
                     "time": "90'",
-                    "player": "A. Garcia",
+                    "player": "R. Schmid",
+                    "detail": "Substitution 4",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "90'",
+                    "player": "Exequiel Palacios",
                     "detail": "Yellow Card",
                     "team": "Bayer Leverkusen"
                 }
@@ -2067,49 +2061,49 @@
             "events": [
                 {
                     "time": "38'",
-                    "player": "S. Van Der Heyden",
+                    "player": "S. Van der Heyden",
                     "detail": "Normal Goal",
                     "team": "FC St. Pauli"
                 },
                 {
                     "time": "46'",
-                    "player": "M. Saliakas",
-                    "detail": "Substitution 1",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "46'",
-                    "player": "E. Saad",
-                    "detail": "Substitution 2",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "46'",
-                    "player": "M. Roerslev Rasmussen",
-                    "detail": "Substitution 1",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "46'",
-                    "player": "M. Arnold",
-                    "detail": "Substitution 2",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "46'",
-                    "player": "M. Amoura",
+                    "player": "Mohamed El Amine Amoura",
                     "detail": "Yellow Card",
                     "team": "VfL Wolfsburg"
                 },
                 {
+                    "time": "46'",
+                    "player": "K. Fischer",
+                    "detail": "Substitution 1",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "46'",
+                    "player": "Y. Gerhardt",
+                    "detail": "Substitution 2",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "46'",
+                    "player": "L. Ritzka",
+                    "detail": "Substitution 1",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "46'",
+                    "player": "O. Afolayan",
+                    "detail": "Substitution 2",
+                    "team": "FC St. Pauli"
+                },
+                {
                     "time": "63'",
-                    "player": "J. Kaminski",
+                    "player": "A. Skov Olsen",
                     "detail": "Substitution 3",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "63'",
-                    "player": "B. Dardai",
+                    "player": "J. Wind",
                     "detail": "Substitution 4",
                     "team": "VfL Wolfsburg"
                 },
@@ -2121,19 +2115,19 @@
                 },
                 {
                     "time": "71'",
-                    "player": "C. Boukhalfa",
+                    "player": "N. Weißhaupt",
                     "detail": "Substitution 3",
                     "team": "FC St. Pauli"
                 },
                 {
                     "time": "79'",
-                    "player": "K. Behrens",
+                    "player": "Tiago Tomás",
                     "detail": "Substitution 5",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "90'",
-                    "player": "J. Eggestein",
+                    "player": "D. Sinani",
                     "detail": "Substitution 4",
                     "team": "FC St. Pauli"
                 }
@@ -2192,37 +2186,31 @@
             "events": [
                 {
                     "time": "14'",
-                    "player": "R. Guerreiro",
+                    "player": "Raphaël Guerreiro",
                     "detail": "Normal Goal",
                     "team": "Bayern München"
                 },
                 {
                     "time": "21'",
-                    "player": "J. Medic",
+                    "player": "Jakov Medić",
                     "detail": "Yellow Card",
                     "team": "VfL Bochum"
                 },
                 {
-                    "time": "22'",
-                    "player": "S. Gnabry",
-                    "detail": "Missed Penalty",
-                    "team": "Bayern München"
-                },
-                {
                     "time": "28'",
-                    "player": "R. Guerreiro",
+                    "player": "Raphaël Guerreiro",
                     "detail": "Normal Goal",
                     "team": "Bayern München"
                 },
                 {
                     "time": "31'",
-                    "player": "J. Medic",
+                    "player": "J. Medić",
                     "detail": "Normal Goal",
                     "team": "VfL Bochum"
                 },
                 {
-                    "time": "43'",
-                    "player": "J. Palhinha",
+                    "time": "42'",
+                    "player": "João Palhinha",
                     "detail": "Red Card",
                     "team": "Bayern München"
                 },
@@ -2233,32 +2221,32 @@
                     "team": "VfL Bochum"
                 },
                 {
-                    "time": "57'",
+                    "time": "56'",
                     "player": "Bernardo",
                     "detail": "Yellow Card",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "62'",
-                    "player": "H. Kane",
+                    "player": "T. Müller",
                     "detail": "Substitution 1",
                     "team": "Bayern München"
                 },
                 {
                     "time": "63'",
-                    "player": "J. Musiala",
+                    "player": "L. Sané",
                     "detail": "Substitution 2",
                     "team": "Bayern München"
                 },
                 {
                     "time": "63'",
-                    "player": "K. Laimer",
+                    "player": "S. Boey",
                     "detail": "Substitution 3",
                     "team": "Bayern München"
                 },
                 {
                     "time": "63'",
-                    "player": "M. Olise",
+                    "player": "S. Gnabry",
                     "detail": "Substitution 4",
                     "team": "Bayern München"
                 },
@@ -2270,55 +2258,55 @@
                 },
                 {
                     "time": "73'",
-                    "player": "M. Broschinski",
+                    "player": "G. Masouras",
                     "detail": "Substitution 1",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "73'",
-                    "player": "M. Wittek",
+                    "player": "Maximilian Wittek",
                     "detail": "Yellow Card",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "76'",
-                    "player": "J. Kimmich",
+                    "player": "H. Ito",
                     "detail": "Substitution 5",
                     "team": "Bayern München"
                 },
                 {
                     "time": "80'",
-                    "player": "T. Horn",
+                    "player": "Timo Horn",
                     "detail": "Yellow Card",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "82'",
-                    "player": "C. Gamboa",
+                    "player": "F. Passlack",
                     "detail": "Substitution 2",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "87'",
-                    "player": "I. Sissoko",
-                    "detail": "Yellow Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "87'",
-                    "player": "A. Losilla",
+                    "player": "M. Bero",
                     "detail": "Substitution 3",
                     "team": "VfL Bochum"
                 },
                 {
+                    "time": "87'",
+                    "player": "Ibrahima Sissoko",
+                    "detail": "Yellow Card",
+                    "team": "VfL Bochum"
+                },
+                {
                     "time": "88'",
-                    "player": "E. Masovic",
+                    "player": "M. Wittek",
                     "detail": "Substitution 4",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "90'",
-                    "player": "A. Losilla",
+                    "player": "Anthony Losilla",
                     "detail": "Yellow Card",
                     "team": "VfL Bochum"
                 }
@@ -2377,7 +2365,7 @@
             "events": [
                 {
                     "time": "8'",
-                    "player": "E. Millot",
+                    "player": "Enzo Millot",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
@@ -2395,92 +2383,92 @@
                 },
                 {
                     "time": "46'",
-                    "player": "J. Bruun Larsen",
-                    "detail": "Substitution 1",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "46'",
-                    "player": "E. Demirovic",
-                    "detail": "Substitution 2",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "46'",
                     "player": "S. Skrzybski",
                     "detail": "Normal Goal",
                     "team": "Holstein Kiel"
                 },
                 {
-                    "time": "53'",
-                    "player": "L. Stergiou",
+                    "time": "46'",
+                    "player": "C. Führich",
+                    "detail": "Substitution 1",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "46'",
+                    "player": "D. Undav",
+                    "detail": "Substitution 2",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "52'",
+                    "player": "Leonidas Stergiou",
                     "detail": "Red Card",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "55'",
-                    "player": "E. Demirovic",
+                    "player": "E. Demirović",
                     "detail": "Normal Goal",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "61'",
-                    "player": "J. Vagnoman",
+                    "player": "E. Millot",
                     "detail": "Substitution 3",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "63'",
-                    "player": "A. Bernhardsson",
+                    "player": "S. Skrzybski",
                     "detail": "Substitution 1",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "63'",
-                    "player": "J. Arp",
+                    "player": "M. Ivezić",
                     "detail": "Substitution 2",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "77'",
-                    "player": "L. Holtby",
+                    "player": "M. Komenda",
                     "detail": "Substitution 3",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "77'",
-                    "player": "F. Porath",
+                    "player": "M. Knudsen",
                     "detail": "Substitution 4",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "83'",
-                    "player": "N. Remberg",
+                    "player": "Nicolai Remberg",
                     "detail": "Yellow Card",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "84'",
-                    "player": "M. Schulz",
+                    "player": "A. Gigović",
                     "detail": "Substitution 5",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "87'",
-                    "player": "E. B. Toure",
+                    "player": "N. Woltemade",
                     "detail": "Substitution 4",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "90'",
                     "player": "J. Leweling",
-                    "detail": "Yellow Card",
+                    "detail": "Substitution 5",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "90'",
-                    "player": "P. Stenzel",
-                    "detail": "Substitution 5",
+                    "player": "Jamie Leweling",
+                    "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 }
             ],
