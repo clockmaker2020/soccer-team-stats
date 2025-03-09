@@ -491,114 +491,126 @@
         },
         {
             "team": "Eintracht Frankfurt",
-            "date": "2025-03-01 17:30",
-            "opponent": "Bayer Leverkusen",
-            "score": "1 - 4",
+            "date": "2025-03-09 14:30",
+            "opponent": "Union Berlin",
+            "score": "1 - 2",
             "stadium": "Deutsche Bank Park",
-            "referee": "Felix Zwayer, Germany",
-            "league_round": "Regular Season - 24",
+            "referee": "Frank Willenborg, Germany",
+            "league_round": "Regular Season - 25",
             "events": [
                 {
-                    "time": "26'",
-                    "player": "N. Tella",
-                    "detail": "Normal Goal",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "29'",
-                    "player": "N. Mukiele",
-                    "detail": "Normal Goal",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "33'",
-                    "player": "P. Schick",
-                    "detail": "Normal Goal",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "37'",
-                    "player": "H. Ekitiké",
+                    "time": "13'",
+                    "player": "M. Batshuayi",
                     "detail": "Normal Goal",
                     "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "46'",
-                    "player": "H. Larsson",
+                    "time": "55'",
+                    "player": "A. Schafer",
                     "detail": "Substitution 1",
-                    "team": "Eintracht Frankfurt"
+                    "team": "Union Berlin"
                 },
                 {
-                    "time": "46'",
-                    "player": "A. Knauff",
+                    "time": "55'",
+                    "player": "B. Hollerbach",
                     "detail": "Substitution 2",
-                    "team": "Eintracht Frankfurt"
+                    "team": "Union Berlin"
                 },
                 {
                     "time": "58'",
-                    "player": "P. Schick",
+                    "player": "H. Larsson",
+                    "detail": "Yellow Card",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "60'",
+                    "player": "M. Gotze",
                     "detail": "Substitution 1",
-                    "team": "Bayer Leverkusen"
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "60'",
+                    "player": "H. Ekitike",
+                    "detail": "Substitution 2",
+                    "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "62'",
-                    "player": "Aleix García",
+                    "player": "L. Querfeld",
                     "detail": "Normal Goal",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "69'",
-                    "player": "Granit Xhaka",
-                    "detail": "Yellow Card",
-                    "team": "Bayer Leverkusen"
+                    "team": "Union Berlin"
                 },
                 {
                     "time": "71'",
-                    "player": "R. Koch",
+                    "player": "T. Rothe",
                     "detail": "Substitution 3",
-                    "team": "Eintracht Frankfurt"
+                    "team": "Union Berlin"
                 },
                 {
-                    "time": "72'",
-                    "player": "E. Wahi",
+                    "time": "71'",
+                    "player": "Jeong Woo-Yeong",
                     "detail": "Substitution 4",
-                    "team": "Eintracht Frankfurt"
+                    "team": "Union Berlin"
                 },
                 {
-                    "time": "77'",
-                    "player": "G. Xhaka",
-                    "detail": "Substitution 2",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "77'",
-                    "player": "N. Tella",
+                    "time": "71'",
+                    "player": "E. Wahi",
                     "detail": "Substitution 3",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "78'",
-                    "player": "N. Brown",
-                    "detail": "Substitution 5",
                     "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "80'",
-                    "player": "Ellyes Skhiri",
+                    "time": "75'",
+                    "player": "Tuta",
                     "detail": "Yellow Card",
                     "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "83'",
-                    "player": "F. Wirtz",
-                    "detail": "Substitution 4",
-                    "team": "Bayer Leverkusen"
+                    "time": "78'",
+                    "player": "Jeong Woo-Yeong",
+                    "detail": "Normal Goal",
+                    "team": "Union Berlin"
                 },
                 {
-                    "time": "83'",
-                    "player": "J. Frimpong",
+                    "time": "79'",
+                    "player": "J. Dina Ebimbe",
+                    "detail": "Substitution 4",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "79'",
+                    "player": "A. Knauff",
                     "detail": "Substitution 5",
-                    "team": "Bayer Leverkusen"
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "84'",
+                    "player": "M. Ljubicic",
+                    "detail": "Substitution 5",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "85'",
+                    "player": "E. Wahi",
+                    "detail": "Yellow Card",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "87'",
+                    "player": "B. Hollerbach",
+                    "detail": "Goal Disallowed - handball",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "90'",
+                    "player": "H. Ekitike",
+                    "detail": "Missed Penalty",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "90'",
+                    "player": "S. Baumgart",
+                    "detail": "Yellow Card",
+                    "team": "Union Berlin"
                 }
             ],
             "odds": {
@@ -607,6 +619,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-03-09 14:30",
+                    "score": "1 - 2"
+                },
                 {
                     "date": "2025-03-01 17:30",
                     "score": "1 - 4"
@@ -621,10 +637,6 @@
                 },
                 {
                     "date": "2025-02-08 17:30",
-                    "score": "1 - 1"
-                },
-                {
-                    "date": "2025-02-02 14:30",
                     "score": "1 - 1"
                 }
             ],
@@ -1893,16 +1905,16 @@
             ],
             "future_games": [
                 {
-                    "date": "2025-03-09 16:30",
-                    "opponent": "1. FC Heidenheim"
-                },
-                {
                     "date": "2025-03-14 19:30",
                     "opponent": "FC St. Pauli"
                 },
                 {
                     "date": "2025-03-29 14:30",
                     "opponent": "FC Augsburg"
+                },
+                {
+                    "date": "2025-04-05 13:30",
+                    "opponent": "RB Leipzig"
                 }
             ],
             "squad": []
@@ -2668,16 +2680,16 @@
             ],
             "future_games": [
                 {
-                    "date": "2025-03-09 16:30",
-                    "opponent": "1899 Hoffenheim"
-                },
-                {
                     "date": "2025-03-16 16:30",
                     "opponent": "Holstein Kiel"
                 },
                 {
                     "date": "2025-03-29 14:30",
                     "opponent": "VfL Wolfsburg"
+                },
+                {
+                    "date": "2025-04-05 13:30",
+                    "opponent": "Bayer Leverkusen"
                 }
             ],
             "squad": []
