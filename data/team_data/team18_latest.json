@@ -1801,6 +1801,137 @@
             "squad": []
         },
         {
+            "team": "1899 Hoffenheim",
+            "date": "2025-03-09 16:30",
+            "opponent": "1. FC Heidenheim",
+            "score": "1 - 1",
+            "stadium": "PreZero Arena",
+            "referee": "Daniel Schlager, Germany",
+            "league_round": "Regular Season - 25",
+            "events": [
+                {
+                    "time": "5'",
+                    "player": "K. Akpoguma",
+                    "detail": "Substitution 1",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "9'",
+                    "player": "T. Siersleben",
+                    "detail": "Yellow Card",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "13'",
+                    "player": "M. Pieringer",
+                    "detail": "Yellow Card",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "34'",
+                    "player": "H. Tabakovic",
+                    "detail": "Normal Goal",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "46'",
+                    "player": "B. Zivzivadze",
+                    "detail": "Substitution 1",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "65'",
+                    "player": "B. Zivzivadze",
+                    "detail": "Normal Goal",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "69'",
+                    "player": "D. Geiger",
+                    "detail": "Substitution 2",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "70'",
+                    "player": "P. Wanner",
+                    "detail": "Substitution 2",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "80'",
+                    "player": "B. Toure",
+                    "detail": "Substitution 3",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "85'",
+                    "player": "S. Conteh",
+                    "detail": "Substitution 3",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "90'",
+                    "player": "Arthur Chaves",
+                    "detail": "Yellow Card",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "90'",
+                    "player": "O. H. Traore",
+                    "detail": "Yellow Card",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "90'",
+                    "player": "F. O. Becker",
+                    "detail": "Yellow Card",
+                    "team": "1899 Hoffenheim"
+                }
+            ],
+            "odds": {
+                "home": "N/A",
+                "draw": "N/A",
+                "away": "N/A"
+            },
+            "past_results": [
+                {
+                    "date": "2025-03-09 16:30",
+                    "score": "1 - 1"
+                },
+                {
+                    "date": "2025-03-01 14:30",
+                    "score": "0 - 1"
+                },
+                {
+                    "date": "2025-02-23 18:30",
+                    "score": "1 - 1"
+                },
+                {
+                    "date": "2025-02-16 14:30",
+                    "score": "1 - 3"
+                },
+                {
+                    "date": "2025-02-08 14:30",
+                    "score": "0 - 4"
+                }
+            ],
+            "future_games": [
+                {
+                    "date": "2025-03-14 19:30",
+                    "opponent": "FC St. Pauli"
+                },
+                {
+                    "date": "2025-03-29 14:30",
+                    "opponent": "FC Augsburg"
+                },
+                {
+                    "date": "2025-04-05 13:30",
+                    "opponent": "RB Leipzig"
+                }
+            ],
+            "squad": []
+        },
+        {
             "team": "Union Berlin",
             "date": "2025-03-09 14:30",
             "opponent": "Eintracht Frankfurt",
@@ -1963,137 +2094,6 @@
                 {
                     "date": "2025-04-06 15:30",
                     "opponent": "VfL Wolfsburg"
-                }
-            ],
-            "squad": []
-        },
-        {
-            "team": "1899 Hoffenheim",
-            "date": "2025-03-09 16:30",
-            "opponent": "1. FC Heidenheim",
-            "score": "1 - 1",
-            "stadium": "PreZero Arena",
-            "referee": "Daniel Schlager, Germany",
-            "league_round": "Regular Season - 25",
-            "events": [
-                {
-                    "time": "5'",
-                    "player": "K. Akpoguma",
-                    "detail": "Substitution 1",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "9'",
-                    "player": "T. Siersleben",
-                    "detail": "Yellow Card",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "13'",
-                    "player": "M. Pieringer",
-                    "detail": "Yellow Card",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "34'",
-                    "player": "H. Tabakovic",
-                    "detail": "Normal Goal",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "46'",
-                    "player": "B. Zivzivadze",
-                    "detail": "Substitution 1",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "65'",
-                    "player": "B. Zivzivadze",
-                    "detail": "Normal Goal",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "69'",
-                    "player": "D. Geiger",
-                    "detail": "Substitution 2",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "70'",
-                    "player": "P. Wanner",
-                    "detail": "Substitution 2",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "80'",
-                    "player": "B. Toure",
-                    "detail": "Substitution 3",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "85'",
-                    "player": "S. Conteh",
-                    "detail": "Substitution 3",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "90'",
-                    "player": "Arthur Chaves",
-                    "detail": "Yellow Card",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "90'",
-                    "player": "O. H. Traore",
-                    "detail": "Yellow Card",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "90'",
-                    "player": "F. O. Becker",
-                    "detail": "Yellow Card",
-                    "team": "1899 Hoffenheim"
-                }
-            ],
-            "odds": {
-                "home": "N/A",
-                "draw": "N/A",
-                "away": "N/A"
-            },
-            "past_results": [
-                {
-                    "date": "2025-03-09 16:30",
-                    "score": "1 - 1"
-                },
-                {
-                    "date": "2025-03-01 14:30",
-                    "score": "0 - 1"
-                },
-                {
-                    "date": "2025-02-23 18:30",
-                    "score": "1 - 1"
-                },
-                {
-                    "date": "2025-02-16 14:30",
-                    "score": "1 - 3"
-                },
-                {
-                    "date": "2025-02-08 14:30",
-                    "score": "0 - 4"
-                }
-            ],
-            "future_games": [
-                {
-                    "date": "2025-03-14 19:30",
-                    "opponent": "FC St. Pauli"
-                },
-                {
-                    "date": "2025-03-29 14:30",
-                    "opponent": "FC Augsburg"
-                },
-                {
-                    "date": "2025-04-05 13:30",
-                    "opponent": "RB Leipzig"
                 }
             ],
             "squad": []
