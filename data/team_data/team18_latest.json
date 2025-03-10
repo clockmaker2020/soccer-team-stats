@@ -506,31 +506,31 @@
                 },
                 {
                     "time": "55'",
-                    "player": "A. Schafer",
+                    "player": "L. Tousart",
                     "detail": "Substitution 1",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "55'",
-                    "player": "B. Hollerbach",
+                    "player": "T. Skarke",
                     "detail": "Substitution 2",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "58'",
-                    "player": "H. Larsson",
+                    "player": "Hugo Larsson",
                     "detail": "Yellow Card",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "60'",
-                    "player": "M. Gotze",
+                    "player": "M. Batshuayi",
                     "detail": "Substitution 1",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "60'",
-                    "player": "H. Ekitike",
+                    "player": "J. Bahoya",
                     "detail": "Substitution 2",
                     "team": "Eintracht Frankfurt"
                 },
@@ -542,21 +542,21 @@
                 },
                 {
                     "time": "71'",
-                    "player": "T. Rothe",
-                    "detail": "Substitution 3",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "71'",
-                    "player": "Jeong Woo-Yeong",
-                    "detail": "Substitution 4",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "71'",
-                    "player": "E. Wahi",
+                    "player": "F. Chaïbi",
                     "detail": "Substitution 3",
                     "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "71'",
+                    "player": "J. Haberer",
+                    "detail": "Substitution 3",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "71'",
+                    "player": "C. Trimmel",
+                    "detail": "Substitution 4",
+                    "team": "Union Berlin"
                 },
                 {
                     "time": "75'",
@@ -566,50 +566,38 @@
                 },
                 {
                     "time": "78'",
-                    "player": "Jeong Woo-Yeong",
+                    "player": "Jeong Wooyeong",
                     "detail": "Normal Goal",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "79'",
-                    "player": "J. Dina Ebimbe",
+                    "player": "C. Uzun",
                     "detail": "Substitution 4",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "79'",
-                    "player": "A. Knauff",
+                    "player": "H. Larsson",
                     "detail": "Substitution 5",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "84'",
-                    "player": "M. Ljubicic",
+                    "player": "A. Ilić",
                     "detail": "Substitution 5",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "85'",
-                    "player": "E. Wahi",
+                    "player": "Elye Wahi",
                     "detail": "Yellow Card",
                     "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "87'",
-                    "player": "B. Hollerbach",
-                    "detail": "Goal Disallowed - handball",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "90'",
-                    "player": "H. Ekitike",
-                    "detail": "Missed Penalty",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "90'",
-                    "player": "S. Baumgart",
-                    "detail": "Yellow Card",
+                    "time": "89'",
+                    "player": "Benedict Hollerbach",
+                    "detail": "Goal cancelled",
                     "team": "Union Berlin"
                 }
             ],
@@ -1811,31 +1799,31 @@
             "events": [
                 {
                     "time": "5'",
-                    "player": "K. Akpoguma",
+                    "player": "D. Samassékou",
                     "detail": "Substitution 1",
                     "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "9'",
-                    "player": "T. Siersleben",
+                    "player": "Tim Siersleben",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "13'",
-                    "player": "M. Pieringer",
+                    "player": "Marvin Pieringer",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "34'",
-                    "player": "H. Tabakovic",
+                    "player": "H. Tabaković",
                     "detail": "Normal Goal",
                     "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "46'",
-                    "player": "B. Zivzivadze",
+                    "player": "T. Siersleben",
                     "detail": "Substitution 1",
                     "team": "1. FC Heidenheim"
                 },
@@ -1847,27 +1835,33 @@
                 },
                 {
                     "time": "69'",
-                    "player": "D. Geiger",
+                    "player": "V. Gendrey",
                     "detail": "Substitution 2",
                     "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "70'",
-                    "player": "P. Wanner",
+                    "player": "N. Dorsch",
                     "detail": "Substitution 2",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "80'",
-                    "player": "B. Toure",
+                    "player": "G. Orban",
                     "detail": "Substitution 3",
                     "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "85'",
-                    "player": "S. Conteh",
+                    "player": "M. Pieringer",
                     "detail": "Substitution 3",
                     "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "90'",
+                    "player": "Finn Ole Becker",
+                    "detail": "Yellow Card",
+                    "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "90'",
@@ -1877,15 +1871,9 @@
                 },
                 {
                     "time": "90'",
-                    "player": "O. H. Traore",
+                    "player": "Haktab Omar Traore",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "90'",
-                    "player": "F. O. Becker",
-                    "detail": "Yellow Card",
-                    "team": "1899 Hoffenheim"
                 }
             ],
             "odds": {
@@ -1948,31 +1936,31 @@
                 },
                 {
                     "time": "55'",
-                    "player": "A. Schafer",
+                    "player": "L. Tousart",
                     "detail": "Substitution 1",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "55'",
-                    "player": "B. Hollerbach",
+                    "player": "T. Skarke",
                     "detail": "Substitution 2",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "58'",
-                    "player": "H. Larsson",
+                    "player": "Hugo Larsson",
                     "detail": "Yellow Card",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "60'",
-                    "player": "M. Gotze",
+                    "player": "M. Batshuayi",
                     "detail": "Substitution 1",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "60'",
-                    "player": "H. Ekitike",
+                    "player": "J. Bahoya",
                     "detail": "Substitution 2",
                     "team": "Eintracht Frankfurt"
                 },
@@ -1984,21 +1972,21 @@
                 },
                 {
                     "time": "71'",
-                    "player": "T. Rothe",
-                    "detail": "Substitution 3",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "71'",
-                    "player": "Jeong Woo-Yeong",
-                    "detail": "Substitution 4",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "71'",
-                    "player": "E. Wahi",
+                    "player": "F. Chaïbi",
                     "detail": "Substitution 3",
                     "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "71'",
+                    "player": "J. Haberer",
+                    "detail": "Substitution 3",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "71'",
+                    "player": "C. Trimmel",
+                    "detail": "Substitution 4",
+                    "team": "Union Berlin"
                 },
                 {
                     "time": "75'",
@@ -2008,50 +1996,38 @@
                 },
                 {
                     "time": "78'",
-                    "player": "Jeong Woo-Yeong",
+                    "player": "Jeong Wooyeong",
                     "detail": "Normal Goal",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "79'",
-                    "player": "J. Dina Ebimbe",
+                    "player": "C. Uzun",
                     "detail": "Substitution 4",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "79'",
-                    "player": "A. Knauff",
+                    "player": "H. Larsson",
                     "detail": "Substitution 5",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "84'",
-                    "player": "M. Ljubicic",
+                    "player": "A. Ilić",
                     "detail": "Substitution 5",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "85'",
-                    "player": "E. Wahi",
+                    "player": "Elye Wahi",
                     "detail": "Yellow Card",
                     "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "87'",
-                    "player": "B. Hollerbach",
-                    "detail": "Goal Disallowed - handball",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "90'",
-                    "player": "H. Ekitike",
-                    "detail": "Missed Penalty",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "90'",
-                    "player": "S. Baumgart",
-                    "detail": "Yellow Card",
+                    "time": "89'",
+                    "player": "Benedict Hollerbach",
+                    "detail": "Goal cancelled",
                     "team": "Union Berlin"
                 }
             ],
@@ -2574,31 +2550,31 @@
             "events": [
                 {
                     "time": "5'",
-                    "player": "K. Akpoguma",
+                    "player": "D. Samassékou",
                     "detail": "Substitution 1",
                     "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "9'",
-                    "player": "T. Siersleben",
+                    "player": "Tim Siersleben",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "13'",
-                    "player": "M. Pieringer",
+                    "player": "Marvin Pieringer",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "34'",
-                    "player": "H. Tabakovic",
+                    "player": "H. Tabaković",
                     "detail": "Normal Goal",
                     "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "46'",
-                    "player": "B. Zivzivadze",
+                    "player": "T. Siersleben",
                     "detail": "Substitution 1",
                     "team": "1. FC Heidenheim"
                 },
@@ -2610,27 +2586,33 @@
                 },
                 {
                     "time": "69'",
-                    "player": "D. Geiger",
+                    "player": "V. Gendrey",
                     "detail": "Substitution 2",
                     "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "70'",
-                    "player": "P. Wanner",
+                    "player": "N. Dorsch",
                     "detail": "Substitution 2",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "80'",
-                    "player": "B. Toure",
+                    "player": "G. Orban",
                     "detail": "Substitution 3",
                     "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "85'",
-                    "player": "S. Conteh",
+                    "player": "M. Pieringer",
                     "detail": "Substitution 3",
                     "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "90'",
+                    "player": "Finn Ole Becker",
+                    "detail": "Yellow Card",
+                    "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "90'",
@@ -2640,15 +2622,9 @@
                 },
                 {
                     "time": "90'",
-                    "player": "O. H. Traore",
+                    "player": "Haktab Omar Traore",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "90'",
-                    "player": "F. O. Becker",
-                    "detail": "Yellow Card",
-                    "team": "1899 Hoffenheim"
                 }
             ],
             "odds": {
