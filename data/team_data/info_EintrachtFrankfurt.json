@@ -64,8 +64,8 @@
                 "name": "M. Batshuayi"
             },
             "assist": {
-                "id": 533,
-                "name": "R. Kristensen"
+                "id": null,
+                "name": null
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -82,12 +82,12 @@
                 "logo": "https://media.api-sports.io/football/teams/182.png"
             },
             "player": {
-                "id": 30785,
-                "name": "A. Schafer"
-            },
-            "assist": {
                 "id": 664,
                 "name": "L. Tousart"
+            },
+            "assist": {
+                "id": 30785,
+                "name": "A. Schäfer"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -104,12 +104,12 @@
                 "logo": "https://media.api-sports.io/football/teams/182.png"
             },
             "player": {
-                "id": 162946,
-                "name": "B. Hollerbach"
-            },
-            "assist": {
                 "id": 24910,
                 "name": "T. Skarke"
+            },
+            "assist": {
+                "id": 162946,
+                "name": "B. Hollerbach"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -127,7 +127,7 @@
             },
             "player": {
                 "id": 335094,
-                "name": "H. Larsson"
+                "name": "Hugo Larsson"
             },
             "assist": {
                 "id": null,
@@ -148,12 +148,12 @@
                 "logo": "https://media.api-sports.io/football/teams/169.png"
             },
             "player": {
-                "id": 16,
-                "name": "M. Gotze"
+                "id": 2927,
+                "name": "M. Batshuayi"
             },
             "assist": {
-                "id": 369674,
-                "name": "J. Bahoya"
+                "id": 174565,
+                "name": "H. Ekitiké"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -170,12 +170,12 @@
                 "logo": "https://media.api-sports.io/football/teams/169.png"
             },
             "player": {
-                "id": 174565,
-                "name": "H. Ekitike"
+                "id": 369674,
+                "name": "J. Bahoya"
             },
             "assist": {
-                "id": 2927,
-                "name": "M. Batshuayi"
+                "id": 16,
+                "name": "M. Götze"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -209,64 +209,64 @@
                 "extra": null
             },
             "team": {
-                "id": 182,
-                "name": "Union Berlin",
-                "logo": "https://media.api-sports.io/football/teams/182.png"
-            },
-            "player": {
-                "id": 324957,
-                "name": "T. Rothe"
-            },
-            "assist": {
-                "id": 24848,
-                "name": "C. Trimmel"
-            },
-            "type": "subst",
-            "detail": "Substitution 3",
-            "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 71,
-                "extra": null
-            },
-            "team": {
-                "id": 182,
-                "name": "Union Berlin",
-                "logo": "https://media.api-sports.io/football/teams/182.png"
-            },
-            "player": {
-                "id": 512,
-                "name": "Jeong Woo-Yeong"
-            },
-            "assist": {
-                "id": 26249,
-                "name": "J. Haberer"
-            },
-            "type": "subst",
-            "detail": "Substitution 4",
-            "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 71,
-                "extra": null
-            },
-            "team": {
                 "id": 169,
                 "name": "Eintracht Frankfurt",
                 "logo": "https://media.api-sports.io/football/teams/169.png"
             },
             "player": {
+                "id": 276670,
+                "name": "F. Chaïbi"
+            },
+            "assist": {
                 "id": 162707,
                 "name": "E. Wahi"
             },
+            "type": "subst",
+            "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 71,
+                "extra": null
+            },
+            "team": {
+                "id": 182,
+                "name": "Union Berlin",
+                "logo": "https://media.api-sports.io/football/teams/182.png"
+            },
+            "player": {
+                "id": 26249,
+                "name": "J. Haberer"
+            },
             "assist": {
-                "id": 276670,
-                "name": "F. Chaibi"
+                "id": 512,
+                "name": "Jeong Wooyeong"
             },
             "type": "subst",
             "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 71,
+                "extra": null
+            },
+            "team": {
+                "id": 182,
+                "name": "Union Berlin",
+                "logo": "https://media.api-sports.io/football/teams/182.png"
+            },
+            "player": {
+                "id": 24848,
+                "name": "C. Trimmel"
+            },
+            "assist": {
+                "id": 324957,
+                "name": "T. Rothe"
+            },
+            "type": "subst",
+            "detail": "Substitution 4",
             "comments": null
         },
         {
@@ -303,7 +303,7 @@
             },
             "player": {
                 "id": 512,
-                "name": "Jeong Woo-Yeong"
+                "name": "Jeong Wooyeong"
             },
             "assist": {
                 "id": null,
@@ -324,12 +324,12 @@
                 "logo": "https://media.api-sports.io/football/teams/169.png"
             },
             "player": {
-                "id": 90594,
-                "name": "J. Dina Ebimbe"
+                "id": 339887,
+                "name": "C. Uzun"
             },
             "assist": {
-                "id": 335094,
-                "name": "H. Larsson"
+                "id": 161922,
+                "name": "A. Knauff"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -346,12 +346,12 @@
                 "logo": "https://media.api-sports.io/football/teams/169.png"
             },
             "player": {
-                "id": 161922,
-                "name": "A. Knauff"
+                "id": 335094,
+                "name": "H. Larsson"
             },
             "assist": {
-                "id": 339887,
-                "name": "C. Y. Uzun"
+                "id": 90594,
+                "name": "J. Dina Ebimbe"
             },
             "type": "subst",
             "detail": "Substitution 5",
@@ -368,12 +368,12 @@
                 "logo": "https://media.api-sports.io/football/teams/182.png"
             },
             "player": {
-                "id": 292218,
-                "name": "M. Ljubicic"
+                "id": 45892,
+                "name": "A. Ilić"
             },
             "assist": {
-                "id": 45892,
-                "name": "A. Ilic"
+                "id": 292218,
+                "name": "M. Ljubičić"
             },
             "type": "subst",
             "detail": "Substitution 5",
@@ -391,7 +391,7 @@
             },
             "player": {
                 "id": 162707,
-                "name": "E. Wahi"
+                "name": "Elye Wahi"
             },
             "assist": {
                 "id": null,
@@ -403,7 +403,7 @@
         },
         {
             "time": {
-                "elapsed": 87,
+                "elapsed": 89,
                 "extra": null
             },
             "team": {
@@ -413,58 +413,14 @@
             },
             "player": {
                 "id": 162946,
-                "name": "B. Hollerbach"
+                "name": "Benedict Hollerbach"
             },
             "assist": {
                 "id": null,
                 "name": null
             },
             "type": "Var",
-            "detail": "Goal Disallowed - handball",
-            "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 90,
-                "extra": 5
-            },
-            "team": {
-                "id": 169,
-                "name": "Eintracht Frankfurt",
-                "logo": "https://media.api-sports.io/football/teams/169.png"
-            },
-            "player": {
-                "id": 174565,
-                "name": "H. Ekitike"
-            },
-            "assist": {
-                "id": 174565,
-                "name": "H. Ekitike"
-            },
-            "type": "Goal",
-            "detail": "Missed Penalty",
-            "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 90,
-                "extra": 6
-            },
-            "team": {
-                "id": 182,
-                "name": "Union Berlin",
-                "logo": "https://media.api-sports.io/football/teams/182.png"
-            },
-            "player": {
-                "id": 407911,
-                "name": "S. Baumgart"
-            },
-            "assist": {
-                "id": null,
-                "name": null
-            },
-            "type": "Card",
-            "detail": "Yellow Card",
+            "detail": "Goal cancelled",
             "comments": null
         }
     ],
