@@ -352,7 +352,7 @@
             "opponent": "Borussia Mönchengladbach",
             "score": "1 - 3",
             "stadium": "BORUSSIA-PARK",
-            "referee": "Sascha Stegemann, Germany",
+            "referee": "S. Stegemann",
             "league_round": "Regular Season - 25",
             "events": [
                 {
@@ -495,7 +495,7 @@
             "opponent": "Union Berlin",
             "score": "1 - 2",
             "stadium": "Deutsche Bank Park",
-            "referee": "Frank Willenborg, Germany",
+            "referee": "F. Willenborg",
             "league_round": "Regular Season - 25",
             "events": [
                 {
@@ -1013,7 +1013,7 @@
             "opponent": "Holstein Kiel",
             "score": "2 - 2",
             "stadium": "Holstein-Stadion",
-            "referee": "Bastian Dankert, Germany",
+            "referee": "B. Dankert",
             "league_round": "Regular Season - 25",
             "events": [
                 {
@@ -1174,7 +1174,7 @@
             "opponent": "FSV Mainz 05",
             "score": "1 - 3",
             "stadium": "BORUSSIA-PARK",
-            "referee": "Sascha Stegemann, Germany",
+            "referee": "S. Stegemann",
             "league_round": "Regular Season - 25",
             "events": [
                 {
@@ -1806,7 +1806,7 @@
             "opponent": "1. FC Heidenheim",
             "score": "1 - 1",
             "stadium": "PreZero Arena",
-            "referee": "Daniel Schlager, Germany",
+            "referee": "D. Schlager",
             "league_round": "Regular Season - 25",
             "events": [
                 {
@@ -1937,7 +1937,7 @@
             "opponent": "Eintracht Frankfurt",
             "score": "1 - 2",
             "stadium": "Deutsche Bank Park",
-            "referee": "Frank Willenborg, Germany",
+            "referee": "F. Willenborg",
             "league_round": "Regular Season - 25",
             "events": [
                 {
@@ -2569,7 +2569,7 @@
             "opponent": "1899 Hoffenheim",
             "score": "1 - 1",
             "stadium": "PreZero Arena",
-            "referee": "Daniel Schlager, Germany",
+            "referee": "D. Schlager",
             "league_round": "Regular Season - 25",
             "events": [
                 {
