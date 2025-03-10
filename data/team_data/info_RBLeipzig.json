@@ -639,9 +639,8 @@
                 }
             ],
             "coach": {
-                "id": 23027,
-                "name": "J. Schuster",
-                "photo": "https://media.api-sports.io/football/coachs/23027.png"
+                "id": null,
+                "name": null
             }
         },
         {
@@ -839,9 +838,8 @@
                 }
             ],
             "coach": {
-                "id": 1540,
-                "name": "M. Rose",
-                "photo": "https://media.api-sports.io/football/coachs/1540.png"
+                "id": null,
+                "name": null
             }
         }
     ],
