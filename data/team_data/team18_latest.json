@@ -1790,90 +1790,78 @@
         },
         {
             "team": "1899 Hoffenheim",
-            "date": "2025-03-09 16:30",
-            "opponent": "1. FC Heidenheim",
-            "score": "1 - 1",
-            "stadium": "PreZero Arena",
-            "referee": "D. Schlager",
-            "league_round": "Regular Season - 25",
+            "date": "2025-03-14 19:30",
+            "opponent": "FC St. Pauli",
+            "score": "1 - 0",
+            "stadium": "Millerntor-Stadion",
+            "referee": "Felix Brych, Germany",
+            "league_round": "Regular Season - 26",
             "events": [
                 {
-                    "time": "5'",
-                    "player": "D. Samassékou",
+                    "time": "51'",
+                    "player": "N. Weisshaupt",
+                    "detail": "Normal Goal",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "55'",
+                    "player": "A. Stach",
+                    "detail": "Yellow Card",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "57'",
+                    "player": "H. Tabakovic",
                     "detail": "Substitution 1",
                     "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "9'",
-                    "player": "Tim Siersleben",
-                    "detail": "Yellow Card",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "13'",
-                    "player": "Marvin Pieringer",
-                    "detail": "Yellow Card",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "34'",
-                    "player": "H. Tabaković",
-                    "detail": "Normal Goal",
+                    "time": "57'",
+                    "player": "M. Bulter",
+                    "detail": "Substitution 2",
                     "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "46'",
-                    "player": "T. Siersleben",
-                    "detail": "Substitution 1",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "65'",
-                    "player": "B. Zivzivadze",
-                    "detail": "Normal Goal",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "69'",
+                    "time": "71'",
                     "player": "V. Gendrey",
-                    "detail": "Substitution 2",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "70'",
-                    "player": "N. Dorsch",
-                    "detail": "Substitution 2",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "80'",
-                    "player": "G. Orban",
                     "detail": "Substitution 3",
                     "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "71'",
+                    "player": "B. Toure",
+                    "detail": "Substitution 4",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "73'",
+                    "player": "J. Eggestein",
+                    "detail": "Substitution 1",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "73'",
+                    "player": "O. Afolayan",
+                    "detail": "Substitution 2",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "73'",
+                    "player": "L. Ritzka",
+                    "detail": "Substitution 3",
+                    "team": "FC St. Pauli"
                 },
                 {
                     "time": "85'",
-                    "player": "M. Pieringer",
-                    "detail": "Substitution 3",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "90'",
-                    "player": "Finn Ole Becker",
-                    "detail": "Yellow Card",
+                    "player": "E. Yardimci",
+                    "detail": "Substitution 5",
                     "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "90'",
-                    "player": "Arthur Chaves",
-                    "detail": "Yellow Card",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "90'",
-                    "player": "Haktab Omar Traore",
-                    "detail": "Yellow Card",
-                    "team": "1. FC Heidenheim"
+                    "time": "86'",
+                    "player": "C. Boukhalfa",
+                    "detail": "Substitution 4",
+                    "team": "FC St. Pauli"
                 }
             ],
             "odds": {
@@ -1882,6 +1870,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-03-14 19:30",
+                    "score": "1 - 0"
+                },
                 {
                     "date": "2025-03-09 16:30",
                     "score": "1 - 1"
@@ -1897,10 +1889,6 @@
                 {
                     "date": "2025-02-16 14:30",
                     "score": "1 - 3"
-                },
-                {
-                    "date": "2025-02-08 14:30",
-                    "score": "0 - 4"
                 }
             ],
             "future_games": [
@@ -2076,82 +2064,76 @@
         },
         {
             "team": "FC St. Pauli",
-            "date": "2025-03-08 14:30",
-            "opponent": "VfL Wolfsburg",
-            "score": "1 - 1",
-            "stadium": "Volkswagen Arena",
-            "referee": "R. Hartmann",
-            "league_round": "Regular Season - 25",
+            "date": "2025-03-14 19:30",
+            "opponent": "1899 Hoffenheim",
+            "score": "1 - 0",
+            "stadium": "Millerntor-Stadion",
+            "referee": "Felix Brych, Germany",
+            "league_round": "Regular Season - 26",
             "events": [
                 {
-                    "time": "38'",
-                    "player": "S. Van der Heyden",
+                    "time": "51'",
+                    "player": "N. Weisshaupt",
                     "detail": "Normal Goal",
                     "team": "FC St. Pauli"
                 },
                 {
-                    "time": "46'",
-                    "player": "Mohamed El Amine Amoura",
+                    "time": "55'",
+                    "player": "A. Stach",
                     "detail": "Yellow Card",
-                    "team": "VfL Wolfsburg"
+                    "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "46'",
-                    "player": "K. Fischer",
+                    "time": "57'",
+                    "player": "H. Tabakovic",
                     "detail": "Substitution 1",
-                    "team": "VfL Wolfsburg"
+                    "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "46'",
-                    "player": "Y. Gerhardt",
+                    "time": "57'",
+                    "player": "M. Bulter",
                     "detail": "Substitution 2",
-                    "team": "VfL Wolfsburg"
+                    "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "46'",
-                    "player": "L. Ritzka",
+                    "time": "71'",
+                    "player": "V. Gendrey",
+                    "detail": "Substitution 3",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "71'",
+                    "player": "B. Toure",
+                    "detail": "Substitution 4",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "73'",
+                    "player": "J. Eggestein",
                     "detail": "Substitution 1",
                     "team": "FC St. Pauli"
                 },
                 {
-                    "time": "46'",
+                    "time": "73'",
                     "player": "O. Afolayan",
                     "detail": "Substitution 2",
                     "team": "FC St. Pauli"
                 },
                 {
-                    "time": "63'",
-                    "player": "A. Skov Olsen",
-                    "detail": "Substitution 3",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "63'",
-                    "player": "J. Wind",
-                    "detail": "Substitution 4",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "70'",
-                    "player": "M. Amoura",
-                    "detail": "Penalty",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "71'",
-                    "player": "N. Weißhaupt",
+                    "time": "73'",
+                    "player": "L. Ritzka",
                     "detail": "Substitution 3",
                     "team": "FC St. Pauli"
                 },
                 {
-                    "time": "79'",
-                    "player": "Tiago Tomás",
+                    "time": "85'",
+                    "player": "E. Yardimci",
                     "detail": "Substitution 5",
-                    "team": "VfL Wolfsburg"
+                    "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "90'",
-                    "player": "D. Sinani",
+                    "time": "86'",
+                    "player": "C. Boukhalfa",
                     "detail": "Substitution 4",
                     "team": "FC St. Pauli"
                 }
@@ -2162,6 +2144,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-03-14 19:30",
+                    "score": "1 - 0"
+                },
                 {
                     "date": "2025-03-08 14:30",
                     "score": "1 - 1"
@@ -2177,10 +2163,6 @@
                 {
                     "date": "2025-02-15 14:30",
                     "score": "0 - 1"
-                },
-                {
-                    "date": "2025-02-09 16:30",
-                    "score": "2 - 0"
                 }
             ],
             "future_games": [
