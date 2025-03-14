@@ -607,6 +607,15 @@
                 },
                 {
                     "player": {
+                        "id": 178146,
+                        "name": "Carlo Boukhalfa",
+                        "number": 16,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 119167,
                         "name": "Ben Voll",
                         "number": 1,
@@ -638,15 +647,6 @@
                         "name": "Scott Banks",
                         "number": 18,
                         "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 178146,
-                        "name": "Carlo Boukhalfa",
-                        "number": 16,
-                        "pos": "M",
                         "grid": null
                     }
                 },
@@ -825,6 +825,15 @@
                 },
                 {
                     "player": {
+                        "id": 128350,
+                        "name": "Erencan Yardımcı",
+                        "number": 53,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 163066,
                         "name": "Luca Philipp",
                         "number": 37,
@@ -856,15 +865,6 @@
                         "name": "Dennis Geiger",
                         "number": 8,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 128350,
-                        "name": "Erencan Yardımcı",
-                        "number": 53,
-                        "pos": "F",
                         "grid": null
                     }
                 }
