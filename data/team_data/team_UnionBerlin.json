@@ -3,6 +3,76 @@
     "past_matches": [
         {
             "fixture": {
+                "id": 1224206,
+                "referee": "Florian Exner, Germany",
+                "timezone": "UTC",
+                "date": "2025-03-15T14:30:00+00:00",
+                "timestamp": 1742049000,
+                "periods": {
+                    "first": 1742049000,
+                    "second": 1742052600
+                },
+                "venue": {
+                    "id": 748,
+                    "name": "Stadion An der Alten Försterei",
+                    "city": "Berlin"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 7
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 26",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 182,
+                    "name": "Union Berlin",
+                    "logo": "https://media.api-sports.io/football/teams/182.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 157,
+                    "name": "Bayern München",
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
                 "id": 1224194,
                 "referee": "Frank Willenborg, Germany",
                 "timezone": "UTC",
@@ -270,76 +340,6 @@
                 "fulltime": {
                     "home": 1,
                     "away": 2
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
-                "id": 1224158,
-                "referee": "Tobias Stieler, Germany",
-                "timezone": "UTC",
-                "date": "2025-02-08T14:30:00+00:00",
-                "timestamp": 1739025000,
-                "periods": {
-                    "first": 1739025000,
-                    "second": 1739028600
-                },
-                "venue": {
-                    "id": 724,
-                    "name": "PreZero Arena",
-                    "city": "Sinsheim"
-                },
-                "status": {
-                    "long": "Match Finished",
-                    "short": "FT",
-                    "elapsed": 90,
-                    "extra": 4
-                }
-            },
-            "league": {
-                "id": 78,
-                "name": "Bundesliga",
-                "country": "Germany",
-                "logo": "https://media.api-sports.io/football/leagues/78.png",
-                "flag": "https://media.api-sports.io/flags/de.svg",
-                "season": 2024,
-                "round": "Regular Season - 21",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 167,
-                    "name": "1899 Hoffenheim",
-                    "logo": "https://media.api-sports.io/football/teams/167.png",
-                    "winner": false
-                },
-                "away": {
-                    "id": 182,
-                    "name": "Union Berlin",
-                    "logo": "https://media.api-sports.io/football/teams/182.png",
-                    "winner": true
-                }
-            },
-            "goals": {
-                "home": 0,
-                "away": 4
-            },
-            "score": {
-                "halftime": {
-                    "home": 0,
-                    "away": 1
-                },
-                "fulltime": {
-                    "home": 0,
-                    "away": 4
                 },
                 "extratime": {
                     "home": null,
