@@ -3,6 +3,76 @@
     "past_matches": [
         {
             "fixture": {
+                "id": 1224201,
+                "referee": "Matthias Jollenbeck, Germany",
+                "timezone": "UTC",
+                "date": "2025-03-15T17:30:00+00:00",
+                "timestamp": 1742059800,
+                "periods": {
+                    "first": 1742059800,
+                    "second": 1742063400
+                },
+                "venue": {
+                    "id": 738,
+                    "name": "Red Bull Arena",
+                    "city": "Leipzig"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 5
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 26",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 173,
+                    "name": "RB Leipzig",
+                    "logo": "https://media.api-sports.io/football/teams/173.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 165,
+                    "name": "Borussia Dortmund",
+                    "logo": "https://media.api-sports.io/football/teams/165.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
                 "id": 1224196,
                 "referee": "Sven Jablonski, Germany",
                 "timezone": "UTC",
@@ -269,76 +339,6 @@
                 },
                 "fulltime": {
                     "home": 0,
-                    "away": 0
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
-                "id": 1224156,
-                "referee": "Badstubner, Florian, Germany",
-                "timezone": "UTC",
-                "date": "2025-02-09T16:30:00+00:00",
-                "timestamp": 1739118600,
-                "periods": {
-                    "first": 1739118600,
-                    "second": 1739122200
-                },
-                "venue": {
-                    "id": 738,
-                    "name": "Red Bull Arena",
-                    "city": "Leipzig"
-                },
-                "status": {
-                    "long": "Match Finished",
-                    "short": "FT",
-                    "elapsed": 90,
-                    "extra": 5
-                }
-            },
-            "league": {
-                "id": 78,
-                "name": "Bundesliga",
-                "country": "Germany",
-                "logo": "https://media.api-sports.io/football/leagues/78.png",
-                "flag": "https://media.api-sports.io/flags/de.svg",
-                "season": 2024,
-                "round": "Regular Season - 21",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 173,
-                    "name": "RB Leipzig",
-                    "logo": "https://media.api-sports.io/football/teams/173.png",
-                    "winner": true
-                },
-                "away": {
-                    "id": 186,
-                    "name": "FC St. Pauli",
-                    "logo": "https://media.api-sports.io/football/teams/186.png",
-                    "winner": false
-                }
-            },
-            "goals": {
-                "home": 2,
-                "away": 0
-            },
-            "score": {
-                "halftime": {
-                    "home": 2,
-                    "away": 0
-                },
-                "fulltime": {
-                    "home": 2,
                     "away": 0
                 },
                 "extratime": {
