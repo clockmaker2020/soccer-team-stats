@@ -328,11 +328,11 @@
                 },
                 {
                     "type": "Shots off Goal",
-                    "value": 4
+                    "value": 5
                 },
                 {
                     "type": "Total Shots",
-                    "value": 6
+                    "value": 7
                 },
                 {
                     "type": "Blocked Shots",
@@ -344,11 +344,11 @@
                 },
                 {
                     "type": "Shots outsidebox",
-                    "value": 2
+                    "value": 3
                 },
                 {
                     "type": "Fouls",
-                    "value": 12
+                    "value": 13
                 },
                 {
                     "type": "Corner Kicks",
@@ -360,7 +360,7 @@
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "19%"
+                    "value": "20%"
                 },
                 {
                     "type": "Yellow Cards",
@@ -376,11 +376,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 168
+                    "value": 175
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 99
+                    "value": 103
                 },
                 {
                     "type": "Passes %",
@@ -388,7 +388,7 @@
                 },
                 {
                     "type": "expected_goals",
-                    "value": "0.70"
+                    "value": "0.72"
                 },
                 {
                     "type": "goals_prevented",
@@ -441,7 +441,7 @@
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "81%"
+                    "value": "80%"
                 },
                 {
                     "type": "Yellow Cards",
@@ -457,11 +457,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 724
+                    "value": 738
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 653
+                    "value": 662
                 },
                 {
                     "type": "Passes %",
