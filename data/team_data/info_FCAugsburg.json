@@ -602,6 +602,42 @@
             "substitutes": [
                 {
                     "player": {
+                        "id": 14395,
+                        "name": "Kristijan Jakić",
+                        "number": 17,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 8651,
+                        "name": "Samuel Essende",
+                        "number": 9,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 413065,
+                        "name": "Noahkai Banks",
+                        "number": 40,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 3395,
+                        "name": "Steve Mounié",
+                        "number": 15,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 14553,
                         "name": "Nediljko Labrović",
                         "number": 22,
@@ -614,15 +650,6 @@
                         "id": 26242,
                         "name": "Keven Schlotterbeck",
                         "number": 31,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 413065,
-                        "name": "Noahkai Banks",
-                        "number": 40,
                         "pos": "D",
                         "grid": null
                     }
@@ -651,33 +678,6 @@
                         "name": "Arne Maier",
                         "number": 10,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 14395,
-                        "name": "Kristijan Jakić",
-                        "number": 17,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 8651,
-                        "name": "Samuel Essende",
-                        "number": 9,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 3395,
-                        "name": "Steve Mounié",
-                        "number": 15,
-                        "pos": "F",
                         "grid": null
                     }
                 }
@@ -811,6 +811,42 @@
             "substitutes": [
                 {
                     "player": {
+                        "id": 126642,
+                        "name": "Patrick Wimmer",
+                        "number": 39,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 15916,
+                        "name": "Andreas Skov Olsen",
+                        "number": 7,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 40560,
+                        "name": "Jakub Kamiński",
+                        "number": 16,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 25192,
+                        "name": "Kevin Behrens",
+                        "number": 17,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 1141,
                         "name": "Marius Müller",
                         "number": 29,
@@ -838,24 +874,6 @@
                 },
                 {
                     "player": {
-                        "id": 40560,
-                        "name": "Jakub Kamiński",
-                        "number": 16,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 126642,
-                        "name": "Patrick Wimmer",
-                        "number": 39,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 127413,
                         "name": "Aster Vranckx",
                         "number": 6,
@@ -869,24 +887,6 @@
                         "name": "Bennit Bröger",
                         "number": 38,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 15916,
-                        "name": "Andreas Skov Olsen",
-                        "number": 7,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 25192,
-                        "name": "Kevin Behrens",
-                        "number": 17,
-                        "pos": "F",
                         "grid": null
                     }
                 }
