@@ -842,6 +842,33 @@
                 },
                 {
                     "player": {
+                        "id": 26239,
+                        "name": "Lukas Kübler",
+                        "number": 17,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 26250,
+                        "name": "Nicolas Höfler",
+                        "number": 27,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 25313,
+                        "name": "Jan-Niklas Beste",
+                        "number": 19,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 25905,
                         "name": "Florian Müller",
                         "number": 21,
@@ -860,28 +887,10 @@
                 },
                 {
                     "player": {
-                        "id": 26239,
-                        "name": "Lukas Kübler",
-                        "number": 17,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 202919,
                         "name": "Max Rosenfelder",
                         "number": 37,
                         "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 26250,
-                        "name": "Nicolas Höfler",
-                        "number": 27,
-                        "pos": "M",
                         "grid": null
                     }
                 },
@@ -900,15 +909,6 @@
                         "name": "Johan Manzambi",
                         "number": 44,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 25313,
-                        "name": "Jan-Niklas Beste",
-                        "number": 19,
-                        "pos": "D",
                         "grid": null
                     }
                 }
