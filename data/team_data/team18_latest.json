@@ -294,102 +294,90 @@
         },
         {
             "team": "FSV Mainz 05",
-            "date": "2025-03-07 19:30",
-            "opponent": "Borussia Mönchengladbach",
-            "score": "1 - 3",
-            "stadium": "BORUSSIA-PARK",
-            "referee": "Sascha Stegemann, Germany",
-            "league_round": "Regular Season - 25",
+            "date": "2025-03-15 14:30",
+            "opponent": "SC Freiburg",
+            "score": "2 - 2",
+            "stadium": "MEWA ARENA",
+            "referee": "Benjamin Brand, Germany",
+            "league_round": "Regular Season - 26",
             "events": [
                 {
-                    "time": "39'",
-                    "player": "P. Nebel",
-                    "detail": "Normal Goal",
-                    "team": "FSV Mainz 05"
+                    "time": "2'",
+                    "player": "J. Adamu",
+                    "detail": "Yellow Card",
+                    "team": "SC Freiburg"
                 },
                 {
-                    "time": "48'",
-                    "player": "D. Kohr",
-                    "detail": "Normal Goal",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "56'",
-                    "player": "K. Stöger",
-                    "detail": "Substitution 1",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "64'",
-                    "player": "D. da Costa",
-                    "detail": "Substitution 1",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "70'",
-                    "player": "J. Burkardt",
-                    "detail": "Substitution 2",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "73'",
-                    "player": "S. Lainer",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "74'",
-                    "player": "L. Ullrich",
-                    "detail": "Substitution 2",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "74'",
-                    "player": "P. Sander",
-                    "detail": "Substitution 3",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "74'",
-                    "player": "R. Hack",
-                    "detail": "Substitution 4",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "77'",
-                    "player": "N. Amiri",
-                    "detail": "Normal Goal",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "85'",
-                    "player": "N. Ngoumou",
-                    "detail": "Substitution 5",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "87'",
-                    "player": "A. Caci",
-                    "detail": "Substitution 3",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "87'",
-                    "player": "N. Amiri",
-                    "detail": "Substitution 4",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "87'",
-                    "player": "Lee Jae-Sung",
-                    "detail": "Substitution 5",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "90'",
-                    "player": "Kaishu Sano",
+                    "time": "28'",
+                    "player": "P. Mwene",
                     "detail": "Yellow Card",
                     "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "34'",
+                    "player": "J. Burkardt",
+                    "detail": "Normal Goal",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "43'",
+                    "player": "D. Kohr",
+                    "detail": "Red Card",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "46'",
+                    "player": "M. Gregoritsch",
+                    "detail": "Substitution 1",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "46'",
+                    "player": "A. Hanche-Olsen",
+                    "detail": "Substitution 1",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "58'",
+                    "player": "M. Gregoritsch",
+                    "detail": "Normal Goal",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "74'",
+                    "player": "A. Hanche-Olsen",
+                    "detail": "Normal Goal",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "76'",
+                    "player": "N. Hofler",
+                    "detail": "Substitution 2",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "76'",
+                    "player": "L. Kubler",
+                    "detail": "Substitution 3",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "79'",
+                    "player": "L. Kubler",
+                    "detail": "Normal Goal",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "86'",
+                    "player": "J. Beste",
+                    "detail": "Substitution 4",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "88'",
+                    "player": "L. Holer",
+                    "detail": "Yellow Card",
+                    "team": "SC Freiburg"
                 }
             ],
             "odds": {
@@ -1122,102 +1110,132 @@
         },
         {
             "team": "Borussia Mönchengladbach",
-            "date": "2025-03-07 19:30",
-            "opponent": "FSV Mainz 05",
-            "score": "1 - 3",
-            "stadium": "BORUSSIA-PARK",
-            "referee": "Sascha Stegemann, Germany",
-            "league_round": "Regular Season - 25",
+            "date": "2025-03-15 14:30",
+            "opponent": "Werder Bremen",
+            "score": "2 - 4",
+            "stadium": "Weserstadion",
+            "referee": "Timo Gerach, Germany",
+            "league_round": "Regular Season - 26",
             "events": [
                 {
+                    "time": "6'",
+                    "player": "T. Kleindienst",
+                    "detail": "Yellow Card",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "7'",
+                    "player": "A. Plea",
+                    "detail": "Penalty",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "20'",
+                    "player": "S. Lynen",
+                    "detail": "Yellow Card",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "28'",
+                    "player": "A. Plea",
+                    "detail": "Normal Goal",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
                     "time": "39'",
-                    "player": "P. Nebel",
+                    "player": "R. Schmid",
                     "detail": "Normal Goal",
-                    "team": "FSV Mainz 05"
+                    "team": "Werder Bremen"
                 },
                 {
-                    "time": "48'",
-                    "player": "D. Kohr",
-                    "detail": "Normal Goal",
-                    "team": "FSV Mainz 05"
+                    "time": "45'",
+                    "player": "Andre Silva",
+                    "detail": "Penalty",
+                    "team": "Werder Bremen"
                 },
                 {
-                    "time": "56'",
-                    "player": "K. Stöger",
+                    "time": "47'",
+                    "player": "A. Plea",
+                    "detail": "Normal Goal",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "66'",
+                    "player": "J. Njinmah",
+                    "detail": "Substitution 1",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "67'",
+                    "player": "L. Bittencourt",
+                    "detail": "Substitution 2",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "69'",
+                    "player": "L. Netz",
                     "detail": "Substitution 1",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
-                    "time": "64'",
-                    "player": "D. da Costa",
-                    "detail": "Substitution 1",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "70'",
-                    "player": "J. Burkardt",
-                    "detail": "Substitution 2",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "73'",
-                    "player": "S. Lainer",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "74'",
-                    "player": "L. Ullrich",
+                    "time": "69'",
+                    "player": "T. Cvancara",
                     "detail": "Substitution 2",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
-                    "time": "74'",
-                    "player": "P. Sander",
+                    "time": "72'",
+                    "player": "T. Pereira Cardoso",
                     "detail": "Substitution 3",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
-                    "time": "74'",
-                    "player": "R. Hack",
-                    "detail": "Substitution 4",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "77'",
-                    "player": "N. Amiri",
+                    "time": "81'",
+                    "player": "T. Kleindienst",
                     "detail": "Normal Goal",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "85'",
-                    "player": "N. Ngoumou",
-                    "detail": "Substitution 5",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
-                    "time": "87'",
-                    "player": "A. Caci",
+                    "time": "82'",
+                    "player": "M. Friedl",
                     "detail": "Substitution 3",
-                    "team": "FSV Mainz 05"
+                    "team": "Werder Bremen"
                 },
                 {
-                    "time": "87'",
-                    "player": "N. Amiri",
+                    "time": "82'",
+                    "player": "K. Topp",
                     "detail": "Substitution 4",
-                    "team": "FSV Mainz 05"
+                    "team": "Werder Bremen"
                 },
                 {
-                    "time": "87'",
-                    "player": "Lee Jae-Sung",
+                    "time": "82'",
+                    "player": "M. Ducksch",
                     "detail": "Substitution 5",
-                    "team": "FSV Mainz 05"
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "84'",
+                    "player": "M. Friedrich",
+                    "detail": "Substitution 4",
+                    "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "90'",
-                    "player": "Kaishu Sano",
+                    "player": "R. Reitz",
+                    "detail": "Substitution 5",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "90'",
+                    "player": "T. Kleindienst",
                     "detail": "Yellow Card",
-                    "team": "FSV Mainz 05"
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "90'",
+                    "player": "T. Kleindienst",
+                    "detail": "Red Card",
+                    "team": "Borussia Mönchengladbach"
                 }
             ],
             "odds": {
