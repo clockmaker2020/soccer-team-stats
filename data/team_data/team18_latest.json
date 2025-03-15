@@ -579,6 +579,155 @@
             "squad": []
         },
         {
+            "team": "RB Leipzig",
+            "date": "2025-03-15 17:30",
+            "opponent": "Borussia Dortmund",
+            "score": "2 - 0",
+            "stadium": "Red Bull Arena",
+            "referee": "Matthias Jollenbeck, Germany",
+            "league_round": "Regular Season - 26",
+            "events": [
+                {
+                    "time": "10'",
+                    "player": "E. Can",
+                    "detail": "Yellow Card",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "18'",
+                    "player": "X. Simons",
+                    "detail": "Normal Goal",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "33'",
+                    "player": "R. Bensebaini",
+                    "detail": "Substitution 1",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "45'",
+                    "player": "J. Ryerson",
+                    "detail": "Yellow Card",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "48'",
+                    "player": "L. Openda",
+                    "detail": "Normal Goal",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "61'",
+                    "player": "K. Kampl",
+                    "detail": "Substitution 1",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "63'",
+                    "player": "D. Raum",
+                    "detail": "Yellow Card",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "67'",
+                    "player": "L. Klostermann",
+                    "detail": "Substitution 2",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "72'",
+                    "player": "C. Chukwuemeka",
+                    "detail": "Substitution 2",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "72'",
+                    "player": "J. Gittens",
+                    "detail": "Substitution 3",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "81'",
+                    "player": "C. Lukeba",
+                    "detail": "Substitution 3",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "81'",
+                    "player": "A. Haidara",
+                    "detail": "Substitution 4",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "82'",
+                    "player": "T. Gomis",
+                    "detail": "Substitution 5",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "83'",
+                    "player": "C. Chukwuemeka",
+                    "detail": "Yellow Card",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "86'",
+                    "player": "A. Haidara",
+                    "detail": "Yellow Card",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "86'",
+                    "player": "C. Lukeba",
+                    "detail": "Yellow Card",
+                    "team": "RB Leipzig"
+                }
+            ],
+            "odds": {
+                "home": "N/A",
+                "draw": "N/A",
+                "away": "N/A"
+            },
+            "past_results": [
+                {
+                    "date": "2025-03-15 17:30",
+                    "score": "2 - 0"
+                },
+                {
+                    "date": "2025-03-08 17:30",
+                    "score": "0 - 0"
+                },
+                {
+                    "date": "2025-03-01 14:30",
+                    "score": "1 - 2"
+                },
+                {
+                    "date": "2025-02-23 14:30",
+                    "score": "2 - 2"
+                },
+                {
+                    "date": "2025-02-14 19:30",
+                    "score": "0 - 0"
+                }
+            ],
+            "future_games": [
+                {
+                    "date": "2025-03-29 14:30",
+                    "opponent": "Borussia Mönchengladbach"
+                },
+                {
+                    "date": "2025-04-05 13:30",
+                    "opponent": "1899 Hoffenheim"
+                },
+                {
+                    "date": "2025-04-11 18:30",
+                    "opponent": "VfL Wolfsburg"
+                }
+            ],
+            "squad": []
+        },
+        {
             "team": "SC Freiburg",
             "date": "2025-03-15 14:30",
             "opponent": "FSV Mainz 05",
@@ -878,155 +1027,6 @@
                 {
                     "date": "2025-04-12 13:30",
                     "opponent": "SC Freiburg"
-                }
-            ],
-            "squad": []
-        },
-        {
-            "team": "RB Leipzig",
-            "date": "2025-03-15 17:30",
-            "opponent": "Borussia Dortmund",
-            "score": "2 - 0",
-            "stadium": "Red Bull Arena",
-            "referee": "Matthias Jollenbeck, Germany",
-            "league_round": "Regular Season - 26",
-            "events": [
-                {
-                    "time": "10'",
-                    "player": "E. Can",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "18'",
-                    "player": "X. Simons",
-                    "detail": "Normal Goal",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "33'",
-                    "player": "R. Bensebaini",
-                    "detail": "Substitution 1",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "45'",
-                    "player": "J. Ryerson",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "48'",
-                    "player": "L. Openda",
-                    "detail": "Normal Goal",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "61'",
-                    "player": "K. Kampl",
-                    "detail": "Substitution 1",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "63'",
-                    "player": "D. Raum",
-                    "detail": "Yellow Card",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "67'",
-                    "player": "L. Klostermann",
-                    "detail": "Substitution 2",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "72'",
-                    "player": "C. Chukwuemeka",
-                    "detail": "Substitution 2",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "72'",
-                    "player": "J. Gittens",
-                    "detail": "Substitution 3",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "81'",
-                    "player": "C. Lukeba",
-                    "detail": "Substitution 3",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "81'",
-                    "player": "A. Haidara",
-                    "detail": "Substitution 4",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "82'",
-                    "player": "T. Gomis",
-                    "detail": "Substitution 5",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "83'",
-                    "player": "C. Chukwuemeka",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "86'",
-                    "player": "A. Haidara",
-                    "detail": "Yellow Card",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "86'",
-                    "player": "C. Lukeba",
-                    "detail": "Yellow Card",
-                    "team": "RB Leipzig"
-                }
-            ],
-            "odds": {
-                "home": "N/A",
-                "draw": "N/A",
-                "away": "N/A"
-            },
-            "past_results": [
-                {
-                    "date": "2025-03-15 17:30",
-                    "score": "2 - 0"
-                },
-                {
-                    "date": "2025-03-08 17:30",
-                    "score": "0 - 0"
-                },
-                {
-                    "date": "2025-03-01 14:30",
-                    "score": "1 - 2"
-                },
-                {
-                    "date": "2025-02-23 14:30",
-                    "score": "2 - 2"
-                },
-                {
-                    "date": "2025-02-14 19:30",
-                    "score": "0 - 0"
-                }
-            ],
-            "future_games": [
-                {
-                    "date": "2025-03-29 14:30",
-                    "opponent": "Borussia Mönchengladbach"
-                },
-                {
-                    "date": "2025-04-05 13:30",
-                    "opponent": "1899 Hoffenheim"
-                },
-                {
-                    "date": "2025-04-11 18:30",
-                    "opponent": "VfL Wolfsburg"
                 }
             ],
             "squad": []
