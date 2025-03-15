@@ -3,6 +3,76 @@
     "past_matches": [
         {
             "fixture": {
+                "id": 1224206,
+                "referee": "Florian Exner, Germany",
+                "timezone": "UTC",
+                "date": "2025-03-15T14:30:00+00:00",
+                "timestamp": 1742049000,
+                "periods": {
+                    "first": 1742049000,
+                    "second": 1742052600
+                },
+                "venue": {
+                    "id": 748,
+                    "name": "Stadion An der Alten Försterei",
+                    "city": "Berlin"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 7
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 26",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 182,
+                    "name": "Union Berlin",
+                    "logo": "https://media.api-sports.io/football/teams/182.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 157,
+                    "name": "Bayern München",
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
                 "id": 1224192,
                 "referee": "Christian Dingert, Germany",
                 "timezone": "UTC",
@@ -269,76 +339,6 @@
                 },
                 "fulltime": {
                     "home": 0,
-                    "away": 0
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
-                "id": 1224155,
-                "referee": "Sören Storks, Germany",
-                "timezone": "UTC",
-                "date": "2025-02-07T19:30:00+00:00",
-                "timestamp": 1738956600,
-                "periods": {
-                    "first": 1738956600,
-                    "second": 1738960200
-                },
-                "venue": {
-                    "id": 700,
-                    "name": "Allianz Arena",
-                    "city": "München"
-                },
-                "status": {
-                    "long": "Match Finished",
-                    "short": "FT",
-                    "elapsed": 90,
-                    "extra": 8
-                }
-            },
-            "league": {
-                "id": 78,
-                "name": "Bundesliga",
-                "country": "Germany",
-                "logo": "https://media.api-sports.io/football/leagues/78.png",
-                "flag": "https://media.api-sports.io/flags/de.svg",
-                "season": 2024,
-                "round": "Regular Season - 21",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 157,
-                    "name": "Bayern München",
-                    "logo": "https://media.api-sports.io/football/teams/157.png",
-                    "winner": true
-                },
-                "away": {
-                    "id": 162,
-                    "name": "Werder Bremen",
-                    "logo": "https://media.api-sports.io/football/teams/162.png",
-                    "winner": false
-                }
-            },
-            "goals": {
-                "home": 3,
-                "away": 0
-            },
-            "score": {
-                "halftime": {
-                    "home": 0,
-                    "away": 0
-                },
-                "fulltime": {
-                    "home": 3,
                     "away": 0
                 },
                 "extratime": {
