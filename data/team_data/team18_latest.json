@@ -884,71 +884,107 @@
         },
         {
             "team": "RB Leipzig",
-            "date": "2025-03-08 17:30",
-            "opponent": "SC Freiburg",
-            "score": "0 - 0",
-            "stadium": "Europa-Park Stadion",
-            "referee": "Sven Jablonski, Germany",
-            "league_round": "Regular Season - 25",
+            "date": "2025-03-15 17:30",
+            "opponent": "Borussia Dortmund",
+            "score": "2 - 0",
+            "stadium": "Red Bull Arena",
+            "referee": "Matthias Jollenbeck, Germany",
+            "league_round": "Regular Season - 26",
             "events": [
                 {
-                    "time": "46'",
-                    "player": "E. Dinkçi",
-                    "detail": "Substitution 1",
-                    "team": "SC Freiburg"
+                    "time": "10'",
+                    "player": "E. Can",
+                    "detail": "Yellow Card",
+                    "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "46'",
+                    "time": "18'",
+                    "player": "X. Simons",
+                    "detail": "Normal Goal",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "33'",
+                    "player": "R. Bensebaini",
+                    "detail": "Substitution 1",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "45'",
+                    "player": "J. Ryerson",
+                    "detail": "Yellow Card",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "48'",
+                    "player": "L. Openda",
+                    "detail": "Normal Goal",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "60'",
                     "player": "K. Kampl",
                     "detail": "Substitution 1",
                     "team": "RB Leipzig"
                 },
                 {
-                    "time": "50'",
-                    "player": "Willi Orbán",
-                    "detail": "Yellow Card",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "56'",
-                    "player": "A. Vermeeren",
-                    "detail": "Substitution 2",
-                    "team": "RB Leipzig"
-                },
-                {
                     "time": "63'",
-                    "player": "Nicolas Seiwald",
+                    "player": "D. Raum",
                     "detail": "Yellow Card",
                     "team": "RB Leipzig"
                 },
                 {
-                    "time": "75'",
-                    "player": "J. Adamu",
+                    "time": "66'",
+                    "player": "L. Klostermann",
                     "detail": "Substitution 2",
-                    "team": "SC Freiburg"
+                    "team": "RB Leipzig"
                 },
                 {
-                    "time": "78'",
-                    "player": "E. Bitshiabu",
+                    "time": "72'",
+                    "player": "C. Chukwuemeka",
+                    "detail": "Substitution 2",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "72'",
+                    "player": "J. Gittens",
+                    "detail": "Substitution 3",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "81'",
+                    "player": "C. Lukeba",
                     "detail": "Substitution 3",
                     "team": "RB Leipzig"
                 },
                 {
-                    "time": "78'",
-                    "player": "B. Šeško",
+                    "time": "81'",
+                    "player": "A. Haidara",
                     "detail": "Substitution 4",
                     "team": "RB Leipzig"
                 },
                 {
-                    "time": "87'",
-                    "player": "David Raum",
+                    "time": "82'",
+                    "player": "T. Gomis",
+                    "detail": "Substitution 5",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "83'",
+                    "player": "C. Chukwuemeka",
+                    "detail": "Yellow Card",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "86'",
+                    "player": "A. Haidara",
                     "detail": "Yellow Card",
                     "team": "RB Leipzig"
                 },
                 {
-                    "time": "88'",
-                    "player": "X. Simons",
-                    "detail": "Substitution 5",
+                    "time": "87'",
+                    "player": "C. Lukeba",
+                    "detail": "Yellow Card",
                     "team": "RB Leipzig"
                 }
             ],
@@ -1408,120 +1444,108 @@
         },
         {
             "team": "Borussia Dortmund",
-            "date": "2025-03-08 14:30",
-            "opponent": "FC Augsburg",
-            "score": "0 - 1",
-            "stadium": "SIGNAL IDUNA PARK",
-            "referee": "Deniz Aytekin, Germany",
-            "league_round": "Regular Season - 25",
+            "date": "2025-03-15 17:30",
+            "opponent": "RB Leipzig",
+            "score": "2 - 0",
+            "stadium": "Red Bull Arena",
+            "referee": "Matthias Jollenbeck, Germany",
+            "league_round": "Regular Season - 26",
             "events": [
                 {
-                    "time": "23'",
-                    "player": "J. Gouweleeuw",
+                    "time": "10'",
+                    "player": "E. Can",
+                    "detail": "Yellow Card",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "18'",
+                    "player": "X. Simons",
                     "detail": "Normal Goal",
-                    "team": "FC Augsburg"
+                    "team": "RB Leipzig"
                 },
                 {
-                    "time": "52'",
-                    "player": "Julian Brandt",
-                    "detail": "Goal cancelled",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "57'",
-                    "player": "Serhou Guirassy",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "57'",
-                    "player": "Elvis Rexhbeçaj",
-                    "detail": "Yellow Card",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "58'",
-                    "player": "E. Rexhbeçaj",
-                    "detail": "Substitution 1",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "58'",
-                    "player": "P. Tietz",
-                    "detail": "Substitution 2",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "63'",
+                    "time": "33'",
                     "player": "R. Bensebaini",
                     "detail": "Substitution 1",
                     "team": "Borussia Dortmund"
                 },
                 {
+                    "time": "45'",
+                    "player": "J. Ryerson",
+                    "detail": "Yellow Card",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "48'",
+                    "player": "L. Openda",
+                    "detail": "Normal Goal",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "60'",
+                    "player": "K. Kampl",
+                    "detail": "Substitution 1",
+                    "team": "RB Leipzig"
+                },
+                {
                     "time": "63'",
-                    "player": "Yan Couto",
+                    "player": "D. Raum",
+                    "detail": "Yellow Card",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "66'",
+                    "player": "L. Klostermann",
+                    "detail": "Substitution 2",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "72'",
+                    "player": "C. Chukwuemeka",
                     "detail": "Substitution 2",
                     "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "64'",
-                    "player": "Salih Özcan",
-                    "detail": "Goal cancelled",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "70'",
-                    "player": "Frank Onyeka",
-                    "detail": "Yellow Card",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "74'",
-                    "player": "A. Claude-Maurice",
-                    "detail": "Substitution 3",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "74'",
-                    "player": "F. Jensen",
-                    "detail": "Substitution 4",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "75'",
-                    "player": "P. Groß",
-                    "detail": "Substitution 3",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "75'",
+                    "time": "72'",
                     "player": "J. Gittens",
-                    "detail": "Substitution 4",
+                    "detail": "Substitution 3",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "81'",
-                    "player": "M. Wolf",
-                    "detail": "Substitution 5",
-                    "team": "FC Augsburg"
+                    "player": "C. Lukeba",
+                    "detail": "Substitution 3",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "81'",
+                    "player": "A. Haidara",
+                    "detail": "Substitution 4",
+                    "team": "RB Leipzig"
                 },
                 {
                     "time": "82'",
-                    "player": "Noahkai Banks",
-                    "detail": "Yellow Card",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "84'",
-                    "player": "Kristijan Jakić",
-                    "detail": "Yellow Card",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "90'",
-                    "player": "K. Adeyemi",
+                    "player": "T. Gomis",
                     "detail": "Substitution 5",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "83'",
+                    "player": "C. Chukwuemeka",
+                    "detail": "Yellow Card",
                     "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "86'",
+                    "player": "A. Haidara",
+                    "detail": "Yellow Card",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "87'",
+                    "player": "C. Lukeba",
+                    "detail": "Yellow Card",
+                    "team": "RB Leipzig"
                 }
             ],
             "odds": {
