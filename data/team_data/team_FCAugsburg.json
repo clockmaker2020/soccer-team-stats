@@ -3,6 +3,76 @@
     "past_matches": [
         {
             "fixture": {
+                "id": 1224204,
+                "referee": "Martin Petersen, Germany",
+                "timezone": "UTC",
+                "date": "2025-03-15T14:30:00+00:00",
+                "timestamp": 1742049000,
+                "periods": {
+                    "first": 1742049000,
+                    "second": 1742052600
+                },
+                "venue": {
+                    "id": 698,
+                    "name": "WWK Arena",
+                    "city": "Augsburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 7
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 26",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 170,
+                    "name": "FC Augsburg",
+                    "logo": "https://media.api-sports.io/football/teams/170.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 161,
+                    "name": "VfL Wolfsburg",
+                    "logo": "https://media.api-sports.io/football/teams/161.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
                 "id": 1224193,
                 "referee": "Deniz Aytekin, Germany",
                 "timezone": "UTC",
@@ -255,76 +325,6 @@
                     "id": 173,
                     "name": "RB Leipzig",
                     "logo": "https://media.api-sports.io/football/teams/173.png",
-                    "winner": null
-                }
-            },
-            "goals": {
-                "home": 0,
-                "away": 0
-            },
-            "score": {
-                "halftime": {
-                    "home": 0,
-                    "away": 0
-                },
-                "fulltime": {
-                    "home": 0,
-                    "away": 0
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
-                "id": 1224161,
-                "referee": "Daniel Schlager, Germany",
-                "timezone": "UTC",
-                "date": "2025-02-08T14:30:00+00:00",
-                "timestamp": 1739025000,
-                "periods": {
-                    "first": 1739025000,
-                    "second": 1739028600
-                },
-                "venue": {
-                    "id": 11899,
-                    "name": "MEWA ARENA",
-                    "city": "Mainz"
-                },
-                "status": {
-                    "long": "Match Finished",
-                    "short": "FT",
-                    "elapsed": 90,
-                    "extra": 6
-                }
-            },
-            "league": {
-                "id": 78,
-                "name": "Bundesliga",
-                "country": "Germany",
-                "logo": "https://media.api-sports.io/football/leagues/78.png",
-                "flag": "https://media.api-sports.io/flags/de.svg",
-                "season": 2024,
-                "round": "Regular Season - 21",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 164,
-                    "name": "FSV Mainz 05",
-                    "logo": "https://media.api-sports.io/football/teams/164.png",
-                    "winner": null
-                },
-                "away": {
-                    "id": 170,
-                    "name": "FC Augsburg",
-                    "logo": "https://media.api-sports.io/football/teams/170.png",
                     "winner": null
                 }
             },
