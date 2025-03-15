@@ -602,6 +602,51 @@
             "substitutes": [
                 {
                     "player": {
+                        "id": 292218,
+                        "name": "Marin Ljubičić",
+                        "number": 27,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 162946,
+                        "name": "Benedict Hollerbach",
+                        "number": 16,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 324957,
+                        "name": "Tom Rothe",
+                        "number": 15,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 24962,
+                        "name": "László Bénes",
+                        "number": 20,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 24910,
+                        "name": "Tim Skarke",
+                        "number": 21,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 127471,
                         "name": "Carl Klaus",
                         "number": 25,
@@ -633,51 +678,6 @@
                         "name": "Lucas Tousart",
                         "number": 29,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 324957,
-                        "name": "Tom Rothe",
-                        "number": 15,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 24962,
-                        "name": "László Bénes",
-                        "number": 20,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 292218,
-                        "name": "Marin Ljubičić",
-                        "number": 27,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 24910,
-                        "name": "Tim Skarke",
-                        "number": 21,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 162946,
-                        "name": "Benedict Hollerbach",
-                        "number": 16,
-                        "pos": "F",
                         "grid": null
                     }
                 }
@@ -811,6 +811,24 @@
             "substitutes": [
                 {
                     "player": {
+                        "id": 644,
+                        "name": "Leroy Sané",
+                        "number": 10,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 32893,
+                        "name": "Hiroki Itō",
+                        "number": 21,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 126530,
                         "name": "Daniel Peretz",
                         "number": 18,
@@ -824,15 +842,6 @@
                         "name": "Sven Ulreich",
                         "number": 26,
                         "pos": "G",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 32893,
-                        "name": "Hiroki Itō",
-                        "number": 21,
-                        "pos": "D",
                         "grid": null
                     }
                 },
@@ -878,15 +887,6 @@
                         "name": "Konrad Laimer",
                         "number": 27,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 644,
-                        "name": "Leroy Sané",
-                        "number": 10,
-                        "pos": "F",
                         "grid": null
                     }
                 }
