@@ -778,19 +778,19 @@
             "substitutes": [
                 {
                     "player": {
-                        "id": 329578,
-                        "name": "Mio Backhaus",
-                        "number": 30,
-                        "pos": "G",
+                        "id": 716,
+                        "name": "Leonardo Bittencourt",
+                        "number": 10,
+                        "pos": "M",
                         "grid": null
                     }
                 },
                 {
                     "player": {
-                        "id": 289460,
-                        "name": "Julián Malatini",
-                        "number": 22,
-                        "pos": "D",
+                        "id": 177807,
+                        "name": "Justin Njinmah",
+                        "number": 11,
+                        "pos": "F",
                         "grid": null
                     }
                 },
@@ -800,33 +800,6 @@
                         "name": "Marco Friedl",
                         "number": 32,
                         "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 128853,
-                        "name": "Derrick Köhn",
-                        "number": 19,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 7073,
-                        "name": "Marco Grüll",
-                        "number": 17,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 716,
-                        "name": "Leonardo Bittencourt",
-                        "number": 10,
-                        "pos": "M",
                         "grid": null
                     }
                 },
@@ -850,9 +823,36 @@
                 },
                 {
                     "player": {
-                        "id": 177807,
-                        "name": "Justin Njinmah",
-                        "number": 11,
+                        "id": 329578,
+                        "name": "Mio Backhaus",
+                        "number": 30,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 289460,
+                        "name": "Julián Malatini",
+                        "number": 22,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 128853,
+                        "name": "Derrick Köhn",
+                        "number": 19,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 7073,
+                        "name": "Marco Grüll",
+                        "number": 17,
                         "pos": "F",
                         "grid": null
                     }
@@ -987,15 +987,6 @@
             "substitutes": [
                 {
                     "player": {
-                        "id": 340155,
-                        "name": "Tiago Pereira Cardoso",
-                        "number": 42,
-                        "pos": "G",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 163069,
                         "name": "Luca Netz",
                         "number": 20,
@@ -1005,10 +996,19 @@
                 },
                 {
                     "player": {
-                        "id": 1082,
-                        "name": "Stefan Lainer",
-                        "number": 22,
-                        "pos": "D",
+                        "id": 80434,
+                        "name": "Tomáš Čvančara",
+                        "number": 31,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 340155,
+                        "name": "Tiago Pereira Cardoso",
+                        "number": 42,
+                        "pos": "G",
                         "grid": null
                     }
                 },
@@ -1017,6 +1017,24 @@
                         "id": 24839,
                         "name": "Marvin Friedrich",
                         "number": 5,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 203007,
+                        "name": "Rocco Reitz",
+                        "number": 27,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 1082,
+                        "name": "Stefan Lainer",
+                        "number": 22,
                         "pos": "D",
                         "grid": null
                     }
@@ -1041,28 +1059,10 @@
                 },
                 {
                     "player": {
-                        "id": 203007,
-                        "name": "Rocco Reitz",
-                        "number": 27,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 20784,
                         "name": "Franck Honorat",
                         "number": 9,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 80434,
-                        "name": "Tomáš Čvančara",
-                        "number": 31,
-                        "pos": "F",
                         "grid": null
                     }
                 }
