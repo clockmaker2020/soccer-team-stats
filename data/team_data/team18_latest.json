@@ -10,7 +10,7 @@
             "league_round": "Regular Season - 26",
             "events": [
                 {
-                    "time": "52'",
+                    "time": "53'",
                     "player": "J. Musiala",
                     "detail": "Yellow Card",
                     "team": "Bayern München"
@@ -22,7 +22,7 @@
                     "team": "Union Berlin"
                 },
                 {
-                    "time": "61'",
+                    "time": "62'",
                     "player": "M. Ljubicic",
                     "detail": "Substitution 1",
                     "team": "Union Berlin"
@@ -76,7 +76,7 @@
                     "team": "Bayern München"
                 },
                 {
-                    "time": "84'",
+                    "time": "83'",
                     "player": "B. Hollerbach",
                     "detail": "Normal Goal",
                     "team": "Union Berlin"
@@ -808,16 +808,16 @@
             ],
             "future_games": [
                 {
-                    "date": "2025-03-15 17:30",
-                    "opponent": "Borussia Dortmund"
-                },
-                {
                     "date": "2025-03-29 14:30",
                     "opponent": "Borussia Mönchengladbach"
                 },
                 {
                     "date": "2025-04-05 13:30",
                     "opponent": "1899 Hoffenheim"
+                },
+                {
+                    "date": "2025-04-11 18:30",
+                    "opponent": "VfL Wolfsburg"
                 }
             ],
             "squad": []
@@ -1428,16 +1428,16 @@
             ],
             "future_games": [
                 {
-                    "date": "2025-03-15 17:30",
-                    "opponent": "RB Leipzig"
-                },
-                {
                     "date": "2025-03-30 15:30",
                     "opponent": "FSV Mainz 05"
                 },
                 {
                     "date": "2025-04-05 13:30",
                     "opponent": "SC Freiburg"
+                },
+                {
+                    "date": "2025-04-12 16:30",
+                    "opponent": "Bayern München"
                 }
             ],
             "squad": []
@@ -1869,7 +1869,7 @@
             "league_round": "Regular Season - 26",
             "events": [
                 {
-                    "time": "52'",
+                    "time": "53'",
                     "player": "J. Musiala",
                     "detail": "Yellow Card",
                     "team": "Bayern München"
@@ -1881,7 +1881,7 @@
                     "team": "Union Berlin"
                 },
                 {
-                    "time": "61'",
+                    "time": "62'",
                     "player": "M. Ljubicic",
                     "detail": "Substitution 1",
                     "team": "Union Berlin"
@@ -1935,7 +1935,7 @@
                     "team": "Bayern München"
                 },
                 {
-                    "time": "84'",
+                    "time": "83'",
                     "player": "B. Hollerbach",
                     "detail": "Normal Goal",
                     "team": "Union Berlin"
