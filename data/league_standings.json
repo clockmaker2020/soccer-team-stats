@@ -147,19 +147,19 @@
         {
             "rank": 17,
             "team": {
-                "name": "Holstein Kiel"
+                "name": "1. FC Heidenheim"
             },
-            "wins": 4,
-            "draws": 5,
-            "losses": 16
+            "wins": 5,
+            "draws": 4,
+            "losses": 17
         },
         {
             "rank": 18,
             "team": {
-                "name": "1. FC Heidenheim"
+                "name": "Holstein Kiel"
             },
             "wins": 4,
-            "draws": 4,
+            "draws": 5,
             "losses": 17
         }
     ]
