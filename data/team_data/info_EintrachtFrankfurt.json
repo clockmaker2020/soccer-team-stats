@@ -86,8 +86,8 @@
                 "name": "R. Kristensen"
             },
             "assist": {
-                "id": null,
-                "name": null
+                "id": 21587,
+                "name": "E. Skhiri"
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -271,7 +271,7 @@
         },
         {
             "time": {
-                "elapsed": 76,
+                "elapsed": 75,
                 "extra": null
             },
             "team": {
