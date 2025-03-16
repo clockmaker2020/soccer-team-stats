@@ -836,6 +836,15 @@
                 },
                 {
                     "player": {
+                        "id": 24798,
+                        "name": "Chris Führich",
+                        "number": 27,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 25597,
                         "name": "Fabian Bredlow",
                         "number": 1,
@@ -867,15 +876,6 @@
                         "name": "Jacob Bruun Larsen",
                         "number": 25,
                         "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 24798,
-                        "name": "Chris Führich",
-                        "number": 27,
-                        "pos": "M",
                         "grid": null
                     }
                 }
