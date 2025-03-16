@@ -133,125 +133,137 @@
         },
         {
             "team": "Bayer Leverkusen",
-            "date": "2025-03-08 14:30",
-            "opponent": "Werder Bremen",
-            "score": "0 - 2",
-            "stadium": "BayArena",
-            "referee": "Tobias Welz, Germany",
-            "league_round": "Regular Season - 25",
+            "date": "2025-03-16 18:30",
+            "opponent": "VfB Stuttgart",
+            "score": "3 - 4",
+            "stadium": "MHPArena",
+            "referee": "Daniel Siebert, Germany",
+            "league_round": "Regular Season - 26",
             "events": [
                 {
-                    "time": "7'",
-                    "player": "R. Schmid",
+                    "time": "15'",
+                    "player": "E. Demirovic",
                     "detail": "Normal Goal",
-                    "team": "Werder Bremen"
+                    "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "18'",
-                    "player": "Senne Lynen",
+                    "time": "27'",
+                    "player": "A. Karazor",
                     "detail": "Yellow Card",
-                    "team": "Werder Bremen"
+                    "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "21'",
-                    "player": "Patrik Schick",
+                    "time": "48'",
+                    "player": "N. Woltemade",
+                    "detail": "Normal Goal",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "51'",
+                    "player": "F. Jeltsch",
                     "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "56'",
+                    "player": "J. Frimpong",
+                    "detail": "Normal Goal",
                     "team": "Bayer Leverkusen"
                 },
                 {
-                    "time": "46'",
-                    "player": "E. Tapsoba",
+                    "time": "57'",
+                    "player": "A. Adli",
                     "detail": "Substitution 1",
                     "team": "Bayer Leverkusen"
                 },
                 {
-                    "time": "46'",
-                    "player": "E. Buendía",
+                    "time": "57'",
+                    "player": "V. Boniface",
                     "detail": "Substitution 2",
                     "team": "Bayer Leverkusen"
                 },
                 {
-                    "time": "46'",
+                    "time": "62'",
                     "player": "G. Xhaka",
-                    "detail": "Substitution 3",
-                    "team": "Bayer Leverkusen"
+                    "detail": "Own Goal",
+                    "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "52'",
-                    "player": "Mitchell Weiser",
+                    "time": "64'",
+                    "player": "N. Woltemade",
                     "detail": "Yellow Card",
-                    "team": "Werder Bremen"
+                    "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "59'",
-                    "player": "F. Wirtz",
-                    "detail": "Substitution 4",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "65'",
-                    "player": "Arthur",
-                    "detail": "Substitution 5",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "69'",
-                    "player": "Oliver Burke",
-                    "detail": "Yellow Card",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "69'",
-                    "player": "O. Burke",
+                    "time": "68'",
+                    "player": "D. Undav",
                     "detail": "Substitution 1",
-                    "team": "Werder Bremen"
+                    "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "72'",
-                    "player": "Jens Stage",
-                    "detail": "Yellow Card",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "78'",
-                    "player": "S. Lynen",
+                    "time": "68'",
+                    "player": "J. Vagnoman",
                     "detail": "Substitution 2",
-                    "team": "Werder Bremen"
+                    "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "78'",
-                    "player": "André Silva",
+                    "time": "68'",
+                    "player": "P. Hincapie",
+                    "detail": "Normal Goal",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "74'",
+                    "player": "R. Andrich",
+                    "detail": "Yellow Card",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "74'",
+                    "player": "Arthur",
                     "detail": "Substitution 3",
-                    "team": "Werder Bremen"
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "77'",
+                    "player": "P. Hincapie",
+                    "detail": "Yellow Card",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "77'",
+                    "player": "E. B. Toure",
+                    "detail": "Substitution 3",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "77'",
+                    "player": "J. Chabot",
+                    "detail": "Substitution 4",
+                    "team": "VfB Stuttgart"
                 },
                 {
                     "time": "88'",
-                    "player": "Amine Adli",
+                    "player": "A. Stiller",
+                    "detail": "Own Goal",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "89'",
+                    "player": "C. Fuhrich",
+                    "detail": "Substitution 5",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "90'",
+                    "player": "X. Alonso",
                     "detail": "Yellow Card",
                     "team": "Bayer Leverkusen"
                 },
                 {
                     "time": "90'",
-                    "player": "J. Njinmah",
+                    "player": "P. Schick",
                     "detail": "Normal Goal",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "90'",
-                    "player": "Aleix García",
-                    "detail": "Yellow Card",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "90'",
-                    "player": "R. Schmid",
-                    "detail": "Substitution 4",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "90'",
-                    "player": "Exequiel Palacios",
-                    "detail": "Yellow Card",
                     "team": "Bayer Leverkusen"
                 }
             ],
@@ -261,6 +273,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-03-16 18:30",
+                    "score": "3 - 4"
+                },
                 {
                     "date": "2025-03-08 14:30",
                     "score": "0 - 2"
@@ -275,10 +291,6 @@
                 },
                 {
                     "date": "2025-02-15 17:30",
-                    "score": "0 - 0"
-                },
-                {
-                    "date": "2025-02-08 14:30",
                     "score": "0 - 0"
                 }
             ],
@@ -1331,120 +1343,138 @@
         },
         {
             "team": "VfB Stuttgart",
-            "date": "2025-03-08 14:30",
-            "opponent": "Holstein Kiel",
-            "score": "2 - 2",
-            "stadium": "Holstein-Stadion",
-            "referee": "Bastian Dankert, Germany",
-            "league_round": "Regular Season - 25",
+            "date": "2025-03-16 18:30",
+            "opponent": "Bayer Leverkusen",
+            "score": "3 - 4",
+            "stadium": "MHPArena",
+            "referee": "Daniel Siebert, Germany",
+            "league_round": "Regular Season - 26",
             "events": [
                 {
-                    "time": "8'",
-                    "player": "Enzo Millot",
-                    "detail": "Yellow Card",
-                    "team": "VfB Stuttgart"
-                },
-                {
                     "time": "15'",
-                    "player": "J. Leweling",
+                    "player": "E. Demirovic",
                     "detail": "Normal Goal",
                     "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "30'",
-                    "player": "S. Skrzybski",
-                    "detail": "Normal Goal",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "46'",
-                    "player": "S. Skrzybski",
-                    "detail": "Normal Goal",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "46'",
-                    "player": "C. Führich",
-                    "detail": "Substitution 1",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "46'",
-                    "player": "D. Undav",
-                    "detail": "Substitution 2",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "52'",
-                    "player": "Leonidas Stergiou",
-                    "detail": "Red Card",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "55'",
-                    "player": "E. Demirović",
-                    "detail": "Normal Goal",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "61'",
-                    "player": "E. Millot",
-                    "detail": "Substitution 3",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "63'",
-                    "player": "S. Skrzybski",
-                    "detail": "Substitution 1",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "63'",
-                    "player": "M. Ivezić",
-                    "detail": "Substitution 2",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "77'",
-                    "player": "M. Komenda",
-                    "detail": "Substitution 3",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "77'",
-                    "player": "M. Knudsen",
-                    "detail": "Substitution 4",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "83'",
-                    "player": "Nicolai Remberg",
+                    "time": "27'",
+                    "player": "A. Karazor",
                     "detail": "Yellow Card",
-                    "team": "Holstein Kiel"
+                    "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "84'",
-                    "player": "A. Gigović",
-                    "detail": "Substitution 5",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "87'",
+                    "time": "48'",
                     "player": "N. Woltemade",
+                    "detail": "Normal Goal",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "51'",
+                    "player": "F. Jeltsch",
+                    "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "56'",
+                    "player": "J. Frimpong",
+                    "detail": "Normal Goal",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "57'",
+                    "player": "A. Adli",
+                    "detail": "Substitution 1",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "57'",
+                    "player": "V. Boniface",
+                    "detail": "Substitution 2",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "62'",
+                    "player": "G. Xhaka",
+                    "detail": "Own Goal",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "64'",
+                    "player": "N. Woltemade",
+                    "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "68'",
+                    "player": "D. Undav",
+                    "detail": "Substitution 1",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "68'",
+                    "player": "J. Vagnoman",
+                    "detail": "Substitution 2",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "68'",
+                    "player": "P. Hincapie",
+                    "detail": "Normal Goal",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "74'",
+                    "player": "R. Andrich",
+                    "detail": "Yellow Card",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "74'",
+                    "player": "Arthur",
+                    "detail": "Substitution 3",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "77'",
+                    "player": "P. Hincapie",
+                    "detail": "Yellow Card",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "77'",
+                    "player": "E. B. Toure",
+                    "detail": "Substitution 3",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "77'",
+                    "player": "J. Chabot",
                     "detail": "Substitution 4",
                     "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "90'",
-                    "player": "J. Leweling",
+                    "time": "88'",
+                    "player": "A. Stiller",
+                    "detail": "Own Goal",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "89'",
+                    "player": "C. Fuhrich",
                     "detail": "Substitution 5",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "90'",
-                    "player": "Jamie Leweling",
+                    "player": "X. Alonso",
                     "detail": "Yellow Card",
-                    "team": "VfB Stuttgart"
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "90'",
+                    "player": "P. Schick",
+                    "detail": "Normal Goal",
+                    "team": "Bayer Leverkusen"
                 }
             ],
             "odds": {
