@@ -3,6 +3,76 @@
     "past_matches": [
         {
             "fixture": {
+                "id": 1224202,
+                "referee": "Harm Osmers, Germany",
+                "timezone": "UTC",
+                "date": "2025-03-16T16:30:00+00:00",
+                "timestamp": 1742142600,
+                "periods": {
+                    "first": 1742142600,
+                    "second": 1742146200
+                },
+                "venue": {
+                    "id": 723,
+                    "name": "Voith-Arena",
+                    "city": "Heidenheim an der Brenz"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 6
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 26",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 180,
+                    "name": "1. FC Heidenheim",
+                    "logo": "https://media.api-sports.io/football/teams/180.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 191,
+                    "name": "Holstein Kiel",
+                    "logo": "https://media.api-sports.io/football/teams/191.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
                 "id": 1224199,
                 "referee": "Bastian Dankert, Germany",
                 "timezone": "UTC",
@@ -270,76 +340,6 @@
                 "fulltime": {
                     "home": 3,
                     "away": 1
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
-                "id": 1224163,
-                "referee": "Felix Zwayer, Germany",
-                "timezone": "UTC",
-                "date": "2025-02-09T14:30:00+00:00",
-                "timestamp": 1739111400,
-                "periods": {
-                    "first": 1739111400,
-                    "second": 1739115000
-                },
-                "venue": {
-                    "id": 725,
-                    "name": "Holstein-Stadion",
-                    "city": "Kiel"
-                },
-                "status": {
-                    "long": "Match Finished",
-                    "short": "FT",
-                    "elapsed": 90,
-                    "extra": 6
-                }
-            },
-            "league": {
-                "id": 78,
-                "name": "Bundesliga",
-                "country": "Germany",
-                "logo": "https://media.api-sports.io/football/leagues/78.png",
-                "flag": "https://media.api-sports.io/flags/de.svg",
-                "season": 2024,
-                "round": "Regular Season - 21",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 191,
-                    "name": "Holstein Kiel",
-                    "logo": "https://media.api-sports.io/football/teams/191.png",
-                    "winner": null
-                },
-                "away": {
-                    "id": 176,
-                    "name": "VfL Bochum",
-                    "logo": "https://media.api-sports.io/football/teams/176.png",
-                    "winner": null
-                }
-            },
-            "goals": {
-                "home": 2,
-                "away": 2
-            },
-            "score": {
-                "halftime": {
-                    "home": 1,
-                    "away": 2
-                },
-                "fulltime": {
-                    "home": 2,
-                    "away": 2
                 },
                 "extratime": {
                     "home": null,
