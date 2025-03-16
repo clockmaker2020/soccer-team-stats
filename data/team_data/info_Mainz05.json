@@ -61,7 +61,7 @@
             },
             "player": {
                 "id": 125173,
-                "name": "J. Adamu"
+                "name": "Junior Adamu"
             },
             "assist": {
                 "id": null,
@@ -69,7 +69,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Roughing"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -83,7 +83,7 @@
             },
             "player": {
                 "id": 25915,
-                "name": "P. Mwene"
+                "name": "Phillipp Mwene"
             },
             "assist": {
                 "id": null,
@@ -91,7 +91,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": null
+            "comments": "Foul"
         },
         {
             "time": {
@@ -127,7 +127,7 @@
             },
             "player": {
                 "id": 979,
-                "name": "D. Kohr"
+                "name": "Dominik Kohr"
             },
             "assist": {
                 "id": null,
@@ -135,11 +135,33 @@
             },
             "type": "Card",
             "detail": "Red Card",
-            "comments": "Holding"
+            "comments": "Professional foul last man"
         },
         {
             "time": {
-                "elapsed": 46,
+                "elapsed": 43,
+                "extra": null
+            },
+            "team": {
+                "id": 164,
+                "name": "FSV Mainz 05",
+                "logo": "https://media.api-sports.io/football/teams/164.png"
+            },
+            "player": {
+                "id": 979,
+                "name": "Dominik Kohr"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Var",
+            "detail": "Card upgrade",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 43,
                 "extra": null
             },
             "team": {
@@ -148,15 +170,15 @@
                 "logo": "https://media.api-sports.io/football/teams/160.png"
             },
             "player": {
-                "id": 25297,
-                "name": "M. Gregoritsch"
+                "id": 26255,
+                "name": "Lucas Höler"
             },
             "assist": {
-                "id": 125173,
-                "name": "J. Adamu"
+                "id": null,
+                "name": null
             },
-            "type": "subst",
-            "detail": "Substitution 1",
+            "type": "Var",
+            "detail": "Penalty cancelled",
             "comments": null
         },
         {
@@ -170,12 +192,34 @@
                 "logo": "https://media.api-sports.io/football/teams/164.png"
             },
             "player": {
+                "id": 25915,
+                "name": "P. Mwene"
+            },
+            "assist": {
                 "id": 39279,
                 "name": "A. Hanche-Olsen"
             },
+            "type": "subst",
+            "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 46,
+                "extra": null
+            },
+            "team": {
+                "id": 160,
+                "name": "SC Freiburg",
+                "logo": "https://media.api-sports.io/football/teams/160.png"
+            },
+            "player": {
+                "id": 125173,
+                "name": "J. Adamu"
+            },
             "assist": {
-                "id": 25915,
-                "name": "P. Mwene"
+                "id": 25297,
+                "name": "M. Gregoritsch"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -197,7 +241,7 @@
             },
             "assist": {
                 "id": 26236,
-                "name": "C. Gunter"
+                "name": "C. Günter"
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -236,12 +280,12 @@
                 "logo": "https://media.api-sports.io/football/teams/160.png"
             },
             "player": {
-                "id": 26250,
-                "name": "N. Hofler"
+                "id": 191233,
+                "name": "K. Sildillia"
             },
             "assist": {
-                "id": 2917,
-                "name": "M. Eggestein"
+                "id": 26239,
+                "name": "L. Kübler"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -258,12 +302,12 @@
                 "logo": "https://media.api-sports.io/football/teams/160.png"
             },
             "player": {
-                "id": 26239,
-                "name": "L. Kubler"
+                "id": 2917,
+                "name": "M. Eggestein"
             },
             "assist": {
-                "id": 191233,
-                "name": "K. Sildillia"
+                "id": 26250,
+                "name": "N. Höfler"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -281,7 +325,7 @@
             },
             "player": {
                 "id": 26239,
-                "name": "L. Kubler"
+                "name": "L. Kübler"
             },
             "assist": {
                 "id": 2598,
@@ -293,7 +337,7 @@
         },
         {
             "time": {
-                "elapsed": 86,
+                "elapsed": 85,
                 "extra": null
             },
             "team": {
@@ -302,12 +346,12 @@
                 "logo": "https://media.api-sports.io/football/teams/160.png"
             },
             "player": {
-                "id": 25313,
-                "name": "J. Beste"
-            },
-            "assist": {
                 "id": 26248,
                 "name": "V. Grifo"
+            },
+            "assist": {
+                "id": 25313,
+                "name": "J. Beste"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -325,7 +369,7 @@
             },
             "player": {
                 "id": 26255,
-                "name": "L. Holer"
+                "name": "Lucas Höler"
             },
             "assist": {
                 "id": null,
@@ -333,7 +377,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Holding"
+            "comments": "Foul"
         }
     ],
     "statistics": [
