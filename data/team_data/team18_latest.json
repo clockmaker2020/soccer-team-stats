@@ -131,7 +131,7 @@
             "opponent": "Werder Bremen",
             "score": "0 - 2",
             "stadium": "BayArena",
-            "referee": "Tobias Welz, Germany",
+            "referee": "T. Welz",
             "league_round": "Regular Season - 25",
             "events": [
                 {
@@ -864,7 +864,7 @@
             "opponent": "Werder Bremen",
             "score": "2 - 4",
             "stadium": "Weserstadion",
-            "referee": "T. Gerach",
+            "referee": "Timo Gerach, Germany",
             "league_round": "Regular Season - 26",
             "events": [
                 {
@@ -1597,7 +1597,7 @@
             "opponent": "Borussia Mönchengladbach",
             "score": "2 - 4",
             "stadium": "Weserstadion",
-            "referee": "T. Gerach",
+            "referee": "Timo Gerach, Germany",
             "league_round": "Regular Season - 26",
             "events": [
                 {
@@ -2133,7 +2133,7 @@
             "opponent": "Bayern München",
             "score": "2 - 3",
             "stadium": "Allianz Arena",
-            "referee": "Christian Dingert, Germany",
+            "referee": "C. Dingert",
             "league_round": "Regular Season - 25",
             "events": [
                 {
