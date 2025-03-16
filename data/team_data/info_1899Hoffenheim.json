@@ -661,9 +661,8 @@
                 }
             ],
             "coach": {
-                "id": 5330,
-                "name": "A. Blessin",
-                "photo": "https://media.api-sports.io/football/coachs/5330.png"
+                "id": null,
+                "name": null
             }
         },
         {
@@ -870,9 +869,8 @@
                 }
             ],
             "coach": {
-                "id": 1918,
-                "name": "C. Ilzer",
-                "photo": "https://media.api-sports.io/football/coachs/1918.png"
+                "id": null,
+                "name": null
             }
         }
     ],
