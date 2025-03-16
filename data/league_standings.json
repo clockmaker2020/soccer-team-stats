@@ -14,7 +14,7 @@
             "team": {
                 "name": "Bayer Leverkusen"
             },
-            "wins": 15,
+            "wins": 16,
             "draws": 8,
             "losses": 2
         },
@@ -88,7 +88,7 @@
             },
             "wins": 10,
             "draws": 7,
-            "losses": 8
+            "losses": 9
         },
         {
             "rank": 11,
