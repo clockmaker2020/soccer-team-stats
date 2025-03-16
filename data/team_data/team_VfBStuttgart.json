@@ -3,6 +3,76 @@
     "past_matches": [
         {
             "fixture": {
+                "id": 1224200,
+                "referee": "Daniel Siebert, Germany",
+                "timezone": "UTC",
+                "date": "2025-03-16T18:30:00+00:00",
+                "timestamp": 1742149800,
+                "periods": {
+                    "first": 1742149800,
+                    "second": 1742153400
+                },
+                "venue": {
+                    "id": 20473,
+                    "name": "MHPArena",
+                    "city": "Stuttgart"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 6
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 26",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 172,
+                    "name": "VfB Stuttgart",
+                    "logo": "https://media.api-sports.io/football/teams/172.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 168,
+                    "name": "Bayer Leverkusen",
+                    "logo": "https://media.api-sports.io/football/teams/168.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
                 "id": 1224199,
                 "referee": "Bastian Dankert, Germany",
                 "timezone": "UTC",
@@ -255,76 +325,6 @@
                     "id": 161,
                     "name": "VfL Wolfsburg",
                     "logo": "https://media.api-sports.io/football/teams/161.png",
-                    "winner": true
-                }
-            },
-            "goals": {
-                "home": 1,
-                "away": 2
-            },
-            "score": {
-                "halftime": {
-                    "home": 0,
-                    "away": 0
-                },
-                "fulltime": {
-                    "home": 1,
-                    "away": 2
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
-                "id": 1224157,
-                "referee": "Daniel Siebert, Germany",
-                "timezone": "UTC",
-                "date": "2025-02-08T14:30:00+00:00",
-                "timestamp": 1739025000,
-                "periods": {
-                    "first": 1739025000,
-                    "second": 1739028600
-                },
-                "venue": {
-                    "id": 19381,
-                    "name": "SIGNAL IDUNA PARK",
-                    "city": "Dortmund"
-                },
-                "status": {
-                    "long": "Match Finished",
-                    "short": "FT",
-                    "elapsed": 90,
-                    "extra": 7
-                }
-            },
-            "league": {
-                "id": 78,
-                "name": "Bundesliga",
-                "country": "Germany",
-                "logo": "https://media.api-sports.io/football/leagues/78.png",
-                "flag": "https://media.api-sports.io/flags/de.svg",
-                "season": 2024,
-                "round": "Regular Season - 21",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 165,
-                    "name": "Borussia Dortmund",
-                    "logo": "https://media.api-sports.io/football/teams/165.png",
-                    "winner": false
-                },
-                "away": {
-                    "id": 172,
-                    "name": "VfB Stuttgart",
-                    "logo": "https://media.api-sports.io/football/teams/172.png",
                     "winner": true
                 }
             },
