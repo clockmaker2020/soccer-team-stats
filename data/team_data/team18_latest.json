@@ -2356,120 +2356,114 @@
         },
         {
             "team": "Holstein Kiel",
-            "date": "2025-03-08 14:30",
-            "opponent": "VfB Stuttgart",
-            "score": "2 - 2",
-            "stadium": "Holstein-Stadion",
-            "referee": "Bastian Dankert, Germany",
-            "league_round": "Regular Season - 25",
+            "date": "2025-03-16 16:30",
+            "opponent": "1. FC Heidenheim",
+            "score": "3 - 1",
+            "stadium": "Voith-Arena",
+            "referee": "Harm Osmers, Germany",
+            "league_round": "Regular Season - 26",
             "events": [
                 {
-                    "time": "8'",
-                    "player": "Enzo Millot",
-                    "detail": "Yellow Card",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "15'",
-                    "player": "J. Leweling",
+                    "time": "33'",
+                    "player": "M. Pieringer",
                     "detail": "Normal Goal",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "30'",
-                    "player": "S. Skrzybski",
-                    "detail": "Normal Goal",
-                    "team": "Holstein Kiel"
+                    "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "46'",
-                    "player": "S. Skrzybski",
-                    "detail": "Normal Goal",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "46'",
-                    "player": "C. Führich",
-                    "detail": "Substitution 1",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "46'",
-                    "player": "D. Undav",
-                    "detail": "Substitution 2",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "52'",
-                    "player": "Leonidas Stergiou",
-                    "detail": "Red Card",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "55'",
-                    "player": "E. Demirović",
-                    "detail": "Normal Goal",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "61'",
-                    "player": "E. Millot",
-                    "detail": "Substitution 3",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "63'",
-                    "player": "S. Skrzybski",
+                    "player": "A. Bernhardsson",
                     "detail": "Substitution 1",
                     "team": "Holstein Kiel"
                 },
                 {
-                    "time": "63'",
-                    "player": "M. Ivezić",
+                    "time": "46'",
+                    "player": "P. Harres",
                     "detail": "Substitution 2",
                     "team": "Holstein Kiel"
                 },
                 {
-                    "time": "77'",
+                    "time": "47'",
+                    "player": "B. Zivzivadze",
+                    "detail": "Normal Goal",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "54'",
                     "player": "M. Komenda",
+                    "detail": "Yellow Card",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "56'",
+                    "player": "L. Holtby",
                     "detail": "Substitution 3",
                     "team": "Holstein Kiel"
                 },
                 {
-                    "time": "77'",
-                    "player": "M. Knudsen",
+                    "time": "56'",
+                    "player": "J. Arp",
                     "detail": "Substitution 4",
                     "team": "Holstein Kiel"
                 },
                 {
-                    "time": "83'",
-                    "player": "Nicolai Remberg",
+                    "time": "57'",
+                    "player": "O. H. Traore",
+                    "detail": "Yellow Card",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "75'",
+                    "player": "L. Scienza",
+                    "detail": "Substitution 1",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "78'",
+                    "player": "P. Harres",
                     "detail": "Yellow Card",
                     "team": "Holstein Kiel"
                 },
                 {
-                    "time": "84'",
-                    "player": "A. Gigović",
+                    "time": "80'",
+                    "player": "T. Keller",
+                    "detail": "Substitution 2",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "81'",
+                    "player": "J. Tolkin",
                     "detail": "Substitution 5",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "85'",
+                    "player": "J. Arp",
+                    "detail": "Yellow Card",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "87'",
-                    "player": "N. Woltemade",
+                    "player": "P. Harres",
+                    "detail": "Normal Goal",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "88'",
+                    "player": "L. Kerber",
+                    "detail": "Substitution 3",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "89'",
+                    "player": "S. Conteh",
                     "detail": "Substitution 4",
-                    "team": "VfB Stuttgart"
+                    "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "90'",
-                    "player": "J. Leweling",
-                    "detail": "Substitution 5",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "90'",
-                    "player": "Jamie Leweling",
-                    "detail": "Yellow Card",
-                    "team": "VfB Stuttgart"
+                    "player": "S. Conteh",
+                    "detail": "Normal Goal",
+                    "team": "1. FC Heidenheim"
                 }
             ],
             "odds": {
@@ -2517,89 +2511,113 @@
         },
         {
             "team": "1. FC Heidenheim",
-            "date": "2025-03-09 16:30",
-            "opponent": "1899 Hoffenheim",
-            "score": "1 - 1",
-            "stadium": "PreZero Arena",
-            "referee": "Daniel Schlager, Germany",
-            "league_round": "Regular Season - 25",
+            "date": "2025-03-16 16:30",
+            "opponent": "Holstein Kiel",
+            "score": "3 - 1",
+            "stadium": "Voith-Arena",
+            "referee": "Harm Osmers, Germany",
+            "league_round": "Regular Season - 26",
             "events": [
                 {
-                    "time": "5'",
-                    "player": "D. Samassékou",
-                    "detail": "Substitution 1",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "9'",
-                    "player": "Tim Siersleben",
-                    "detail": "Yellow Card",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "13'",
-                    "player": "Marvin Pieringer",
-                    "detail": "Yellow Card",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "34'",
-                    "player": "H. Tabaković",
+                    "time": "33'",
+                    "player": "M. Pieringer",
                     "detail": "Normal Goal",
-                    "team": "1899 Hoffenheim"
+                    "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "46'",
-                    "player": "T. Siersleben",
+                    "player": "A. Bernhardsson",
                     "detail": "Substitution 1",
-                    "team": "1. FC Heidenheim"
+                    "team": "Holstein Kiel"
                 },
                 {
-                    "time": "65'",
+                    "time": "46'",
+                    "player": "P. Harres",
+                    "detail": "Substitution 2",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "47'",
                     "player": "B. Zivzivadze",
                     "detail": "Normal Goal",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "69'",
-                    "player": "V. Gendrey",
-                    "detail": "Substitution 2",
-                    "team": "1899 Hoffenheim"
+                    "time": "54'",
+                    "player": "M. Komenda",
+                    "detail": "Yellow Card",
+                    "team": "Holstein Kiel"
                 },
                 {
-                    "time": "70'",
-                    "player": "N. Dorsch",
-                    "detail": "Substitution 2",
+                    "time": "56'",
+                    "player": "L. Holtby",
+                    "detail": "Substitution 3",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "56'",
+                    "player": "J. Arp",
+                    "detail": "Substitution 4",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "57'",
+                    "player": "O. H. Traore",
+                    "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "75'",
+                    "player": "L. Scienza",
+                    "detail": "Substitution 1",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "78'",
+                    "player": "P. Harres",
+                    "detail": "Yellow Card",
+                    "team": "Holstein Kiel"
                 },
                 {
                     "time": "80'",
-                    "player": "G. Orban",
-                    "detail": "Substitution 3",
-                    "team": "1899 Hoffenheim"
+                    "player": "T. Keller",
+                    "detail": "Substitution 2",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "81'",
+                    "player": "J. Tolkin",
+                    "detail": "Substitution 5",
+                    "team": "Holstein Kiel"
                 },
                 {
                     "time": "85'",
-                    "player": "M. Pieringer",
+                    "player": "J. Arp",
+                    "detail": "Yellow Card",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "87'",
+                    "player": "P. Harres",
+                    "detail": "Normal Goal",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "88'",
+                    "player": "L. Kerber",
                     "detail": "Substitution 3",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "90'",
-                    "player": "Finn Ole Becker",
-                    "detail": "Yellow Card",
-                    "team": "1899 Hoffenheim"
+                    "time": "89'",
+                    "player": "S. Conteh",
+                    "detail": "Substitution 4",
+                    "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "90'",
-                    "player": "Arthur Chaves",
-                    "detail": "Yellow Card",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "90'",
-                    "player": "Haktab Omar Traore",
-                    "detail": "Yellow Card",
+                    "player": "S. Conteh",
+                    "detail": "Normal Goal",
                     "team": "1. FC Heidenheim"
                 }
             ],
@@ -2609,6 +2627,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-03-16 16:30",
+                    "score": "3 - 1"
+                },
                 {
                     "date": "2025-03-09 16:30",
                     "score": "1 - 1"
@@ -2624,10 +2646,6 @@
                 {
                     "date": "2025-02-16 18:30",
                     "score": "0 - 2"
-                },
-                {
-                    "date": "2025-02-08 14:30",
-                    "score": "1 - 0"
                 }
             ],
             "future_games": [
