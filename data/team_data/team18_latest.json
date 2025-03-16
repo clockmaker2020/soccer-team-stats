@@ -429,7 +429,7 @@
             "opponent": "Union Berlin",
             "score": "1 - 2",
             "stadium": "Deutsche Bank Park",
-            "referee": "Frank Willenborg, Germany",
+            "referee": "F. Willenborg",
             "league_round": "Regular Season - 25",
             "events": [
                 {
@@ -864,7 +864,7 @@
             "opponent": "Werder Bremen",
             "score": "2 - 4",
             "stadium": "Weserstadion",
-            "referee": "Timo Gerach, Germany",
+            "referee": "T. Gerach",
             "league_round": "Regular Season - 26",
             "events": [
                 {
@@ -1287,7 +1287,7 @@
             "opponent": "Holstein Kiel",
             "score": "2 - 2",
             "stadium": "Holstein-Stadion",
-            "referee": "Bastian Dankert, Germany",
+            "referee": "B. Dankert",
             "league_round": "Regular Season - 25",
             "events": [
                 {
@@ -1597,7 +1597,7 @@
             "opponent": "Borussia Mönchengladbach",
             "score": "2 - 4",
             "stadium": "Weserstadion",
-            "referee": "Timo Gerach, Germany",
+            "referee": "T. Gerach",
             "league_round": "Regular Season - 26",
             "events": [
                 {
@@ -1895,7 +1895,7 @@
             "opponent": "FC St. Pauli",
             "score": "1 - 0",
             "stadium": "Millerntor-Stadion",
-            "referee": "Felix Brych, Germany",
+            "referee": "F. Brych",
             "league_round": "Regular Season - 26",
             "events": [
                 {
@@ -2014,7 +2014,7 @@
             "opponent": "1899 Hoffenheim",
             "score": "1 - 0",
             "stadium": "Millerntor-Stadion",
-            "referee": "Felix Brych, Germany",
+            "referee": "F. Brych",
             "league_round": "Regular Season - 26",
             "events": [
                 {
@@ -2312,7 +2312,7 @@
             "opponent": "VfB Stuttgart",
             "score": "2 - 2",
             "stadium": "Holstein-Stadion",
-            "referee": "Bastian Dankert, Germany",
+            "referee": "B. Dankert",
             "league_round": "Regular Season - 25",
             "events": [
                 {
@@ -2473,7 +2473,7 @@
             "opponent": "1899 Hoffenheim",
             "score": "1 - 1",
             "stadium": "PreZero Arena",
-            "referee": "Daniel Schlager, Germany",
+            "referee": "D. Schlager",
             "league_round": "Regular Season - 25",
             "events": [
                 {
