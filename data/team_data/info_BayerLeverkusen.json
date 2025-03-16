@@ -800,6 +800,42 @@
             "substitutes": [
                 {
                     "player": {
+                        "id": 24868,
+                        "name": "Josha Vagnoman",
+                        "number": 4,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 26475,
+                        "name": "Deniz Undav",
+                        "number": 26,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 38112,
+                        "name": "Julian Chabot",
+                        "number": 24,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 194750,
+                        "name": "El Bilal Touré",
+                        "number": 10,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 25597,
                         "name": "Fabian Bredlow",
                         "number": 1,
@@ -827,24 +863,6 @@
                 },
                 {
                     "player": {
-                        "id": 38112,
-                        "name": "Julian Chabot",
-                        "number": 24,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 24868,
-                        "name": "Josha Vagnoman",
-                        "number": 4,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 22,
                         "name": "Jacob Bruun Larsen",
                         "number": 25,
@@ -858,24 +876,6 @@
                         "name": "Chris Führich",
                         "number": 27,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 194750,
-                        "name": "El Bilal Touré",
-                        "number": 10,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 26475,
-                        "name": "Deniz Undav",
-                        "number": 26,
-                        "pos": "F",
                         "grid": null
                     }
                 }
@@ -1009,6 +1009,33 @@
             "substitutes": [
                 {
                     "player": {
+                        "id": 39071,
+                        "name": "Victor Okoh Boniface",
+                        "number": 22,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 129682,
+                        "name": "Amine Adli",
+                        "number": 21,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 352375,
+                        "name": "Arthur",
+                        "number": 13,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 25168,
                         "name": "Niklas Lomb",
                         "number": 36,
@@ -1022,15 +1049,6 @@
                         "name": "Matěj Kovář",
                         "number": 17,
                         "pos": "G",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 352375,
-                        "name": "Arthur",
-                        "number": 13,
-                        "pos": "D",
                         "grid": null
                     }
                 },
@@ -1067,24 +1085,6 @@
                         "name": "Jonas Hofmann",
                         "number": 7,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 39071,
-                        "name": "Victor Okoh Boniface",
-                        "number": 22,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 129682,
-                        "name": "Amine Adli",
-                        "number": 21,
-                        "pos": "F",
                         "grid": null
                     }
                 }
