@@ -73,7 +73,7 @@
         },
         {
             "time": {
-                "elapsed": 28,
+                "elapsed": 27,
                 "extra": null
             },
             "team": {
@@ -426,7 +426,7 @@
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "45%"
+                    "value": "44%"
                 },
                 {
                     "type": "Yellow Cards",
@@ -442,11 +442,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 378
+                    "value": 376
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 287
+                    "value": 285
                 },
                 {
                     "type": "Passes %",
@@ -507,7 +507,7 @@
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "55%"
+                    "value": "56%"
                 },
                 {
                     "type": "Yellow Cards",
@@ -523,11 +523,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 455
+                    "value": 459
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 370
+                    "value": 372
                 },
                 {
                     "type": "Passes %",
@@ -535,7 +535,7 @@
                 },
                 {
                     "type": "expected_goals",
-                    "value": "2.65"
+                    "value": "3.14"
                 },
                 {
                     "type": "goals_prevented",
