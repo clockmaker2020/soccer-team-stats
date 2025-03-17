@@ -51,7 +51,7 @@
     "events": [
         {
             "time": {
-                "elapsed": 15,
+                "elapsed": 14,
                 "extra": null
             },
             "team": {
@@ -61,7 +61,7 @@
             },
             "player": {
                 "id": 46930,
-                "name": "E. Demirovic"
+                "name": "E. Demirović"
             },
             "assist": {
                 "id": null,
@@ -83,7 +83,7 @@
             },
             "player": {
                 "id": 24963,
-                "name": "A. Karazor"
+                "name": "Atakan Karazor"
             },
             "assist": {
                 "id": null,
@@ -91,7 +91,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Holding"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -127,7 +127,7 @@
             },
             "player": {
                 "id": 394734,
-                "name": "F. Jeltsch"
+                "name": "Finn Jeltsch"
             },
             "assist": {
                 "id": null,
@@ -135,7 +135,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Tripping"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -170,12 +170,12 @@
                 "logo": "https://media.api-sports.io/football/teams/168.png"
             },
             "player": {
-                "id": 129682,
-                "name": "A. Adli"
+                "id": 563,
+                "name": "Álex Grimaldo"
             },
             "assist": {
-                "id": 47516,
-                "name": "A. Garcia"
+                "id": 39071,
+                "name": "V. Boniface"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -192,12 +192,12 @@
                 "logo": "https://media.api-sports.io/football/teams/168.png"
             },
             "player": {
-                "id": 39071,
-                "name": "V. Boniface"
+                "id": 47516,
+                "name": "Aleix García"
             },
             "assist": {
-                "id": 563,
-                "name": "A. Grimaldo"
+                "id": 129682,
+                "name": "A. Adli"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -237,7 +237,7 @@
             },
             "player": {
                 "id": 158054,
-                "name": "N. Woltemade"
+                "name": "Nick Woltemade"
             },
             "assist": {
                 "id": null,
@@ -245,7 +245,29 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Unsportsmanlike conduct"
+            "comments": "Foul"
+        },
+        {
+            "time": {
+                "elapsed": 67,
+                "extra": null
+            },
+            "team": {
+                "id": 168,
+                "name": "Bayer Leverkusen",
+                "logo": "https://media.api-sports.io/football/teams/168.png"
+            },
+            "player": {
+                "id": 127817,
+                "name": "P. Hincapié"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
         },
         {
             "time": {
@@ -258,12 +280,12 @@
                 "logo": "https://media.api-sports.io/football/teams/172.png"
             },
             "player": {
-                "id": 26475,
-                "name": "D. Undav"
-            },
-            "assist": {
                 "id": 162887,
                 "name": "E. Millot"
+            },
+            "assist": {
+                "id": 26475,
+                "name": "D. Undav"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -280,12 +302,12 @@
                 "logo": "https://media.api-sports.io/football/teams/172.png"
             },
             "player": {
-                "id": 24868,
-                "name": "J. Vagnoman"
-            },
-            "assist": {
                 "id": 128533,
                 "name": "J. Leweling"
+            },
+            "assist": {
+                "id": 24868,
+                "name": "J. Vagnoman"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -293,28 +315,6 @@
         },
         {
             "time": {
-                "elapsed": 68,
-                "extra": null
-            },
-            "team": {
-                "id": 168,
-                "name": "Bayer Leverkusen",
-                "logo": "https://media.api-sports.io/football/teams/168.png"
-            },
-            "player": {
-                "id": 127817,
-                "name": "P. Hincapie"
-            },
-            "assist": {
-                "id": 1146,
-                "name": "N. Mukiele"
-            },
-            "type": "Goal",
-            "detail": "Normal Goal",
-            "comments": null
-        },
-        {
-            "time": {
                 "elapsed": 74,
                 "extra": null
             },
@@ -328,30 +328,8 @@
                 "name": "R. Andrich"
             },
             "assist": {
-                "id": null,
-                "name": null
-            },
-            "type": "Card",
-            "detail": "Yellow Card",
-            "comments": "Roughing"
-        },
-        {
-            "time": {
-                "elapsed": 74,
-                "extra": null
-            },
-            "team": {
-                "id": 168,
-                "name": "Bayer Leverkusen",
-                "logo": "https://media.api-sports.io/football/teams/168.png"
-            },
-            "player": {
                 "id": 352375,
                 "name": "Arthur"
-            },
-            "assist": {
-                "id": 24903,
-                "name": "R. Andrich"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -359,7 +337,29 @@
         },
         {
             "time": {
-                "elapsed": 77,
+                "elapsed": 74,
+                "extra": null
+            },
+            "team": {
+                "id": 168,
+                "name": "Bayer Leverkusen",
+                "logo": "https://media.api-sports.io/football/teams/168.png"
+            },
+            "player": {
+                "id": 24903,
+                "name": "Robert Andrich"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Argument"
+        },
+        {
+            "time": {
+                "elapsed": 76,
                 "extra": null
             },
             "team": {
@@ -369,7 +369,7 @@
             },
             "player": {
                 "id": 127817,
-                "name": "P. Hincapie"
+                "name": "Piero Hincapié"
             },
             "assist": {
                 "id": null,
@@ -390,12 +390,12 @@
                 "logo": "https://media.api-sports.io/football/teams/172.png"
             },
             "player": {
-                "id": 194750,
-                "name": "E. B. Toure"
+                "id": 46930,
+                "name": "E. Demirović"
             },
             "assist": {
-                "id": 46930,
-                "name": "E. Demirovic"
+                "id": 194750,
+                "name": "E. Touré"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -412,12 +412,12 @@
                 "logo": "https://media.api-sports.io/football/teams/172.png"
             },
             "player": {
-                "id": 38112,
-                "name": "J. Chabot"
-            },
-            "assist": {
                 "id": 323449,
                 "name": "A. Al Dakhil"
+            },
+            "assist": {
+                "id": 38112,
+                "name": "J. Chabot"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -456,37 +456,15 @@
                 "logo": "https://media.api-sports.io/football/teams/172.png"
             },
             "player": {
-                "id": 24798,
-                "name": "C. Fuhrich"
+                "id": 25342,
+                "name": "M. Mittelstädt"
             },
             "assist": {
-                "id": 25342,
-                "name": "M. Mittelstadt"
+                "id": 24798,
+                "name": "C. Führich"
             },
             "type": "subst",
             "detail": "Substitution 5",
-            "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 90,
-                "extra": 1
-            },
-            "team": {
-                "id": 168,
-                "name": "Bayer Leverkusen",
-                "logo": "https://media.api-sports.io/football/teams/168.png"
-            },
-            "player": {
-                "id": 90657,
-                "name": "X. Alonso"
-            },
-            "assist": {
-                "id": null,
-                "name": null
-            },
-            "type": "Card",
-            "detail": "Yellow Card",
             "comments": null
         },
         {
