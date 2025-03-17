@@ -23,13 +23,13 @@
                 },
                 {
                     "time": "62'",
-                    "player": "A. Ilić",
+                    "player": "J. Haberer",
                     "detail": "Substitution 1",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "62'",
-                    "player": "J. Haberer",
+                    "player": "A. Ilić",
                     "detail": "Substitution 2",
                     "team": "Union Berlin"
                 },
@@ -64,7 +64,7 @@
                     "team": "Union Berlin"
                 },
                 {
-                    "time": "82'",
+                    "time": "81'",
                     "player": "Jeong Wooyeong",
                     "detail": "Substitution 5",
                     "team": "Union Berlin"
@@ -79,12 +79,6 @@
                     "time": "83'",
                     "player": "B. Hollerbach",
                     "detail": "Normal Goal",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "90'",
-                    "player": "Tom Rothe",
-                    "detail": "Yellow Card",
                     "team": "Union Berlin"
                 }
             ],
@@ -320,7 +314,7 @@
                     "team": "SC Freiburg"
                 },
                 {
-                    "time": "28'",
+                    "time": "27'",
                     "player": "Phillipp Mwene",
                     "detail": "Yellow Card",
                     "team": "FSV Mainz 05"
@@ -779,7 +773,7 @@
                     "team": "SC Freiburg"
                 },
                 {
-                    "time": "28'",
+                    "time": "27'",
                     "player": "Phillipp Mwene",
                     "detail": "Yellow Card",
                     "team": "FSV Mainz 05"
@@ -988,7 +982,7 @@
                     "team": "Borussia Mönchengladbach"
                 },
                 {
-                    "time": "71'",
+                    "time": "72'",
                     "player": "J. Omlin",
                     "detail": "Substitution 3",
                     "team": "Borussia Mönchengladbach"
@@ -1119,7 +1113,7 @@
                     "team": "VfL Wolfsburg"
                 },
                 {
-                    "time": "71'",
+                    "time": "70'",
                     "player": "F. Jensen",
                     "detail": "Substitution 1",
                     "team": "FC Augsburg"
@@ -1244,7 +1238,7 @@
                     "team": "VfL Wolfsburg"
                 },
                 {
-                    "time": "71'",
+                    "time": "70'",
                     "player": "F. Jensen",
                     "detail": "Substitution 1",
                     "team": "FC Augsburg"
@@ -1739,7 +1733,7 @@
                     "team": "Borussia Mönchengladbach"
                 },
                 {
-                    "time": "71'",
+                    "time": "72'",
                     "player": "J. Omlin",
                     "detail": "Substitution 3",
                     "team": "Borussia Mönchengladbach"
@@ -1859,13 +1853,13 @@
                 },
                 {
                     "time": "62'",
-                    "player": "A. Ilić",
+                    "player": "J. Haberer",
                     "detail": "Substitution 1",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "62'",
-                    "player": "J. Haberer",
+                    "player": "A. Ilić",
                     "detail": "Substitution 2",
                     "team": "Union Berlin"
                 },
@@ -1900,7 +1894,7 @@
                     "team": "Union Berlin"
                 },
                 {
-                    "time": "82'",
+                    "time": "81'",
                     "player": "Jeong Wooyeong",
                     "detail": "Substitution 5",
                     "team": "Union Berlin"
@@ -1915,12 +1909,6 @@
                     "time": "83'",
                     "player": "B. Hollerbach",
                     "detail": "Normal Goal",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "90'",
-                    "player": "Tom Rothe",
-                    "detail": "Yellow Card",
                     "team": "Union Berlin"
                 }
             ],
