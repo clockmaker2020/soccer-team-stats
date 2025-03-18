@@ -6,7 +6,7 @@
             "opponent": "Union Berlin",
             "score": "1 - 1",
             "stadium": "Stadion An der Alten Försterei",
-            "referee": "Florian Exner, Germany",
+            "referee": "F. Exner",
             "league_round": "Regular Season - 26",
             "events": [
                 {
@@ -131,7 +131,7 @@
             "opponent": "VfB Stuttgart",
             "score": "3 - 4",
             "stadium": "MHPArena",
-            "referee": "Daniel Siebert, Germany",
+            "referee": "D. Siebert",
             "league_round": "Regular Season - 26",
             "events": [
                 {
@@ -304,7 +304,7 @@
             "opponent": "SC Freiburg",
             "score": "2 - 2",
             "stadium": "MEWA ARENA",
-            "referee": "Benjamin Brand, Germany",
+            "referee": "B. Brand",
             "league_round": "Regular Season - 26",
             "events": [
                 {
@@ -447,7 +447,7 @@
             "opponent": "VfL Bochum",
             "score": "1 - 3",
             "stadium": "Vonovia Ruhrstadion",
-            "referee": "Felix Zwayer, Germany",
+            "referee": "F. Zwayer",
             "league_round": "Regular Season - 26",
             "events": [
                 {
@@ -614,7 +614,7 @@
             "opponent": "Borussia Dortmund",
             "score": "2 - 0",
             "stadium": "Red Bull Arena",
-            "referee": "Matthias Jollenbeck, Germany",
+            "referee": "M. Jöllenbeck",
             "league_round": "Regular Season - 26",
             "events": [
                 {
@@ -763,7 +763,7 @@
             "opponent": "FSV Mainz 05",
             "score": "2 - 2",
             "stadium": "MEWA ARENA",
-            "referee": "Benjamin Brand, Germany",
+            "referee": "B. Brand",
             "league_round": "Regular Season - 26",
             "events": [
                 {
@@ -906,7 +906,7 @@
             "opponent": "Werder Bremen",
             "score": "2 - 4",
             "stadium": "Weserstadion",
-            "referee": "Timo Gerach, Germany",
+            "referee": "T. Gerach",
             "league_round": "Regular Season - 26",
             "events": [
                 {
@@ -1085,7 +1085,7 @@
             "opponent": "FC Augsburg",
             "score": "1 - 0",
             "stadium": "WWK Arena",
-            "referee": "Martin Petersen, Germany",
+            "referee": "M. Petersen",
             "league_round": "Regular Season - 26",
             "events": [
                 {
@@ -1210,7 +1210,7 @@
             "opponent": "VfL Wolfsburg",
             "score": "1 - 0",
             "stadium": "WWK Arena",
-            "referee": "Martin Petersen, Germany",
+            "referee": "M. Petersen",
             "league_round": "Regular Season - 26",
             "events": [
                 {
@@ -1335,7 +1335,7 @@
             "opponent": "Bayer Leverkusen",
             "score": "3 - 4",
             "stadium": "MHPArena",
-            "referee": "Daniel Siebert, Germany",
+            "referee": "D. Siebert",
             "league_round": "Regular Season - 26",
             "events": [
                 {
@@ -1508,7 +1508,7 @@
             "opponent": "RB Leipzig",
             "score": "2 - 0",
             "stadium": "Red Bull Arena",
-            "referee": "Matthias Jollenbeck, Germany",
+            "referee": "M. Jöllenbeck",
             "league_round": "Regular Season - 26",
             "events": [
                 {
@@ -1657,7 +1657,7 @@
             "opponent": "Borussia Mönchengladbach",
             "score": "2 - 4",
             "stadium": "Weserstadion",
-            "referee": "Timo Gerach, Germany",
+            "referee": "T. Gerach",
             "league_round": "Regular Season - 26",
             "events": [
                 {
@@ -1836,7 +1836,7 @@
             "opponent": "Bayern München",
             "score": "1 - 1",
             "stadium": "Stadion An der Alten Försterei",
-            "referee": "Florian Exner, Germany",
+            "referee": "F. Exner",
             "league_round": "Regular Season - 26",
             "events": [
                 {
@@ -1961,7 +1961,7 @@
             "opponent": "FC St. Pauli",
             "score": "1 - 0",
             "stadium": "Millerntor-Stadion",
-            "referee": "Felix Brych, Germany",
+            "referee": "F. Brych",
             "league_round": "Regular Season - 26",
             "events": [
                 {
@@ -2080,7 +2080,7 @@
             "opponent": "1899 Hoffenheim",
             "score": "1 - 0",
             "stadium": "Millerntor-Stadion",
-            "referee": "Felix Brych, Germany",
+            "referee": "F. Brych",
             "league_round": "Regular Season - 26",
             "events": [
                 {
@@ -2199,7 +2199,7 @@
             "opponent": "Eintracht Frankfurt",
             "score": "1 - 3",
             "stadium": "Vonovia Ruhrstadion",
-            "referee": "Felix Zwayer, Germany",
+            "referee": "F. Zwayer",
             "league_round": "Regular Season - 26",
             "events": [
                 {
@@ -2366,7 +2366,7 @@
             "opponent": "Holstein Kiel",
             "score": "3 - 1",
             "stadium": "Voith-Arena",
-            "referee": "Harm Osmers, Germany",
+            "referee": "H. Osmers",
             "league_round": "Regular Season - 26",
             "events": [
                 {
@@ -2521,7 +2521,7 @@
             "opponent": "1. FC Heidenheim",
             "score": "3 - 1",
             "stadium": "Voith-Arena",
-            "referee": "Harm Osmers, Germany",
+            "referee": "H. Osmers",
             "league_round": "Regular Season - 26",
             "events": [
                 {
