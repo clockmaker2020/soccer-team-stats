@@ -425,126 +425,108 @@
         },
         {
             "team": "Eintracht Frankfurt",
-            "date": "2025-03-16 14:30",
-            "opponent": "VfL Bochum",
-            "score": "1 - 3",
-            "stadium": "Vonovia Ruhrstadion",
-            "referee": "Felix Zwayer, Germany",
-            "league_round": "Regular Season - 26",
+            "date": "2025-03-29 17:30",
+            "opponent": "VfB Stuttgart",
+            "score": "1 - 0",
+            "stadium": "Deutsche Bank Park",
+            "referee": "Deniz Aytekin, Germany",
+            "league_round": "Regular Season - 27",
             "events": [
                 {
-                    "time": "23'",
-                    "player": "Tom Krauß",
+                    "time": "19'",
+                    "player": "Tuta",
                     "detail": "Yellow Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "27'",
-                    "player": "R. Kristensen",
-                    "detail": "Normal Goal",
                     "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "32'",
-                    "player": "J. Bahoya",
-                    "detail": "Normal Goal",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "41'",
-                    "player": "T. Krauß",
-                    "detail": "Substitution 1",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "46'",
-                    "player": "H. Larsson",
+                    "time": "25'",
+                    "player": "N. Collins",
                     "detail": "Substitution 1",
                     "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "34'",
+                    "player": "E. Millot",
+                    "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "49'",
+                    "player": "M. Mittelstadt",
+                    "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "58'",
+                    "player": "A. Al Dakhil",
+                    "detail": "Red Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "61'",
+                    "player": "N. Woltemade",
+                    "detail": "Substitution 1",
+                    "team": "VfB Stuttgart"
                 },
                 {
                     "time": "62'",
-                    "player": "Jean-Mattéo Bahoya",
-                    "detail": "Yellow Card",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "63'",
-                    "player": "G. Masouras",
+                    "player": "R. Hendriks",
                     "detail": "Substitution 2",
-                    "team": "VfL Bochum"
+                    "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "63'",
-                    "player": "F. Passlack",
-                    "detail": "Substitution 3",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "65'",
-                    "player": "J. Bahoya",
-                    "detail": "Substitution 2",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "73'",
-                    "player": "G. Holtmann",
+                    "time": "71'",
+                    "player": "M. Gotze",
                     "detail": "Normal Goal",
-                    "team": "VfL Bochum"
+                    "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "76'",
-                    "player": "Maximilian Wittek",
-                    "detail": "Yellow Card",
-                    "team": "VfL Bochum"
+                    "time": "78'",
+                    "player": "L. Jaquez",
+                    "detail": "Substitution 3",
+                    "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "80'",
-                    "player": "H. Ekitiké",
+                    "time": "78'",
+                    "player": "D. Undav",
+                    "detail": "Substitution 4",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "78'",
+                    "player": "J. Bruun Larsen",
+                    "detail": "Substitution 5",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "81'",
+                    "player": "E. Skhiri",
+                    "detail": "Substitution 2",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "81'",
+                    "player": "O. Hojlund",
                     "detail": "Substitution 3",
                     "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "80'",
-                    "player": "M. Götze",
-                    "detail": "Substitution 4",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "85'",
-                    "player": "Matúš Bero",
-                    "detail": "Yellow Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "86'",
-                    "player": "I. Ordets",
-                    "detail": "Substitution 4",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "86'",
-                    "player": "M. Bero",
-                    "detail": "Substitution 5",
-                    "team": "VfL Bochum"
                 },
                 {
                     "time": "87'",
-                    "player": "E. Skhiri",
+                    "player": "A. Amenda",
+                    "detail": "Substitution 4",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "87'",
+                    "player": "F. Chaibi",
                     "detail": "Substitution 5",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "90'",
-                    "player": "Ibrahima Sissoko",
+                    "player": "A. Stiller",
                     "detail": "Yellow Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "90'",
-                    "player": "M. Batshuayi",
-                    "detail": "Normal Goal",
-                    "team": "Eintracht Frankfurt"
+                    "team": "VfB Stuttgart"
                 }
             ],
             "odds": {
@@ -553,6 +535,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-03-29 17:30",
+                    "score": "1 - 0"
+                },
                 {
                     "date": "2025-03-16 14:30",
                     "score": "1 - 3"
@@ -568,10 +554,6 @@
                 {
                     "date": "2025-02-23 16:30",
                     "score": "4 - 0"
-                },
-                {
-                    "date": "2025-02-16 16:30",
-                    "score": "3 - 1"
                 }
             ],
             "future_games": [
@@ -1307,132 +1289,108 @@
         },
         {
             "team": "VfB Stuttgart",
-            "date": "2025-03-16 18:30",
-            "opponent": "Bayer Leverkusen",
-            "score": "3 - 4",
-            "stadium": "MHPArena",
-            "referee": "Daniel Siebert, Germany",
-            "league_round": "Regular Season - 26",
+            "date": "2025-03-29 17:30",
+            "opponent": "Eintracht Frankfurt",
+            "score": "1 - 0",
+            "stadium": "Deutsche Bank Park",
+            "referee": "Deniz Aytekin, Germany",
+            "league_round": "Regular Season - 27",
             "events": [
                 {
-                    "time": "14'",
-                    "player": "E. Demirović",
-                    "detail": "Normal Goal",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "27'",
-                    "player": "Atakan Karazor",
+                    "time": "19'",
+                    "player": "Tuta",
                     "detail": "Yellow Card",
-                    "team": "VfB Stuttgart"
+                    "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "48'",
-                    "player": "N. Woltemade",
-                    "detail": "Normal Goal",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "51'",
-                    "player": "Finn Jeltsch",
-                    "detail": "Yellow Card",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "56'",
-                    "player": "J. Frimpong",
-                    "detail": "Normal Goal",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "57'",
-                    "player": "Álex Grimaldo",
+                    "time": "25'",
+                    "player": "N. Collins",
                     "detail": "Substitution 1",
-                    "team": "Bayer Leverkusen"
+                    "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "57'",
-                    "player": "Aleix García",
-                    "detail": "Substitution 2",
-                    "team": "Bayer Leverkusen"
+                    "time": "34'",
+                    "player": "E. Millot",
+                    "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "49'",
+                    "player": "M. Mittelstadt",
+                    "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "58'",
+                    "player": "A. Al Dakhil",
+                    "detail": "Red Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "61'",
+                    "player": "N. Woltemade",
+                    "detail": "Substitution 1",
+                    "team": "VfB Stuttgart"
                 },
                 {
                     "time": "62'",
-                    "player": "G. Xhaka",
-                    "detail": "Own Goal",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "64'",
-                    "player": "Nick Woltemade",
-                    "detail": "Yellow Card",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "67'",
-                    "player": "P. Hincapié",
-                    "detail": "Normal Goal",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "68'",
-                    "player": "E. Millot",
-                    "detail": "Substitution 1",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "68'",
-                    "player": "J. Leweling",
+                    "player": "R. Hendriks",
                     "detail": "Substitution 2",
                     "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "74'",
-                    "player": "R. Andrich",
-                    "detail": "Substitution 3",
-                    "team": "Bayer Leverkusen"
+                    "time": "71'",
+                    "player": "M. Gotze",
+                    "detail": "Normal Goal",
+                    "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "74'",
-                    "player": "Robert Andrich",
-                    "detail": "Yellow Card",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "76'",
-                    "player": "Piero Hincapié",
-                    "detail": "Yellow Card",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "77'",
-                    "player": "E. Demirović",
+                    "time": "78'",
+                    "player": "L. Jaquez",
                     "detail": "Substitution 3",
                     "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "77'",
-                    "player": "A. Al Dakhil",
+                    "time": "78'",
+                    "player": "D. Undav",
                     "detail": "Substitution 4",
                     "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "88'",
-                    "player": "A. Stiller",
-                    "detail": "Own Goal",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "89'",
-                    "player": "M. Mittelstädt",
+                    "time": "78'",
+                    "player": "J. Bruun Larsen",
                     "detail": "Substitution 5",
                     "team": "VfB Stuttgart"
                 },
                 {
+                    "time": "81'",
+                    "player": "E. Skhiri",
+                    "detail": "Substitution 2",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "81'",
+                    "player": "O. Hojlund",
+                    "detail": "Substitution 3",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "87'",
+                    "player": "A. Amenda",
+                    "detail": "Substitution 4",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "87'",
+                    "player": "F. Chaibi",
+                    "detail": "Substitution 5",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
                     "time": "90'",
-                    "player": "P. Schick",
-                    "detail": "Normal Goal",
-                    "team": "Bayer Leverkusen"
+                    "player": "A. Stiller",
+                    "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
                 }
             ],
             "odds": {
@@ -1441,6 +1399,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-03-29 17:30",
+                    "score": "1 - 0"
+                },
                 {
                     "date": "2025-03-16 18:30",
                     "score": "3 - 4"
@@ -1456,10 +1418,6 @@
                 {
                     "date": "2025-02-23 18:30",
                     "score": "1 - 1"
-                },
-                {
-                    "date": "2025-02-15 14:30",
-                    "score": "1 - 2"
                 }
             ],
             "future_games": [
