@@ -281,149 +281,6 @@
             "squad": []
         },
         {
-            "team": "FSV Mainz 05",
-            "date": "2025-03-15 14:30",
-            "opponent": "SC Freiburg",
-            "score": "2 - 2",
-            "stadium": "MEWA ARENA",
-            "referee": "Benjamin Brand, Germany",
-            "league_round": "Regular Season - 26",
-            "events": [
-                {
-                    "time": "2'",
-                    "player": "Junior Adamu",
-                    "detail": "Yellow Card",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "27'",
-                    "player": "Phillipp Mwene",
-                    "detail": "Yellow Card",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "34'",
-                    "player": "J. Burkardt",
-                    "detail": "Normal Goal",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "43'",
-                    "player": "Dominik Kohr",
-                    "detail": "Red Card",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "43'",
-                    "player": "Dominik Kohr",
-                    "detail": "Card upgrade",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "43'",
-                    "player": "Lucas Höler",
-                    "detail": "Penalty cancelled",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "46'",
-                    "player": "P. Mwene",
-                    "detail": "Substitution 1",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "46'",
-                    "player": "J. Adamu",
-                    "detail": "Substitution 1",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "58'",
-                    "player": "M. Gregoritsch",
-                    "detail": "Normal Goal",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "74'",
-                    "player": "A. Hanche-Olsen",
-                    "detail": "Normal Goal",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "76'",
-                    "player": "K. Sildillia",
-                    "detail": "Substitution 2",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "76'",
-                    "player": "M. Eggestein",
-                    "detail": "Substitution 3",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "79'",
-                    "player": "L. Kübler",
-                    "detail": "Normal Goal",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "85'",
-                    "player": "V. Grifo",
-                    "detail": "Substitution 4",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "87'",
-                    "player": "Lucas Höler",
-                    "detail": "Yellow Card",
-                    "team": "SC Freiburg"
-                }
-            ],
-            "odds": {
-                "home": "N/A",
-                "draw": "N/A",
-                "away": "N/A"
-            },
-            "past_results": [
-                {
-                    "date": "2025-03-15 14:30",
-                    "score": "2 - 2"
-                },
-                {
-                    "date": "2025-03-07 19:30",
-                    "score": "1 - 3"
-                },
-                {
-                    "date": "2025-03-01 14:30",
-                    "score": "1 - 2"
-                },
-                {
-                    "date": "2025-02-22 14:30",
-                    "score": "2 - 0"
-                },
-                {
-                    "date": "2025-02-16 18:30",
-                    "score": "0 - 2"
-                }
-            ],
-            "future_games": [
-                {
-                    "date": "2025-03-30 15:30",
-                    "opponent": "Borussia Dortmund"
-                },
-                {
-                    "date": "2025-04-05 13:30",
-                    "opponent": "Holstein Kiel"
-                },
-                {
-                    "date": "2025-04-12 13:30",
-                    "opponent": "1899 Hoffenheim"
-                }
-            ],
-            "squad": []
-        },
-        {
             "team": "Eintracht Frankfurt",
             "date": "2025-03-29 17:30",
             "opponent": "VfB Stuttgart",
@@ -568,6 +425,149 @@
                 {
                     "date": "2025-04-20 13:30",
                     "opponent": "FC Augsburg"
+                }
+            ],
+            "squad": []
+        },
+        {
+            "team": "FSV Mainz 05",
+            "date": "2025-03-15 14:30",
+            "opponent": "SC Freiburg",
+            "score": "2 - 2",
+            "stadium": "MEWA ARENA",
+            "referee": "Benjamin Brand, Germany",
+            "league_round": "Regular Season - 26",
+            "events": [
+                {
+                    "time": "2'",
+                    "player": "Junior Adamu",
+                    "detail": "Yellow Card",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "27'",
+                    "player": "Phillipp Mwene",
+                    "detail": "Yellow Card",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "34'",
+                    "player": "J. Burkardt",
+                    "detail": "Normal Goal",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "43'",
+                    "player": "Dominik Kohr",
+                    "detail": "Red Card",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "43'",
+                    "player": "Dominik Kohr",
+                    "detail": "Card upgrade",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "43'",
+                    "player": "Lucas Höler",
+                    "detail": "Penalty cancelled",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "46'",
+                    "player": "P. Mwene",
+                    "detail": "Substitution 1",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "46'",
+                    "player": "J. Adamu",
+                    "detail": "Substitution 1",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "58'",
+                    "player": "M. Gregoritsch",
+                    "detail": "Normal Goal",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "74'",
+                    "player": "A. Hanche-Olsen",
+                    "detail": "Normal Goal",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "76'",
+                    "player": "K. Sildillia",
+                    "detail": "Substitution 2",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "76'",
+                    "player": "M. Eggestein",
+                    "detail": "Substitution 3",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "79'",
+                    "player": "L. Kübler",
+                    "detail": "Normal Goal",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "85'",
+                    "player": "V. Grifo",
+                    "detail": "Substitution 4",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "87'",
+                    "player": "Lucas Höler",
+                    "detail": "Yellow Card",
+                    "team": "SC Freiburg"
+                }
+            ],
+            "odds": {
+                "home": "N/A",
+                "draw": "N/A",
+                "away": "N/A"
+            },
+            "past_results": [
+                {
+                    "date": "2025-03-15 14:30",
+                    "score": "2 - 2"
+                },
+                {
+                    "date": "2025-03-07 19:30",
+                    "score": "1 - 3"
+                },
+                {
+                    "date": "2025-03-01 14:30",
+                    "score": "1 - 2"
+                },
+                {
+                    "date": "2025-02-22 14:30",
+                    "score": "2 - 0"
+                },
+                {
+                    "date": "2025-02-16 18:30",
+                    "score": "0 - 2"
+                }
+            ],
+            "future_games": [
+                {
+                    "date": "2025-03-30 15:30",
+                    "opponent": "Borussia Dortmund"
+                },
+                {
+                    "date": "2025-04-05 13:30",
+                    "opponent": "Holstein Kiel"
+                },
+                {
+                    "date": "2025-04-12 13:30",
+                    "opponent": "1899 Hoffenheim"
                 }
             ],
             "squad": []
