@@ -1041,13 +1041,13 @@
                     "team": "VfL Wolfsburg"
                 },
                 {
-                    "time": "33'",
+                    "time": "32'",
                     "player": "T. Siersleben",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "44'",
+                    "time": "43'",
                     "player": "A. Beck",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
@@ -1059,16 +1059,16 @@
                     "team": "VfL Wolfsburg"
                 },
                 {
-                    "time": "52'",
-                    "player": "J. Schoppner",
-                    "detail": "Yellow Card",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "52'",
+                    "time": "51'",
                     "player": "K. Fischer",
                     "detail": "Yellow Card",
                     "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "51'",
+                    "player": "J. Schoppner",
+                    "detail": "Yellow Card",
+                    "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "61'",
@@ -1101,7 +1101,7 @@
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "79'",
+                    "time": "78'",
                     "player": "P. Wanner",
                     "detail": "Substitution 3",
                     "team": "1. FC Heidenheim"
@@ -2352,13 +2352,13 @@
                     "team": "VfL Wolfsburg"
                 },
                 {
-                    "time": "33'",
+                    "time": "32'",
                     "player": "T. Siersleben",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "44'",
+                    "time": "43'",
                     "player": "A. Beck",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
@@ -2370,16 +2370,16 @@
                     "team": "VfL Wolfsburg"
                 },
                 {
-                    "time": "52'",
-                    "player": "J. Schoppner",
-                    "detail": "Yellow Card",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "52'",
+                    "time": "51'",
                     "player": "K. Fischer",
                     "detail": "Yellow Card",
                     "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "51'",
+                    "player": "J. Schoppner",
+                    "detail": "Yellow Card",
+                    "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "61'",
@@ -2412,7 +2412,7 @@
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "79'",
+                    "time": "78'",
                     "player": "P. Wanner",
                     "detail": "Substitution 3",
                     "team": "1. FC Heidenheim"
