@@ -95,7 +95,7 @@
         },
         {
             "time": {
-                "elapsed": 33,
+                "elapsed": 32,
                 "extra": null
             },
             "team": {
@@ -117,7 +117,7 @@
         },
         {
             "time": {
-                "elapsed": 44,
+                "elapsed": 43,
                 "extra": null
             },
             "team": {
@@ -161,17 +161,17 @@
         },
         {
             "time": {
-                "elapsed": 52,
+                "elapsed": 51,
                 "extra": null
             },
             "team": {
-                "id": 180,
-                "name": "1. FC Heidenheim",
-                "logo": "https://media.api-sports.io/football/teams/180.png"
+                "id": 161,
+                "name": "VfL Wolfsburg",
+                "logo": "https://media.api-sports.io/football/teams/161.png"
             },
             "player": {
-                "id": 127619,
-                "name": "J. Schoppner"
+                "id": 177618,
+                "name": "K. Fischer"
             },
             "assist": {
                 "id": null,
@@ -183,17 +183,17 @@
         },
         {
             "time": {
-                "elapsed": 52,
+                "elapsed": 51,
                 "extra": null
             },
             "team": {
-                "id": 161,
-                "name": "VfL Wolfsburg",
-                "logo": "https://media.api-sports.io/football/teams/161.png"
+                "id": 180,
+                "name": "1. FC Heidenheim",
+                "logo": "https://media.api-sports.io/football/teams/180.png"
             },
             "player": {
-                "id": 177618,
-                "name": "K. Fischer"
+                "id": 127619,
+                "name": "J. Schoppner"
             },
             "assist": {
                 "id": null,
@@ -315,7 +315,7 @@
         },
         {
             "time": {
-                "elapsed": 79,
+                "elapsed": 78,
                 "extra": null
             },
             "team": {
