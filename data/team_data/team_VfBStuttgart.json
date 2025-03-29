@@ -355,76 +355,6 @@
     "future_matches": [
         {
             "fixture": {
-                "id": 1224212,
-                "referee": "D. Aytekin",
-                "timezone": "UTC",
-                "date": "2025-03-29T17:30:00+00:00",
-                "timestamp": 1743269400,
-                "periods": {
-                    "first": null,
-                    "second": null
-                },
-                "venue": {
-                    "id": 10491,
-                    "name": "Deutsche Bank Park",
-                    "city": "Frankfurt am Main"
-                },
-                "status": {
-                    "long": "Not Started",
-                    "short": "NS",
-                    "elapsed": null,
-                    "extra": null
-                }
-            },
-            "league": {
-                "id": 78,
-                "name": "Bundesliga",
-                "country": "Germany",
-                "logo": "https://media.api-sports.io/football/leagues/78.png",
-                "flag": "https://media.api-sports.io/flags/de.svg",
-                "season": 2024,
-                "round": "Regular Season - 27",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 169,
-                    "name": "Eintracht Frankfurt",
-                    "logo": "https://media.api-sports.io/football/teams/169.png",
-                    "winner": null
-                },
-                "away": {
-                    "id": 172,
-                    "name": "VfB Stuttgart",
-                    "logo": "https://media.api-sports.io/football/teams/172.png",
-                    "winner": null
-                }
-            },
-            "goals": {
-                "home": null,
-                "away": null
-            },
-            "score": {
-                "halftime": {
-                    "home": null,
-                    "away": null
-                },
-                "fulltime": {
-                    "home": null,
-                    "away": null
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
                 "id": 1224225,
                 "referee": null,
                 "timezone": "UTC",
@@ -537,6 +467,76 @@
                     "id": 162,
                     "name": "Werder Bremen",
                     "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1224243,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2025-04-19T16:30:00+00:00",
+                "timestamp": 1745080200,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": 748,
+                    "name": "Stadion An der Alten Försterei",
+                    "city": "Berlin"
+                },
+                "status": {
+                    "long": "Not Started",
+                    "short": "NS",
+                    "elapsed": null,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 30",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 182,
+                    "name": "Union Berlin",
+                    "logo": "https://media.api-sports.io/football/teams/182.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 172,
+                    "name": "VfB Stuttgart",
+                    "logo": "https://media.api-sports.io/football/teams/172.png",
                     "winner": null
                 }
             },
