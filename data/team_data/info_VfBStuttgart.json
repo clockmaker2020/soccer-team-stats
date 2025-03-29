@@ -699,10 +699,19 @@
                 },
                 {
                     "player": {
-                        "id": 26291,
-                        "name": "Jens Grahl",
-                        "number": 33,
-                        "pos": "G",
+                        "id": 339874,
+                        "name": "Oscar Højlund",
+                        "number": 6,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 21587,
+                        "name": "Ellyes Skhiri",
+                        "number": 15,
+                        "pos": "M",
                         "grid": null
                     }
                 },
@@ -712,6 +721,24 @@
                         "name": "Aurèle Amenda",
                         "number": 5,
                         "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 276670,
+                        "name": "Farès Chaïbi",
+                        "number": 8,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 26291,
+                        "name": "Jens Grahl",
+                        "number": 33,
+                        "pos": "G",
                         "grid": null
                     }
                 },
@@ -729,33 +756,6 @@
                         "id": 339887,
                         "name": "Can Uzun",
                         "number": 20,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 276670,
-                        "name": "Farès Chaïbi",
-                        "number": 8,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 339874,
-                        "name": "Oscar Højlund",
-                        "number": 6,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 21587,
-                        "name": "Ellyes Skhiri",
-                        "number": 15,
                         "pos": "M",
                         "grid": null
                     }
@@ -899,10 +899,10 @@
             "substitutes": [
                 {
                     "player": {
-                        "id": 25597,
-                        "name": "Fabian Bredlow",
-                        "number": 1,
-                        "pos": "G",
+                        "id": 158054,
+                        "name": "Nick Woltemade",
+                        "number": 11,
+                        "pos": "F",
                         "grid": null
                     }
                 },
@@ -911,15 +911,6 @@
                         "id": 135883,
                         "name": "Ramon Hendriks",
                         "number": 3,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 26244,
-                        "name": "Pascal Stenzel",
-                        "number": 15,
                         "pos": "D",
                         "grid": null
                     }
@@ -935,27 +926,9 @@
                 },
                 {
                     "player": {
-                        "id": 178093,
-                        "name": "Yannik Keitel",
-                        "number": 5,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 22,
                         "name": "Jacob Bruun Larsen",
                         "number": 25,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 158054,
-                        "name": "Nick Woltemade",
-                        "number": 11,
                         "pos": "F",
                         "grid": null
                     }
@@ -966,6 +939,33 @@
                         "name": "Deniz Undav",
                         "number": 26,
                         "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 25597,
+                        "name": "Fabian Bredlow",
+                        "number": 1,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 26244,
+                        "name": "Pascal Stenzel",
+                        "number": 15,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 178093,
+                        "name": "Yannik Keitel",
+                        "number": 5,
+                        "pos": "M",
                         "grid": null
                     }
                 },
