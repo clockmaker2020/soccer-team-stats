@@ -926,6 +926,15 @@
                 },
                 {
                     "player": {
+                        "id": 26530,
+                        "name": "Stefan Schimmer",
+                        "number": 9,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 24891,
                         "name": "Vitus Eicher",
                         "number": 22,
@@ -948,15 +957,6 @@
                         "name": "Leo Scienza",
                         "number": 8,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 26530,
-                        "name": "Stefan Schimmer",
-                        "number": 9,
-                        "pos": "F",
                         "grid": null
                     }
                 },
