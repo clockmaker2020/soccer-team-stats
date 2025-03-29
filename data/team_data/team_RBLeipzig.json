@@ -3,6 +3,76 @@
     "past_matches": [
         {
             "fixture": {
+                "id": 1224216,
+                "referee": "Tobias Stieler, Germany",
+                "timezone": "UTC",
+                "date": "2025-03-29T14:30:00+00:00",
+                "timestamp": 1743258600,
+                "periods": {
+                    "first": 1743258600,
+                    "second": 1743262200
+                },
+                "venue": {
+                    "id": 20471,
+                    "name": "BORUSSIA-PARK",
+                    "city": "Mönchengladbach"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 5
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 27",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 163,
+                    "name": "Borussia Mönchengladbach",
+                    "logo": "https://media.api-sports.io/football/teams/163.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 173,
+                    "name": "RB Leipzig",
+                    "logo": "https://media.api-sports.io/football/teams/173.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
                 "id": 1224201,
                 "referee": "Matthias Jollenbeck, Germany",
                 "timezone": "UTC",
@@ -270,76 +340,6 @@
                 "fulltime": {
                     "home": 2,
                     "away": 2
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
-                "id": 1224169,
-                "referee": "Sascha Stegemann, Germany",
-                "timezone": "UTC",
-                "date": "2025-02-14T19:30:00+00:00",
-                "timestamp": 1739561400,
-                "periods": {
-                    "first": 1739561400,
-                    "second": 1739565000
-                },
-                "venue": {
-                    "id": 698,
-                    "name": "WWK Arena",
-                    "city": "Augsburg"
-                },
-                "status": {
-                    "long": "Match Finished",
-                    "short": "FT",
-                    "elapsed": 90,
-                    "extra": 5
-                }
-            },
-            "league": {
-                "id": 78,
-                "name": "Bundesliga",
-                "country": "Germany",
-                "logo": "https://media.api-sports.io/football/leagues/78.png",
-                "flag": "https://media.api-sports.io/flags/de.svg",
-                "season": 2024,
-                "round": "Regular Season - 22",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 170,
-                    "name": "FC Augsburg",
-                    "logo": "https://media.api-sports.io/football/teams/170.png",
-                    "winner": null
-                },
-                "away": {
-                    "id": 173,
-                    "name": "RB Leipzig",
-                    "logo": "https://media.api-sports.io/football/teams/173.png",
-                    "winner": null
-                }
-            },
-            "goals": {
-                "home": 0,
-                "away": 0
-            },
-            "score": {
-                "halftime": {
-                    "home": 0,
-                    "away": 0
-                },
-                "fulltime": {
-                    "home": 0,
-                    "away": 0
                 },
                 "extratime": {
                     "home": null,
