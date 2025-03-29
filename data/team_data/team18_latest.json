@@ -2424,6 +2424,161 @@
                 }
             ],
             "squad": []
+        },
+        {
+            "team": "Holstein Kiel",
+            "date": "2025-03-16 16:30",
+            "opponent": "1. FC Heidenheim",
+            "score": "3 - 1",
+            "stadium": "Voith-Arena",
+            "referee": "Harm Osmers, Germany",
+            "league_round": "Regular Season - 26",
+            "events": [
+                {
+                    "time": "33'",
+                    "player": "M. Pieringer",
+                    "detail": "Normal Goal",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "46'",
+                    "player": "L. Rosenboom",
+                    "detail": "Substitution 1",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "46'",
+                    "player": "A. Gigović",
+                    "detail": "Substitution 2",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "47'",
+                    "player": "B. Zivzivadze",
+                    "detail": "Normal Goal",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "54'",
+                    "player": "Marco Komenda",
+                    "detail": "Yellow Card",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "56'",
+                    "player": "M. Knudsen",
+                    "detail": "Substitution 3",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "56'",
+                    "player": "S. Machino",
+                    "detail": "Substitution 4",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "57'",
+                    "player": "Haktab Omar Traore",
+                    "detail": "Yellow Card",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "75'",
+                    "player": "M. Pieringer",
+                    "detail": "Substitution 1",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "78'",
+                    "player": "Phil Harres",
+                    "detail": "Yellow Card",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "80'",
+                    "player": "N. Dorsch",
+                    "detail": "Substitution 2",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "81'",
+                    "player": "S. Skrzybski",
+                    "detail": "Substitution 5",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "85'",
+                    "player": "Jann-Fiete Arp",
+                    "detail": "Yellow Card",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "87'",
+                    "player": "P. Harres",
+                    "detail": "Normal Goal",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "89'",
+                    "player": "M. Busch",
+                    "detail": "Substitution 3",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "89'",
+                    "player": "A. Beck",
+                    "detail": "Substitution 4",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "90'",
+                    "player": "S. Conteh",
+                    "detail": "Normal Goal",
+                    "team": "1. FC Heidenheim"
+                }
+            ],
+            "odds": {
+                "home": "N/A",
+                "draw": "N/A",
+                "away": "N/A"
+            },
+            "past_results": [
+                {
+                    "date": "2025-03-16 16:30",
+                    "score": "3 - 1"
+                },
+                {
+                    "date": "2025-03-08 14:30",
+                    "score": "2 - 2"
+                },
+                {
+                    "date": "2025-03-02 14:30",
+                    "score": "0 - 1"
+                },
+                {
+                    "date": "2025-02-22 14:30",
+                    "score": "0 - 2"
+                },
+                {
+                    "date": "2025-02-16 16:30",
+                    "score": "3 - 1"
+                }
+            ],
+            "future_games": [
+                {
+                    "date": "2025-04-05 13:30",
+                    "opponent": "FSV Mainz 05"
+                },
+                {
+                    "date": "2025-04-12 13:30",
+                    "opponent": "FC St. Pauli"
+                },
+                {
+                    "date": "2025-04-19 13:30",
+                    "opponent": "RB Leipzig"
+                }
+            ],
+            "squad": []
         }
     ]
 }
