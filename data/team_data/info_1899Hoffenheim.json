@@ -61,7 +61,7 @@
             },
             "player": {
                 "id": 48574,
-                "name": "C. Zesiger"
+                "name": "Cedric Zesiger"
             },
             "assist": {
                 "id": null,
@@ -69,7 +69,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Tripping"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -82,12 +82,12 @@
                 "logo": "https://media.api-sports.io/football/teams/170.png"
             },
             "player": {
-                "id": 8651,
-                "name": "S. Essende"
-            },
-            "assist": {
                 "id": 26171,
                 "name": "P. Tietz"
+            },
+            "assist": {
+                "id": 8651,
+                "name": "S. Essende"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -127,7 +127,7 @@
             },
             "player": {
                 "id": 15799,
-                "name": "F. Onyeka"
+                "name": "Frank Onyeka"
             },
             "assist": {
                 "id": null,
@@ -135,7 +135,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Tripping"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -148,12 +148,12 @@
                 "logo": "https://media.api-sports.io/football/teams/167.png"
             },
             "player": {
-                "id": 28382,
-                "name": "H. Tabakovic"
-            },
-            "assist": {
                 "id": 368260,
                 "name": "G. Orban"
+            },
+            "assist": {
+                "id": 28382,
+                "name": "H. Tabaković"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -170,12 +170,12 @@
                 "logo": "https://media.api-sports.io/football/teams/167.png"
             },
             "player": {
-                "id": 127631,
-                "name": "V. Gendrey"
+                "id": 709,
+                "name": "P. Kadeřábek"
             },
             "assist": {
-                "id": 709,
-                "name": "P. Kaderabek"
+                "id": 127631,
+                "name": "V. Gendrey"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -192,12 +192,12 @@
                 "logo": "https://media.api-sports.io/football/teams/167.png"
             },
             "player": {
-                "id": 718,
-                "name": "D. Geiger"
+                "id": 387643,
+                "name": "B. Touré"
             },
             "assist": {
-                "id": 387643,
-                "name": "B. Toure"
+                "id": 718,
+                "name": "D. Geiger"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -215,7 +215,7 @@
             },
             "player": {
                 "id": 726,
-                "name": "A. Kramaric"
+                "name": "A. Kramarić"
             },
             "assist": {
                 "id": null,
@@ -236,12 +236,12 @@
                 "logo": "https://media.api-sports.io/football/teams/170.png"
             },
             "player": {
-                "id": 14395,
-                "name": "K. Jakic"
+                "id": 26,
+                "name": "M. Wolf"
             },
             "assist": {
-                "id": 15799,
-                "name": "F. Onyeka"
+                "id": 319858,
+                "name": "H. Koudossou"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -258,12 +258,12 @@
                 "logo": "https://media.api-sports.io/football/teams/170.png"
             },
             "player": {
-                "id": 319858,
-                "name": "H. Koudossou"
+                "id": 15799,
+                "name": "F. Onyeka"
             },
             "assist": {
-                "id": 26,
-                "name": "M. Wolf"
+                "id": 14395,
+                "name": "K. Jakić"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -281,7 +281,7 @@
             },
             "player": {
                 "id": 25242,
-                "name": "M. Bulter"
+                "name": "Marius Bülter"
             },
             "assist": {
                 "id": null,
@@ -289,7 +289,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Roughing"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -302,12 +302,12 @@
                 "logo": "https://media.api-sports.io/football/teams/170.png"
             },
             "player": {
-                "id": 25355,
-                "name": "A. Maier"
-            },
-            "assist": {
                 "id": 25299,
                 "name": "F. Jensen"
+            },
+            "assist": {
+                "id": 25355,
+                "name": "A. Maier"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -324,12 +324,12 @@
                 "logo": "https://media.api-sports.io/football/teams/167.png"
             },
             "player": {
-                "id": 270,
-                "name": "S. Nsoki"
+                "id": 128793,
+                "name": "D. Jurásek"
             },
             "assist": {
-                "id": 128793,
-                "name": "D. Jurasek"
+                "id": 270,
+                "name": "S. Nsoki"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -346,12 +346,12 @@
                 "logo": "https://media.api-sports.io/football/teams/170.png"
             },
             "player": {
-                "id": 15901,
-                "name": "M. Pedersen"
-            },
-            "assist": {
                 "id": 20634,
                 "name": "A. Claude-Maurice"
+            },
+            "assist": {
+                "id": 15901,
+                "name": "M. Pedersen"
             },
             "type": "subst",
             "detail": "Substitution 5",
