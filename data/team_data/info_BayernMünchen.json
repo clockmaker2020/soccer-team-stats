@@ -61,7 +61,7 @@
             },
             "player": {
                 "id": 8,
-                "name": "R. Guerreiro"
+                "name": "Raphaël Guerreiro"
             },
             "assist": {
                 "id": null,
@@ -69,7 +69,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Tripping"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -118,7 +118,7 @@
         {
             "time": {
                 "elapsed": 45,
-                "extra": 4
+                "extra": 3
             },
             "team": {
                 "id": 157,
@@ -127,7 +127,7 @@
             },
             "player": {
                 "id": 19617,
-                "name": "M. Olise"
+                "name": "Michael Olise"
             },
             "assist": {
                 "id": null,
@@ -135,7 +135,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Holding"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -148,12 +148,12 @@
                 "logo": "https://media.api-sports.io/football/teams/157.png"
             },
             "player": {
-                "id": 41104,
-                "name": "J. Palhinha"
-            },
-            "assist": {
                 "id": 511,
                 "name": "L. Goretzka"
+            },
+            "assist": {
+                "id": 41104,
+                "name": "João Palhinha"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -171,7 +171,7 @@
             },
             "player": {
                 "id": 41104,
-                "name": "J. Palhinha"
+                "name": "João Palhinha"
             },
             "assist": {
                 "id": null,
@@ -179,7 +179,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Holding"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -193,7 +193,7 @@
             },
             "player": {
                 "id": 644,
-                "name": "L. Sane"
+                "name": "L. Sané"
             },
             "assist": {
                 "id": 19617,
@@ -214,12 +214,12 @@
                 "logo": "https://media.api-sports.io/football/teams/157.png"
             },
             "player": {
-                "id": 32893,
-                "name": "H. Ito"
+                "id": 8,
+                "name": "Raphaël Guerreiro"
             },
             "assist": {
-                "id": 8,
-                "name": "R. Guerreiro"
+                "id": 32893,
+                "name": "H. Ito"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -227,7 +227,7 @@
         },
         {
             "time": {
-                "elapsed": 59,
+                "elapsed": 60,
                 "extra": null
             },
             "team": {
@@ -236,12 +236,12 @@
                 "logo": "https://media.api-sports.io/football/teams/186.png"
             },
             "player": {
-                "id": 6904,
-                "name": "C. Metcalfe"
+                "id": 40274,
+                "name": "A. Dźwigała"
             },
             "assist": {
-                "id": 40274,
-                "name": "A. Dzwigala"
+                "id": 6904,
+                "name": "C. Metcalfe"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -259,7 +259,7 @@
             },
             "player": {
                 "id": 644,
-                "name": "L. Sane"
+                "name": "L. Sané"
             },
             "assist": {
                 "id": 184,
@@ -280,12 +280,12 @@
                 "logo": "https://media.api-sports.io/football/teams/186.png"
             },
             "player": {
-                "id": 17756,
-                "name": "O. Afolayan"
-            },
-            "assist": {
                 "id": 323974,
                 "name": "E. Saad"
+            },
+            "assist": {
+                "id": 17756,
+                "name": "O. Afolayan"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -302,20 +302,20 @@
                 "logo": "https://media.api-sports.io/football/teams/157.png"
             },
             "player": {
-                "id": 510,
-                "name": "S. Gnabry"
-            },
-            "assist": {
                 "id": 181812,
                 "name": "J. Musiala"
             },
+            "assist": {
+                "id": 510,
+                "name": "S. Gnabry"
+            },
             "type": "subst",
             "detail": "Substitution 3",
             "comments": null
         },
         {
             "time": {
-                "elapsed": 83,
+                "elapsed": 82,
                 "extra": null
             },
             "team": {
@@ -324,13 +324,13 @@
                 "logo": "https://media.api-sports.io/football/teams/186.png"
             },
             "player": {
-                "id": 90731,
-                "name": "L. Ritzka"
-            },
-            "assist": {
                 "id": 27157,
                 "name": "M. Saliakas"
             },
+            "assist": {
+                "id": 90731,
+                "name": "L. Ritzka"
+            },
             "type": "subst",
             "detail": "Substitution 3",
             "comments": null
@@ -346,13 +346,13 @@
                 "logo": "https://media.api-sports.io/football/teams/186.png"
             },
             "player": {
-                "id": 474789,
-                "name": "A. Ceesay"
-            },
-            "assist": {
                 "id": 1672,
                 "name": "D. Sinani"
             },
+            "assist": {
+                "id": 474789,
+                "name": "A. Ceesay"
+            },
             "type": "subst",
             "detail": "Substitution 4",
             "comments": null
@@ -368,13 +368,13 @@
                 "logo": "https://media.api-sports.io/football/teams/157.png"
             },
             "player": {
-                "id": 125171,
-                "name": "J. Stanisic"
-            },
-            "assist": {
                 "id": 1157,
                 "name": "K. Laimer"
             },
+            "assist": {
+                "id": 125171,
+                "name": "J. Stanišić"
+            },
             "type": "subst",
             "detail": "Substitution 4",
             "comments": null
@@ -390,12 +390,12 @@
                 "logo": "https://media.api-sports.io/football/teams/157.png"
             },
             "player": {
-                "id": 522,
-                "name": "T. Muller"
-            },
-            "assist": {
                 "id": 184,
                 "name": "H. Kane"
+            },
+            "assist": {
+                "id": 522,
+                "name": "T. Müller"
             },
             "type": "subst",
             "detail": "Substitution 5",
