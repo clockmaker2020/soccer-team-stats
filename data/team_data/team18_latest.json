@@ -431,102 +431,102 @@
         },
         {
             "team": "FSV Mainz 05",
-            "date": "2025-03-15 14:30",
-            "opponent": "SC Freiburg",
-            "score": "2 - 2",
-            "stadium": "MEWA ARENA",
-            "referee": "Benjamin Brand, Germany",
-            "league_round": "Regular Season - 26",
+            "date": "2025-03-30 15:30",
+            "opponent": "Borussia Dortmund",
+            "score": "3 - 1",
+            "stadium": "SIGNAL IDUNA PARK",
+            "referee": "Daniel Schlager, Germany",
+            "league_round": "Regular Season - 27",
             "events": [
                 {
-                    "time": "2'",
-                    "player": "Junior Adamu",
-                    "detail": "Yellow Card",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "27'",
-                    "player": "Phillipp Mwene",
-                    "detail": "Yellow Card",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "34'",
-                    "player": "J. Burkardt",
+                    "time": "39'",
+                    "player": "M. Beier",
                     "detail": "Normal Goal",
-                    "team": "FSV Mainz 05"
+                    "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "43'",
-                    "player": "Dominik Kohr",
-                    "detail": "Red Card",
-                    "team": "FSV Mainz 05"
+                    "time": "42'",
+                    "player": "E. Can",
+                    "detail": "Normal Goal",
+                    "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "43'",
-                    "player": "Dominik Kohr",
-                    "detail": "Card upgrade",
-                    "team": "FSV Mainz 05"
+                    "time": "45'",
+                    "player": "Y. Couto",
+                    "detail": "Yellow Card",
+                    "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "43'",
-                    "player": "Lucas Höler",
-                    "detail": "Penalty cancelled",
-                    "team": "SC Freiburg"
+                    "time": "62'",
+                    "player": "D. Svensson",
+                    "detail": "Substitution 1",
+                    "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "46'",
-                    "player": "P. Mwene",
+                    "time": "65'",
+                    "player": "Hong Hyun-Seok",
                     "detail": "Substitution 1",
                     "team": "FSV Mainz 05"
                 },
                 {
-                    "time": "46'",
-                    "player": "J. Adamu",
-                    "detail": "Substitution 1",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "58'",
-                    "player": "M. Gregoritsch",
-                    "detail": "Normal Goal",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "74'",
-                    "player": "A. Hanche-Olsen",
-                    "detail": "Normal Goal",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "76'",
-                    "player": "K. Sildillia",
+                    "time": "66'",
+                    "player": "N. Veratschnig",
                     "detail": "Substitution 2",
-                    "team": "SC Freiburg"
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "72'",
+                    "player": "M. Beier",
+                    "detail": "Normal Goal",
+                    "team": "Borussia Dortmund"
                 },
                 {
                     "time": "76'",
-                    "player": "M. Eggestein",
-                    "detail": "Substitution 3",
-                    "team": "SC Freiburg"
+                    "player": "P. Nebel",
+                    "detail": "Normal Goal",
+                    "team": "FSV Mainz 05"
                 },
                 {
                     "time": "79'",
-                    "player": "L. Kübler",
-                    "detail": "Normal Goal",
-                    "team": "SC Freiburg"
+                    "player": "C. Chukwuemeka",
+                    "detail": "Substitution 2",
+                    "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "85'",
-                    "player": "V. Grifo",
+                    "time": "79'",
+                    "player": "N. Sule",
+                    "detail": "Substitution 3",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "88'",
+                    "player": "A. Sieb",
+                    "detail": "Substitution 3",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "88'",
+                    "player": "A. Nordin",
                     "detail": "Substitution 4",
-                    "team": "SC Freiburg"
+                    "team": "FSV Mainz 05"
                 },
                 {
-                    "time": "87'",
-                    "player": "Lucas Höler",
+                    "time": "89'",
+                    "player": "N. Schlotterbeck",
                     "detail": "Yellow Card",
-                    "team": "SC Freiburg"
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "90'",
+                    "player": "J. Gittens",
+                    "detail": "Substitution 4",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "90'",
+                    "player": "R. Bensebaini",
+                    "detail": "Substitution 5",
+                    "team": "Borussia Dortmund"
                 }
             ],
             "odds": {
@@ -535,6 +535,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-03-30 15:30",
+                    "score": "3 - 1"
+                },
                 {
                     "date": "2025-03-15 14:30",
                     "score": "2 - 2"
@@ -550,10 +554,6 @@
                 {
                     "date": "2025-02-22 14:30",
                     "score": "2 - 0"
-                },
-                {
-                    "date": "2025-02-16 18:30",
-                    "score": "0 - 2"
                 }
             ],
             "future_games": [
@@ -1629,108 +1629,102 @@
         },
         {
             "team": "Borussia Dortmund",
-            "date": "2025-03-15 17:30",
-            "opponent": "RB Leipzig",
-            "score": "2 - 0",
-            "stadium": "Red Bull Arena",
-            "referee": "Matthias Jollenbeck, Germany",
-            "league_round": "Regular Season - 26",
+            "date": "2025-03-30 15:30",
+            "opponent": "FSV Mainz 05",
+            "score": "3 - 1",
+            "stadium": "SIGNAL IDUNA PARK",
+            "referee": "Daniel Schlager, Germany",
+            "league_round": "Regular Season - 27",
             "events": [
                 {
-                    "time": "10'",
-                    "player": "Emre Can",
-                    "detail": "Yellow Card",
+                    "time": "39'",
+                    "player": "M. Beier",
+                    "detail": "Normal Goal",
                     "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "18'",
-                    "player": "X. Simons",
+                    "time": "42'",
+                    "player": "E. Can",
                     "detail": "Normal Goal",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "32'",
-                    "player": "M. Sabitzer",
-                    "detail": "Substitution 1",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "45'",
-                    "player": "Julian Ryerson",
+                    "player": "Y. Couto",
                     "detail": "Yellow Card",
                     "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "48'",
-                    "player": "L. Openda",
-                    "detail": "Normal Goal",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "61'",
-                    "player": "C. Baumgartner",
+                    "time": "62'",
+                    "player": "D. Svensson",
                     "detail": "Substitution 1",
-                    "team": "RB Leipzig"
+                    "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "63'",
-                    "player": "David Raum",
-                    "detail": "Yellow Card",
-                    "team": "RB Leipzig"
+                    "time": "65'",
+                    "player": "Hong Hyun-Seok",
+                    "detail": "Substitution 1",
+                    "team": "FSV Mainz 05"
                 },
                 {
                     "time": "66'",
-                    "player": "L. Openda",
+                    "player": "N. Veratschnig",
                     "detail": "Substitution 2",
-                    "team": "RB Leipzig"
+                    "team": "FSV Mainz 05"
                 },
                 {
                     "time": "72'",
-                    "player": "K. Adeyemi",
+                    "player": "M. Beier",
+                    "detail": "Normal Goal",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "76'",
+                    "player": "P. Nebel",
+                    "detail": "Normal Goal",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "79'",
+                    "player": "C. Chukwuemeka",
                     "detail": "Substitution 2",
                     "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "72'",
-                    "player": "J. Ryerson",
+                    "time": "79'",
+                    "player": "N. Sule",
                     "detail": "Substitution 3",
                     "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "81'",
-                    "player": "X. Simons",
+                    "time": "88'",
+                    "player": "A. Sieb",
                     "detail": "Substitution 3",
-                    "team": "RB Leipzig"
+                    "team": "FSV Mainz 05"
                 },
                 {
-                    "time": "81'",
-                    "player": "N. Seiwald",
+                    "time": "88'",
+                    "player": "A. Nordin",
                     "detail": "Substitution 4",
-                    "team": "RB Leipzig"
+                    "team": "FSV Mainz 05"
                 },
                 {
-                    "time": "81'",
-                    "player": "D. Raum",
-                    "detail": "Substitution 5",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "83'",
-                    "player": "Carney Chukwuemeka",
+                    "time": "89'",
+                    "player": "N. Schlotterbeck",
                     "detail": "Yellow Card",
                     "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "86'",
-                    "player": "Amadou Haidara",
-                    "detail": "Yellow Card",
-                    "team": "RB Leipzig"
+                    "time": "90'",
+                    "player": "J. Gittens",
+                    "detail": "Substitution 4",
+                    "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "87'",
-                    "player": "Castello Lukeba",
-                    "detail": "Yellow Card",
-                    "team": "RB Leipzig"
+                    "time": "90'",
+                    "player": "R. Bensebaini",
+                    "detail": "Substitution 5",
+                    "team": "Borussia Dortmund"
                 }
             ],
             "odds": {
@@ -1739,6 +1733,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-03-30 15:30",
+                    "score": "3 - 1"
+                },
                 {
                     "date": "2025-03-15 17:30",
                     "score": "2 - 0"
@@ -1754,10 +1752,6 @@
                 {
                     "date": "2025-02-22 17:30",
                     "score": "6 - 0"
-                },
-                {
-                    "date": "2025-02-15 14:30",
-                    "score": "2 - 0"
                 }
             ],
             "future_games": [
