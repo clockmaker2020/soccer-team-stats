@@ -814,6 +814,15 @@
                 },
                 {
                     "player": {
+                        "id": 406244,
+                        "name": "Johan Manzambi",
+                        "number": 44,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 202919,
                         "name": "Max Rosenfelder",
                         "number": 37,
@@ -835,15 +844,6 @@
                         "id": 26250,
                         "name": "Nicolas Höfler",
                         "number": 27,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 406244,
-                        "name": "Johan Manzambi",
-                        "number": 44,
                         "pos": "M",
                         "grid": null
                     }
@@ -1005,6 +1005,33 @@
                 },
                 {
                     "player": {
+                        "id": 24962,
+                        "name": "László Bénes",
+                        "number": 20,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 664,
+                        "name": "Lucas Tousart",
+                        "number": 29,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 292218,
+                        "name": "Marin Ljubičić",
+                        "number": 27,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 26234,
                         "name": "Alexander Schwolow",
                         "number": 37,
@@ -1036,33 +1063,6 @@
                         "name": "Tom Rothe",
                         "number": 15,
                         "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 24962,
-                        "name": "László Bénes",
-                        "number": 20,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 664,
-                        "name": "Lucas Tousart",
-                        "number": 29,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 292218,
-                        "name": "Marin Ljubičić",
-                        "number": 27,
-                        "pos": "F",
                         "grid": null
                     }
                 }
