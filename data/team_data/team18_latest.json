@@ -1777,143 +1777,6 @@
             "squad": []
         },
         {
-            "team": "1899 Hoffenheim",
-            "date": "2025-03-29 14:30",
-            "opponent": "FC Augsburg",
-            "score": "1 - 1",
-            "stadium": "PreZero Arena",
-            "referee": "Tobias Reichel, Germany",
-            "league_round": "Regular Season - 27",
-            "events": [
-                {
-                    "time": "34'",
-                    "player": "Cedric Zesiger",
-                    "detail": "Yellow Card",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "46'",
-                    "player": "P. Tietz",
-                    "detail": "Substitution 1",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "46'",
-                    "player": "S. Essende",
-                    "detail": "Normal Goal",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "57'",
-                    "player": "Frank Onyeka",
-                    "detail": "Yellow Card",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "61'",
-                    "player": "G. Orban",
-                    "detail": "Substitution 1",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "61'",
-                    "player": "P. Kadeřábek",
-                    "detail": "Substitution 2",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "68'",
-                    "player": "B. Touré",
-                    "detail": "Substitution 3",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "71'",
-                    "player": "A. Kramarić",
-                    "detail": "Penalty",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "72'",
-                    "player": "M. Wolf",
-                    "detail": "Substitution 2",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "72'",
-                    "player": "F. Onyeka",
-                    "detail": "Substitution 3",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "76'",
-                    "player": "Marius Bülter",
-                    "detail": "Yellow Card",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "80'",
-                    "player": "F. Jensen",
-                    "detail": "Substitution 4",
-                    "team": "FC Augsburg"
-                },
-                {
-                    "time": "84'",
-                    "player": "D. Jurásek",
-                    "detail": "Substitution 4",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "89'",
-                    "player": "A. Claude-Maurice",
-                    "detail": "Substitution 5",
-                    "team": "FC Augsburg"
-                }
-            ],
-            "odds": {
-                "home": "N/A",
-                "draw": "N/A",
-                "away": "N/A"
-            },
-            "past_results": [
-                {
-                    "date": "2025-03-29 14:30",
-                    "score": "1 - 1"
-                },
-                {
-                    "date": "2025-03-14 19:30",
-                    "score": "1 - 0"
-                },
-                {
-                    "date": "2025-03-09 16:30",
-                    "score": "1 - 1"
-                },
-                {
-                    "date": "2025-03-01 14:30",
-                    "score": "0 - 1"
-                },
-                {
-                    "date": "2025-02-23 18:30",
-                    "score": "1 - 1"
-                }
-            ],
-            "future_games": [
-                {
-                    "date": "2025-04-05 13:30",
-                    "opponent": "RB Leipzig"
-                },
-                {
-                    "date": "2025-04-12 13:30",
-                    "opponent": "FSV Mainz 05"
-                },
-                {
-                    "date": "2025-04-19 13:30",
-                    "opponent": "SC Freiburg"
-                }
-            ],
-            "squad": []
-        },
-        {
             "team": "Union Berlin",
             "date": "2025-03-30 13:30",
             "opponent": "SC Freiburg",
@@ -2082,6 +1945,143 @@
                 {
                     "date": "2025-04-19 16:30",
                     "opponent": "VfB Stuttgart"
+                }
+            ],
+            "squad": []
+        },
+        {
+            "team": "1899 Hoffenheim",
+            "date": "2025-03-29 14:30",
+            "opponent": "FC Augsburg",
+            "score": "1 - 1",
+            "stadium": "PreZero Arena",
+            "referee": "Tobias Reichel, Germany",
+            "league_round": "Regular Season - 27",
+            "events": [
+                {
+                    "time": "34'",
+                    "player": "Cedric Zesiger",
+                    "detail": "Yellow Card",
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "46'",
+                    "player": "P. Tietz",
+                    "detail": "Substitution 1",
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "46'",
+                    "player": "S. Essende",
+                    "detail": "Normal Goal",
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "57'",
+                    "player": "Frank Onyeka",
+                    "detail": "Yellow Card",
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "61'",
+                    "player": "G. Orban",
+                    "detail": "Substitution 1",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "61'",
+                    "player": "P. Kadeřábek",
+                    "detail": "Substitution 2",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "68'",
+                    "player": "B. Touré",
+                    "detail": "Substitution 3",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "71'",
+                    "player": "A. Kramarić",
+                    "detail": "Penalty",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "72'",
+                    "player": "M. Wolf",
+                    "detail": "Substitution 2",
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "72'",
+                    "player": "F. Onyeka",
+                    "detail": "Substitution 3",
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "76'",
+                    "player": "Marius Bülter",
+                    "detail": "Yellow Card",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "80'",
+                    "player": "F. Jensen",
+                    "detail": "Substitution 4",
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "84'",
+                    "player": "D. Jurásek",
+                    "detail": "Substitution 4",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "89'",
+                    "player": "A. Claude-Maurice",
+                    "detail": "Substitution 5",
+                    "team": "FC Augsburg"
+                }
+            ],
+            "odds": {
+                "home": "N/A",
+                "draw": "N/A",
+                "away": "N/A"
+            },
+            "past_results": [
+                {
+                    "date": "2025-03-29 14:30",
+                    "score": "1 - 1"
+                },
+                {
+                    "date": "2025-03-14 19:30",
+                    "score": "1 - 0"
+                },
+                {
+                    "date": "2025-03-09 16:30",
+                    "score": "1 - 1"
+                },
+                {
+                    "date": "2025-03-01 14:30",
+                    "score": "0 - 1"
+                },
+                {
+                    "date": "2025-02-23 18:30",
+                    "score": "1 - 1"
+                }
+            ],
+            "future_games": [
+                {
+                    "date": "2025-04-05 13:30",
+                    "opponent": "RB Leipzig"
+                },
+                {
+                    "date": "2025-04-12 13:30",
+                    "opponent": "FSV Mainz 05"
+                },
+                {
+                    "date": "2025-04-19 13:30",
+                    "opponent": "SC Freiburg"
                 }
             ],
             "squad": []
