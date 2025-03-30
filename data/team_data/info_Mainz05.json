@@ -48,7 +48,338 @@
         "long": "Match Finished",
         "elapsed": 90
     },
-    "events": [],
+    "events": [
+        {
+            "time": {
+                "elapsed": 39,
+                "extra": null
+            },
+            "team": {
+                "id": 165,
+                "name": "Borussia Dortmund",
+                "logo": "https://media.api-sports.io/football/teams/165.png"
+            },
+            "player": {
+                "id": 158644,
+                "name": "M. Beier"
+            },
+            "assist": {
+                "id": 7334,
+                "name": "K. Adeyemi"
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 42,
+                "extra": null
+            },
+            "team": {
+                "id": 165,
+                "name": "Borussia Dortmund",
+                "logo": "https://media.api-sports.io/football/teams/165.png"
+            },
+            "player": {
+                "id": 864,
+                "name": "E. Can"
+            },
+            "assist": {
+                "id": 26243,
+                "name": "N. Schlotterbeck"
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 45,
+                "extra": null
+            },
+            "team": {
+                "id": 165,
+                "name": "Borussia Dortmund",
+                "logo": "https://media.api-sports.io/football/teams/165.png"
+            },
+            "player": {
+                "id": 197448,
+                "name": "Y. Couto"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 62,
+                "extra": null
+            },
+            "team": {
+                "id": 165,
+                "name": "Borussia Dortmund",
+                "logo": "https://media.api-sports.io/football/teams/165.png"
+            },
+            "player": {
+                "id": 198654,
+                "name": "D. Svensson"
+            },
+            "assist": {
+                "id": 197448,
+                "name": "Y. Couto"
+            },
+            "type": "subst",
+            "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 65,
+                "extra": null
+            },
+            "team": {
+                "id": 164,
+                "name": "FSV Mainz 05",
+                "logo": "https://media.api-sports.io/football/teams/164.png"
+            },
+            "player": {
+                "id": 26519,
+                "name": "Hong Hyun-Seok"
+            },
+            "assist": {
+                "id": 2906,
+                "name": "Lee Jae-Sung"
+            },
+            "type": "subst",
+            "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 66,
+                "extra": null
+            },
+            "team": {
+                "id": 164,
+                "name": "FSV Mainz 05",
+                "logo": "https://media.api-sports.io/football/teams/164.png"
+            },
+            "player": {
+                "id": 283753,
+                "name": "N. Veratschnig"
+            },
+            "assist": {
+                "id": 48378,
+                "name": "S. Widmer"
+            },
+            "type": "subst",
+            "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 72,
+                "extra": null
+            },
+            "team": {
+                "id": 165,
+                "name": "Borussia Dortmund",
+                "logo": "https://media.api-sports.io/football/teams/165.png"
+            },
+            "player": {
+                "id": 158644,
+                "name": "M. Beier"
+            },
+            "assist": {
+                "id": 26243,
+                "name": "N. Schlotterbeck"
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 76,
+                "extra": null
+            },
+            "team": {
+                "id": 164,
+                "name": "FSV Mainz 05",
+                "logo": "https://media.api-sports.io/football/teams/164.png"
+            },
+            "player": {
+                "id": 202736,
+                "name": "P. Nebel"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 79,
+                "extra": null
+            },
+            "team": {
+                "id": 165,
+                "name": "Borussia Dortmund",
+                "logo": "https://media.api-sports.io/football/teams/165.png"
+            },
+            "player": {
+                "id": 138935,
+                "name": "C. Chukwuemeka"
+            },
+            "assist": {
+                "id": 984,
+                "name": "J. Brandt"
+            },
+            "type": "subst",
+            "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 79,
+                "extra": null
+            },
+            "team": {
+                "id": 165,
+                "name": "Borussia Dortmund",
+                "logo": "https://media.api-sports.io/football/teams/165.png"
+            },
+            "player": {
+                "id": 506,
+                "name": "N. Sule"
+            },
+            "assist": {
+                "id": 24807,
+                "name": "S. Ozcan"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 88,
+                "extra": null
+            },
+            "team": {
+                "id": 164,
+                "name": "FSV Mainz 05",
+                "logo": "https://media.api-sports.io/football/teams/164.png"
+            },
+            "player": {
+                "id": 280339,
+                "name": "A. Sieb"
+            },
+            "assist": {
+                "id": 202736,
+                "name": "P. Nebel"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 88,
+                "extra": null
+            },
+            "team": {
+                "id": 164,
+                "name": "FSV Mainz 05",
+                "logo": "https://media.api-sports.io/football/teams/164.png"
+            },
+            "player": {
+                "id": 22097,
+                "name": "A. Nordin"
+            },
+            "assist": {
+                "id": 22244,
+                "name": "A. Caci"
+            },
+            "type": "subst",
+            "detail": "Substitution 4",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 89,
+                "extra": null
+            },
+            "team": {
+                "id": 165,
+                "name": "Borussia Dortmund",
+                "logo": "https://media.api-sports.io/football/teams/165.png"
+            },
+            "player": {
+                "id": 26243,
+                "name": "N. Schlotterbeck"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 90,
+                "extra": null
+            },
+            "team": {
+                "id": 165,
+                "name": "Borussia Dortmund",
+                "logo": "https://media.api-sports.io/football/teams/165.png"
+            },
+            "player": {
+                "id": 286894,
+                "name": "J. Gittens"
+            },
+            "assist": {
+                "id": 7334,
+                "name": "K. Adeyemi"
+            },
+            "type": "subst",
+            "detail": "Substitution 4",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 90,
+                "extra": 1
+            },
+            "team": {
+                "id": 165,
+                "name": "Borussia Dortmund",
+                "logo": "https://media.api-sports.io/football/teams/165.png"
+            },
+            "player": {
+                "id": 2194,
+                "name": "R. Bensebaini"
+            },
+            "assist": {
+                "id": 25368,
+                "name": "W. Anton"
+            },
+            "type": "subst",
+            "detail": "Substitution 5",
+            "comments": null
+        }
+    ],
     "statistics": [
         {
             "team": {
@@ -63,11 +394,11 @@
                 },
                 {
                     "type": "Shots off Goal",
-                    "value": 4
+                    "value": 5
                 },
                 {
                     "type": "Total Shots",
-                    "value": 17
+                    "value": 18
                 },
                 {
                     "type": "Blocked Shots",
@@ -79,7 +410,7 @@
                 },
                 {
                     "type": "Shots outsidebox",
-                    "value": 7
+                    "value": 8
                 },
                 {
                     "type": "Fouls",
@@ -95,7 +426,7 @@
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "45%"
+                    "value": "44%"
                 },
                 {
                     "type": "Yellow Cards",
@@ -111,11 +442,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 412
+                    "value": 423
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 307
+                    "value": 316
                 },
                 {
                     "type": "Passes %",
@@ -164,7 +495,7 @@
                 },
                 {
                     "type": "Fouls",
-                    "value": 7
+                    "value": 8
                 },
                 {
                     "type": "Corner Kicks",
@@ -176,7 +507,7 @@
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "55%"
+                    "value": "56%"
                 },
                 {
                     "type": "Yellow Cards",
@@ -192,11 +523,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 515
+                    "value": 535
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 407
+                    "value": 423
                 },
                 {
                     "type": "Passes %",
