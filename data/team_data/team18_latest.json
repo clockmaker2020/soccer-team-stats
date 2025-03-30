@@ -1318,6 +1318,149 @@
             "squad": []
         },
         {
+            "team": "Borussia Dortmund",
+            "date": "2025-03-30 15:30",
+            "opponent": "FSV Mainz 05",
+            "score": "3 - 1",
+            "stadium": "SIGNAL IDUNA PARK",
+            "referee": "Daniel Schlager, Germany",
+            "league_round": "Regular Season - 27",
+            "events": [
+                {
+                    "time": "39'",
+                    "player": "M. Beier",
+                    "detail": "Normal Goal",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "42'",
+                    "player": "E. Can",
+                    "detail": "Normal Goal",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "45'",
+                    "player": "Y. Couto",
+                    "detail": "Yellow Card",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "62'",
+                    "player": "D. Svensson",
+                    "detail": "Substitution 1",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "65'",
+                    "player": "Hong Hyun-Seok",
+                    "detail": "Substitution 1",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "66'",
+                    "player": "N. Veratschnig",
+                    "detail": "Substitution 2",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "72'",
+                    "player": "M. Beier",
+                    "detail": "Normal Goal",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "76'",
+                    "player": "P. Nebel",
+                    "detail": "Normal Goal",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "79'",
+                    "player": "C. Chukwuemeka",
+                    "detail": "Substitution 2",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "79'",
+                    "player": "N. Sule",
+                    "detail": "Substitution 3",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "88'",
+                    "player": "A. Sieb",
+                    "detail": "Substitution 3",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "88'",
+                    "player": "A. Nordin",
+                    "detail": "Substitution 4",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "89'",
+                    "player": "N. Schlotterbeck",
+                    "detail": "Yellow Card",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "90'",
+                    "player": "J. Gittens",
+                    "detail": "Substitution 4",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "90'",
+                    "player": "R. Bensebaini",
+                    "detail": "Substitution 5",
+                    "team": "Borussia Dortmund"
+                }
+            ],
+            "odds": {
+                "home": "N/A",
+                "draw": "N/A",
+                "away": "N/A"
+            },
+            "past_results": [
+                {
+                    "date": "2025-03-30 15:30",
+                    "score": "3 - 1"
+                },
+                {
+                    "date": "2025-03-15 17:30",
+                    "score": "2 - 0"
+                },
+                {
+                    "date": "2025-03-08 14:30",
+                    "score": "0 - 1"
+                },
+                {
+                    "date": "2025-03-01 14:30",
+                    "score": "0 - 2"
+                },
+                {
+                    "date": "2025-02-22 17:30",
+                    "score": "6 - 0"
+                }
+            ],
+            "future_games": [
+                {
+                    "date": "2025-04-05 13:30",
+                    "opponent": "SC Freiburg"
+                },
+                {
+                    "date": "2025-04-12 16:30",
+                    "opponent": "Bayern München"
+                },
+                {
+                    "date": "2025-04-20 15:30",
+                    "opponent": "Borussia Mönchengladbach"
+                }
+            ],
+            "squad": []
+        },
+        {
             "team": "VfB Stuttgart",
             "date": "2025-03-29 17:30",
             "opponent": "Eintracht Frankfurt",
@@ -1623,149 +1766,6 @@
                 {
                     "date": "2025-04-19 13:30",
                     "opponent": "VfL Bochum"
-                }
-            ],
-            "squad": []
-        },
-        {
-            "team": "Borussia Dortmund",
-            "date": "2025-03-30 15:30",
-            "opponent": "FSV Mainz 05",
-            "score": "3 - 1",
-            "stadium": "SIGNAL IDUNA PARK",
-            "referee": "Daniel Schlager, Germany",
-            "league_round": "Regular Season - 27",
-            "events": [
-                {
-                    "time": "39'",
-                    "player": "M. Beier",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "42'",
-                    "player": "E. Can",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "45'",
-                    "player": "Y. Couto",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "62'",
-                    "player": "D. Svensson",
-                    "detail": "Substitution 1",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "65'",
-                    "player": "Hong Hyun-Seok",
-                    "detail": "Substitution 1",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "66'",
-                    "player": "N. Veratschnig",
-                    "detail": "Substitution 2",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "72'",
-                    "player": "M. Beier",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "76'",
-                    "player": "P. Nebel",
-                    "detail": "Normal Goal",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "79'",
-                    "player": "C. Chukwuemeka",
-                    "detail": "Substitution 2",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "79'",
-                    "player": "N. Sule",
-                    "detail": "Substitution 3",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "88'",
-                    "player": "A. Sieb",
-                    "detail": "Substitution 3",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "88'",
-                    "player": "A. Nordin",
-                    "detail": "Substitution 4",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "89'",
-                    "player": "N. Schlotterbeck",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "90'",
-                    "player": "J. Gittens",
-                    "detail": "Substitution 4",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "90'",
-                    "player": "R. Bensebaini",
-                    "detail": "Substitution 5",
-                    "team": "Borussia Dortmund"
-                }
-            ],
-            "odds": {
-                "home": "N/A",
-                "draw": "N/A",
-                "away": "N/A"
-            },
-            "past_results": [
-                {
-                    "date": "2025-03-30 15:30",
-                    "score": "3 - 1"
-                },
-                {
-                    "date": "2025-03-15 17:30",
-                    "score": "2 - 0"
-                },
-                {
-                    "date": "2025-03-08 14:30",
-                    "score": "0 - 1"
-                },
-                {
-                    "date": "2025-03-01 14:30",
-                    "score": "0 - 2"
-                },
-                {
-                    "date": "2025-02-22 17:30",
-                    "score": "6 - 0"
-                }
-            ],
-            "future_games": [
-                {
-                    "date": "2025-04-05 13:30",
-                    "opponent": "SC Freiburg"
-                },
-                {
-                    "date": "2025-04-12 16:30",
-                    "opponent": "Bayern München"
-                },
-                {
-                    "date": "2025-04-20 15:30",
-                    "opponent": "Borussia Mönchengladbach"
                 }
             ],
             "squad": []
