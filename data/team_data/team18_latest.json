@@ -463,7 +463,7 @@
                     "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "65'",
+                    "time": "66'",
                     "player": "Hong Hyun-Seok",
                     "detail": "Substitution 1",
                     "team": "FSV Mainz 05"
@@ -472,6 +472,12 @@
                     "time": "66'",
                     "player": "N. Veratschnig",
                     "detail": "Substitution 2",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "71'",
+                    "player": "N. Weiper",
+                    "detail": "Substitution 3",
                     "team": "FSV Mainz 05"
                 },
                 {
@@ -501,13 +507,13 @@
                 {
                     "time": "88'",
                     "player": "A. Sieb",
-                    "detail": "Substitution 3",
+                    "detail": "Substitution 4",
                     "team": "FSV Mainz 05"
                 },
                 {
                     "time": "88'",
                     "player": "A. Nordin",
-                    "detail": "Substitution 4",
+                    "detail": "Substitution 5",
                     "team": "FSV Mainz 05"
                 },
                 {
@@ -1351,7 +1357,7 @@
                     "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "65'",
+                    "time": "66'",
                     "player": "Hong Hyun-Seok",
                     "detail": "Substitution 1",
                     "team": "FSV Mainz 05"
@@ -1360,6 +1366,12 @@
                     "time": "66'",
                     "player": "N. Veratschnig",
                     "detail": "Substitution 2",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "71'",
+                    "player": "N. Weiper",
+                    "detail": "Substitution 3",
                     "team": "FSV Mainz 05"
                 },
                 {
@@ -1389,13 +1401,13 @@
                 {
                     "time": "88'",
                     "player": "A. Sieb",
-                    "detail": "Substitution 3",
+                    "detail": "Substitution 4",
                     "team": "FSV Mainz 05"
                 },
                 {
                     "time": "88'",
                     "player": "A. Nordin",
-                    "detail": "Substitution 4",
+                    "detail": "Substitution 5",
                     "team": "FSV Mainz 05"
                 },
                 {
