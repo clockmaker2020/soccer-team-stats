@@ -139,7 +139,7 @@
         },
         {
             "time": {
-                "elapsed": 65,
+                "elapsed": 66,
                 "extra": null
             },
             "team": {
@@ -179,6 +179,28 @@
             },
             "type": "subst",
             "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 71,
+                "extra": null
+            },
+            "team": {
+                "id": 164,
+                "name": "FSV Mainz 05",
+                "logo": "https://media.api-sports.io/football/teams/164.png"
+            },
+            "player": {
+                "id": 342177,
+                "name": "N. Weiper"
+            },
+            "assist": {
+                "id": 25926,
+                "name": "J. Burkardt"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
             "comments": null
         },
         {
@@ -288,7 +310,7 @@
                 "name": "P. Nebel"
             },
             "type": "subst",
-            "detail": "Substitution 3",
+            "detail": "Substitution 4",
             "comments": null
         },
         {
@@ -310,7 +332,7 @@
                 "name": "A. Caci"
             },
             "type": "subst",
-            "detail": "Substitution 4",
+            "detail": "Substitution 5",
             "comments": null
         },
         {
@@ -360,7 +382,7 @@
         {
             "time": {
                 "elapsed": 90,
-                "extra": 1
+                "extra": null
             },
             "team": {
                 "id": 165,
