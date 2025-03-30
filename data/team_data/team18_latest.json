@@ -11,7 +11,7 @@
             "events": [
                 {
                     "time": "13'",
-                    "player": "R. Guerreiro",
+                    "player": "Raphaël Guerreiro",
                     "detail": "Yellow Card",
                     "team": "Bayern München"
                 },
@@ -29,79 +29,79 @@
                 },
                 {
                     "time": "45'",
-                    "player": "M. Olise",
+                    "player": "Michael Olise",
                     "detail": "Yellow Card",
                     "team": "Bayern München"
                 },
                 {
                     "time": "46'",
-                    "player": "J. Palhinha",
+                    "player": "L. Goretzka",
                     "detail": "Substitution 1",
                     "team": "Bayern München"
                 },
                 {
                     "time": "51'",
-                    "player": "J. Palhinha",
+                    "player": "João Palhinha",
                     "detail": "Yellow Card",
                     "team": "Bayern München"
                 },
                 {
                     "time": "53'",
-                    "player": "L. Sane",
+                    "player": "L. Sané",
                     "detail": "Normal Goal",
                     "team": "Bayern München"
                 },
                 {
                     "time": "58'",
-                    "player": "H. Ito",
+                    "player": "Raphaël Guerreiro",
                     "detail": "Substitution 2",
                     "team": "Bayern München"
                 },
                 {
-                    "time": "59'",
-                    "player": "C. Metcalfe",
+                    "time": "60'",
+                    "player": "A. Dźwigała",
                     "detail": "Substitution 1",
                     "team": "FC St. Pauli"
                 },
                 {
                     "time": "71'",
-                    "player": "L. Sane",
+                    "player": "L. Sané",
                     "detail": "Normal Goal",
                     "team": "Bayern München"
                 },
                 {
                     "time": "72'",
-                    "player": "O. Afolayan",
+                    "player": "E. Saad",
                     "detail": "Substitution 2",
                     "team": "FC St. Pauli"
                 },
                 {
                     "time": "78'",
-                    "player": "S. Gnabry",
+                    "player": "J. Musiala",
                     "detail": "Substitution 3",
                     "team": "Bayern München"
                 },
                 {
-                    "time": "83'",
-                    "player": "L. Ritzka",
+                    "time": "82'",
+                    "player": "M. Saliakas",
                     "detail": "Substitution 3",
                     "team": "FC St. Pauli"
                 },
                 {
                     "time": "83'",
-                    "player": "A. Ceesay",
+                    "player": "D. Sinani",
                     "detail": "Substitution 4",
                     "team": "FC St. Pauli"
                 },
                 {
                     "time": "85'",
-                    "player": "J. Stanisic",
+                    "player": "K. Laimer",
                     "detail": "Substitution 4",
                     "team": "Bayern München"
                 },
                 {
                     "time": "85'",
-                    "player": "T. Muller",
+                    "player": "H. Kane",
                     "detail": "Substitution 5",
                     "team": "Bayern München"
                 },
@@ -297,91 +297,91 @@
                 },
                 {
                     "time": "25'",
-                    "player": "N. Collins",
+                    "player": "A. Knauff",
                     "detail": "Substitution 1",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "34'",
-                    "player": "E. Millot",
+                    "player": "Enzo Millot",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "49'",
-                    "player": "M. Mittelstadt",
+                    "player": "Maximilian Mittelstädt",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "58'",
-                    "player": "A. Al Dakhil",
+                    "time": "57'",
+                    "player": "Ameen Al-Dakhil",
                     "detail": "Red Card",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "61'",
-                    "player": "N. Woltemade",
+                    "player": "C. Führich",
                     "detail": "Substitution 1",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "62'",
-                    "player": "R. Hendriks",
+                    "player": "E. Millot",
                     "detail": "Substitution 2",
                     "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "71'",
-                    "player": "M. Gotze",
+                    "time": "70'",
+                    "player": "M. Götze",
                     "detail": "Normal Goal",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "77'",
-                    "player": "L. Jaquez",
+                    "player": "M. Mittelstädt",
                     "detail": "Substitution 3",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "78'",
-                    "player": "D. Undav",
+                    "player": "J. Leweling",
                     "detail": "Substitution 4",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "78'",
-                    "player": "J. Bruun Larsen",
+                    "player": "E. Demirović",
                     "detail": "Substitution 5",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "81'",
-                    "player": "E. Skhiri",
+                    "player": "Tuta",
                     "detail": "Substitution 2",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "81'",
-                    "player": "O. Hojlund",
+                    "player": "H. Larsson",
                     "detail": "Substitution 3",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "87'",
-                    "player": "A. Amenda",
+                    "player": "J. Bahoya",
                     "detail": "Substitution 4",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "87'",
-                    "player": "F. Chaibi",
+                    "player": "A. Theate",
                     "detail": "Substitution 5",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "90'",
-                    "player": "A. Stiller",
+                    "player": "Angelo Stiller",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 }
@@ -1304,91 +1304,91 @@
                 },
                 {
                     "time": "25'",
-                    "player": "N. Collins",
+                    "player": "A. Knauff",
                     "detail": "Substitution 1",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "34'",
-                    "player": "E. Millot",
+                    "player": "Enzo Millot",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "49'",
-                    "player": "M. Mittelstadt",
+                    "player": "Maximilian Mittelstädt",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "58'",
-                    "player": "A. Al Dakhil",
+                    "time": "57'",
+                    "player": "Ameen Al-Dakhil",
                     "detail": "Red Card",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "61'",
-                    "player": "N. Woltemade",
+                    "player": "C. Führich",
                     "detail": "Substitution 1",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "62'",
-                    "player": "R. Hendriks",
+                    "player": "E. Millot",
                     "detail": "Substitution 2",
                     "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "71'",
-                    "player": "M. Gotze",
+                    "time": "70'",
+                    "player": "M. Götze",
                     "detail": "Normal Goal",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "77'",
-                    "player": "L. Jaquez",
+                    "player": "M. Mittelstädt",
                     "detail": "Substitution 3",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "78'",
-                    "player": "D. Undav",
+                    "player": "J. Leweling",
                     "detail": "Substitution 4",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "78'",
-                    "player": "J. Bruun Larsen",
+                    "player": "E. Demirović",
                     "detail": "Substitution 5",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "81'",
-                    "player": "E. Skhiri",
+                    "player": "Tuta",
                     "detail": "Substitution 2",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "81'",
-                    "player": "O. Hojlund",
+                    "player": "H. Larsson",
                     "detail": "Substitution 3",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "87'",
-                    "player": "A. Amenda",
+                    "player": "J. Bahoya",
                     "detail": "Substitution 4",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "87'",
-                    "player": "F. Chaibi",
+                    "player": "A. Theate",
                     "detail": "Substitution 5",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "90'",
-                    "player": "A. Stiller",
+                    "player": "Angelo Stiller",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 }
@@ -1603,7 +1603,7 @@
             "opponent": "RB Leipzig",
             "score": "2 - 0",
             "stadium": "Red Bull Arena",
-            "referee": "M. Jöllenbeck",
+            "referee": "Matthias Jollenbeck, Germany",
             "league_round": "Regular Season - 26",
             "events": [
                 {
