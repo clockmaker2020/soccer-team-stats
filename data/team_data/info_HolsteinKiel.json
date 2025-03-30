@@ -61,7 +61,7 @@
             },
             "player": {
                 "id": 202580,
-                "name": "L. Rosenboom"
+                "name": "Lasse Rosenboom"
             },
             "assist": {
                 "id": null,
@@ -69,7 +69,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Unsportsmanlike conduct"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -83,7 +83,7 @@
             },
             "player": {
                 "id": 260898,
-                "name": "N. Remberg"
+                "name": "Nicolai Remberg"
             },
             "assist": {
                 "id": null,
@@ -91,7 +91,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Roughing"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -127,7 +127,7 @@
             },
             "player": {
                 "id": 306338,
-                "name": "M. Ivezic"
+                "name": "Marko Ivezić"
             },
             "assist": {
                 "id": null,
@@ -135,7 +135,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Roughing"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -148,12 +148,12 @@
                 "logo": "https://media.api-sports.io/football/teams/191.png"
             },
             "player": {
-                "id": 24876,
-                "name": "L. Holtby"
+                "id": 306338,
+                "name": "M. Ivezić"
             },
             "assist": {
-                "id": 306338,
-                "name": "M. Ivezic"
+                "id": 24876,
+                "name": "L. Holtby"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -161,7 +161,7 @@
         },
         {
             "time": {
-                "elapsed": 35,
+                "elapsed": 36,
                 "extra": null
             },
             "team": {
@@ -170,12 +170,12 @@
                 "logo": "https://media.api-sports.io/football/teams/191.png"
             },
             "player": {
-                "id": 90977,
-                "name": "T. Becker"
-            },
-            "assist": {
                 "id": 202580,
                 "name": "L. Rosenboom"
+            },
+            "assist": {
+                "id": 90977,
+                "name": "T. Becker"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -192,12 +192,12 @@
                 "logo": "https://media.api-sports.io/football/teams/191.png"
             },
             "player": {
-                "id": 106851,
-                "name": "S. Machino"
-            },
-            "assist": {
                 "id": 202514,
                 "name": "P. Harres"
+            },
+            "assist": {
+                "id": 106851,
+                "name": "S. Machino"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -215,7 +215,7 @@
             },
             "player": {
                 "id": 47696,
-                "name": "A. Bernhardsson"
+                "name": "Alexander Bernhardsson"
             },
             "assist": {
                 "id": null,
@@ -223,7 +223,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Roughing"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -258,12 +258,12 @@
                 "logo": "https://media.api-sports.io/football/teams/191.png"
             },
             "player": {
-                "id": 7305,
-                "name": "B. Pichler"
-            },
-            "assist": {
                 "id": 260898,
                 "name": "N. Remberg"
+            },
+            "assist": {
+                "id": 7305,
+                "name": "B. Pichler"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -280,12 +280,12 @@
                 "logo": "https://media.api-sports.io/football/teams/162.png"
             },
             "player": {
-                "id": 177807,
-                "name": "J. Njinmah"
+                "id": 25464,
+                "name": "M. Ducksch"
             },
             "assist": {
-                "id": 1124,
-                "name": "O. Burke"
+                "id": 334334,
+                "name": "K. Topp"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -302,12 +302,12 @@
                 "logo": "https://media.api-sports.io/football/teams/162.png"
             },
             "player": {
-                "id": 334334,
-                "name": "K. Topp"
+                "id": 1124,
+                "name": "O. Burke"
             },
             "assist": {
-                "id": 25464,
-                "name": "M. Ducksch"
+                "id": 177807,
+                "name": "J. Njinmah"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -324,12 +324,12 @@
                 "logo": "https://media.api-sports.io/football/teams/191.png"
             },
             "player": {
-                "id": 24887,
-                "name": "J. Arp"
-            },
-            "assist": {
                 "id": 26525,
                 "name": "F. Porath"
+            },
+            "assist": {
+                "id": 24887,
+                "name": "F. Arp"
             },
             "type": "subst",
             "detail": "Substitution 5",
@@ -347,7 +347,7 @@
             },
             "player": {
                 "id": 15592,
-                "name": "J. Stage"
+                "name": "Jens Stage"
             },
             "assist": {
                 "id": null,
@@ -355,7 +355,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Roughing"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -368,12 +368,12 @@
                 "logo": "https://media.api-sports.io/football/teams/162.png"
             },
             "player": {
-                "id": 716,
-                "name": "L. Bittencourt"
-            },
-            "assist": {
                 "id": 15592,
                 "name": "J. Stage"
+            },
+            "assist": {
+                "id": 716,
+                "name": "L. Bittencourt"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -390,12 +390,12 @@
                 "logo": "https://media.api-sports.io/football/teams/162.png"
             },
             "player": {
-                "id": 15874,
-                "name": "A. Jung"
-            },
-            "assist": {
                 "id": 25011,
                 "name": "A. Pieper"
+            },
+            "assist": {
+                "id": 15874,
+                "name": "A. Jung"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -412,12 +412,12 @@
                 "logo": "https://media.api-sports.io/football/teams/162.png"
             },
             "player": {
-                "id": 7073,
-                "name": "M. Grull"
-            },
-            "assist": {
                 "id": 7562,
                 "name": "R. Schmid"
+            },
+            "assist": {
+                "id": 7073,
+                "name": "M. Grüll"
             },
             "type": "subst",
             "detail": "Substitution 5",
@@ -435,7 +435,7 @@
             },
             "player": {
                 "id": 7073,
-                "name": "M. Grull"
+                "name": "M. Grüll"
             },
             "assist": {
                 "id": 973,
