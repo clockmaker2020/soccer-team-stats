@@ -452,31 +452,31 @@
                 },
                 {
                     "time": "45'",
-                    "player": "Y. Couto",
+                    "player": "Yan Couto",
                     "detail": "Yellow Card",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "62'",
-                    "player": "D. Svensson",
+                    "player": "Yan Couto",
                     "detail": "Substitution 1",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "66'",
-                    "player": "Hong Hyun-Seok",
+                    "player": "S. Widmer",
                     "detail": "Substitution 1",
                     "team": "FSV Mainz 05"
                 },
                 {
                     "time": "66'",
-                    "player": "N. Veratschnig",
+                    "player": "Lee Jae-Sung",
                     "detail": "Substitution 2",
                     "team": "FSV Mainz 05"
                 },
                 {
                     "time": "71'",
-                    "player": "N. Weiper",
+                    "player": "J. Burkardt",
                     "detail": "Substitution 3",
                     "team": "FSV Mainz 05"
                 },
@@ -494,43 +494,43 @@
                 },
                 {
                     "time": "79'",
-                    "player": "C. Chukwuemeka",
+                    "player": "J. Brandt",
                     "detail": "Substitution 2",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "79'",
-                    "player": "N. Sule",
+                    "player": "S. Özcan",
                     "detail": "Substitution 3",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "88'",
-                    "player": "A. Sieb",
+                    "player": "A. Caci",
                     "detail": "Substitution 4",
                     "team": "FSV Mainz 05"
                 },
                 {
                     "time": "88'",
-                    "player": "A. Nordin",
+                    "player": "P. Nebel",
                     "detail": "Substitution 5",
                     "team": "FSV Mainz 05"
                 },
                 {
                     "time": "89'",
-                    "player": "N. Schlotterbeck",
+                    "player": "Nico Schlotterbeck",
                     "detail": "Yellow Card",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "90'",
-                    "player": "J. Gittens",
+                    "player": "K. Adeyemi",
                     "detail": "Substitution 4",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "90'",
-                    "player": "R. Bensebaini",
+                    "player": "W. Anton",
                     "detail": "Substitution 5",
                     "team": "Borussia Dortmund"
                 }
@@ -875,13 +875,13 @@
             "events": [
                 {
                     "time": "8'",
-                    "player": "T. Skarke",
+                    "player": "Jeong Wooyeong",
                     "detail": "Substitution 1",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "29'",
-                    "player": "L. Holer",
+                    "player": "L. Höler",
                     "detail": "Normal Goal",
                     "team": "SC Freiburg"
                 },
@@ -893,103 +893,103 @@
                 },
                 {
                     "time": "48'",
-                    "player": "A. Ilic",
+                    "player": "A. Ilić",
                     "detail": "Normal Goal",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "58'",
-                    "player": "E. Dinkci",
+                    "player": "L. Höler",
                     "detail": "Substitution 1",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "58'",
-                    "player": "F. Muller",
+                    "player": "N. Atubolu",
                     "detail": "Substitution 2",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "67'",
-                    "player": "J. Beste",
+                    "player": "K. Sildillia",
                     "detail": "Substitution 3",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "67'",
-                    "player": "L. Kubler",
+                    "player": "C. Günter",
                     "detail": "Substitution 4",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "68'",
-                    "player": "R. Khedira",
+                    "player": "Rani Khedira",
                     "detail": "Yellow Card",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "69'",
-                    "player": "A. Schafer",
+                    "player": "T. Skarke",
                     "detail": "Substitution 2",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "76'",
-                    "player": "M. Ginter",
+                    "player": "Matthias Ginter",
                     "detail": "Yellow Card",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "81'",
-                    "player": "A. Ilic",
+                    "player": "Andrej Ilić",
                     "detail": "Yellow Card",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "85'",
-                    "player": "L. Benes",
+                    "player": "J. Haberer",
                     "detail": "Substitution 3",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "85'",
-                    "player": "M. Ljubicic",
+                    "player": "A. Ilić",
                     "detail": "Substitution 4",
                     "team": "Union Berlin"
                 },
                 {
-                    "time": "86'",
-                    "player": "L. Tousart",
+                    "time": "85'",
+                    "player": "B. Hollerbach",
                     "detail": "Substitution 5",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "86'",
-                    "player": "J. Manzambi",
+                    "player": "M. Eggestein",
                     "detail": "Substitution 5",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "88'",
-                    "player": "A. Schafer",
+                    "player": "András Schäfer",
                     "detail": "Yellow Card",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "89'",
-                    "player": "J. Juranovic",
+                    "player": "Josip Juranović",
                     "detail": "Yellow Card",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "89'",
-                    "player": "J. Manzambi",
+                    "player": "Johan Manzambi",
                     "detail": "Yellow Card",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "90'",
-                    "player": "E. Dinkci",
+                    "player": "Eren Dinkçi",
                     "detail": "Yellow Card",
                     "team": "SC Freiburg"
                 }
@@ -1346,31 +1346,31 @@
                 },
                 {
                     "time": "45'",
-                    "player": "Y. Couto",
+                    "player": "Yan Couto",
                     "detail": "Yellow Card",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "62'",
-                    "player": "D. Svensson",
+                    "player": "Yan Couto",
                     "detail": "Substitution 1",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "66'",
-                    "player": "Hong Hyun-Seok",
+                    "player": "S. Widmer",
                     "detail": "Substitution 1",
                     "team": "FSV Mainz 05"
                 },
                 {
                     "time": "66'",
-                    "player": "N. Veratschnig",
+                    "player": "Lee Jae-Sung",
                     "detail": "Substitution 2",
                     "team": "FSV Mainz 05"
                 },
                 {
                     "time": "71'",
-                    "player": "N. Weiper",
+                    "player": "J. Burkardt",
                     "detail": "Substitution 3",
                     "team": "FSV Mainz 05"
                 },
@@ -1388,43 +1388,43 @@
                 },
                 {
                     "time": "79'",
-                    "player": "C. Chukwuemeka",
+                    "player": "J. Brandt",
                     "detail": "Substitution 2",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "79'",
-                    "player": "N. Sule",
+                    "player": "S. Özcan",
                     "detail": "Substitution 3",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "88'",
-                    "player": "A. Sieb",
+                    "player": "A. Caci",
                     "detail": "Substitution 4",
                     "team": "FSV Mainz 05"
                 },
                 {
                     "time": "88'",
-                    "player": "A. Nordin",
+                    "player": "P. Nebel",
                     "detail": "Substitution 5",
                     "team": "FSV Mainz 05"
                 },
                 {
                     "time": "89'",
-                    "player": "N. Schlotterbeck",
+                    "player": "Nico Schlotterbeck",
                     "detail": "Yellow Card",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "90'",
-                    "player": "J. Gittens",
+                    "player": "K. Adeyemi",
                     "detail": "Substitution 4",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "90'",
-                    "player": "R. Bensebaini",
+                    "player": "W. Anton",
                     "detail": "Substitution 5",
                     "team": "Borussia Dortmund"
                 }
@@ -1793,13 +1793,13 @@
             "events": [
                 {
                     "time": "8'",
-                    "player": "T. Skarke",
+                    "player": "Jeong Wooyeong",
                     "detail": "Substitution 1",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "29'",
-                    "player": "L. Holer",
+                    "player": "L. Höler",
                     "detail": "Normal Goal",
                     "team": "SC Freiburg"
                 },
@@ -1811,103 +1811,103 @@
                 },
                 {
                     "time": "48'",
-                    "player": "A. Ilic",
+                    "player": "A. Ilić",
                     "detail": "Normal Goal",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "58'",
-                    "player": "E. Dinkci",
+                    "player": "L. Höler",
                     "detail": "Substitution 1",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "58'",
-                    "player": "F. Muller",
+                    "player": "N. Atubolu",
                     "detail": "Substitution 2",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "67'",
-                    "player": "J. Beste",
+                    "player": "K. Sildillia",
                     "detail": "Substitution 3",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "67'",
-                    "player": "L. Kubler",
+                    "player": "C. Günter",
                     "detail": "Substitution 4",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "68'",
-                    "player": "R. Khedira",
+                    "player": "Rani Khedira",
                     "detail": "Yellow Card",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "69'",
-                    "player": "A. Schafer",
+                    "player": "T. Skarke",
                     "detail": "Substitution 2",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "76'",
-                    "player": "M. Ginter",
+                    "player": "Matthias Ginter",
                     "detail": "Yellow Card",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "81'",
-                    "player": "A. Ilic",
+                    "player": "Andrej Ilić",
                     "detail": "Yellow Card",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "85'",
-                    "player": "L. Benes",
+                    "player": "J. Haberer",
                     "detail": "Substitution 3",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "85'",
-                    "player": "M. Ljubicic",
+                    "player": "A. Ilić",
                     "detail": "Substitution 4",
                     "team": "Union Berlin"
                 },
                 {
-                    "time": "86'",
-                    "player": "L. Tousart",
+                    "time": "85'",
+                    "player": "B. Hollerbach",
                     "detail": "Substitution 5",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "86'",
-                    "player": "J. Manzambi",
+                    "player": "M. Eggestein",
                     "detail": "Substitution 5",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "88'",
-                    "player": "A. Schafer",
+                    "player": "András Schäfer",
                     "detail": "Yellow Card",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "89'",
-                    "player": "J. Juranovic",
+                    "player": "Josip Juranović",
                     "detail": "Yellow Card",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "89'",
-                    "player": "J. Manzambi",
+                    "player": "Johan Manzambi",
                     "detail": "Yellow Card",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "90'",
-                    "player": "E. Dinkci",
+                    "player": "Eren Dinkçi",
                     "detail": "Yellow Card",
                     "team": "SC Freiburg"
                 }
