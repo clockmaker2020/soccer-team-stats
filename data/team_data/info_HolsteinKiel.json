@@ -161,7 +161,7 @@
         },
         {
             "time": {
-                "elapsed": 36,
+                "elapsed": 35,
                 "extra": null
             },
             "team": {
@@ -183,7 +183,7 @@
         },
         {
             "time": {
-                "elapsed": 36,
+                "elapsed": 35,
                 "extra": null
             },
             "team": {
@@ -589,11 +589,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 369
+                    "value": 370
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 277
+                    "value": 278
                 },
                 {
                     "type": "Passes %",
