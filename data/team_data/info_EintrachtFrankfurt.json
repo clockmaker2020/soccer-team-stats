@@ -302,8 +302,8 @@
                 "logo": "https://media.api-sports.io/football/teams/169.png"
             },
             "player": {
-                "id": 335094,
-                "name": "H. Larsson"
+                "id": 1809,
+                "name": "Tuta"
             },
             "assist": {
                 "id": 21587,
@@ -324,8 +324,8 @@
                 "logo": "https://media.api-sports.io/football/teams/169.png"
             },
             "player": {
-                "id": 1809,
-                "name": "Tuta"
+                "id": 335094,
+                "name": "H. Larsson"
             },
             "assist": {
                 "id": 339874,
