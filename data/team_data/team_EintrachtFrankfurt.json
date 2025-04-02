@@ -4,7 +4,7 @@
         {
             "fixture": {
                 "id": 1224212,
-                "referee": "Deniz Aytekin, Germany",
+                "referee": "D. Aytekin",
                 "timezone": "UTC",
                 "date": "2025-03-29T17:30:00+00:00",
                 "timestamp": 1743269400,
@@ -74,7 +74,7 @@
         {
             "fixture": {
                 "id": 1224207,
-                "referee": "Felix Zwayer, Germany",
+                "referee": "F. Zwayer",
                 "timezone": "UTC",
                 "date": "2025-03-16T14:30:00+00:00",
                 "timestamp": 1742135400,
@@ -144,7 +144,7 @@
         {
             "fixture": {
                 "id": 1224194,
-                "referee": "Frank Willenborg, Germany",
+                "referee": "F. Willenborg",
                 "timezone": "UTC",
                 "date": "2025-03-09T14:30:00+00:00",
                 "timestamp": 1741530600,
@@ -214,7 +214,7 @@
         {
             "fixture": {
                 "id": 1224184,
-                "referee": "Felix Zwayer, Germany",
+                "referee": "F. Zwayer",
                 "timezone": "UTC",
                 "date": "2025-03-01T17:30:00+00:00",
                 "timestamp": 1740850200,
@@ -284,7 +284,7 @@
         {
             "fixture": {
                 "id": 1224173,
-                "referee": "Sascha Stegemann, Germany",
+                "referee": "S. Stegemann",
                 "timezone": "UTC",
                 "date": "2025-02-23T16:30:00+00:00",
                 "timestamp": 1740328200,
