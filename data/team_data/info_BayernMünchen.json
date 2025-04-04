@@ -961,27 +961,9 @@
                 },
                 {
                     "player": {
-                        "id": 126530,
-                        "name": "Daniel Peretz",
-                        "number": 18,
-                        "pos": "G",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 8,
                         "name": "Raphaël Guerreiro",
                         "number": 22,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 2195,
-                        "name": "Sacha Boey",
-                        "number": 23,
                         "pos": "D",
                         "grid": null
                     }
@@ -992,6 +974,24 @@
                         "name": "Gabriel Vidović",
                         "number": 24,
                         "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 126530,
+                        "name": "Daniel Peretz",
+                        "number": 18,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 2195,
+                        "name": "Sacha Boey",
+                        "number": 23,
+                        "pos": "D",
                         "grid": null
                     }
                 },
