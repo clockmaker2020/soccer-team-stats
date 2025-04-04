@@ -5,7 +5,7 @@
             "team": {
                 "name": "Bayern München"
             },
-            "wins": 20,
+            "wins": 21,
             "draws": 5,
             "losses": 2
         },
@@ -70,7 +70,7 @@
             },
             "wins": 10,
             "draws": 9,
-            "losses": 8
+            "losses": 9
         },
         {
             "rank": 9,
