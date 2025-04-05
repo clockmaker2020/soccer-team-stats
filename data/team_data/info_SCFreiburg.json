@@ -690,33 +690,6 @@
             "substitutes": [
                 {
                     "player": {
-                        "id": 25904,
-                        "name": "Jannik Huth",
-                        "number": 24,
-                        "pos": "G",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 191233,
-                        "name": "Kiliann Sildillia",
-                        "number": 25,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 26236,
-                        "name": "Christian Günter",
-                        "number": 30,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 202919,
                         "name": "Max Rosenfelder",
                         "number": 37,
@@ -753,19 +726,46 @@
                 },
                 {
                     "player": {
-                        "id": 406244,
-                        "name": "Johan Manzambi",
-                        "number": 44,
-                        "pos": "M",
+                        "id": 25297,
+                        "name": "Michael Gregoritsch",
+                        "number": 38,
+                        "pos": "F",
                         "grid": null
                     }
                 },
                 {
                     "player": {
-                        "id": 25297,
-                        "name": "Michael Gregoritsch",
-                        "number": 38,
-                        "pos": "F",
+                        "id": 25904,
+                        "name": "Jannik Huth",
+                        "number": 24,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 191233,
+                        "name": "Kiliann Sildillia",
+                        "number": 25,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 26236,
+                        "name": "Christian Günter",
+                        "number": 30,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 406244,
+                        "name": "Johan Manzambi",
+                        "number": 44,
+                        "pos": "M",
                         "grid": null
                     }
                 }
@@ -899,33 +899,6 @@
             "substitutes": [
                 {
                     "player": {
-                        "id": 26292,
-                        "name": "Alexander Meyer",
-                        "number": 33,
-                        "pos": "G",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 394667,
-                        "name": "Almugera Kabar",
-                        "number": 42,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 203269,
-                        "name": "Yannik Lührs",
-                        "number": 49,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 24807,
                         "name": "Salih Özcan",
                         "number": 6,
@@ -935,18 +908,18 @@
                 },
                 {
                     "player": {
-                        "id": 637,
-                        "name": "Felix Nmecha",
-                        "number": 8,
-                        "pos": "M",
+                        "id": 21393,
+                        "name": "Serhou Guirassy",
+                        "number": 9,
+                        "pos": "F",
                         "grid": null
                     }
                 },
                 {
                     "player": {
-                        "id": 161921,
-                        "name": "Giovanni Reyna",
-                        "number": 7,
+                        "id": 637,
+                        "name": "Felix Nmecha",
+                        "number": 8,
                         "pos": "M",
                         "grid": null
                     }
@@ -962,10 +935,37 @@
                 },
                 {
                     "player": {
-                        "id": 21393,
-                        "name": "Serhou Guirassy",
-                        "number": 9,
-                        "pos": "F",
+                        "id": 394667,
+                        "name": "Almugera Kabar",
+                        "number": 42,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 26292,
+                        "name": "Alexander Meyer",
+                        "number": 33,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 203269,
+                        "name": "Yannik Lührs",
+                        "number": 49,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 161921,
+                        "name": "Giovanni Reyna",
+                        "number": 7,
+                        "pos": "M",
                         "grid": null
                     }
                 },
