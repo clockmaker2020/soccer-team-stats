@@ -17,7 +17,7 @@
                 },
                 {
                     "time": "32'",
-                    "player": "C. Zesiger",
+                    "player": "Cedric Zesiger",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
@@ -29,25 +29,25 @@
                 },
                 {
                     "time": "45'",
-                    "player": "A. Claude-Maurice",
+                    "player": "Alexis Claude-Maurice",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "54'",
-                    "player": "T. Muller",
+                    "player": "J. Musiala",
                     "detail": "Substitution 1",
                     "team": "Bayern München"
                 },
                 {
-                    "time": "59'",
-                    "player": "C. Zesiger",
+                    "time": "58'",
+                    "player": "Cedric Zesiger",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
                 {
-                    "time": "59'",
-                    "player": "C. Zesiger",
+                    "time": "58'",
+                    "player": "Cedric Zesiger",
                     "detail": "Red Card",
                     "team": "FC Augsburg"
                 },
@@ -59,62 +59,62 @@
                 },
                 {
                     "time": "61'",
-                    "player": "E. Rexhbecaj",
+                    "player": "A. Claude-Maurice",
                     "detail": "Substitution 1",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "61'",
-                    "player": "K. Schlotterbeck",
+                    "player": "F. Jensen",
                     "detail": "Substitution 2",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "67'",
-                    "player": "S. Gnabry",
+                    "player": "M. Olise",
                     "detail": "Substitution 2",
                     "team": "Bayern München"
                 },
                 {
                     "time": "74'",
-                    "player": "P. Tietz",
+                    "player": "S. Essende",
                     "detail": "Substitution 3",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "81'",
-                    "player": "M. Berisha",
+                    "player": "M. Wolf",
                     "detail": "Substitution 4",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "81'",
-                    "player": "M. Komur",
+                    "player": "F. Onyeka",
                     "detail": "Substitution 5",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "84'",
-                    "player": "J. Gouweleeuw",
+                    "player": "Jeffrey Gouweleeuw",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "90'",
-                    "player": "C. Matsima",
-                    "detail": "Own Goal",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "90'",
-                    "player": "G. Vidovic",
+                    "player": "H. Kane",
                     "detail": "Substitution 3",
                     "team": "Bayern München"
                 },
                 {
                     "time": "90'",
-                    "player": "R. Guerreiro",
+                    "player": "L. Sané",
                     "detail": "Substitution 4",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "90'",
+                    "player": "C. Matsima",
+                    "detail": "Own Goal",
                     "team": "Bayern München"
                 }
             ],
@@ -292,7 +292,7 @@
             "opponent": "VfB Stuttgart",
             "score": "1 - 0",
             "stadium": "Deutsche Bank Park",
-            "referee": "D. Aytekin",
+            "referee": "Deniz Aytekin, Germany",
             "league_round": "Regular Season - 27",
             "events": [
                 {
@@ -441,7 +441,7 @@
             "opponent": "Borussia Dortmund",
             "score": "3 - 1",
             "stadium": "SIGNAL IDUNA PARK",
-            "referee": "D. Schlager",
+            "referee": "Daniel Schlager, Germany",
             "league_round": "Regular Season - 27",
             "events": [
                 {
@@ -590,7 +590,7 @@
             "opponent": "RB Leipzig",
             "score": "1 - 0",
             "stadium": "BORUSSIA-PARK",
-            "referee": "T. Stieler",
+            "referee": "Tobias Stieler, Germany",
             "league_round": "Regular Season - 27",
             "events": [
                 {
@@ -733,7 +733,7 @@
             "opponent": "Borussia Mönchengladbach",
             "score": "1 - 0",
             "stadium": "BORUSSIA-PARK",
-            "referee": "T. Stieler",
+            "referee": "Tobias Stieler, Germany",
             "league_round": "Regular Season - 27",
             "events": [
                 {
@@ -876,7 +876,7 @@
             "opponent": "Union Berlin",
             "score": "1 - 2",
             "stadium": "Europa-Park Stadion",
-            "referee": "S. Storks",
+            "referee": "Sören Storks, Germany",
             "league_round": "Regular Season - 27",
             "events": [
                 {
@@ -1060,7 +1060,7 @@
                 },
                 {
                     "time": "32'",
-                    "player": "C. Zesiger",
+                    "player": "Cedric Zesiger",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
@@ -1072,25 +1072,25 @@
                 },
                 {
                     "time": "45'",
-                    "player": "A. Claude-Maurice",
+                    "player": "Alexis Claude-Maurice",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "54'",
-                    "player": "T. Muller",
+                    "player": "J. Musiala",
                     "detail": "Substitution 1",
                     "team": "Bayern München"
                 },
                 {
-                    "time": "59'",
-                    "player": "C. Zesiger",
+                    "time": "58'",
+                    "player": "Cedric Zesiger",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
                 {
-                    "time": "59'",
-                    "player": "C. Zesiger",
+                    "time": "58'",
+                    "player": "Cedric Zesiger",
                     "detail": "Red Card",
                     "team": "FC Augsburg"
                 },
@@ -1102,62 +1102,62 @@
                 },
                 {
                     "time": "61'",
-                    "player": "E. Rexhbecaj",
+                    "player": "A. Claude-Maurice",
                     "detail": "Substitution 1",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "61'",
-                    "player": "K. Schlotterbeck",
+                    "player": "F. Jensen",
                     "detail": "Substitution 2",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "67'",
-                    "player": "S. Gnabry",
+                    "player": "M. Olise",
                     "detail": "Substitution 2",
                     "team": "Bayern München"
                 },
                 {
                     "time": "74'",
-                    "player": "P. Tietz",
+                    "player": "S. Essende",
                     "detail": "Substitution 3",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "81'",
-                    "player": "M. Berisha",
+                    "player": "M. Wolf",
                     "detail": "Substitution 4",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "81'",
-                    "player": "M. Komur",
+                    "player": "F. Onyeka",
                     "detail": "Substitution 5",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "84'",
-                    "player": "J. Gouweleeuw",
+                    "player": "Jeffrey Gouweleeuw",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "90'",
-                    "player": "C. Matsima",
-                    "detail": "Own Goal",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "90'",
-                    "player": "G. Vidovic",
+                    "player": "H. Kane",
                     "detail": "Substitution 3",
                     "team": "Bayern München"
                 },
                 {
                     "time": "90'",
-                    "player": "R. Guerreiro",
+                    "player": "L. Sané",
                     "detail": "Substitution 4",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "90'",
+                    "player": "C. Matsima",
+                    "detail": "Own Goal",
                     "team": "Bayern München"
                 }
             ],
@@ -1210,7 +1210,7 @@
             "opponent": "1. FC Heidenheim",
             "score": "0 - 1",
             "stadium": "Volkswagen Arena",
-            "referee": "B. Dankert",
+            "referee": "Bastian Dankert, Germany",
             "league_round": "Regular Season - 27",
             "events": [
                 {
@@ -1359,7 +1359,7 @@
             "opponent": "FSV Mainz 05",
             "score": "3 - 1",
             "stadium": "SIGNAL IDUNA PARK",
-            "referee": "D. Schlager",
+            "referee": "Daniel Schlager, Germany",
             "league_round": "Regular Season - 27",
             "events": [
                 {
@@ -1508,7 +1508,7 @@
             "opponent": "Eintracht Frankfurt",
             "score": "1 - 0",
             "stadium": "Deutsche Bank Park",
-            "referee": "D. Aytekin",
+            "referee": "Deniz Aytekin, Germany",
             "league_round": "Regular Season - 27",
             "events": [
                 {
@@ -1657,7 +1657,7 @@
             "opponent": "Holstein Kiel",
             "score": "0 - 3",
             "stadium": "Holstein-Stadion",
-            "referee": "S. Stegemann",
+            "referee": "Sascha Stegemann, Germany",
             "league_round": "Regular Season - 27",
             "events": [
                 {
@@ -1818,7 +1818,7 @@
             "opponent": "SC Freiburg",
             "score": "1 - 2",
             "stadium": "Europa-Park Stadion",
-            "referee": "S. Storks",
+            "referee": "Sören Storks, Germany",
             "league_round": "Regular Season - 27",
             "events": [
                 {
@@ -1991,7 +1991,7 @@
             "opponent": "FC Augsburg",
             "score": "1 - 1",
             "stadium": "PreZero Arena",
-            "referee": "T. Reichel",
+            "referee": "Tobias Reichel, Germany",
             "league_round": "Regular Season - 27",
             "events": [
                 {
@@ -2128,7 +2128,7 @@
             "opponent": "Bayern München",
             "score": "3 - 2",
             "stadium": "Allianz Arena",
-            "referee": "F. Badstübner",
+            "referee": "Badstubner, Florian, Germany",
             "league_round": "Regular Season - 27",
             "events": [
                 {
@@ -2283,7 +2283,7 @@
             "opponent": "VfL Wolfsburg",
             "score": "0 - 1",
             "stadium": "Volkswagen Arena",
-            "referee": "B. Dankert",
+            "referee": "Bastian Dankert, Germany",
             "league_round": "Regular Season - 27",
             "events": [
                 {
@@ -2557,7 +2557,7 @@
             "opponent": "Werder Bremen",
             "score": "0 - 3",
             "stadium": "Holstein-Stadion",
-            "referee": "S. Stegemann",
+            "referee": "Sascha Stegemann, Germany",
             "league_round": "Regular Season - 27",
             "events": [
                 {
