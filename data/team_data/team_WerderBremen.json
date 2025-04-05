@@ -3,6 +3,76 @@
     "past_matches": [
         {
             "fixture": {
+                "id": 1224220,
+                "referee": "Daniel Siebert, Germany",
+                "timezone": "UTC",
+                "date": "2025-04-05T16:30:00+00:00",
+                "timestamp": 1743870600,
+                "periods": {
+                    "first": 1743870600,
+                    "second": 1743874200
+                },
+                "venue": {
+                    "id": 755,
+                    "name": "Weserstadion",
+                    "city": "Bremen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 5
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 28",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 169,
+                    "name": "Eintracht Frankfurt",
+                    "logo": "https://media.api-sports.io/football/teams/169.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
                 "id": 1224217,
                 "referee": "Sascha Stegemann, Germany",
                 "timezone": "UTC",
@@ -270,76 +340,6 @@
                 "fulltime": {
                     "home": 1,
                     "away": 2
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
-                "id": 1224177,
-                "referee": "Burda, Max, Germany",
-                "timezone": "UTC",
-                "date": "2025-02-21T19:30:00+00:00",
-                "timestamp": 1740166200,
-                "periods": {
-                    "first": 1740166200,
-                    "second": 1740169800
-                },
-                "venue": {
-                    "id": 12717,
-                    "name": "Europa-Park Stadion",
-                    "city": "Freiburg im Breisgau"
-                },
-                "status": {
-                    "long": "Match Finished",
-                    "short": "FT",
-                    "elapsed": 90,
-                    "extra": 4
-                }
-            },
-            "league": {
-                "id": 78,
-                "name": "Bundesliga",
-                "country": "Germany",
-                "logo": "https://media.api-sports.io/football/leagues/78.png",
-                "flag": "https://media.api-sports.io/flags/de.svg",
-                "season": 2024,
-                "round": "Regular Season - 23",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 160,
-                    "name": "SC Freiburg",
-                    "logo": "https://media.api-sports.io/football/teams/160.png",
-                    "winner": true
-                },
-                "away": {
-                    "id": 162,
-                    "name": "Werder Bremen",
-                    "logo": "https://media.api-sports.io/football/teams/162.png",
-                    "winner": false
-                }
-            },
-            "goals": {
-                "home": 5,
-                "away": 0
-            },
-            "score": {
-                "halftime": {
-                    "home": 2,
-                    "away": 0
-                },
-                "fulltime": {
-                    "home": 5,
-                    "away": 0
                 },
                 "extratime": {
                     "home": null,
