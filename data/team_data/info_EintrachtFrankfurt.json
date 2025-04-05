@@ -734,6 +734,51 @@
             "substitutes": [
                 {
                     "player": {
+                        "id": 15874,
+                        "name": "Anthony Jung",
+                        "number": 3,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 177807,
+                        "name": "Justin Njinmah",
+                        "number": 11,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 7073,
+                        "name": "Marco Grüll",
+                        "number": 17,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 716,
+                        "name": "Leonardo Bittencourt",
+                        "number": 10,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 334334,
+                        "name": "Keke Topp",
+                        "number": 42,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 329578,
                         "name": "Mio Backhaus",
                         "number": 30,
@@ -752,55 +797,10 @@
                 },
                 {
                     "player": {
-                        "id": 15874,
-                        "name": "Anthony Jung",
-                        "number": 3,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 128853,
                         "name": "Derrick Köhn",
                         "number": 19,
                         "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 716,
-                        "name": "Leonardo Bittencourt",
-                        "number": 10,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 7073,
-                        "name": "Marco Grüll",
-                        "number": 17,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 334334,
-                        "name": "Keke Topp",
-                        "number": 42,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 177807,
-                        "name": "Justin Njinmah",
-                        "number": 11,
-                        "pos": "F",
                         "grid": null
                     }
                 },
@@ -952,36 +952,9 @@
                 },
                 {
                     "player": {
-                        "id": 26291,
-                        "name": "Jens Grahl",
-                        "number": 33,
-                        "pos": "G",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 533,
                         "name": "Rasmus Kristensen",
                         "number": 13,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 156490,
-                        "name": "Niels Nkounkou",
-                        "number": 29,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 162414,
-                        "name": "Aurèle Amenda",
-                        "number": 5,
                         "pos": "D",
                         "grid": null
                     }
@@ -1006,19 +979,46 @@
                 },
                 {
                     "player": {
-                        "id": 14,
-                        "name": "Mahmoud Dahoud",
-                        "number": 18,
-                        "pos": "M",
+                        "id": 202696,
+                        "name": "Igor Matanović",
+                        "number": 9,
+                        "pos": "F",
                         "grid": null
                     }
                 },
                 {
                     "player": {
-                        "id": 202696,
-                        "name": "Igor Matanović",
-                        "number": 9,
-                        "pos": "F",
+                        "id": 26291,
+                        "name": "Jens Grahl",
+                        "number": 33,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 156490,
+                        "name": "Niels Nkounkou",
+                        "number": 29,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 162414,
+                        "name": "Aurèle Amenda",
+                        "number": 5,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 14,
+                        "name": "Mahmoud Dahoud",
+                        "number": 18,
+                        "pos": "M",
                         "grid": null
                     }
                 }
