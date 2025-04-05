@@ -591,149 +591,6 @@
             "squad": []
         },
         {
-            "team": "Borussia Mönchengladbach",
-            "date": "2025-03-29 14:30",
-            "opponent": "RB Leipzig",
-            "score": "1 - 0",
-            "stadium": "BORUSSIA-PARK",
-            "referee": "Tobias Stieler, Germany",
-            "league_round": "Regular Season - 27",
-            "events": [
-                {
-                    "time": "24'",
-                    "player": "Ridle Baku",
-                    "detail": "Yellow Card",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "48'",
-                    "player": "Julian Weigl",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "56'",
-                    "player": "A. Pléa",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "64'",
-                    "player": "L. Ullrich",
-                    "detail": "Substitution 1",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "64'",
-                    "player": "F. Honorat",
-                    "detail": "Substitution 2",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "64'",
-                    "player": "A. Haidara",
-                    "detail": "Substitution 1",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "65'",
-                    "player": "R. Baku",
-                    "detail": "Substitution 2",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "71'",
-                    "player": "J. Scally",
-                    "detail": "Substitution 3",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "77'",
-                    "player": "E. Bitshiabu",
-                    "detail": "Substitution 3",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "80'",
-                    "player": "R. Hack",
-                    "detail": "Substitution 4",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "81'",
-                    "player": "A. Pléa",
-                    "detail": "Substitution 5",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "83'",
-                    "player": "Tidiam Gomis",
-                    "detail": "Yellow Card",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "83'",
-                    "player": "L. Openda",
-                    "detail": "Substitution 4",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "83'",
-                    "player": "L. Klostermann",
-                    "detail": "Substitution 5",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "87'",
-                    "player": "Tomáš Čvančara",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Mönchengladbach"
-                }
-            ],
-            "odds": {
-                "home": "N/A",
-                "draw": "N/A",
-                "away": "N/A"
-            },
-            "past_results": [
-                {
-                    "date": "2025-03-29 14:30",
-                    "score": "1 - 0"
-                },
-                {
-                    "date": "2025-03-15 14:30",
-                    "score": "2 - 4"
-                },
-                {
-                    "date": "2025-03-07 19:30",
-                    "score": "1 - 3"
-                },
-                {
-                    "date": "2025-03-01 14:30",
-                    "score": "0 - 3"
-                },
-                {
-                    "date": "2025-02-22 14:30",
-                    "score": "0 - 3"
-                }
-            ],
-            "future_games": [
-                {
-                    "date": "2025-04-06 13:30",
-                    "opponent": "FC St. Pauli"
-                },
-                {
-                    "date": "2025-04-12 13:30",
-                    "opponent": "SC Freiburg"
-                },
-                {
-                    "date": "2025-04-20 15:30",
-                    "opponent": "Borussia Dortmund"
-                }
-            ],
-            "squad": []
-        },
-        {
             "team": "RB Leipzig",
             "date": "2025-04-05 13:30",
             "opponent": "1899 Hoffenheim",
@@ -901,6 +758,149 @@
             "squad": []
         },
         {
+            "team": "Borussia Mönchengladbach",
+            "date": "2025-03-29 14:30",
+            "opponent": "RB Leipzig",
+            "score": "1 - 0",
+            "stadium": "BORUSSIA-PARK",
+            "referee": "Tobias Stieler, Germany",
+            "league_round": "Regular Season - 27",
+            "events": [
+                {
+                    "time": "24'",
+                    "player": "Ridle Baku",
+                    "detail": "Yellow Card",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "48'",
+                    "player": "Julian Weigl",
+                    "detail": "Yellow Card",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "56'",
+                    "player": "A. Pléa",
+                    "detail": "Normal Goal",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "64'",
+                    "player": "L. Ullrich",
+                    "detail": "Substitution 1",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "64'",
+                    "player": "F. Honorat",
+                    "detail": "Substitution 2",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "64'",
+                    "player": "A. Haidara",
+                    "detail": "Substitution 1",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "65'",
+                    "player": "R. Baku",
+                    "detail": "Substitution 2",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "71'",
+                    "player": "J. Scally",
+                    "detail": "Substitution 3",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "77'",
+                    "player": "E. Bitshiabu",
+                    "detail": "Substitution 3",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "80'",
+                    "player": "R. Hack",
+                    "detail": "Substitution 4",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "81'",
+                    "player": "A. Pléa",
+                    "detail": "Substitution 5",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "83'",
+                    "player": "Tidiam Gomis",
+                    "detail": "Yellow Card",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "83'",
+                    "player": "L. Openda",
+                    "detail": "Substitution 4",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "83'",
+                    "player": "L. Klostermann",
+                    "detail": "Substitution 5",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "87'",
+                    "player": "Tomáš Čvančara",
+                    "detail": "Yellow Card",
+                    "team": "Borussia Mönchengladbach"
+                }
+            ],
+            "odds": {
+                "home": "N/A",
+                "draw": "N/A",
+                "away": "N/A"
+            },
+            "past_results": [
+                {
+                    "date": "2025-03-29 14:30",
+                    "score": "1 - 0"
+                },
+                {
+                    "date": "2025-03-15 14:30",
+                    "score": "2 - 4"
+                },
+                {
+                    "date": "2025-03-07 19:30",
+                    "score": "1 - 3"
+                },
+                {
+                    "date": "2025-03-01 14:30",
+                    "score": "0 - 3"
+                },
+                {
+                    "date": "2025-02-22 14:30",
+                    "score": "0 - 3"
+                }
+            ],
+            "future_games": [
+                {
+                    "date": "2025-04-06 13:30",
+                    "opponent": "FC St. Pauli"
+                },
+                {
+                    "date": "2025-04-12 13:30",
+                    "opponent": "SC Freiburg"
+                },
+                {
+                    "date": "2025-04-20 15:30",
+                    "opponent": "Borussia Dortmund"
+                }
+            ],
+            "squad": []
+        },
+        {
             "team": "SC Freiburg",
             "date": "2025-04-05 13:30",
             "opponent": "Borussia Dortmund",
@@ -1045,6 +1045,304 @@
                 {
                     "date": "2025-04-26 13:30",
                     "opponent": "VfL Wolfsburg"
+                }
+            ],
+            "squad": []
+        },
+        {
+            "team": "Borussia Dortmund",
+            "date": "2025-04-05 13:30",
+            "opponent": "SC Freiburg",
+            "score": "1 - 4",
+            "stadium": "Europa-Park Stadion",
+            "referee": "Felix Zwayer, Germany",
+            "league_round": "Regular Season - 28",
+            "events": [
+                {
+                    "time": "34'",
+                    "player": "K. Adeyemi",
+                    "detail": "Normal Goal",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "51'",
+                    "player": "C. Chukwuemeka",
+                    "detail": "Normal Goal",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "61'",
+                    "player": "S. Guirassy",
+                    "detail": "Substitution 1",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "61'",
+                    "player": "S. Ozcan",
+                    "detail": "Substitution 2",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "65'",
+                    "player": "M. Ginter",
+                    "detail": "Yellow Card",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "68'",
+                    "player": "S. Guirassy",
+                    "detail": "Normal Goal",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "69'",
+                    "player": "E. Dinkci",
+                    "detail": "Substitution 1",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "69'",
+                    "player": "M. Rosenfelder",
+                    "detail": "Substitution 2",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "70'",
+                    "player": "F. Nmecha",
+                    "detail": "Substitution 3",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "70'",
+                    "player": "J. Gittens",
+                    "detail": "Substitution 4",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "79'",
+                    "player": "J. Gittens",
+                    "detail": "Normal Goal",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "79'",
+                    "player": "M. Gregoritsch",
+                    "detail": "Substitution 3",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "79'",
+                    "player": "N. Hofler",
+                    "detail": "Substitution 4",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "79'",
+                    "player": "J. Beste",
+                    "detail": "Substitution 5",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "80'",
+                    "player": "A. Kabar",
+                    "detail": "Substitution 5",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "88'",
+                    "player": "M. Eggestein",
+                    "detail": "Normal Goal",
+                    "team": "SC Freiburg"
+                }
+            ],
+            "odds": {
+                "home": "N/A",
+                "draw": "N/A",
+                "away": "N/A"
+            },
+            "past_results": [
+                {
+                    "date": "2025-04-05 13:30",
+                    "score": "1 - 4"
+                },
+                {
+                    "date": "2025-03-30 15:30",
+                    "score": "3 - 1"
+                },
+                {
+                    "date": "2025-03-15 17:30",
+                    "score": "2 - 0"
+                },
+                {
+                    "date": "2025-03-08 14:30",
+                    "score": "0 - 1"
+                },
+                {
+                    "date": "2025-03-01 14:30",
+                    "score": "0 - 2"
+                }
+            ],
+            "future_games": [
+                {
+                    "date": "2025-04-12 16:30",
+                    "opponent": "Bayern München"
+                },
+                {
+                    "date": "2025-04-20 15:30",
+                    "opponent": "Borussia Mönchengladbach"
+                },
+                {
+                    "date": "2025-04-26 13:30",
+                    "opponent": "1899 Hoffenheim"
+                }
+            ],
+            "squad": []
+        },
+        {
+            "team": "VfB Stuttgart",
+            "date": "2025-04-05 13:30",
+            "opponent": "VfL Bochum",
+            "score": "0 - 4",
+            "stadium": "Vonovia Ruhrstadion",
+            "referee": "Felix Brych, Germany",
+            "league_round": "Regular Season - 28",
+            "events": [
+                {
+                    "time": "8'",
+                    "player": "J. Chabot",
+                    "detail": "Normal Goal",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "11'",
+                    "player": "E. Demirovic",
+                    "detail": "Normal Goal",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "46'",
+                    "player": "E. Masovic",
+                    "detail": "Substitution 1",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "46'",
+                    "player": "G. Masouras",
+                    "detail": "Substitution 2",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "48'",
+                    "player": "E. Demirovic",
+                    "detail": "Normal Goal",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "67'",
+                    "player": "E. B. Toure",
+                    "detail": "Substitution 1",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "68'",
+                    "player": "M. Broschinski",
+                    "detail": "Substitution 3",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "74'",
+                    "player": "F. Jeltsch",
+                    "detail": "Substitution 2",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "74'",
+                    "player": "J. Leweling",
+                    "detail": "Substitution 3",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "78'",
+                    "player": "M. Pannewig",
+                    "detail": "Substitution 4",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "79'",
+                    "player": "I. Sissoko",
+                    "detail": "Yellow Card",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "80'",
+                    "player": "F. Rieder",
+                    "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "84'",
+                    "player": "D. de Wit",
+                    "detail": "Substitution 5",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "84'",
+                    "player": "P. Stenzel",
+                    "detail": "Substitution 4",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "84'",
+                    "player": "J. Bruun Larsen",
+                    "detail": "Substitution 5",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "85'",
+                    "player": "E. Demirovic",
+                    "detail": "Normal Goal",
+                    "team": "VfB Stuttgart"
+                }
+            ],
+            "odds": {
+                "home": "N/A",
+                "draw": "N/A",
+                "away": "N/A"
+            },
+            "past_results": [
+                {
+                    "date": "2025-04-05 13:30",
+                    "score": "0 - 4"
+                },
+                {
+                    "date": "2025-03-29 17:30",
+                    "score": "1 - 0"
+                },
+                {
+                    "date": "2025-03-16 18:30",
+                    "score": "3 - 4"
+                },
+                {
+                    "date": "2025-03-08 14:30",
+                    "score": "2 - 2"
+                },
+                {
+                    "date": "2025-02-28 19:30",
+                    "score": "1 - 3"
+                }
+            ],
+            "future_games": [
+                {
+                    "date": "2025-04-13 13:30",
+                    "opponent": "Werder Bremen"
+                },
+                {
+                    "date": "2025-04-19 16:30",
+                    "opponent": "Union Berlin"
+                },
+                {
+                    "date": "2025-04-25 18:30",
+                    "opponent": "1. FC Heidenheim"
                 }
             ],
             "squad": []
@@ -1355,304 +1653,6 @@
                 {
                     "date": "2025-04-19 13:30",
                     "opponent": "FSV Mainz 05"
-                }
-            ],
-            "squad": []
-        },
-        {
-            "team": "Borussia Dortmund",
-            "date": "2025-04-05 13:30",
-            "opponent": "SC Freiburg",
-            "score": "1 - 4",
-            "stadium": "Europa-Park Stadion",
-            "referee": "Felix Zwayer, Germany",
-            "league_round": "Regular Season - 28",
-            "events": [
-                {
-                    "time": "34'",
-                    "player": "K. Adeyemi",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "51'",
-                    "player": "C. Chukwuemeka",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "61'",
-                    "player": "S. Guirassy",
-                    "detail": "Substitution 1",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "61'",
-                    "player": "S. Ozcan",
-                    "detail": "Substitution 2",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "65'",
-                    "player": "M. Ginter",
-                    "detail": "Yellow Card",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "68'",
-                    "player": "S. Guirassy",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "69'",
-                    "player": "E. Dinkci",
-                    "detail": "Substitution 1",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "69'",
-                    "player": "M. Rosenfelder",
-                    "detail": "Substitution 2",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "70'",
-                    "player": "F. Nmecha",
-                    "detail": "Substitution 3",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "70'",
-                    "player": "J. Gittens",
-                    "detail": "Substitution 4",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "79'",
-                    "player": "J. Gittens",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "79'",
-                    "player": "M. Gregoritsch",
-                    "detail": "Substitution 3",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "79'",
-                    "player": "N. Hofler",
-                    "detail": "Substitution 4",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "79'",
-                    "player": "J. Beste",
-                    "detail": "Substitution 5",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "80'",
-                    "player": "A. Kabar",
-                    "detail": "Substitution 5",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "88'",
-                    "player": "M. Eggestein",
-                    "detail": "Normal Goal",
-                    "team": "SC Freiburg"
-                }
-            ],
-            "odds": {
-                "home": "N/A",
-                "draw": "N/A",
-                "away": "N/A"
-            },
-            "past_results": [
-                {
-                    "date": "2025-04-05 13:30",
-                    "score": "1 - 4"
-                },
-                {
-                    "date": "2025-03-30 15:30",
-                    "score": "3 - 1"
-                },
-                {
-                    "date": "2025-03-15 17:30",
-                    "score": "2 - 0"
-                },
-                {
-                    "date": "2025-03-08 14:30",
-                    "score": "0 - 1"
-                },
-                {
-                    "date": "2025-03-01 14:30",
-                    "score": "0 - 2"
-                }
-            ],
-            "future_games": [
-                {
-                    "date": "2025-04-12 16:30",
-                    "opponent": "Bayern München"
-                },
-                {
-                    "date": "2025-04-20 15:30",
-                    "opponent": "Borussia Mönchengladbach"
-                },
-                {
-                    "date": "2025-04-26 13:30",
-                    "opponent": "1899 Hoffenheim"
-                }
-            ],
-            "squad": []
-        },
-        {
-            "team": "VfB Stuttgart",
-            "date": "2025-04-05 13:30",
-            "opponent": "VfL Bochum",
-            "score": "0 - 4",
-            "stadium": "Vonovia Ruhrstadion",
-            "referee": "Felix Brych, Germany",
-            "league_round": "Regular Season - 28",
-            "events": [
-                {
-                    "time": "8'",
-                    "player": "J. Chabot",
-                    "detail": "Normal Goal",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "11'",
-                    "player": "E. Demirovic",
-                    "detail": "Normal Goal",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "46'",
-                    "player": "E. Masovic",
-                    "detail": "Substitution 1",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "46'",
-                    "player": "G. Masouras",
-                    "detail": "Substitution 2",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "48'",
-                    "player": "E. Demirovic",
-                    "detail": "Normal Goal",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "67'",
-                    "player": "E. B. Toure",
-                    "detail": "Substitution 1",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "68'",
-                    "player": "M. Broschinski",
-                    "detail": "Substitution 3",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "74'",
-                    "player": "F. Jeltsch",
-                    "detail": "Substitution 2",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "74'",
-                    "player": "J. Leweling",
-                    "detail": "Substitution 3",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "78'",
-                    "player": "M. Pannewig",
-                    "detail": "Substitution 4",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "79'",
-                    "player": "I. Sissoko",
-                    "detail": "Yellow Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "80'",
-                    "player": "F. Rieder",
-                    "detail": "Yellow Card",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "84'",
-                    "player": "D. de Wit",
-                    "detail": "Substitution 5",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "84'",
-                    "player": "P. Stenzel",
-                    "detail": "Substitution 4",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "84'",
-                    "player": "J. Bruun Larsen",
-                    "detail": "Substitution 5",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "85'",
-                    "player": "E. Demirovic",
-                    "detail": "Normal Goal",
-                    "team": "VfB Stuttgart"
-                }
-            ],
-            "odds": {
-                "home": "N/A",
-                "draw": "N/A",
-                "away": "N/A"
-            },
-            "past_results": [
-                {
-                    "date": "2025-04-05 13:30",
-                    "score": "0 - 4"
-                },
-                {
-                    "date": "2025-03-29 17:30",
-                    "score": "1 - 0"
-                },
-                {
-                    "date": "2025-03-16 18:30",
-                    "score": "3 - 4"
-                },
-                {
-                    "date": "2025-03-08 14:30",
-                    "score": "2 - 2"
-                },
-                {
-                    "date": "2025-02-28 19:30",
-                    "score": "1 - 3"
-                }
-            ],
-            "future_games": [
-                {
-                    "date": "2025-04-13 13:30",
-                    "opponent": "Werder Bremen"
-                },
-                {
-                    "date": "2025-04-19 16:30",
-                    "opponent": "Union Berlin"
-                },
-                {
-                    "date": "2025-04-25 18:30",
-                    "opponent": "1. FC Heidenheim"
                 }
             ],
             "squad": []
