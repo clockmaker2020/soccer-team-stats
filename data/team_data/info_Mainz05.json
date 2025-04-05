@@ -734,6 +734,42 @@
             "substitutes": [
                 {
                     "player": {
+                        "id": 283753,
+                        "name": "Nikolas Veratschnig",
+                        "number": 22,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 342177,
+                        "name": "Nelson Weiper",
+                        "number": 44,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 280339,
+                        "name": "Armindo Sieb",
+                        "number": 11,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 26519,
+                        "name": "Hyun-Seok Hong",
+                        "number": 14,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 180553,
                         "name": "Lasse Riess",
                         "number": 1,
@@ -746,15 +782,6 @@
                         "id": 25066,
                         "name": "Maxim Leitsch",
                         "number": 5,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 283753,
-                        "name": "Nikolas Veratschnig",
-                        "number": 22,
                         "pos": "D",
                         "grid": null
                     }
@@ -779,37 +806,10 @@
                 },
                 {
                     "player": {
-                        "id": 26519,
-                        "name": "Hyun-Seok Hong",
-                        "number": 14,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 48378,
                         "name": "Silvan Widmer",
                         "number": 30,
                         "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 280339,
-                        "name": "Armindo Sieb",
-                        "number": 11,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 342177,
-                        "name": "Nelson Weiper",
-                        "number": 44,
-                        "pos": "F",
                         "grid": null
                     }
                 }
@@ -943,6 +943,42 @@
             "substitutes": [
                 {
                     "player": {
+                        "id": 39315,
+                        "name": "Magnus Knudsen",
+                        "number": 24,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 26525,
+                        "name": "Finn Porath",
+                        "number": 8,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 202514,
+                        "name": "Phil Harres",
+                        "number": 19,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 24876,
+                        "name": "Lewis Holtby",
+                        "number": 10,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 26263,
                         "name": "Marcel Engelhardt",
                         "number": 31,
@@ -974,42 +1010,6 @@
                         "name": "Max Geschwill",
                         "number": 14,
                         "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 26525,
-                        "name": "Finn Porath",
-                        "number": 8,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 39315,
-                        "name": "Magnus Knudsen",
-                        "number": 24,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 24876,
-                        "name": "Lewis Holtby",
-                        "number": 10,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 202514,
-                        "name": "Phil Harres",
-                        "number": 19,
-                        "pos": "F",
                         "grid": null
                     }
                 },
