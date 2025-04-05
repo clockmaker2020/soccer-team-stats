@@ -478,43 +478,43 @@
             "statistics": [
                 {
                     "type": "Shots on Goal",
-                    "value": 0
+                    "value": 5
                 },
                 {
                     "type": "Shots off Goal",
-                    "value": 3
+                    "value": 7
                 },
                 {
                     "type": "Total Shots",
-                    "value": 4
+                    "value": 16
                 },
                 {
                     "type": "Blocked Shots",
-                    "value": 1
+                    "value": 4
                 },
                 {
                     "type": "Shots insidebox",
-                    "value": 1
+                    "value": 11
                 },
                 {
                     "type": "Shots outsidebox",
-                    "value": 3
+                    "value": 5
                 },
                 {
                     "type": "Fouls",
-                    "value": 1
+                    "value": 10
                 },
                 {
                     "type": "Corner Kicks",
-                    "value": 1
+                    "value": 8
                 },
                 {
                     "type": "Offsides",
-                    "value": 0
+                    "value": 2
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "51%"
+                    "value": "67%"
                 },
                 {
                     "type": "Yellow Cards",
@@ -522,31 +522,31 @@
                 },
                 {
                     "type": "Red Cards",
-                    "value": null
+                    "value": 0
                 },
                 {
                     "type": "Goalkeeper Saves",
-                    "value": 2
+                    "value": 4
                 },
                 {
                     "type": "Total passes",
-                    "value": 86
+                    "value": 605
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 73
+                    "value": 536
                 },
                 {
                     "type": "Passes %",
-                    "value": "85%"
+                    "value": "89%"
                 },
                 {
                     "type": "expected_goals",
-                    "value": "0.25"
+                    "value": "1.72"
                 },
                 {
                     "type": "goals_prevented",
-                    "value": 0
+                    "value": -1
                 }
             ]
         },
@@ -559,31 +559,31 @@
             "statistics": [
                 {
                     "type": "Shots on Goal",
-                    "value": 3
+                    "value": 5
                 },
                 {
                     "type": "Shots off Goal",
-                    "value": 1
-                },
-                {
-                    "type": "Total Shots",
-                    "value": 4
-                },
-                {
-                    "type": "Blocked Shots",
-                    "value": 0
-                },
-                {
-                    "type": "Shots insidebox",
                     "value": 3
                 },
                 {
-                    "type": "Shots outsidebox",
+                    "type": "Total Shots",
+                    "value": 9
+                },
+                {
+                    "type": "Blocked Shots",
                     "value": 1
                 },
                 {
+                    "type": "Shots insidebox",
+                    "value": 6
+                },
+                {
+                    "type": "Shots outsidebox",
+                    "value": 3
+                },
+                {
                     "type": "Fouls",
-                    "value": 2
+                    "value": 13
                 },
                 {
                     "type": "Corner Kicks",
@@ -591,43 +591,43 @@
                 },
                 {
                     "type": "Offsides",
-                    "value": 1
+                    "value": 4
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "49%"
+                    "value": "33%"
                 },
                 {
                     "type": "Yellow Cards",
-                    "value": 1
+                    "value": 3
                 },
                 {
                     "type": "Red Cards",
-                    "value": null
+                    "value": 1
                 },
                 {
                     "type": "Goalkeeper Saves",
-                    "value": 0
+                    "value": 2
                 },
                 {
                     "type": "Total passes",
-                    "value": 82
+                    "value": 299
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 68
+                    "value": 240
                 },
                 {
                     "type": "Passes %",
-                    "value": "83%"
+                    "value": "80%"
                 },
                 {
                     "type": "expected_goals",
-                    "value": "0.27"
+                    "value": "0.79"
                 },
                 {
                     "type": "goals_prevented",
-                    "value": 0
+                    "value": -1
                 }
             ]
         }
@@ -756,6 +756,51 @@
             "substitutes": [
                 {
                     "player": {
+                        "id": 715,
+                        "name": "Christoph Baumgartner",
+                        "number": 14,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 383665,
+                        "name": "Tidiam Gomis",
+                        "number": 27,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 1144,
+                        "name": "Lukas Klostermann",
+                        "number": 16,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 1153,
+                        "name": "Amadou Haidara",
+                        "number": 8,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 1167,
+                        "name": "Yussuf Poulsen",
+                        "number": 9,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 1924,
                         "name": "Maarten Vandevoordt",
                         "number": 26,
@@ -774,15 +819,6 @@
                 },
                 {
                     "player": {
-                        "id": 1144,
-                        "name": "Lukas Klostermann",
-                        "number": 16,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 37143,
                         "name": "Lutsharel Geertruida",
                         "number": 3,
@@ -792,46 +828,10 @@
                 },
                 {
                     "player": {
-                        "id": 715,
-                        "name": "Christoph Baumgartner",
-                        "number": 14,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 1153,
-                        "name": "Amadou Haidara",
-                        "number": 8,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 383665,
-                        "name": "Tidiam Gomis",
-                        "number": 27,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 1155,
                         "name": "Kevin Kampl",
                         "number": 44,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 1167,
-                        "name": "Yussuf Poulsen",
-                        "number": 9,
-                        "pos": "F",
                         "grid": null
                     }
                 }
@@ -965,55 +965,10 @@
             "substitutes": [
                 {
                     "player": {
-                        "id": 163066,
-                        "name": "Luca Philipp",
-                        "number": 37,
-                        "pos": "G",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 128793,
-                        "name": "David Jurásek",
-                        "number": 19,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 25366,
                         "name": "Kevin Akpoguma",
                         "number": 25,
                         "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 709,
-                        "name": "Pavel Kadeřábek",
-                        "number": 3,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 279907,
-                        "name": "Umut Tohumcu",
-                        "number": 17,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 24932,
-                        "name": "Finn Ole Becker",
-                        "number": 20,
-                        "pos": "M",
                         "grid": null
                     }
                 },
@@ -1028,10 +983,55 @@
                 },
                 {
                     "player": {
+                        "id": 128793,
+                        "name": "David Jurásek",
+                        "number": 19,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 66019,
                         "name": "Adam Hložek",
                         "number": 23,
                         "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 279907,
+                        "name": "Umut Tohumcu",
+                        "number": 17,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 163066,
+                        "name": "Luca Philipp",
+                        "number": 37,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 709,
+                        "name": "Pavel Kadeřábek",
+                        "number": 3,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 24932,
+                        "name": "Finn Ole Becker",
+                        "number": 20,
+                        "pos": "M",
                         "grid": null
                     }
                 }
