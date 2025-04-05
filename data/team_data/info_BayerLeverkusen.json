@@ -475,7 +475,7 @@
                     }
                 }
             },
-            "formation": "3-4-2-1",
+            "formation": "5-4-1",
             "startXI": [
                 {
                     "player": {
@@ -488,11 +488,20 @@
                 },
                 {
                     "player": {
+                        "id": 25502,
+                        "name": "Haktab Omar Traore",
+                        "number": 23,
+                        "pos": "D",
+                        "grid": "2:5"
+                    }
+                },
+                {
+                    "player": {
                         "id": 24899,
                         "name": "Patrick Mainka",
                         "number": 6,
                         "pos": "D",
-                        "grid": "2:3"
+                        "grid": "2:4"
                     }
                 },
                 {
@@ -501,7 +510,7 @@
                         "name": "Benedikt Gimber",
                         "number": 5,
                         "pos": "D",
-                        "grid": "2:2"
+                        "grid": "2:3"
                     }
                 },
                 {
@@ -510,25 +519,25 @@
                         "name": "Tim Siersleben",
                         "number": 4,
                         "pos": "D",
+                        "grid": "2:2"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 280335,
+                        "name": "Frans Krätzig",
+                        "number": 13,
+                        "pos": "D",
                         "grid": "2:1"
                     }
                 },
                 {
                     "player": {
-                        "id": 25502,
-                        "name": "Haktab Omar Traore",
-                        "number": 23,
+                        "id": 24904,
+                        "name": "Niklas Dorsch",
+                        "number": 39,
                         "pos": "M",
                         "grid": "3:4"
-                    }
-                },
-                {
-                    "player": {
-                        "id": 127619,
-                        "name": "Jan Schöppner",
-                        "number": 3,
-                        "pos": "M",
-                        "grid": "3:3"
                     }
                 },
                 {
@@ -537,25 +546,16 @@
                         "name": "Marnon Busch",
                         "number": 2,
                         "pos": "M",
-                        "grid": "3:2"
+                        "grid": "3:3"
                     }
                 },
                 {
                     "player": {
-                        "id": 280335,
-                        "name": "Frans Krätzig",
-                        "number": 13,
+                        "id": 127619,
+                        "name": "Jan Schöppner",
+                        "number": 3,
                         "pos": "M",
-                        "grid": "3:1"
-                    }
-                },
-                {
-                    "player": {
-                        "id": 24904,
-                        "name": "Niklas Dorsch",
-                        "number": 39,
-                        "pos": "F",
-                        "grid": "4:2"
+                        "grid": "3:2"
                     }
                 },
                 {
@@ -563,8 +563,8 @@
                         "id": 8959,
                         "name": "Adrian Beck",
                         "number": 21,
-                        "pos": "F",
-                        "grid": "4:1"
+                        "pos": "M",
+                        "grid": "3:1"
                     }
                 },
                 {
@@ -573,11 +573,56 @@
                         "name": "Marvin Pieringer",
                         "number": 18,
                         "pos": "F",
-                        "grid": "5:1"
+                        "grid": "4:1"
                     }
                 }
             ],
             "substitutes": [
+                {
+                    "player": {
+                        "id": 283323,
+                        "name": "Leo Scienza",
+                        "number": 8,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 280055,
+                        "name": "Luca Kerber",
+                        "number": 20,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 125720,
+                        "name": "Sirlord Conteh",
+                        "number": 31,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 203011,
+                        "name": "Julian Niehues",
+                        "number": 16,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 26530,
+                        "name": "Stefan Schimmer",
+                        "number": 9,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
                 {
                     "player": {
                         "id": 328008,
@@ -598,36 +643,9 @@
                 },
                 {
                     "player": {
-                        "id": 283323,
-                        "name": "Leo Scienza",
-                        "number": 8,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 327895,
                         "name": "Paul Wanner",
                         "number": 10,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 280055,
-                        "name": "Luca Kerber",
-                        "number": 20,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 203011,
-                        "name": "Julian Niehues",
-                        "number": 16,
                         "pos": "M",
                         "grid": null
                     }
@@ -638,24 +656,6 @@
                         "name": "Thomas Keller",
                         "number": 27,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 125720,
-                        "name": "Sirlord Conteh",
-                        "number": 31,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 26530,
-                        "name": "Stefan Schimmer",
-                        "number": 9,
-                        "pos": "F",
                         "grid": null
                     }
                 }
@@ -789,6 +789,42 @@
             "substitutes": [
                 {
                     "player": {
+                        "id": 352375,
+                        "name": "Arthur",
+                        "number": 13,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 794,
+                        "name": "Patrik Schick",
+                        "number": 14,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 19071,
+                        "name": "Emiliano Buendía",
+                        "number": 16,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 25635,
+                        "name": "Jonas Hofmann",
+                        "number": 7,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 138804,
                         "name": "Matěj Kovář",
                         "number": 17,
@@ -816,33 +852,6 @@
                 },
                 {
                     "player": {
-                        "id": 352375,
-                        "name": "Arthur",
-                        "number": 13,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 19071,
-                        "name": "Emiliano Buendía",
-                        "number": 16,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 794,
-                        "name": "Patrik Schick",
-                        "number": 14,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 414384,
                         "name": "Alejo Sarco",
                         "number": 18,
@@ -856,15 +865,6 @@
                         "name": "Kerim Alajbegović",
                         "number": 47,
                         "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 25635,
-                        "name": "Jonas Hofmann",
-                        "number": 7,
-                        "pos": "M",
                         "grid": null
                     }
                 }
