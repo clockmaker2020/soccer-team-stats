@@ -1360,6 +1360,167 @@
             "squad": []
         },
         {
+            "team": "Werder Bremen",
+            "date": "2025-04-05 16:30",
+            "opponent": "Eintracht Frankfurt",
+            "score": "2 - 0",
+            "stadium": "Weserstadion",
+            "referee": "Daniel Siebert, Germany",
+            "league_round": "Regular Season - 28",
+            "events": [
+                {
+                    "time": "28'",
+                    "player": "O. Burke",
+                    "detail": "Normal Goal",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "34'",
+                    "player": "Tuta",
+                    "detail": "Yellow Card",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "45'",
+                    "player": "A. Pieper",
+                    "detail": "Yellow Card",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "46'",
+                    "player": "M. Batshuayi",
+                    "detail": "Substitution 1",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "60'",
+                    "player": "J. Stage",
+                    "detail": "Yellow Card",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "63'",
+                    "player": "R. Kristensen",
+                    "detail": "Substitution 2",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "65'",
+                    "player": "A. Jung",
+                    "detail": "Substitution 1",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "65'",
+                    "player": "J. Njinmah",
+                    "detail": "Substitution 2",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "66'",
+                    "player": "M. Grull",
+                    "detail": "Substitution 3",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "70'",
+                    "player": "F. Chaibi",
+                    "detail": "Substitution 3",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "70'",
+                    "player": "O. Hojlund",
+                    "detail": "Substitution 4",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "81'",
+                    "player": "E. Skhiri",
+                    "detail": "Yellow Card",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "82'",
+                    "player": "I. Matanovic",
+                    "detail": "Substitution 5",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "84'",
+                    "player": "R. Schmid",
+                    "detail": "Normal Goal",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "87'",
+                    "player": "L. Bittencourt",
+                    "detail": "Substitution 4",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "89'",
+                    "player": "L. Bittencourt",
+                    "detail": "Yellow Card",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "90'",
+                    "player": "M. Batshuayi",
+                    "detail": "Yellow Card",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "90'",
+                    "player": "K. Topp",
+                    "detail": "Substitution 5",
+                    "team": "Werder Bremen"
+                }
+            ],
+            "odds": {
+                "home": "N/A",
+                "draw": "N/A",
+                "away": "N/A"
+            },
+            "past_results": [
+                {
+                    "date": "2025-04-05 16:30",
+                    "score": "2 - 0"
+                },
+                {
+                    "date": "2025-03-29 14:30",
+                    "score": "0 - 3"
+                },
+                {
+                    "date": "2025-03-15 14:30",
+                    "score": "2 - 4"
+                },
+                {
+                    "date": "2025-03-08 14:30",
+                    "score": "0 - 2"
+                },
+                {
+                    "date": "2025-03-01 14:30",
+                    "score": "1 - 2"
+                }
+            ],
+            "future_games": [
+                {
+                    "date": "2025-04-13 13:30",
+                    "opponent": "VfB Stuttgart"
+                },
+                {
+                    "date": "2025-04-19 13:30",
+                    "opponent": "VfL Bochum"
+                },
+                {
+                    "date": "2025-04-27 15:30",
+                    "opponent": "FC St. Pauli"
+                }
+            ],
+            "squad": []
+        },
+        {
             "team": "FC Augsburg",
             "date": "2025-04-04 18:30",
             "opponent": "Bayern München",
@@ -1665,167 +1826,6 @@
                 {
                     "date": "2025-04-19 13:30",
                     "opponent": "FSV Mainz 05"
-                }
-            ],
-            "squad": []
-        },
-        {
-            "team": "Werder Bremen",
-            "date": "2025-04-05 16:30",
-            "opponent": "Eintracht Frankfurt",
-            "score": "2 - 0",
-            "stadium": "Weserstadion",
-            "referee": "Daniel Siebert, Germany",
-            "league_round": "Regular Season - 28",
-            "events": [
-                {
-                    "time": "28'",
-                    "player": "O. Burke",
-                    "detail": "Normal Goal",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "34'",
-                    "player": "Tuta",
-                    "detail": "Yellow Card",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "45'",
-                    "player": "A. Pieper",
-                    "detail": "Yellow Card",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "46'",
-                    "player": "M. Batshuayi",
-                    "detail": "Substitution 1",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "60'",
-                    "player": "J. Stage",
-                    "detail": "Yellow Card",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "63'",
-                    "player": "R. Kristensen",
-                    "detail": "Substitution 2",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "65'",
-                    "player": "A. Jung",
-                    "detail": "Substitution 1",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "65'",
-                    "player": "J. Njinmah",
-                    "detail": "Substitution 2",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "66'",
-                    "player": "M. Grull",
-                    "detail": "Substitution 3",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "70'",
-                    "player": "F. Chaibi",
-                    "detail": "Substitution 3",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "70'",
-                    "player": "O. Hojlund",
-                    "detail": "Substitution 4",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "81'",
-                    "player": "E. Skhiri",
-                    "detail": "Yellow Card",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "82'",
-                    "player": "I. Matanovic",
-                    "detail": "Substitution 5",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "84'",
-                    "player": "R. Schmid",
-                    "detail": "Normal Goal",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "87'",
-                    "player": "L. Bittencourt",
-                    "detail": "Substitution 4",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "89'",
-                    "player": "L. Bittencourt",
-                    "detail": "Yellow Card",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "90'",
-                    "player": "M. Batshuayi",
-                    "detail": "Yellow Card",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "90'",
-                    "player": "K. Topp",
-                    "detail": "Substitution 5",
-                    "team": "Werder Bremen"
-                }
-            ],
-            "odds": {
-                "home": "N/A",
-                "draw": "N/A",
-                "away": "N/A"
-            },
-            "past_results": [
-                {
-                    "date": "2025-04-05 16:30",
-                    "score": "2 - 0"
-                },
-                {
-                    "date": "2025-03-29 14:30",
-                    "score": "0 - 3"
-                },
-                {
-                    "date": "2025-03-15 14:30",
-                    "score": "2 - 4"
-                },
-                {
-                    "date": "2025-03-08 14:30",
-                    "score": "0 - 2"
-                },
-                {
-                    "date": "2025-03-01 14:30",
-                    "score": "1 - 2"
-                }
-            ],
-            "future_games": [
-                {
-                    "date": "2025-04-13 13:30",
-                    "opponent": "VfB Stuttgart"
-                },
-                {
-                    "date": "2025-04-19 13:30",
-                    "opponent": "VfL Bochum"
-                },
-                {
-                    "date": "2025-04-27 15:30",
-                    "opponent": "FC St. Pauli"
                 }
             ],
             "squad": []
