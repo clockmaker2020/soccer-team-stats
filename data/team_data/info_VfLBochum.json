@@ -670,33 +670,24 @@
                 },
                 {
                     "player": {
-                        "id": 26287,
-                        "name": "Philipp Hofmann",
-                        "number": 33,
+                        "id": 36907,
+                        "name": "Myron Boadu",
+                        "number": 9,
                         "pos": "F",
                         "grid": "4:2"
                     }
                 },
                 {
                     "player": {
-                        "id": 36907,
-                        "name": "Myron Boadu",
-                        "number": 9,
+                        "id": 26287,
+                        "name": "Philipp Hofmann",
+                        "number": 33,
                         "pos": "F",
                         "grid": "4:1"
                     }
                 }
             ],
             "substitutes": [
-                {
-                    "player": {
-                        "id": 26395,
-                        "name": "Patrick Drewes",
-                        "number": 27,
-                        "pos": "G",
-                        "grid": null
-                    }
-                },
                 {
                     "player": {
                         "id": 61411,
@@ -708,19 +699,19 @@
                 },
                 {
                     "player": {
-                        "id": 80219,
-                        "name": "Jakov Medić",
-                        "number": 13,
-                        "pos": "D",
+                        "id": 1610,
+                        "name": "Giorgos Masouras",
+                        "number": 11,
+                        "pos": "F",
                         "grid": null
                     }
                 },
                 {
                     "player": {
-                        "id": 1109,
-                        "name": "Cristian Gamboa",
-                        "number": 2,
-                        "pos": "D",
+                        "id": 26227,
+                        "name": "Moritz Broschinski",
+                        "number": 29,
+                        "pos": "F",
                         "grid": null
                     }
                 },
@@ -744,28 +735,37 @@
                 },
                 {
                     "player": {
+                        "id": 26395,
+                        "name": "Patrick Drewes",
+                        "number": 27,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 80219,
+                        "name": "Jakov Medić",
+                        "number": 13,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 1109,
+                        "name": "Cristian Gamboa",
+                        "number": 2,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 25074,
                         "name": "Anthony Losilla",
                         "number": 8,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 1610,
-                        "name": "Giorgos Masouras",
-                        "number": 11,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 26227,
-                        "name": "Moritz Broschinski",
-                        "number": 29,
-                        "pos": "F",
                         "grid": null
                     }
                 }
@@ -899,19 +899,10 @@
             "substitutes": [
                 {
                     "player": {
-                        "id": 25597,
-                        "name": "Fabian Bredlow",
-                        "number": 1,
-                        "pos": "G",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 26244,
-                        "name": "Pascal Stenzel",
-                        "number": 15,
-                        "pos": "D",
+                        "id": 194750,
+                        "name": "El Bilal Touré",
+                        "number": 10,
+                        "pos": "F",
                         "grid": null
                     }
                 },
@@ -920,6 +911,24 @@
                         "id": 394734,
                         "name": "Finn Jeltsch",
                         "number": 29,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 128533,
+                        "name": "Jamie Leweling",
+                        "number": 18,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 26244,
+                        "name": "Pascal Stenzel",
+                        "number": 15,
                         "pos": "D",
                         "grid": null
                     }
@@ -935,28 +944,19 @@
                 },
                 {
                     "player": {
+                        "id": 25597,
+                        "name": "Fabian Bredlow",
+                        "number": 1,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 162887,
                         "name": "Enzo Millot",
                         "number": 8,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 128533,
-                        "name": "Jamie Leweling",
-                        "number": 18,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 194750,
-                        "name": "El Bilal Touré",
-                        "number": 10,
-                        "pos": "F",
                         "grid": null
                     }
                 }
