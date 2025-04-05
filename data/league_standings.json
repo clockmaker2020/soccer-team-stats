@@ -14,7 +14,7 @@
             "team": {
                 "name": "Bayer Leverkusen"
             },
-            "wins": 17,
+            "wins": 18,
             "draws": 8,
             "losses": 2
         },
@@ -33,11 +33,20 @@
                 "name": "FSV Mainz 05"
             },
             "wins": 13,
-            "draws": 6,
+            "draws": 7,
             "losses": 8
         },
         {
             "rank": 5,
+            "team": {
+                "name": "RB Leipzig"
+            },
+            "wins": 12,
+            "draws": 9,
+            "losses": 7
+        },
+        {
+            "rank": 6,
             "team": {
                 "name": "Borussia Mönchengladbach"
             },
@@ -46,25 +55,34 @@
             "losses": 10
         },
         {
-            "rank": 6,
-            "team": {
-                "name": "RB Leipzig"
-            },
-            "wins": 11,
-            "draws": 9,
-            "losses": 7
-        },
-        {
             "rank": 7,
             "team": {
                 "name": "SC Freiburg"
             },
             "wins": 12,
             "draws": 6,
-            "losses": 9
+            "losses": 10
         },
         {
             "rank": 8,
+            "team": {
+                "name": "Borussia Dortmund"
+            },
+            "wins": 12,
+            "draws": 5,
+            "losses": 11
+        },
+        {
+            "rank": 9,
+            "team": {
+                "name": "VfB Stuttgart"
+            },
+            "wins": 11,
+            "draws": 7,
+            "losses": 10
+        },
+        {
+            "rank": 10,
             "team": {
                 "name": "FC Augsburg"
             },
@@ -73,31 +91,13 @@
             "losses": 9
         },
         {
-            "rank": 9,
+            "rank": 11,
             "team": {
                 "name": "VfL Wolfsburg"
             },
             "wins": 10,
             "draws": 8,
             "losses": 9
-        },
-        {
-            "rank": 10,
-            "team": {
-                "name": "Borussia Dortmund"
-            },
-            "wins": 11,
-            "draws": 5,
-            "losses": 11
-        },
-        {
-            "rank": 11,
-            "team": {
-                "name": "VfB Stuttgart"
-            },
-            "wins": 10,
-            "draws": 7,
-            "losses": 10
         },
         {
             "rank": 12,
@@ -124,7 +124,7 @@
             },
             "wins": 6,
             "draws": 9,
-            "losses": 12
+            "losses": 13
         },
         {
             "rank": 15,
@@ -142,7 +142,7 @@
             },
             "wins": 6,
             "draws": 4,
-            "losses": 17
+            "losses": 18
         },
         {
             "rank": 17,
@@ -151,7 +151,7 @@
             },
             "wins": 5,
             "draws": 5,
-            "losses": 17
+            "losses": 18
         },
         {
             "rank": 18,
@@ -159,7 +159,7 @@
                 "name": "Holstein Kiel"
             },
             "wins": 4,
-            "draws": 5,
+            "draws": 6,
             "losses": 18
         }
     ]
