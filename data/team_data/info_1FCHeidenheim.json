@@ -302,39 +302,39 @@
             "statistics": [
                 {
                     "type": "Shots on Goal",
-                    "value": 0
+                    "value": 2
                 },
                 {
                     "type": "Shots off Goal",
-                    "value": 1
+                    "value": 7
                 },
                 {
                     "type": "Total Shots",
-                    "value": 1
+                    "value": 10
                 },
                 {
                     "type": "Blocked Shots",
-                    "value": 0
+                    "value": 1
                 },
                 {
                     "type": "Shots insidebox",
-                    "value": 1
+                    "value": 9
                 },
                 {
                     "type": "Shots outsidebox",
-                    "value": 0
-                },
-                {
-                    "type": "Fouls",
                     "value": 1
                 },
                 {
+                    "type": "Fouls",
+                    "value": 14
+                },
+                {
                     "type": "Corner Kicks",
-                    "value": null
+                    "value": 4
                 },
                 {
                     "type": "Offsides",
-                    "value": null
+                    "value": 2
                 },
                 {
                     "type": "Ball Possession",
@@ -342,7 +342,7 @@
                 },
                 {
                     "type": "Yellow Cards",
-                    "value": null
+                    "value": 1
                 },
                 {
                     "type": "Red Cards",
@@ -350,27 +350,27 @@
                 },
                 {
                     "type": "Goalkeeper Saves",
-                    "value": null
+                    "value": 1
                 },
                 {
                     "type": "Total passes",
-                    "value": 78
+                    "value": 508
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 62
+                    "value": 407
                 },
                 {
                     "type": "Passes %",
-                    "value": "79%"
+                    "value": "80%"
                 },
                 {
                     "type": "expected_goals",
-                    "value": "0.24"
+                    "value": "1.31"
                 },
                 {
                     "type": "goals_prevented",
-                    "value": null
+                    "value": 0
                 }
             ]
         },
@@ -383,15 +383,15 @@
             "statistics": [
                 {
                     "type": "Shots on Goal",
-                    "value": 0
+                    "value": 2
                 },
                 {
                     "type": "Shots off Goal",
-                    "value": 1
+                    "value": 4
                 },
                 {
                     "type": "Total Shots",
-                    "value": 1
+                    "value": 6
                 },
                 {
                     "type": "Blocked Shots",
@@ -399,23 +399,23 @@
                 },
                 {
                     "type": "Shots insidebox",
-                    "value": 0
-                },
-                {
-                    "type": "Shots outsidebox",
-                    "value": 1
-                },
-                {
-                    "type": "Fouls",
                     "value": 2
                 },
                 {
+                    "type": "Shots outsidebox",
+                    "value": 4
+                },
+                {
+                    "type": "Fouls",
+                    "value": 10
+                },
+                {
                     "type": "Corner Kicks",
-                    "value": null
+                    "value": 0
                 },
                 {
                     "type": "Offsides",
-                    "value": null
+                    "value": 0
                 },
                 {
                     "type": "Ball Possession",
@@ -423,7 +423,7 @@
                 },
                 {
                     "type": "Yellow Cards",
-                    "value": null
+                    "value": 0
                 },
                 {
                     "type": "Red Cards",
@@ -431,27 +431,27 @@
                 },
                 {
                     "type": "Goalkeeper Saves",
-                    "value": null
+                    "value": 2
                 },
                 {
                     "type": "Total passes",
-                    "value": 83
+                    "value": 541
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 76
+                    "value": 463
                 },
                 {
                     "type": "Passes %",
-                    "value": "92%"
+                    "value": "86%"
                 },
                 {
                     "type": "expected_goals",
-                    "value": "0.02"
+                    "value": "0.36"
                 },
                 {
                     "type": "goals_prevented",
-                    "value": null
+                    "value": 0
                 }
             ]
         }
