@@ -629,17 +629,12 @@
                     }
                 }
             },
-            "coach": {
-                "id": 1348,
-                "name": "O. Werner",
-                "photo": "https://media.api-sports.io/football/coachs/1348.png"
-            },
             "formation": "3-5-2",
             "startXI": [
                 {
                     "player": {
                         "id": 7288,
-                        "name": "M. Zetterer",
+                        "name": "Michael Zetterer",
                         "number": 1,
                         "pos": "G",
                         "grid": "1:1"
@@ -648,7 +643,7 @@
                 {
                     "player": {
                         "id": 2916,
-                        "name": "N. Stark",
+                        "name": "Niklas Stark",
                         "number": 4,
                         "pos": "D",
                         "grid": "2:3"
@@ -657,7 +652,7 @@
                 {
                     "player": {
                         "id": 25314,
-                        "name": "M. Friedl",
+                        "name": "Marco Friedl",
                         "number": 32,
                         "pos": "D",
                         "grid": "2:2"
@@ -666,7 +661,7 @@
                 {
                     "player": {
                         "id": 25011,
-                        "name": "A. Pieper",
+                        "name": "Amos Pieper",
                         "number": 5,
                         "pos": "D",
                         "grid": "2:1"
@@ -675,7 +670,7 @@
                 {
                     "player": {
                         "id": 973,
-                        "name": "M. Weiser",
+                        "name": "Mitchell Weiser",
                         "number": 8,
                         "pos": "M",
                         "grid": "3:5"
@@ -684,7 +679,7 @@
                 {
                     "player": {
                         "id": 15592,
-                        "name": "J. Stage",
+                        "name": "Jens Stage",
                         "number": 6,
                         "pos": "M",
                         "grid": "3:4"
@@ -693,7 +688,7 @@
                 {
                     "player": {
                         "id": 38798,
-                        "name": "S. Lynen",
+                        "name": "Senne Lynen",
                         "number": 14,
                         "pos": "M",
                         "grid": "3:3"
@@ -702,7 +697,7 @@
                 {
                     "player": {
                         "id": 7562,
-                        "name": "R. Schmid",
+                        "name": "Romano Schmid",
                         "number": 20,
                         "pos": "M",
                         "grid": "3:2"
@@ -711,7 +706,7 @@
                 {
                     "player": {
                         "id": 26319,
-                        "name": "F. Agu",
+                        "name": "Felix Agu",
                         "number": 27,
                         "pos": "M",
                         "grid": "3:1"
@@ -720,7 +715,7 @@
                 {
                     "player": {
                         "id": 1124,
-                        "name": "O. Burke",
+                        "name": "Oliver Burke",
                         "number": 15,
                         "pos": "F",
                         "grid": "4:2"
@@ -729,7 +724,7 @@
                 {
                     "player": {
                         "id": 25464,
-                        "name": "M. Ducksch",
+                        "name": "Marvin Ducksch",
                         "number": 7,
                         "pos": "F",
                         "grid": "4:1"
@@ -739,17 +734,8 @@
             "substitutes": [
                 {
                     "player": {
-                        "id": 177807,
-                        "name": "J. Njinmah",
-                        "number": 11,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 15874,
-                        "name": "A. Jung",
+                        "name": "Anthony Jung",
                         "number": 3,
                         "pos": "D",
                         "grid": null
@@ -757,8 +743,17 @@
                 },
                 {
                     "player": {
+                        "id": 177807,
+                        "name": "Justin Njinmah",
+                        "number": 11,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 7073,
-                        "name": "M. Grüll",
+                        "name": "Marco Grüll",
                         "number": 17,
                         "pos": "F",
                         "grid": null
@@ -767,7 +762,7 @@
                 {
                     "player": {
                         "id": 716,
-                        "name": "L. Bittencourt",
+                        "name": "Leonardo Bittencourt",
                         "number": 10,
                         "pos": "M",
                         "grid": null
@@ -776,7 +771,7 @@
                 {
                     "player": {
                         "id": 334334,
-                        "name": "K. Topp",
+                        "name": "Keke Topp",
                         "number": 42,
                         "pos": "F",
                         "grid": null
@@ -784,8 +779,17 @@
                 },
                 {
                     "player": {
+                        "id": 329578,
+                        "name": "Mio Backhaus",
+                        "number": 30,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 289460,
-                        "name": "J. Malatini",
+                        "name": "Julián Malatini",
                         "number": 22,
                         "pos": "D",
                         "grid": null
@@ -793,10 +797,10 @@
                 },
                 {
                     "player": {
-                        "id": 329578,
-                        "name": "M. Backhaus",
-                        "number": 30,
-                        "pos": "G",
+                        "id": 128853,
+                        "name": "Derrick Köhn",
+                        "number": 19,
+                        "pos": "D",
                         "grid": null
                     }
                 },
@@ -808,17 +812,13 @@
                         "pos": "F",
                         "grid": null
                     }
-                },
-                {
-                    "player": {
-                        "id": 128853,
-                        "name": "D. Köhn",
-                        "number": 19,
-                        "pos": "D",
-                        "grid": null
-                    }
                 }
-            ]
+            ],
+            "coach": {
+                "id": 1348,
+                "name": "O. Werner",
+                "photo": "https://media.api-sports.io/football/coachs/1348.png"
+            }
         },
         {
             "team": {
@@ -838,11 +838,6 @@
                     }
                 }
             },
-            "coach": {
-                "id": 1549,
-                "name": "D. Toppmöller",
-                "photo": "https://media.api-sports.io/football/coachs/1549.png"
-            },
             "formation": "4-2-3-1",
             "startXI": [
                 {
@@ -857,7 +852,7 @@
                 {
                     "player": {
                         "id": 269531,
-                        "name": "N. Collins",
+                        "name": "Nnamdi Collins",
                         "number": 34,
                         "pos": "D",
                         "grid": "2:4"
@@ -866,7 +861,7 @@
                 {
                     "player": {
                         "id": 26238,
-                        "name": "R. Koch",
+                        "name": "Robin Koch",
                         "number": 4,
                         "pos": "D",
                         "grid": "2:3"
@@ -875,7 +870,7 @@
                 {
                     "player": {
                         "id": 204043,
-                        "name": "A. Theate",
+                        "name": "Arthur Theate",
                         "number": 3,
                         "pos": "D",
                         "grid": "2:2"
@@ -884,7 +879,7 @@
                 {
                     "player": {
                         "id": 280074,
-                        "name": "N. Brown",
+                        "name": "Nathaniel Brown",
                         "number": 21,
                         "pos": "D",
                         "grid": "2:1"
@@ -902,7 +897,7 @@
                 {
                     "player": {
                         "id": 21587,
-                        "name": "E. Skhiri",
+                        "name": "Ellyes Skhiri",
                         "number": 15,
                         "pos": "M",
                         "grid": "3:1"
@@ -911,7 +906,7 @@
                 {
                     "player": {
                         "id": 16,
-                        "name": "M. Götze",
+                        "name": "Mario Götze",
                         "number": 27,
                         "pos": "M",
                         "grid": "4:3"
@@ -920,7 +915,7 @@
                 {
                     "player": {
                         "id": 335094,
-                        "name": "H. Larsson",
+                        "name": "Hugo Larsson",
                         "number": 16,
                         "pos": "M",
                         "grid": "4:2"
@@ -929,7 +924,7 @@
                 {
                     "player": {
                         "id": 369674,
-                        "name": "J. Bahoya",
+                        "name": "Jean-Mattéo Bahoya",
                         "number": 19,
                         "pos": "M",
                         "grid": "4:1"
@@ -938,7 +933,7 @@
                 {
                     "player": {
                         "id": 174565,
-                        "name": "H. Ekitiké",
+                        "name": "Hugo Ekitiké",
                         "number": 11,
                         "pos": "F",
                         "grid": "5:1"
@@ -949,7 +944,7 @@
                 {
                     "player": {
                         "id": 2927,
-                        "name": "M. Batshuayi",
+                        "name": "Michy Batshuayi",
                         "number": 30,
                         "pos": "F",
                         "grid": null
@@ -958,7 +953,7 @@
                 {
                     "player": {
                         "id": 533,
-                        "name": "R. Kristensen",
+                        "name": "Rasmus Kristensen",
                         "number": 13,
                         "pos": "D",
                         "grid": null
@@ -966,17 +961,8 @@
                 },
                 {
                     "player": {
-                        "id": 339874,
-                        "name": "O. Højlund",
-                        "number": 6,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 276670,
-                        "name": "F. Chaïbi",
+                        "name": "Farès Chaïbi",
                         "number": 8,
                         "pos": "M",
                         "grid": null
@@ -984,8 +970,17 @@
                 },
                 {
                     "player": {
+                        "id": 339874,
+                        "name": "Oscar Højlund",
+                        "number": 6,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 202696,
-                        "name": "I. Matanović",
+                        "name": "Igor Matanović",
                         "number": 9,
                         "pos": "F",
                         "grid": null
@@ -993,18 +988,27 @@
                 },
                 {
                     "player": {
-                        "id": 162414,
-                        "name": "A. Amenda",
-                        "number": 5,
-                        "pos": "D",
+                        "id": 26291,
+                        "name": "Jens Grahl",
+                        "number": 33,
+                        "pos": "G",
                         "grid": null
                     }
                 },
                 {
                     "player": {
                         "id": 156490,
-                        "name": "N. Nkounkou",
+                        "name": "Niels Nkounkou",
                         "number": 29,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 162414,
+                        "name": "Aurèle Amenda",
+                        "number": 5,
                         "pos": "D",
                         "grid": null
                     }
@@ -1017,17 +1021,13 @@
                         "pos": "M",
                         "grid": null
                     }
-                },
-                {
-                    "player": {
-                        "id": 26291,
-                        "name": "J. Grahl",
-                        "number": 33,
-                        "pos": "G",
-                        "grid": null
-                    }
                 }
-            ]
+            ],
+            "coach": {
+                "id": 1549,
+                "name": "D. Toppmöller",
+                "photo": "https://media.api-sports.io/football/coachs/1549.png"
+            }
         }
     ],
     "odds": [
