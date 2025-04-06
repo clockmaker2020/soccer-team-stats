@@ -1659,108 +1659,66 @@
         },
         {
             "team": "VfL Wolfsburg",
-            "date": "2025-03-29 14:30",
-            "opponent": "1. FC Heidenheim",
-            "score": "0 - 1",
-            "stadium": "Volkswagen Arena",
-            "referee": "Bastian Dankert, Germany",
-            "league_round": "Regular Season - 27",
+            "date": "2025-04-06 15:30",
+            "opponent": "Union Berlin",
+            "score": "1 - 0",
+            "stadium": "Stadion An der Alten Försterei",
+            "referee": "Harm Osmers, Germany",
+            "league_round": "Regular Season - 28",
             "events": [
                 {
-                    "time": "16'",
-                    "player": "M. Pieringer",
-                    "detail": "Penalty",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "26'",
-                    "player": "K. Koulierakis",
+                    "time": "38'",
+                    "player": "M. Ljubicic",
                     "detail": "Substitution 1",
-                    "team": "VfL Wolfsburg"
+                    "team": "Union Berlin"
                 },
                 {
-                    "time": "32'",
-                    "player": "Tim Siersleben",
-                    "detail": "Yellow Card",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "43'",
-                    "player": "Adrian Beck",
-                    "detail": "Yellow Card",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "46'",
-                    "player": "Tiago Tomás",
-                    "detail": "Substitution 2",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "51'",
-                    "player": "Yannick Gerhardt",
-                    "detail": "Yellow Card",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "51'",
-                    "player": "Jan Schöppner",
-                    "detail": "Yellow Card",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "61'",
-                    "player": "B. Dárdai",
-                    "detail": "Substitution 3",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "61'",
-                    "player": "A. Skov Olsen",
-                    "detail": "Substitution 4",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "66'",
-                    "player": "M. Busch",
-                    "detail": "Substitution 1",
-                    "team": "1. FC Heidenheim"
+                    "time": "63'",
+                    "player": "B. Hollerbach",
+                    "detail": "Normal Goal",
+                    "team": "Union Berlin"
                 },
                 {
                     "time": "73'",
-                    "player": "Niklas Dorsch",
-                    "detail": "Yellow Card",
-                    "team": "1. FC Heidenheim"
+                    "player": "T. Tomas",
+                    "detail": "Substitution 1",
+                    "team": "VfL Wolfsburg"
                 },
                 {
-                    "time": "78'",
-                    "player": "F. Krätzig",
+                    "time": "77'",
+                    "player": "Y. Gerhardt",
+                    "detail": "Yellow Card",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "79'",
+                    "player": "T. Skarke",
                     "detail": "Substitution 2",
-                    "team": "1. FC Heidenheim"
+                    "team": "Union Berlin"
                 },
                 {
-                    "time": "78'",
-                    "player": "A. Beck",
+                    "time": "79'",
+                    "player": "J. Roussillon",
                     "detail": "Substitution 3",
-                    "team": "1. FC Heidenheim"
+                    "team": "Union Berlin"
                 },
                 {
-                    "time": "82'",
-                    "player": "K. Fischer",
-                    "detail": "Substitution 5",
+                    "time": "85'",
+                    "player": "L. Nmecha",
+                    "detail": "Substitution 2",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "85'",
+                    "player": "K. Behrens",
+                    "detail": "Substitution 3",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "90'",
-                    "player": "Lukas Nmecha",
-                    "detail": "Yellow Card",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "90'",
-                    "player": "N. Dorsch",
+                    "player": "L. Tousart",
                     "detail": "Substitution 4",
-                    "team": "1. FC Heidenheim"
+                    "team": "Union Berlin"
                 }
             ],
             "odds": {
@@ -1769,6 +1727,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-06 15:30",
+                    "score": "1 - 0"
+                },
                 {
                     "date": "2025-03-29 14:30",
                     "score": "0 - 1"
@@ -1784,10 +1746,6 @@
                 {
                     "date": "2025-03-01 14:30",
                     "score": "1 - 2"
-                },
-                {
-                    "date": "2025-02-22 14:30",
-                    "score": "1 - 1"
                 }
             ],
             "future_games": [
