@@ -346,7 +346,7 @@
             "statistics": [
                 {
                     "type": "Shots on Goal",
-                    "value": 8
+                    "value": 9
                 },
                 {
                     "type": "Shots off Goal",
@@ -354,7 +354,7 @@
                 },
                 {
                     "type": "Total Shots",
-                    "value": 25
+                    "value": 26
                 },
                 {
                     "type": "Blocked Shots",
@@ -362,7 +362,7 @@
                 },
                 {
                     "type": "Shots insidebox",
-                    "value": 11
+                    "value": 12
                 },
                 {
                     "type": "Shots outsidebox",
@@ -374,7 +374,7 @@
                 },
                 {
                     "type": "Corner Kicks",
-                    "value": 10
+                    "value": 11
                 },
                 {
                     "type": "Offsides",
@@ -398,11 +398,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 537
+                    "value": 550
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 461
+                    "value": 472
                 },
                 {
                     "type": "Passes %",
@@ -410,11 +410,11 @@
                 },
                 {
                     "type": "expected_goals",
-                    "value": "1.75"
+                    "value": "1.79"
                 },
                 {
                     "type": "goals_prevented",
-                    "value": 0
+                    "value": 1
                 }
             ]
         },
@@ -475,15 +475,15 @@
                 },
                 {
                     "type": "Goalkeeper Saves",
-                    "value": 7
+                    "value": 8
                 },
                 {
                     "type": "Total passes",
-                    "value": 309
+                    "value": 320
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 235
+                    "value": 242
                 },
                 {
                     "type": "Passes %",
@@ -495,7 +495,7 @@
                 },
                 {
                     "type": "goals_prevented",
-                    "value": 0
+                    "value": 1
                 }
             ]
         }
@@ -624,6 +624,42 @@
             "substitutes": [
                 {
                     "player": {
+                        "id": 23643,
+                        "name": "Morgan Guilavogui",
+                        "number": 29,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 6904,
+                        "name": "Connor Metcalfe",
+                        "number": 24,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 17756,
+                        "name": "Oladapo Afolayan",
+                        "number": 17,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 25326,
+                        "name": "Johannes Eggestein",
+                        "number": 11,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 3,
                         "name": "Eric Oelschlägel",
                         "number": 32,
@@ -637,15 +673,6 @@
                         "name": "Adam Dźwigała",
                         "number": 25,
                         "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 6904,
-                        "name": "Connor Metcalfe",
-                        "number": 24,
-                        "pos": "M",
                         "grid": null
                     }
                 },
@@ -669,36 +696,9 @@
                 },
                 {
                     "player": {
-                        "id": 23643,
-                        "name": "Morgan Guilavogui",
-                        "number": 29,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 474789,
                         "name": "Abdoulie Ceesay",
                         "number": 9,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 25326,
-                        "name": "Johannes Eggestein",
-                        "number": 11,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 17756,
-                        "name": "Oladapo Afolayan",
-                        "number": 17,
                         "pos": "F",
                         "grid": null
                     }
@@ -833,33 +833,6 @@
             "substitutes": [
                 {
                     "player": {
-                        "id": 25627,
-                        "name": "Tobias Sippel",
-                        "number": 21,
-                        "pos": "G",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 1082,
-                        "name": "Stefan Lainer",
-                        "number": 22,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 24839,
-                        "name": "Marvin Friedrich",
-                        "number": 5,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 163069,
                         "name": "Luca Netz",
                         "number": 20,
@@ -878,10 +851,19 @@
                 },
                 {
                     "player": {
-                        "id": 25638,
-                        "name": "Florian Neuhaus",
-                        "number": 10,
+                        "id": 25461,
+                        "name": "Kevin Stöger",
+                        "number": 7,
                         "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 24839,
+                        "name": "Marvin Friedrich",
+                        "number": 5,
+                        "pos": "D",
                         "grid": null
                     }
                 },
@@ -896,9 +878,27 @@
                 },
                 {
                     "player": {
-                        "id": 25461,
-                        "name": "Kevin Stöger",
-                        "number": 7,
+                        "id": 25627,
+                        "name": "Tobias Sippel",
+                        "number": 21,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 1082,
+                        "name": "Stefan Lainer",
+                        "number": 22,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 25638,
+                        "name": "Florian Neuhaus",
+                        "number": 10,
                         "pos": "M",
                         "grid": null
                     }
