@@ -3,6 +3,76 @@
     "past_matches": [
         {
             "fixture": {
+                "id": 1224224,
+                "referee": "Harm Osmers, Germany",
+                "timezone": "UTC",
+                "date": "2025-04-06T15:30:00+00:00",
+                "timestamp": 1743953400,
+                "periods": {
+                    "first": 1743953400,
+                    "second": 1743957000
+                },
+                "venue": {
+                    "id": 748,
+                    "name": "Stadion An der Alten Försterei",
+                    "city": "Berlin"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 6
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 28",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 182,
+                    "name": "Union Berlin",
+                    "logo": "https://media.api-sports.io/football/teams/182.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 161,
+                    "name": "VfL Wolfsburg",
+                    "logo": "https://media.api-sports.io/football/teams/161.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
                 "id": 1224214,
                 "referee": "Sören Storks, Germany",
                 "timezone": "UTC",
@@ -270,76 +340,6 @@
                 "fulltime": {
                     "home": 0,
                     "away": 1
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
-                "id": 1224175,
-                "referee": "Bastian Dankert, Germany",
-                "timezone": "UTC",
-                "date": "2025-02-22T17:30:00+00:00",
-                "timestamp": 1740245400,
-                "periods": {
-                    "first": 1740245400,
-                    "second": 1740249000
-                },
-                "venue": {
-                    "id": 19381,
-                    "name": "SIGNAL IDUNA PARK",
-                    "city": "Dortmund"
-                },
-                "status": {
-                    "long": "Match Finished",
-                    "short": "FT",
-                    "elapsed": 90,
-                    "extra": 1
-                }
-            },
-            "league": {
-                "id": 78,
-                "name": "Bundesliga",
-                "country": "Germany",
-                "logo": "https://media.api-sports.io/football/leagues/78.png",
-                "flag": "https://media.api-sports.io/flags/de.svg",
-                "season": 2024,
-                "round": "Regular Season - 23",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 165,
-                    "name": "Borussia Dortmund",
-                    "logo": "https://media.api-sports.io/football/teams/165.png",
-                    "winner": true
-                },
-                "away": {
-                    "id": 182,
-                    "name": "Union Berlin",
-                    "logo": "https://media.api-sports.io/football/teams/182.png",
-                    "winner": false
-                }
-            },
-            "goals": {
-                "home": 6,
-                "away": 0
-            },
-            "score": {
-                "halftime": {
-                    "home": 2,
-                    "away": 0
-                },
-                "fulltime": {
-                    "home": 6,
-                    "away": 0
                 },
                 "extratime": {
                     "home": null,
