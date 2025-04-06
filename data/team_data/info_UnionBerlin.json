@@ -545,6 +545,33 @@
                 },
                 {
                     "player": {
+                        "id": 25404,
+                        "name": "Jérôme Roussillon",
+                        "number": 26,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 24910,
+                        "name": "Tim Skarke",
+                        "number": 21,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 664,
+                        "name": "Lucas Tousart",
+                        "number": 29,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 26234,
                         "name": "Alexander Schwolow",
                         "number": 37,
@@ -557,15 +584,6 @@
                         "id": 713,
                         "name": "Kevin Vogt",
                         "number": 2,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 25404,
-                        "name": "Jérôme Roussillon",
-                        "number": 26,
                         "pos": "D",
                         "grid": null
                     }
@@ -590,28 +608,10 @@
                 },
                 {
                     "player": {
-                        "id": 664,
-                        "name": "Lucas Tousart",
-                        "number": 29,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 14605,
                         "name": "Ivan Prtajin",
                         "number": 9,
                         "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 24910,
-                        "name": "Tim Skarke",
-                        "number": 21,
-                        "pos": "M",
                         "grid": null
                     }
                 }
@@ -745,6 +745,33 @@
             "substitutes": [
                 {
                     "player": {
+                        "id": 265363,
+                        "name": "Tiago Tomás",
+                        "number": 11,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 19461,
+                        "name": "Lukas Nmecha",
+                        "number": 10,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 25192,
+                        "name": "Kevin Behrens",
+                        "number": 17,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 1141,
                         "name": "Marius Müller",
                         "number": 29,
@@ -794,33 +821,6 @@
                         "name": "Bence Dárdai",
                         "number": 24,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 19461,
-                        "name": "Lukas Nmecha",
-                        "number": 10,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 25192,
-                        "name": "Kevin Behrens",
-                        "number": 17,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 265363,
-                        "name": "Tiago Tomás",
-                        "number": 11,
-                        "pos": "F",
                         "grid": null
                     }
                 }
