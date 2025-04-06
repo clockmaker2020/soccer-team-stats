@@ -629,17 +629,12 @@
                     }
                 }
             },
-            "coach": {
-                "id": 24858,
-                "name": "Z. Löw",
-                "photo": "https://media.api-sports.io/football/coachs/24858.png"
-            },
             "formation": "4-2-2-2",
             "startXI": [
                 {
                     "player": {
                         "id": 1139,
-                        "name": "P. Gulácsi",
+                        "name": "Péter Gulácsi",
                         "number": 1,
                         "pos": "G",
                         "grid": "1:1"
@@ -648,7 +643,7 @@
                 {
                     "player": {
                         "id": 342320,
-                        "name": "K. Nedeljković",
+                        "name": "Kosta Nedeljković",
                         "number": 21,
                         "pos": "D",
                         "grid": "2:4"
@@ -657,7 +652,7 @@
                 {
                     "player": {
                         "id": 1148,
-                        "name": "W. Orbán",
+                        "name": "Willi Orbán",
                         "number": 4,
                         "pos": "D",
                         "grid": "2:3"
@@ -666,7 +661,7 @@
                 {
                     "player": {
                         "id": 162761,
-                        "name": "C. Lukeba",
+                        "name": "Castello Lukeba",
                         "number": 23,
                         "pos": "D",
                         "grid": "2:2"
@@ -675,7 +670,7 @@
                 {
                     "player": {
                         "id": 25158,
-                        "name": "D. Raum",
+                        "name": "David Raum",
                         "number": 22,
                         "pos": "D",
                         "grid": "2:1"
@@ -684,7 +679,7 @@
                 {
                     "player": {
                         "id": 340154,
-                        "name": "A. Vermeeren",
+                        "name": "Arthur Vermeeren",
                         "number": 18,
                         "pos": "M",
                         "grid": "3:2"
@@ -693,7 +688,7 @@
                 {
                     "player": {
                         "id": 7328,
-                        "name": "N. Seiwald",
+                        "name": "Nicolas Seiwald",
                         "number": 13,
                         "pos": "M",
                         "grid": "3:1"
@@ -702,7 +697,7 @@
                 {
                     "player": {
                         "id": 25917,
-                        "name": "R. Baku",
+                        "name": "Ridle Baku",
                         "number": 17,
                         "pos": "M",
                         "grid": "4:2"
@@ -711,7 +706,7 @@
                 {
                     "player": {
                         "id": 162016,
-                        "name": "X. Simons",
+                        "name": "Xavi Simons",
                         "number": 10,
                         "pos": "M",
                         "grid": "4:1"
@@ -720,7 +715,7 @@
                 {
                     "player": {
                         "id": 115589,
-                        "name": "B. Šeško",
+                        "name": "Benjamin Šeško",
                         "number": 30,
                         "pos": "F",
                         "grid": "5:2"
@@ -729,7 +724,7 @@
                 {
                     "player": {
                         "id": 86,
-                        "name": "L. Openda",
+                        "name": "Loïs Openda",
                         "number": 11,
                         "pos": "F",
                         "grid": "5:1"
@@ -739,17 +734,8 @@
             "substitutes": [
                 {
                     "player": {
-                        "id": 383665,
-                        "name": "T. Gomis",
-                        "number": 27,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 715,
-                        "name": "C. Baumgartner",
+                        "name": "Christoph Baumgartner",
                         "number": 14,
                         "pos": "M",
                         "grid": null
@@ -757,17 +743,17 @@
                 },
                 {
                     "player": {
-                        "id": 1153,
-                        "name": "A. Haidara",
-                        "number": 8,
-                        "pos": "M",
+                        "id": 383665,
+                        "name": "Tidiam Gomis",
+                        "number": 27,
+                        "pos": "F",
                         "grid": null
                     }
                 },
                 {
                     "player": {
                         "id": 1144,
-                        "name": "L. Klostermann",
+                        "name": "Lukas Klostermann",
                         "number": 16,
                         "pos": "D",
                         "grid": null
@@ -775,8 +761,17 @@
                 },
                 {
                     "player": {
+                        "id": 1153,
+                        "name": "Amadou Haidara",
+                        "number": 8,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 1167,
-                        "name": "Y. Poulsen",
+                        "name": "Yussuf Poulsen",
                         "number": 9,
                         "pos": "F",
                         "grid": null
@@ -784,26 +779,8 @@
                 },
                 {
                     "player": {
-                        "id": 268571,
-                        "name": "E. Bitshiabu",
-                        "number": 5,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 1155,
-                        "name": "K. Kampl",
-                        "number": 44,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 1924,
-                        "name": "M. Vandevoordt",
+                        "name": "Maarten Vandevoordt",
                         "number": 26,
                         "pos": "G",
                         "grid": null
@@ -811,14 +788,37 @@
                 },
                 {
                     "player": {
+                        "id": 268571,
+                        "name": "El Chadaille Bitshiabu",
+                        "number": 5,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 37143,
-                        "name": "L. Geertruida",
+                        "name": "Lutsharel Geertruida",
                         "number": 3,
                         "pos": "D",
                         "grid": null
                     }
+                },
+                {
+                    "player": {
+                        "id": 1155,
+                        "name": "Kevin Kampl",
+                        "number": 44,
+                        "pos": "M",
+                        "grid": null
+                    }
                 }
-            ]
+            ],
+            "coach": {
+                "id": 24858,
+                "name": "Z. Löw",
+                "photo": "https://media.api-sports.io/football/coachs/24858.png"
+            }
         },
         {
             "team": {
@@ -838,17 +838,12 @@
                     }
                 }
             },
-            "coach": {
-                "id": 1918,
-                "name": "C. Ilzer",
-                "photo": "https://media.api-sports.io/football/coachs/1918.png"
-            },
             "formation": "4-2-3-1",
             "startXI": [
                 {
                     "player": {
                         "id": 702,
-                        "name": "O. Baumann",
+                        "name": "Oliver Baumann",
                         "number": 1,
                         "pos": "G",
                         "grid": "1:1"
@@ -857,7 +852,7 @@
                 {
                     "player": {
                         "id": 127631,
-                        "name": "V. Gendrey",
+                        "name": "Valentin Gendrey",
                         "number": 15,
                         "pos": "D",
                         "grid": "2:4"
@@ -875,7 +870,7 @@
                 {
                     "player": {
                         "id": 18967,
-                        "name": "L. Østigård",
+                        "name": "Leo Østigård",
                         "number": 4,
                         "pos": "D",
                         "grid": "2:2"
@@ -884,7 +879,7 @@
                 {
                     "player": {
                         "id": 270,
-                        "name": "S. Nsoki",
+                        "name": "Stanley N'Soki",
                         "number": 34,
                         "pos": "D",
                         "grid": "2:1"
@@ -893,7 +888,7 @@
                 {
                     "player": {
                         "id": 177665,
-                        "name": "A. Stach",
+                        "name": "Anton Stach",
                         "number": 16,
                         "pos": "M",
                         "grid": "3:2"
@@ -902,7 +897,7 @@
                 {
                     "player": {
                         "id": 325975,
-                        "name": "T. Bischof",
+                        "name": "Tom Bischof",
                         "number": 7,
                         "pos": "M",
                         "grid": "3:1"
@@ -911,7 +906,7 @@
                 {
                     "player": {
                         "id": 387643,
-                        "name": "B. Touré",
+                        "name": "Bazoumana Touré",
                         "number": 29,
                         "pos": "M",
                         "grid": "4:3"
@@ -920,7 +915,7 @@
                 {
                     "player": {
                         "id": 726,
-                        "name": "A. Kramarić",
+                        "name": "Andrej Kramarić",
                         "number": 27,
                         "pos": "M",
                         "grid": "4:2"
@@ -929,7 +924,7 @@
                 {
                     "player": {
                         "id": 25242,
-                        "name": "M. Bülter",
+                        "name": "Marius Bülter",
                         "number": 21,
                         "pos": "M",
                         "grid": "4:1"
@@ -938,7 +933,7 @@
                 {
                     "player": {
                         "id": 28382,
-                        "name": "H. Tabaković",
+                        "name": "Haris Tabaković",
                         "number": 26,
                         "pos": "F",
                         "grid": "5:1"
@@ -949,7 +944,7 @@
                 {
                     "player": {
                         "id": 25366,
-                        "name": "K. Akpoguma",
+                        "name": "Kevin Akpoguma",
                         "number": 25,
                         "pos": "D",
                         "grid": null
@@ -958,7 +953,7 @@
                 {
                     "player": {
                         "id": 368260,
-                        "name": "G. Orban",
+                        "name": "Gift Orban",
                         "number": 14,
                         "pos": "F",
                         "grid": null
@@ -966,17 +961,8 @@
                 },
                 {
                     "player": {
-                        "id": 66019,
-                        "name": "A. Hložek",
-                        "number": 23,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 128793,
-                        "name": "D. Jurásek",
+                        "name": "David Jurásek",
                         "number": 19,
                         "pos": "D",
                         "grid": null
@@ -984,8 +970,17 @@
                 },
                 {
                     "player": {
+                        "id": 66019,
+                        "name": "Adam Hložek",
+                        "number": 23,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 279907,
-                        "name": "U. Tohumcu",
+                        "name": "Umut Tohumcu",
                         "number": 17,
                         "pos": "M",
                         "grid": null
@@ -993,8 +988,17 @@
                 },
                 {
                     "player": {
+                        "id": 163066,
+                        "name": "Luca Philipp",
+                        "number": 37,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 709,
-                        "name": "P. Kadeřábek",
+                        "name": "Pavel Kadeřábek",
                         "number": 3,
                         "pos": "D",
                         "grid": null
@@ -1003,22 +1007,18 @@
                 {
                     "player": {
                         "id": 24932,
-                        "name": "F. Becker",
+                        "name": "Finn Ole Becker",
                         "number": 20,
                         "pos": "M",
                         "grid": null
                     }
-                },
-                {
-                    "player": {
-                        "id": 163066,
-                        "name": "L. Philipp",
-                        "number": 37,
-                        "pos": "G",
-                        "grid": null
-                    }
                 }
-            ]
+            ],
+            "coach": {
+                "id": 1918,
+                "name": "C. Ilzer",
+                "photo": "https://media.api-sports.io/football/coachs/1918.png"
+            }
         }
     ],
     "odds": [
