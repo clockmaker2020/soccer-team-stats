@@ -1808,132 +1808,66 @@
         },
         {
             "team": "Union Berlin",
-            "date": "2025-03-30 13:30",
-            "opponent": "SC Freiburg",
-            "score": "1 - 2",
-            "stadium": "Europa-Park Stadion",
-            "referee": "Sören Storks, Germany",
-            "league_round": "Regular Season - 27",
+            "date": "2025-04-06 15:30",
+            "opponent": "VfL Wolfsburg",
+            "score": "1 - 0",
+            "stadium": "Stadion An der Alten Försterei",
+            "referee": "Harm Osmers, Germany",
+            "league_round": "Regular Season - 28",
             "events": [
                 {
-                    "time": "8'",
-                    "player": "Jeong Wooyeong",
+                    "time": "38'",
+                    "player": "M. Ljubicic",
                     "detail": "Substitution 1",
                     "team": "Union Berlin"
                 },
                 {
-                    "time": "29'",
-                    "player": "L. Höler",
-                    "detail": "Normal Goal",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "30'",
-                    "player": "R. Khedira",
+                    "time": "63'",
+                    "player": "B. Hollerbach",
                     "detail": "Normal Goal",
                     "team": "Union Berlin"
                 },
                 {
-                    "time": "48'",
-                    "player": "A. Ilić",
-                    "detail": "Normal Goal",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "58'",
-                    "player": "L. Höler",
+                    "time": "73'",
+                    "player": "T. Tomas",
                     "detail": "Substitution 1",
-                    "team": "SC Freiburg"
+                    "team": "VfL Wolfsburg"
                 },
                 {
-                    "time": "58'",
-                    "player": "N. Atubolu",
-                    "detail": "Substitution 2",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "67'",
-                    "player": "K. Sildillia",
-                    "detail": "Substitution 3",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "67'",
-                    "player": "C. Günter",
-                    "detail": "Substitution 4",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "68'",
-                    "player": "Rani Khedira",
+                    "time": "77'",
+                    "player": "Y. Gerhardt",
                     "detail": "Yellow Card",
-                    "team": "Union Berlin"
+                    "team": "VfL Wolfsburg"
                 },
                 {
-                    "time": "69'",
+                    "time": "79'",
                     "player": "T. Skarke",
                     "detail": "Substitution 2",
                     "team": "Union Berlin"
                 },
                 {
-                    "time": "76'",
-                    "player": "Matthias Ginter",
-                    "detail": "Yellow Card",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "81'",
-                    "player": "Andrej Ilić",
-                    "detail": "Yellow Card",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "85'",
-                    "player": "J. Haberer",
+                    "time": "79'",
+                    "player": "J. Roussillon",
                     "detail": "Substitution 3",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "85'",
-                    "player": "A. Ilić",
-                    "detail": "Substitution 4",
-                    "team": "Union Berlin"
+                    "player": "L. Nmecha",
+                    "detail": "Substitution 2",
+                    "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "85'",
-                    "player": "B. Hollerbach",
-                    "detail": "Substitution 5",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "86'",
-                    "player": "M. Eggestein",
-                    "detail": "Substitution 5",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "88'",
-                    "player": "András Schäfer",
-                    "detail": "Yellow Card",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "89'",
-                    "player": "Josip Juranović",
-                    "detail": "Yellow Card",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "89'",
-                    "player": "Johan Manzambi",
-                    "detail": "Yellow Card",
-                    "team": "SC Freiburg"
+                    "player": "K. Behrens",
+                    "detail": "Substitution 3",
+                    "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "90'",
-                    "player": "Eren Dinkçi",
-                    "detail": "Yellow Card",
-                    "team": "SC Freiburg"
+                    "player": "L. Tousart",
+                    "detail": "Substitution 4",
+                    "team": "Union Berlin"
                 }
             ],
             "odds": {
@@ -1942,6 +1876,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-06 15:30",
+                    "score": "1 - 0"
+                },
                 {
                     "date": "2025-03-30 13:30",
                     "score": "1 - 2"
@@ -1957,10 +1895,6 @@
                 {
                     "date": "2025-03-02 14:30",
                     "score": "0 - 1"
-                },
-                {
-                    "date": "2025-02-22 17:30",
-                    "score": "6 - 0"
                 }
             ],
             "future_games": [
