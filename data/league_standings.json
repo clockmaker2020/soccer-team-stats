@@ -106,14 +106,14 @@
             },
             "wins": 10,
             "draws": 8,
-            "losses": 9
+            "losses": 10
         },
         {
             "rank": 13,
             "team": {
                 "name": "Union Berlin"
             },
-            "wins": 8,
+            "wins": 9,
             "draws": 6,
             "losses": 13
         },
