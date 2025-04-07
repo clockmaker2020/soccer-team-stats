@@ -767,62 +767,68 @@
             "league_round": "Regular Season - 28",
             "events": [
                 {
+                    "time": "43'",
+                    "player": "Noah Weißhaupt",
+                    "detail": "Penalty cancelled",
+                    "team": "FC St. Pauli"
+                },
+                {
                     "time": "45'",
                     "player": "K. Itakura",
                     "detail": "Normal Goal",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
-                    "time": "48'",
-                    "player": "L. Ullrich",
+                    "time": "47'",
+                    "player": "Lukas Ullrich",
                     "detail": "Yellow Card",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "61'",
-                    "player": "M. Guilavogui",
+                    "player": "L. Ritzka",
                     "detail": "Substitution 1",
                     "team": "FC St. Pauli"
                 },
                 {
                     "time": "61'",
-                    "player": "L. Netz",
+                    "player": "F. Honorat",
                     "detail": "Substitution 1",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "61'",
-                    "player": "F. C. Chiarodia",
+                    "player": "L. Ullrich",
                     "detail": "Substitution 2",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "74'",
-                    "player": "C. Metcalfe",
+                    "player": "E. Saad",
                     "detail": "Substitution 2",
                     "team": "FC St. Pauli"
                 },
                 {
                     "time": "74'",
-                    "player": "O. Afolayan",
+                    "player": "N. Weißhaupt",
                     "detail": "Substitution 3",
                     "team": "FC St. Pauli"
                 },
                 {
                     "time": "75'",
-                    "player": "K. Stoger",
+                    "player": "A. Pléa",
                     "detail": "Substitution 3",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "76'",
-                    "player": "L. Netz",
+                    "player": "Luca Netz",
                     "detail": "Yellow Card",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "83'",
-                    "player": "J. Eggestein",
+                    "player": "D. Sinani",
                     "detail": "Substitution 4",
                     "team": "FC St. Pauli"
                 },
@@ -834,13 +840,13 @@
                 },
                 {
                     "time": "86'",
-                    "player": "N. Ngoumou",
+                    "player": "T. Kleindienst",
                     "detail": "Substitution 4",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "86'",
-                    "player": "M. Friedrich",
+                    "player": "R. Hack",
                     "detail": "Substitution 5",
                     "team": "Borussia Mönchengladbach"
                 }
@@ -1668,7 +1674,7 @@
             "events": [
                 {
                     "time": "38'",
-                    "player": "M. Ljubicic",
+                    "player": "A. Ilić",
                     "detail": "Substitution 1",
                     "team": "Union Berlin"
                 },
@@ -1680,43 +1686,43 @@
                 },
                 {
                     "time": "73'",
-                    "player": "T. Tomas",
+                    "player": "J. Mæhle",
                     "detail": "Substitution 1",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "77'",
-                    "player": "Y. Gerhardt",
+                    "player": "Yannick Gerhardt",
                     "detail": "Yellow Card",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "79'",
-                    "player": "T. Skarke",
+                    "player": "C. Trimmel",
                     "detail": "Substitution 2",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "79'",
-                    "player": "J. Roussillon",
+                    "player": "B. Hollerbach",
                     "detail": "Substitution 3",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "85'",
-                    "player": "L. Nmecha",
+                    "player": "A. Vranckx",
                     "detail": "Substitution 2",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "85'",
-                    "player": "K. Behrens",
+                    "player": "M. Amoura",
                     "detail": "Substitution 3",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "90'",
-                    "player": "L. Tousart",
+                    "player": "J. Haberer",
                     "detail": "Substitution 4",
                     "team": "Union Berlin"
                 }
@@ -1775,7 +1781,7 @@
             "events": [
                 {
                     "time": "38'",
-                    "player": "M. Ljubicic",
+                    "player": "A. Ilić",
                     "detail": "Substitution 1",
                     "team": "Union Berlin"
                 },
@@ -1787,43 +1793,43 @@
                 },
                 {
                     "time": "73'",
-                    "player": "T. Tomas",
+                    "player": "J. Mæhle",
                     "detail": "Substitution 1",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "77'",
-                    "player": "Y. Gerhardt",
+                    "player": "Yannick Gerhardt",
                     "detail": "Yellow Card",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "79'",
-                    "player": "T. Skarke",
+                    "player": "C. Trimmel",
                     "detail": "Substitution 2",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "79'",
-                    "player": "J. Roussillon",
+                    "player": "B. Hollerbach",
                     "detail": "Substitution 3",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "85'",
-                    "player": "L. Nmecha",
+                    "player": "A. Vranckx",
                     "detail": "Substitution 2",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "85'",
-                    "player": "K. Behrens",
+                    "player": "M. Amoura",
                     "detail": "Substitution 3",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "90'",
-                    "player": "L. Tousart",
+                    "player": "J. Haberer",
                     "detail": "Substitution 4",
                     "team": "Union Berlin"
                 }
@@ -2042,62 +2048,68 @@
             "league_round": "Regular Season - 28",
             "events": [
                 {
+                    "time": "43'",
+                    "player": "Noah Weißhaupt",
+                    "detail": "Penalty cancelled",
+                    "team": "FC St. Pauli"
+                },
+                {
                     "time": "45'",
                     "player": "K. Itakura",
                     "detail": "Normal Goal",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
-                    "time": "48'",
-                    "player": "L. Ullrich",
+                    "time": "47'",
+                    "player": "Lukas Ullrich",
                     "detail": "Yellow Card",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "61'",
-                    "player": "M. Guilavogui",
+                    "player": "L. Ritzka",
                     "detail": "Substitution 1",
                     "team": "FC St. Pauli"
                 },
                 {
                     "time": "61'",
-                    "player": "L. Netz",
+                    "player": "F. Honorat",
                     "detail": "Substitution 1",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "61'",
-                    "player": "F. C. Chiarodia",
+                    "player": "L. Ullrich",
                     "detail": "Substitution 2",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "74'",
-                    "player": "C. Metcalfe",
+                    "player": "E. Saad",
                     "detail": "Substitution 2",
                     "team": "FC St. Pauli"
                 },
                 {
                     "time": "74'",
-                    "player": "O. Afolayan",
+                    "player": "N. Weißhaupt",
                     "detail": "Substitution 3",
                     "team": "FC St. Pauli"
                 },
                 {
                     "time": "75'",
-                    "player": "K. Stoger",
+                    "player": "A. Pléa",
                     "detail": "Substitution 3",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "76'",
-                    "player": "L. Netz",
+                    "player": "Luca Netz",
                     "detail": "Yellow Card",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "83'",
-                    "player": "J. Eggestein",
+                    "player": "D. Sinani",
                     "detail": "Substitution 4",
                     "team": "FC St. Pauli"
                 },
@@ -2109,13 +2121,13 @@
                 },
                 {
                     "time": "86'",
-                    "player": "N. Ngoumou",
+                    "player": "T. Kleindienst",
                     "detail": "Substitution 4",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "86'",
-                    "player": "M. Friedrich",
+                    "player": "R. Hack",
                     "detail": "Substitution 5",
                     "team": "Borussia Mönchengladbach"
                 }
