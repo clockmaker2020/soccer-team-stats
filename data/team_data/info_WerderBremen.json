@@ -192,6 +192,28 @@
                 "logo": "https://media.api-sports.io/football/teams/162.png"
             },
             "player": {
+                "id": 25464,
+                "name": "M. Ducksch"
+            },
+            "assist": {
+                "id": 7073,
+                "name": "M. Grüll"
+            },
+            "type": "subst",
+            "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 65,
+                "extra": null
+            },
+            "team": {
+                "id": 162,
+                "name": "Werder Bremen",
+                "logo": "https://media.api-sports.io/football/teams/162.png"
+            },
+            "player": {
                 "id": 1124,
                 "name": "O. Burke"
             },
@@ -200,7 +222,7 @@
                 "name": "J. Njinmah"
             },
             "type": "subst",
-            "detail": "Substitution 1",
+            "detail": "Substitution 2",
             "comments": null
         },
         {
@@ -220,28 +242,6 @@
             "assist": {
                 "id": 15874,
                 "name": "A. Jung"
-            },
-            "type": "subst",
-            "detail": "Substitution 2",
-            "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 66,
-                "extra": null
-            },
-            "team": {
-                "id": 162,
-                "name": "Werder Bremen",
-                "logo": "https://media.api-sports.io/football/teams/162.png"
-            },
-            "player": {
-                "id": 25464,
-                "name": "M. Ducksch"
-            },
-            "assist": {
-                "id": 7073,
-                "name": "M. Grüll"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -508,11 +508,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 328
+                    "value": 329
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 229
+                    "value": 231
                 },
                 {
                     "type": "Passes %",
@@ -520,7 +520,7 @@
                 },
                 {
                     "type": "expected_goals",
-                    "value": "1.25"
+                    "value": "1.05"
                 },
                 {
                     "type": "goals_prevented",
@@ -601,7 +601,7 @@
                 },
                 {
                     "type": "expected_goals",
-                    "value": "0.58"
+                    "value": "0.55"
                 },
                 {
                     "type": "goals_prevented",
