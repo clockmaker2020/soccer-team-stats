@@ -442,161 +442,6 @@
             "squad": []
         },
         {
-            "team": "FSV Mainz 05",
-            "date": "2025-04-05 13:30",
-            "opponent": "Holstein Kiel",
-            "score": "1 - 1",
-            "stadium": "MEWA ARENA",
-            "referee": "F. Willenborg",
-            "league_round": "Regular Season - 28",
-            "events": [
-                {
-                    "time": "33'",
-                    "player": "Phillipp Mwene",
-                    "detail": "Yellow Card",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "34'",
-                    "player": "A. Bernhardsson",
-                    "detail": "Normal Goal",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "44'",
-                    "player": "David Zec",
-                    "detail": "Yellow Card",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "51'",
-                    "player": "Nicolai Remberg",
-                    "detail": "Yellow Card",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "67'",
-                    "player": "P. Mwene",
-                    "detail": "Substitution 1",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "68'",
-                    "player": "A. Bernhardsson",
-                    "detail": "Substitution 1",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "68'",
-                    "player": "Lee Jae-Sung",
-                    "detail": "Substitution 2",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "75'",
-                    "player": "N. Weiper",
-                    "detail": "Normal Goal",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "76'",
-                    "player": "S. Skrzybski",
-                    "detail": "Substitution 2",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "76'",
-                    "player": "J. Tolkin",
-                    "detail": "Substitution 3",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "82'",
-                    "player": "A. Gigović",
-                    "detail": "Substitution 4",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "83'",
-                    "player": "J. Burkardt",
-                    "detail": "Substitution 3",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "84'",
-                    "player": "Moritz Jenz",
-                    "detail": "Yellow Card",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "85'",
-                    "player": "Timo Becker",
-                    "detail": "Yellow Card",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "90'",
-                    "player": "N. Amiri",
-                    "detail": "Substitution 4",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "90'",
-                    "player": "Lasse Rosenboom",
-                    "detail": "Yellow Card",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "90'",
-                    "player": "Nadiem Amiri",
-                    "detail": "Yellow Card",
-                    "team": "FSV Mainz 05"
-                }
-            ],
-            "odds": {
-                "home": "N/A",
-                "draw": "N/A",
-                "away": "N/A"
-            },
-            "past_results": [
-                {
-                    "date": "2025-04-05 13:30",
-                    "score": "1 - 1"
-                },
-                {
-                    "date": "2025-03-30 15:30",
-                    "score": "3 - 1"
-                },
-                {
-                    "date": "2025-03-15 14:30",
-                    "score": "2 - 2"
-                },
-                {
-                    "date": "2025-03-07 19:30",
-                    "score": "1 - 3"
-                },
-                {
-                    "date": "2025-03-01 14:30",
-                    "score": "1 - 2"
-                }
-            ],
-            "future_games": [
-                {
-                    "date": "2025-04-12 13:30",
-                    "opponent": "1899 Hoffenheim"
-                },
-                {
-                    "date": "2025-04-19 13:30",
-                    "opponent": "VfL Wolfsburg"
-                },
-                {
-                    "date": "2025-04-26 13:30",
-                    "opponent": "Bayern München"
-                }
-            ],
-            "squad": []
-        },
-        {
             "team": "RB Leipzig",
             "date": "2025-04-11 18:30",
             "opponent": "VfL Wolfsburg",
@@ -764,6 +609,161 @@
                 },
                 {
                     "date": "2025-05-03 13:30",
+                    "opponent": "Bayern München"
+                }
+            ],
+            "squad": []
+        },
+        {
+            "team": "FSV Mainz 05",
+            "date": "2025-04-05 13:30",
+            "opponent": "Holstein Kiel",
+            "score": "1 - 1",
+            "stadium": "MEWA ARENA",
+            "referee": "F. Willenborg",
+            "league_round": "Regular Season - 28",
+            "events": [
+                {
+                    "time": "33'",
+                    "player": "Phillipp Mwene",
+                    "detail": "Yellow Card",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "34'",
+                    "player": "A. Bernhardsson",
+                    "detail": "Normal Goal",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "44'",
+                    "player": "David Zec",
+                    "detail": "Yellow Card",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "51'",
+                    "player": "Nicolai Remberg",
+                    "detail": "Yellow Card",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "67'",
+                    "player": "P. Mwene",
+                    "detail": "Substitution 1",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "68'",
+                    "player": "A. Bernhardsson",
+                    "detail": "Substitution 1",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "68'",
+                    "player": "Lee Jae-Sung",
+                    "detail": "Substitution 2",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "75'",
+                    "player": "N. Weiper",
+                    "detail": "Normal Goal",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "76'",
+                    "player": "S. Skrzybski",
+                    "detail": "Substitution 2",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "76'",
+                    "player": "J. Tolkin",
+                    "detail": "Substitution 3",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "82'",
+                    "player": "A. Gigović",
+                    "detail": "Substitution 4",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "83'",
+                    "player": "J. Burkardt",
+                    "detail": "Substitution 3",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "84'",
+                    "player": "Moritz Jenz",
+                    "detail": "Yellow Card",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "85'",
+                    "player": "Timo Becker",
+                    "detail": "Yellow Card",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "90'",
+                    "player": "N. Amiri",
+                    "detail": "Substitution 4",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "90'",
+                    "player": "Lasse Rosenboom",
+                    "detail": "Yellow Card",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "90'",
+                    "player": "Nadiem Amiri",
+                    "detail": "Yellow Card",
+                    "team": "FSV Mainz 05"
+                }
+            ],
+            "odds": {
+                "home": "N/A",
+                "draw": "N/A",
+                "away": "N/A"
+            },
+            "past_results": [
+                {
+                    "date": "2025-04-05 13:30",
+                    "score": "1 - 1"
+                },
+                {
+                    "date": "2025-03-30 15:30",
+                    "score": "3 - 1"
+                },
+                {
+                    "date": "2025-03-15 14:30",
+                    "score": "2 - 2"
+                },
+                {
+                    "date": "2025-03-07 19:30",
+                    "score": "1 - 3"
+                },
+                {
+                    "date": "2025-03-01 14:30",
+                    "score": "1 - 2"
+                }
+            ],
+            "future_games": [
+                {
+                    "date": "2025-04-12 13:30",
+                    "opponent": "1899 Hoffenheim"
+                },
+                {
+                    "date": "2025-04-19 13:30",
+                    "opponent": "VfL Wolfsburg"
+                },
+                {
+                    "date": "2025-04-26 13:30",
                     "opponent": "Bayern München"
                 }
             ],
