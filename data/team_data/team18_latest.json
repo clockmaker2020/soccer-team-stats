@@ -1158,108 +1158,84 @@
         },
         {
             "team": "Borussia Dortmund",
-            "date": "2025-04-05 13:30",
-            "opponent": "SC Freiburg",
-            "score": "1 - 4",
-            "stadium": "Europa-Park Stadion",
-            "referee": "Felix Zwayer, Germany",
-            "league_round": "Regular Season - 28",
+            "date": "2025-04-12 16:30",
+            "opponent": "Bayern München",
+            "score": "2 - 2",
+            "stadium": "Allianz Arena",
+            "referee": "Tobias Welz, Germany",
+            "league_round": "Regular Season - 29",
             "events": [
                 {
-                    "time": "34'",
-                    "player": "K. Adeyemi",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "51'",
-                    "player": "C. Chukwuemeka",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "61'",
-                    "player": "R. Bensebaini",
-                    "detail": "Substitution 1",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "61'",
+                    "time": "48'",
                     "player": "M. Beier",
-                    "detail": "Substitution 2",
+                    "detail": "Normal Goal",
                     "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "54'",
+                    "player": "R. Guerreiro",
+                    "detail": "Substitution 1",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "63'",
+                    "player": "A. Pavlovic",
+                    "detail": "Substitution 2",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "63'",
+                    "player": "S. Gnabry",
+                    "detail": "Substitution 3",
+                    "team": "Bayern München"
                 },
                 {
                     "time": "65'",
-                    "player": "Matthias Ginter",
-                    "detail": "Yellow Card",
-                    "team": "SC Freiburg"
+                    "player": "R. Guerreiro",
+                    "detail": "Normal Goal",
+                    "team": "Bayern München"
                 },
                 {
-                    "time": "68'",
-                    "player": "S. Guirassy",
+                    "time": "69'",
+                    "player": "S. Gnabry",
+                    "detail": "Normal Goal",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "71'",
+                    "player": "F. Nmecha",
+                    "detail": "Substitution 1",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "71'",
+                    "player": "C. Chukwuemeka",
+                    "detail": "Substitution 2",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "75'",
+                    "player": "W. Anton",
                     "detail": "Normal Goal",
                     "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "70'",
-                    "player": "L. Höler",
-                    "detail": "Substitution 1",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "70'",
-                    "player": "P. Lienhart",
-                    "detail": "Substitution 2",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "70'",
+                    "time": "81'",
                     "player": "K. Adeyemi",
                     "detail": "Substitution 3",
                     "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "70'",
-                    "player": "C. Chukwuemeka",
+                    "time": "81'",
+                    "player": "R. Bensebaini",
                     "detail": "Substitution 4",
                     "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "78'",
-                    "player": "J. Gittens",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "79'",
-                    "player": "V. Grifo",
-                    "detail": "Substitution 3",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "79'",
-                    "player": "J. Adamu",
+                    "time": "81'",
+                    "player": "K. Coman",
                     "detail": "Substitution 4",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "79'",
-                    "player": "P. Osterhage",
-                    "detail": "Substitution 5",
-                    "team": "SC Freiburg"
-                },
-                {
-                    "time": "80'",
-                    "player": "D. Svensson",
-                    "detail": "Substitution 5",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "88'",
-                    "player": "M. Eggestein",
-                    "detail": "Normal Goal",
-                    "team": "SC Freiburg"
+                    "team": "Bayern München"
                 }
             ],
             "odds": {
@@ -1268,6 +1244,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-12 16:30",
+                    "score": "2 - 2"
+                },
                 {
                     "date": "2025-04-05 13:30",
                     "score": "1 - 4"
@@ -1283,10 +1263,6 @@
                 {
                     "date": "2025-03-08 14:30",
                     "score": "0 - 1"
-                },
-                {
-                    "date": "2025-03-01 14:30",
-                    "score": "0 - 2"
                 }
             ],
             "future_games": [
