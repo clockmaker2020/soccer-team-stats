@@ -73,7 +73,7 @@
         },
         {
             "time": {
-                "elapsed": 20,
+                "elapsed": 21,
                 "extra": null
             },
             "team": {
@@ -83,14 +83,14 @@
             },
             "player": {
                 "id": 115589,
-                "name": "B. Sesko"
+                "name": "Benjamin Šeško"
             },
             "assist": {
                 "id": null,
                 "name": null
             },
             "type": "Var",
-            "detail": "Goal Disallowed - offside",
+            "detail": "Goal cancelled",
             "comments": null
         },
         {
@@ -127,29 +127,7 @@
             },
             "player": {
                 "id": 25400,
-                "name": "Y. Gerhardt"
-            },
-            "assist": {
-                "id": null,
-                "name": null
-            },
-            "type": "Card",
-            "detail": "Yellow Card",
-            "comments": "Roughing"
-        },
-        {
-            "time": {
-                "elapsed": 36,
-                "extra": null
-            },
-            "team": {
-                "id": 173,
-                "name": "RB Leipzig",
-                "logo": "https://media.api-sports.io/football/teams/173.png"
-            },
-            "player": {
-                "id": 268571,
-                "name": "E. Bitshiabu"
+                "name": "Yannick Gerhardt"
             },
             "assist": {
                 "id": null,
@@ -171,7 +149,7 @@
             },
             "player": {
                 "id": 162016,
-                "name": "X. Simons"
+                "name": "Xavi Simons"
             },
             "assist": {
                 "id": null,
@@ -179,7 +157,29 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": null
+            "comments": "Argument"
+        },
+        {
+            "time": {
+                "elapsed": 36,
+                "extra": null
+            },
+            "team": {
+                "id": 173,
+                "name": "RB Leipzig",
+                "logo": "https://media.api-sports.io/football/teams/173.png"
+            },
+            "player": {
+                "id": 268571,
+                "name": "El Chadaille Bitshiabu"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Time wasting"
         },
         {
             "time": {
@@ -219,7 +219,7 @@
             },
             "assist": {
                 "id": 40560,
-                "name": "J. Kaminski"
+                "name": "J. Kamiński"
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -237,7 +237,7 @@
             },
             "player": {
                 "id": 177618,
-                "name": "K. Fischer"
+                "name": "Kilian Fischer"
             },
             "assist": {
                 "id": null,
@@ -245,29 +245,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Roughing"
-        },
-        {
-            "time": {
-                "elapsed": 71,
-                "extra": null
-            },
-            "team": {
-                "id": 161,
-                "name": "VfL Wolfsburg",
-                "logo": "https://media.api-sports.io/football/teams/161.png"
-            },
-            "player": {
-                "id": 1930,
-                "name": "J. Maehle"
-            },
-            "assist": {
-                "id": 1291,
-                "name": "D. Vavro"
-            },
-            "type": "subst",
-            "detail": "Substitution 1",
-            "comments": null
+            "comments": "Argument"
         },
         {
             "time": {
@@ -280,34 +258,34 @@
                 "logo": "https://media.api-sports.io/football/teams/173.png"
             },
             "player": {
-                "id": 1155,
-                "name": "K. Kampl"
+                "id": 25917,
+                "name": "R. Baku"
             },
             "assist": {
-                "id": 340154,
-                "name": "A. Vermeeren"
-            },
-            "type": "subst",
-            "detail": "Substitution 1",
-            "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 71,
-                "extra": null
-            },
-            "team": {
-                "id": 173,
-                "name": "RB Leipzig",
-                "logo": "https://media.api-sports.io/football/teams/173.png"
-            },
-            "player": {
                 "id": 715,
                 "name": "C. Baumgartner"
             },
+            "type": "subst",
+            "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 71,
+                "extra": null
+            },
+            "team": {
+                "id": 173,
+                "name": "RB Leipzig",
+                "logo": "https://media.api-sports.io/football/teams/173.png"
+            },
+            "player": {
+                "id": 340154,
+                "name": "A. Vermeeren"
+            },
             "assist": {
-                "id": 25917,
-                "name": "R. Baku"
+                "id": 1155,
+                "name": "K. Kampl"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -324,12 +302,34 @@
                 "logo": "https://media.api-sports.io/football/teams/161.png"
             },
             "player": {
-                "id": 15916,
-                "name": "A. Skov Olsen"
+                "id": 1291,
+                "name": "D. Vavro"
             },
             "assist": {
+                "id": 1930,
+                "name": "J. Mæhle"
+            },
+            "type": "subst",
+            "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 71,
+                "extra": null
+            },
+            "team": {
+                "id": 161,
+                "name": "VfL Wolfsburg",
+                "logo": "https://media.api-sports.io/football/teams/161.png"
+            },
+            "player": {
                 "id": 40560,
-                "name": "J. Kaminski"
+                "name": "J. Kamiński"
+            },
+            "assist": {
+                "id": 15916,
+                "name": "A. Skov Olsen"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -351,7 +351,7 @@
             },
             "assist": {
                 "id": 1930,
-                "name": "J. Maehle"
+                "name": "J. Mæhle"
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -369,7 +369,7 @@
             },
             "player": {
                 "id": 86,
-                "name": "L. Openda"
+                "name": "Loïs Openda"
             },
             "assist": {
                 "id": null,
@@ -377,7 +377,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Unsportsmanlike conduct"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -390,12 +390,12 @@
                 "logo": "https://media.api-sports.io/football/teams/173.png"
             },
             "player": {
-                "id": 1167,
-                "name": "Y. Poulsen"
+                "id": 342320,
+                "name": "K. Nedeljković"
             },
             "assist": {
-                "id": 86,
-                "name": "L. Openda"
+                "id": 37143,
+                "name": "L. Geertruida"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -412,12 +412,12 @@
                 "logo": "https://media.api-sports.io/football/teams/173.png"
             },
             "player": {
-                "id": 37143,
-                "name": "L. Geertruida"
+                "id": 86,
+                "name": "L. Openda"
             },
             "assist": {
-                "id": 342320,
-                "name": "K. Nedeljkovic"
+                "id": 1167,
+                "name": "Y. Poulsen"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -434,12 +434,12 @@
                 "logo": "https://media.api-sports.io/football/teams/173.png"
             },
             "player": {
-                "id": 1153,
-                "name": "A. Haidara"
-            },
-            "assist": {
                 "id": 162016,
                 "name": "X. Simons"
+            },
+            "assist": {
+                "id": 1153,
+                "name": "A. Haidara"
             },
             "type": "subst",
             "detail": "Substitution 5",
@@ -456,12 +456,12 @@
                 "logo": "https://media.api-sports.io/football/teams/161.png"
             },
             "player": {
-                "id": 19461,
-                "name": "L. Nmecha"
-            },
-            "assist": {
                 "id": 126642,
                 "name": "P. Wimmer"
+            },
+            "assist": {
+                "id": 19461,
+                "name": "L. Nmecha"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -478,12 +478,12 @@
                 "logo": "https://media.api-sports.io/football/teams/161.png"
             },
             "player": {
-                "id": 265363,
-                "name": "T. Tomas"
+                "id": 380503,
+                "name": "B. Dárdai"
             },
             "assist": {
-                "id": 380503,
-                "name": "B. Dardai"
+                "id": 265363,
+                "name": "Tiago Tomás"
             },
             "type": "subst",
             "detail": "Substitution 4",
