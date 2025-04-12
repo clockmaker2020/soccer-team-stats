@@ -1014,6 +1014,131 @@
             "squad": []
         },
         {
+            "team": "Borussia Dortmund",
+            "date": "2025-04-12 16:30",
+            "opponent": "Bayern München",
+            "score": "2 - 2",
+            "stadium": "Allianz Arena",
+            "referee": "Tobias Welz, Germany",
+            "league_round": "Regular Season - 29",
+            "events": [
+                {
+                    "time": "48'",
+                    "player": "M. Beier",
+                    "detail": "Normal Goal",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "54'",
+                    "player": "R. Guerreiro",
+                    "detail": "Substitution 1",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "63'",
+                    "player": "A. Pavlovic",
+                    "detail": "Substitution 2",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "63'",
+                    "player": "S. Gnabry",
+                    "detail": "Substitution 3",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "65'",
+                    "player": "R. Guerreiro",
+                    "detail": "Normal Goal",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "69'",
+                    "player": "S. Gnabry",
+                    "detail": "Normal Goal",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "71'",
+                    "player": "F. Nmecha",
+                    "detail": "Substitution 1",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "71'",
+                    "player": "C. Chukwuemeka",
+                    "detail": "Substitution 2",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "75'",
+                    "player": "W. Anton",
+                    "detail": "Normal Goal",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "81'",
+                    "player": "K. Adeyemi",
+                    "detail": "Substitution 3",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "81'",
+                    "player": "R. Bensebaini",
+                    "detail": "Substitution 4",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "81'",
+                    "player": "K. Coman",
+                    "detail": "Substitution 4",
+                    "team": "Bayern München"
+                }
+            ],
+            "odds": {
+                "home": "N/A",
+                "draw": "N/A",
+                "away": "N/A"
+            },
+            "past_results": [
+                {
+                    "date": "2025-04-12 16:30",
+                    "score": "2 - 2"
+                },
+                {
+                    "date": "2025-04-05 13:30",
+                    "score": "1 - 4"
+                },
+                {
+                    "date": "2025-03-30 15:30",
+                    "score": "3 - 1"
+                },
+                {
+                    "date": "2025-03-15 17:30",
+                    "score": "2 - 0"
+                },
+                {
+                    "date": "2025-03-08 14:30",
+                    "score": "0 - 1"
+                }
+            ],
+            "future_games": [
+                {
+                    "date": "2025-04-20 15:30",
+                    "opponent": "Borussia Mönchengladbach"
+                },
+                {
+                    "date": "2025-04-26 13:30",
+                    "opponent": "1899 Hoffenheim"
+                },
+                {
+                    "date": "2025-05-03 16:30",
+                    "opponent": "VfL Wolfsburg"
+                }
+            ],
+            "squad": []
+        },
+        {
             "team": "FC Augsburg",
             "date": "2025-04-12 13:30",
             "opponent": "VfL Bochum",
@@ -1152,131 +1277,6 @@
                 {
                     "date": "2025-05-04 13:30",
                     "opponent": "Holstein Kiel"
-                }
-            ],
-            "squad": []
-        },
-        {
-            "team": "Borussia Dortmund",
-            "date": "2025-04-12 16:30",
-            "opponent": "Bayern München",
-            "score": "2 - 2",
-            "stadium": "Allianz Arena",
-            "referee": "Tobias Welz, Germany",
-            "league_round": "Regular Season - 29",
-            "events": [
-                {
-                    "time": "48'",
-                    "player": "M. Beier",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "54'",
-                    "player": "R. Guerreiro",
-                    "detail": "Substitution 1",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "63'",
-                    "player": "A. Pavlovic",
-                    "detail": "Substitution 2",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "63'",
-                    "player": "S. Gnabry",
-                    "detail": "Substitution 3",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "65'",
-                    "player": "R. Guerreiro",
-                    "detail": "Normal Goal",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "69'",
-                    "player": "S. Gnabry",
-                    "detail": "Normal Goal",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "71'",
-                    "player": "F. Nmecha",
-                    "detail": "Substitution 1",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "71'",
-                    "player": "C. Chukwuemeka",
-                    "detail": "Substitution 2",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "75'",
-                    "player": "W. Anton",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "81'",
-                    "player": "K. Adeyemi",
-                    "detail": "Substitution 3",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "81'",
-                    "player": "R. Bensebaini",
-                    "detail": "Substitution 4",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "81'",
-                    "player": "K. Coman",
-                    "detail": "Substitution 4",
-                    "team": "Bayern München"
-                }
-            ],
-            "odds": {
-                "home": "N/A",
-                "draw": "N/A",
-                "away": "N/A"
-            },
-            "past_results": [
-                {
-                    "date": "2025-04-12 16:30",
-                    "score": "2 - 2"
-                },
-                {
-                    "date": "2025-04-05 13:30",
-                    "score": "1 - 4"
-                },
-                {
-                    "date": "2025-03-30 15:30",
-                    "score": "3 - 1"
-                },
-                {
-                    "date": "2025-03-15 17:30",
-                    "score": "2 - 0"
-                },
-                {
-                    "date": "2025-03-08 14:30",
-                    "score": "0 - 1"
-                }
-            ],
-            "future_games": [
-                {
-                    "date": "2025-04-20 15:30",
-                    "opponent": "Borussia Mönchengladbach"
-                },
-                {
-                    "date": "2025-04-26 13:30",
-                    "opponent": "1899 Hoffenheim"
-                },
-                {
-                    "date": "2025-05-03 16:30",
-                    "opponent": "VfL Wolfsburg"
                 }
             ],
             "squad": []
