@@ -2256,6 +2256,12 @@
                     "player": "M. Geschwill",
                     "detail": "Own Goal",
                     "team": "FC St. Pauli"
+                },
+                {
+                    "time": "90'",
+                    "player": "M. Guilavogui",
+                    "detail": "Yellow Card",
+                    "team": "FC St. Pauli"
                 }
             ],
             "odds": {
