@@ -6,7 +6,7 @@
                 "name": "Bayern München"
             },
             "wins": 21,
-            "draws": 5,
+            "draws": 6,
             "losses": 2
         },
         {
@@ -66,20 +66,20 @@
         {
             "rank": 8,
             "team": {
+                "name": "Borussia Dortmund"
+            },
+            "wins": 12,
+            "draws": 6,
+            "losses": 11
+        },
+        {
+            "rank": 9,
+            "team": {
                 "name": "FC Augsburg"
             },
             "wins": 11,
             "draws": 9,
             "losses": 9
-        },
-        {
-            "rank": 9,
-            "team": {
-                "name": "Borussia Dortmund"
-            },
-            "wins": 12,
-            "draws": 5,
-            "losses": 11
         },
         {
             "rank": 10,
