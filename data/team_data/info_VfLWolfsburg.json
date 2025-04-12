@@ -859,9 +859,8 @@
                 }
             ],
             "coach": {
-                "id": 8,
-                "name": "R. Hasenhüttl",
-                "photo": "https://media.api-sports.io/football/coachs/8.png"
+                "id": null,
+                "name": null
             }
         },
         {
@@ -1068,9 +1067,8 @@
                 }
             ],
             "coach": {
-                "id": 24858,
-                "name": "Z. Löw",
-                "photo": "https://media.api-sports.io/football/coachs/24858.png"
+                "id": null,
+                "name": null
             }
         }
     ],
