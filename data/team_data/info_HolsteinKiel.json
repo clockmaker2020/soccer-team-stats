@@ -161,7 +161,7 @@
         },
         {
             "time": {
-                "elapsed": 47,
+                "elapsed": 46,
                 "extra": null
             },
             "team": {
@@ -205,7 +205,7 @@
         },
         {
             "time": {
-                "elapsed": 61,
+                "elapsed": 60,
                 "extra": null
             },
             "team": {
@@ -448,7 +448,7 @@
         {
             "time": {
                 "elapsed": 90,
-                "extra": 2
+                "extra": 3
             },
             "team": {
                 "id": 186,
