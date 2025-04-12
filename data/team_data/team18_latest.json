@@ -457,9 +457,9 @@
                     "team": "RB Leipzig"
                 },
                 {
-                    "time": "20'",
-                    "player": "B. Sesko",
-                    "detail": "Goal Disallowed - offside",
+                    "time": "21'",
+                    "player": "Benjamin Šeško",
+                    "detail": "Goal cancelled",
                     "team": "RB Leipzig"
                 },
                 {
@@ -470,19 +470,19 @@
                 },
                 {
                     "time": "34'",
-                    "player": "Y. Gerhardt",
+                    "player": "Yannick Gerhardt",
                     "detail": "Yellow Card",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "36'",
-                    "player": "E. Bitshiabu",
+                    "player": "Xavi Simons",
                     "detail": "Yellow Card",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "36'",
-                    "player": "X. Simons",
+                    "player": "El Chadaille Bitshiabu",
                     "detail": "Yellow Card",
                     "team": "RB Leipzig"
                 },
@@ -500,31 +500,31 @@
                 },
                 {
                     "time": "60'",
-                    "player": "K. Fischer",
+                    "player": "Kilian Fischer",
                     "detail": "Yellow Card",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "71'",
-                    "player": "J. Maehle",
-                    "detail": "Substitution 1",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "71'",
-                    "player": "K. Kampl",
+                    "player": "R. Baku",
                     "detail": "Substitution 1",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "71'",
-                    "player": "C. Baumgartner",
+                    "player": "A. Vermeeren",
                     "detail": "Substitution 2",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "71'",
-                    "player": "A. Skov Olsen",
+                    "player": "D. Vavro",
+                    "detail": "Substitution 1",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "71'",
+                    "player": "J. Kamiński",
                     "detail": "Substitution 2",
                     "team": "VfL Wolfsburg"
                 },
@@ -536,37 +536,37 @@
                 },
                 {
                     "time": "76'",
-                    "player": "L. Openda",
+                    "player": "Loïs Openda",
                     "detail": "Yellow Card",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "77'",
-                    "player": "Y. Poulsen",
+                    "player": "K. Nedeljković",
                     "detail": "Substitution 3",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "77'",
-                    "player": "L. Geertruida",
+                    "player": "L. Openda",
                     "detail": "Substitution 4",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "85'",
-                    "player": "A. Haidara",
+                    "player": "X. Simons",
                     "detail": "Substitution 5",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "86'",
-                    "player": "L. Nmecha",
+                    "player": "P. Wimmer",
                     "detail": "Substitution 3",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "86'",
-                    "player": "T. Tomas",
+                    "player": "B. Dárdai",
                     "detail": "Substitution 4",
                     "team": "VfL Wolfsburg"
                 }
@@ -1691,9 +1691,9 @@
                     "team": "RB Leipzig"
                 },
                 {
-                    "time": "20'",
-                    "player": "B. Sesko",
-                    "detail": "Goal Disallowed - offside",
+                    "time": "21'",
+                    "player": "Benjamin Šeško",
+                    "detail": "Goal cancelled",
                     "team": "RB Leipzig"
                 },
                 {
@@ -1704,19 +1704,19 @@
                 },
                 {
                     "time": "34'",
-                    "player": "Y. Gerhardt",
+                    "player": "Yannick Gerhardt",
                     "detail": "Yellow Card",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "36'",
-                    "player": "E. Bitshiabu",
+                    "player": "Xavi Simons",
                     "detail": "Yellow Card",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "36'",
-                    "player": "X. Simons",
+                    "player": "El Chadaille Bitshiabu",
                     "detail": "Yellow Card",
                     "team": "RB Leipzig"
                 },
@@ -1734,31 +1734,31 @@
                 },
                 {
                     "time": "60'",
-                    "player": "K. Fischer",
+                    "player": "Kilian Fischer",
                     "detail": "Yellow Card",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "71'",
-                    "player": "J. Maehle",
-                    "detail": "Substitution 1",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "71'",
-                    "player": "K. Kampl",
+                    "player": "R. Baku",
                     "detail": "Substitution 1",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "71'",
-                    "player": "C. Baumgartner",
+                    "player": "A. Vermeeren",
                     "detail": "Substitution 2",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "71'",
-                    "player": "A. Skov Olsen",
+                    "player": "D. Vavro",
+                    "detail": "Substitution 1",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "71'",
+                    "player": "J. Kamiński",
                     "detail": "Substitution 2",
                     "team": "VfL Wolfsburg"
                 },
@@ -1770,37 +1770,37 @@
                 },
                 {
                     "time": "76'",
-                    "player": "L. Openda",
+                    "player": "Loïs Openda",
                     "detail": "Yellow Card",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "77'",
-                    "player": "Y. Poulsen",
+                    "player": "K. Nedeljković",
                     "detail": "Substitution 3",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "77'",
-                    "player": "L. Geertruida",
+                    "player": "L. Openda",
                     "detail": "Substitution 4",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "85'",
-                    "player": "A. Haidara",
+                    "player": "X. Simons",
                     "detail": "Substitution 5",
                     "team": "RB Leipzig"
                 },
                 {
                     "time": "86'",
-                    "player": "L. Nmecha",
+                    "player": "P. Wimmer",
                     "detail": "Substitution 3",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "86'",
-                    "player": "T. Tomas",
+                    "player": "B. Dárdai",
                     "detail": "Substitution 4",
                     "team": "VfL Wolfsburg"
                 }
