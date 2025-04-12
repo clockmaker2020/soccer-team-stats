@@ -236,12 +236,12 @@
                 "logo": "https://media.api-sports.io/football/teams/170.png"
             },
             "player": {
-                "id": 348888,
-                "name": "M. Komur"
+                "id": 319858,
+                "name": "H. Koudossou"
             },
             "assist": {
-                "id": 20634,
-                "name": "A. Claude-Maurice"
+                "id": 26,
+                "name": "M. Wolf"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -258,12 +258,12 @@
                 "logo": "https://media.api-sports.io/football/teams/170.png"
             },
             "player": {
-                "id": 319858,
-                "name": "H. Koudossou"
+                "id": 348888,
+                "name": "M. Komur"
             },
             "assist": {
-                "id": 26,
-                "name": "M. Wolf"
+                "id": 20634,
+                "name": "A. Claude-Maurice"
             },
             "type": "subst",
             "detail": "Substitution 5",
