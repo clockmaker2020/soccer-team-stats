@@ -771,96 +771,96 @@
         },
         {
             "team": "Borussia Mönchengladbach",
-            "date": "2025-04-06 13:30",
-            "opponent": "FC St. Pauli",
-            "score": "1 - 1",
-            "stadium": "Millerntor-Stadion",
-            "referee": "Christian Dingert, Germany",
-            "league_round": "Regular Season - 28",
+            "date": "2025-04-12 13:30",
+            "opponent": "SC Freiburg",
+            "score": "1 - 2",
+            "stadium": "BORUSSIA-PARK",
+            "referee": "Deniz Aytekin, Germany",
+            "league_round": "Regular Season - 29",
             "events": [
                 {
-                    "time": "43'",
-                    "player": "Noah Weißhaupt",
-                    "detail": "Penalty cancelled",
-                    "team": "FC St. Pauli"
+                    "time": "14'",
+                    "player": "C. Gunter",
+                    "detail": "Own Goal",
+                    "team": "Borussia Mönchengladbach"
                 },
                 {
-                    "time": "45'",
-                    "player": "K. Itakura",
+                    "time": "16'",
+                    "player": "P. Osterhage",
                     "detail": "Normal Goal",
-                    "team": "Borussia Mönchengladbach"
+                    "team": "SC Freiburg"
                 },
                 {
-                    "time": "47'",
-                    "player": "Lukas Ullrich",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "61'",
-                    "player": "L. Ritzka",
+                    "time": "60'",
+                    "player": "K. Sildillia",
                     "detail": "Substitution 1",
-                    "team": "FC St. Pauli"
+                    "team": "SC Freiburg"
                 },
                 {
-                    "time": "61'",
-                    "player": "F. Honorat",
+                    "time": "60'",
+                    "player": "J. Beste",
+                    "detail": "Substitution 2",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "63'",
+                    "player": "K. Stoger",
                     "detail": "Substitution 1",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
-                    "time": "61'",
+                    "time": "64'",
                     "player": "L. Ullrich",
                     "detail": "Substitution 2",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
-                    "time": "74'",
-                    "player": "E. Saad",
-                    "detail": "Substitution 2",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "74'",
-                    "player": "N. Weißhaupt",
-                    "detail": "Substitution 3",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "75'",
-                    "player": "A. Pléa",
+                    "time": "66'",
+                    "player": "F. C. Chiarodia",
                     "detail": "Substitution 3",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "76'",
-                    "player": "Luca Netz",
-                    "detail": "Yellow Card",
+                    "player": "T. Cvancara",
+                    "detail": "Substitution 4",
                     "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "76'",
+                    "player": "M. Friedrich",
+                    "detail": "Substitution 5",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "76'",
+                    "player": "J. Makengo",
+                    "detail": "Substitution 3",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "76'",
+                    "player": "J. Manzambi",
+                    "detail": "Substitution 4",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "79'",
+                    "player": "J. Adamu",
+                    "detail": "Yellow Card",
+                    "team": "SC Freiburg"
                 },
                 {
                     "time": "83'",
-                    "player": "D. Sinani",
-                    "detail": "Substitution 4",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "85'",
-                    "player": "O. Afolayan",
-                    "detail": "Normal Goal",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "86'",
-                    "player": "T. Kleindienst",
-                    "detail": "Substitution 4",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "86'",
-                    "player": "R. Hack",
+                    "player": "M. Gregoritsch",
                     "detail": "Substitution 5",
-                    "team": "Borussia Mönchengladbach"
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "90'",
+                    "player": "J. Manzambi",
+                    "detail": "Normal Goal",
+                    "team": "SC Freiburg"
                 }
             ],
             "odds": {
@@ -869,6 +869,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-12 13:30",
+                    "score": "1 - 2"
+                },
                 {
                     "date": "2025-04-06 13:30",
                     "score": "1 - 1"
@@ -884,10 +888,6 @@
                 {
                     "date": "2025-03-07 19:30",
                     "score": "1 - 3"
-                },
-                {
-                    "date": "2025-03-01 14:30",
-                    "score": "0 - 3"
                 }
             ],
             "future_games": [
@@ -1850,66 +1850,90 @@
         },
         {
             "team": "Union Berlin",
-            "date": "2025-04-06 15:30",
-            "opponent": "VfL Wolfsburg",
-            "score": "1 - 0",
-            "stadium": "Stadion An der Alten Försterei",
-            "referee": "Harm Osmers, Germany",
-            "league_round": "Regular Season - 28",
+            "date": "2025-04-12 13:30",
+            "opponent": "Bayer Leverkusen",
+            "score": "0 - 0",
+            "stadium": "BayArena",
+            "referee": "Bastian Dankert, Germany",
+            "league_round": "Regular Season - 29",
             "events": [
                 {
-                    "time": "38'",
-                    "player": "A. Ilić",
+                    "time": "46'",
+                    "player": "A. Adli",
                     "detail": "Substitution 1",
-                    "team": "Union Berlin"
+                    "team": "Bayer Leverkusen"
                 },
                 {
-                    "time": "63'",
+                    "time": "57'",
+                    "player": "F. Wirtz",
+                    "detail": "Substitution 2",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "60'",
                     "player": "B. Hollerbach",
-                    "detail": "Normal Goal",
+                    "detail": "Substitution 1",
                     "team": "Union Berlin"
                 },
                 {
-                    "time": "73'",
-                    "player": "J. Mæhle",
-                    "detail": "Substitution 1",
-                    "team": "VfL Wolfsburg"
+                    "time": "61'",
+                    "player": "L. Tousart",
+                    "detail": "Substitution 2",
+                    "team": "Union Berlin"
                 },
                 {
-                    "time": "77'",
-                    "player": "Yannick Gerhardt",
+                    "time": "74'",
+                    "player": "V. Boniface",
+                    "detail": "Substitution 3",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "74'",
+                    "player": "Arthur",
+                    "detail": "Substitution 4",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "78'",
+                    "player": "J. Roussillon",
+                    "detail": "Substitution 3",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "78'",
+                    "player": "D. Preu",
+                    "detail": "Substitution 4",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "82'",
+                    "player": "T. Rothe",
+                    "detail": "Substitution 5",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "83'",
+                    "player": "D. Preu",
                     "detail": "Yellow Card",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "79'",
-                    "player": "C. Trimmel",
-                    "detail": "Substitution 2",
                     "team": "Union Berlin"
                 },
                 {
-                    "time": "79'",
-                    "player": "B. Hollerbach",
-                    "detail": "Substitution 3",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "85'",
-                    "player": "A. Vranckx",
-                    "detail": "Substitution 2",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "85'",
-                    "player": "M. Amoura",
-                    "detail": "Substitution 3",
-                    "team": "VfL Wolfsburg"
+                    "time": "86'",
+                    "player": "J. Hofmann",
+                    "detail": "Substitution 5",
+                    "team": "Bayer Leverkusen"
                 },
                 {
                     "time": "90'",
-                    "player": "J. Haberer",
-                    "detail": "Substitution 4",
-                    "team": "Union Berlin"
+                    "player": "F. Wirtz",
+                    "detail": "Yellow Card",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "90'",
+                    "player": "J. Hofmann",
+                    "detail": "Yellow Card",
+                    "team": "Bayer Leverkusen"
                 }
             ],
             "odds": {
@@ -1918,6 +1942,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-12 13:30",
+                    "score": "0 - 0"
+                },
                 {
                     "date": "2025-04-06 15:30",
                     "score": "1 - 0"
@@ -1933,10 +1961,6 @@
                 {
                     "date": "2025-03-09 14:30",
                     "score": "1 - 2"
-                },
-                {
-                    "date": "2025-03-02 14:30",
-                    "score": "0 - 1"
                 }
             ],
             "future_games": [
@@ -2118,96 +2142,120 @@
         },
         {
             "team": "FC St. Pauli",
-            "date": "2025-04-06 13:30",
-            "opponent": "Borussia Mönchengladbach",
-            "score": "1 - 1",
-            "stadium": "Millerntor-Stadion",
-            "referee": "Christian Dingert, Germany",
-            "league_round": "Regular Season - 28",
+            "date": "2025-04-12 13:30",
+            "opponent": "Holstein Kiel",
+            "score": "1 - 2",
+            "stadium": "Holstein-Stadion",
+            "referee": "Benjamin Brand, Germany",
+            "league_round": "Regular Season - 29",
             "events": [
                 {
-                    "time": "43'",
-                    "player": "Noah Weißhaupt",
-                    "detail": "Penalty cancelled",
+                    "time": "21'",
+                    "player": "A. Bernhardsson",
+                    "detail": "Normal Goal",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "34'",
+                    "player": "D. Sinani",
+                    "detail": "Normal Goal",
                     "team": "FC St. Pauli"
                 },
                 {
-                    "time": "45'",
-                    "player": "K. Itakura",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Mönchengladbach"
+                    "time": "37'",
+                    "player": "D. Nemeth",
+                    "detail": "Yellow Card",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "46'",
+                    "player": "F. Porath",
+                    "detail": "Substitution 1",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "46'",
+                    "player": "M. Guilavogui",
+                    "detail": "Substitution 1",
+                    "team": "FC St. Pauli"
                 },
                 {
                     "time": "47'",
-                    "player": "Lukas Ullrich",
+                    "player": "O. Afolayan",
                     "detail": "Yellow Card",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "61'",
-                    "player": "L. Ritzka",
-                    "detail": "Substitution 1",
                     "team": "FC St. Pauli"
                 },
                 {
-                    "time": "61'",
-                    "player": "F. Honorat",
-                    "detail": "Substitution 1",
-                    "team": "Borussia Mönchengladbach"
+                    "time": "60'",
+                    "player": "M. Ivezic",
+                    "detail": "Yellow Card",
+                    "team": "Holstein Kiel"
                 },
                 {
                     "time": "61'",
-                    "player": "L. Ullrich",
-                    "detail": "Substitution 2",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "74'",
-                    "player": "E. Saad",
+                    "player": "N. Weisshaupt",
                     "detail": "Substitution 2",
                     "team": "FC St. Pauli"
                 },
                 {
-                    "time": "74'",
-                    "player": "N. Weißhaupt",
+                    "time": "64'",
+                    "player": "S. Van Der Heyden",
                     "detail": "Substitution 3",
                     "team": "FC St. Pauli"
+                },
+                {
+                    "time": "68'",
+                    "player": "M. Geschwill",
+                    "detail": "Substitution 2",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "68'",
+                    "player": "P. Harres",
+                    "detail": "Substitution 3",
+                    "team": "Holstein Kiel"
                 },
                 {
                     "time": "75'",
-                    "player": "A. Pléa",
-                    "detail": "Substitution 3",
-                    "team": "Borussia Mönchengladbach"
+                    "player": "M. Schulz",
+                    "detail": "Substitution 4",
+                    "team": "Holstein Kiel"
                 },
                 {
-                    "time": "76'",
-                    "player": "Luca Netz",
+                    "time": "77'",
+                    "player": "P. Harres",
                     "detail": "Yellow Card",
-                    "team": "Borussia Mönchengladbach"
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "82'",
+                    "player": "H. Wahl",
+                    "detail": "Yellow Card",
+                    "team": "FC St. Pauli"
                 },
                 {
                     "time": "83'",
-                    "player": "D. Sinani",
-                    "detail": "Substitution 4",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "85'",
-                    "player": "O. Afolayan",
-                    "detail": "Normal Goal",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "86'",
-                    "player": "T. Kleindienst",
-                    "detail": "Substitution 4",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "86'",
-                    "player": "R. Hack",
+                    "player": "S. Skrzybski",
                     "detail": "Substitution 5",
-                    "team": "Borussia Mönchengladbach"
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "86'",
+                    "player": "M. Schulz",
+                    "detail": "Yellow Card",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "87'",
+                    "player": "C. Metcalfe",
+                    "detail": "Substitution 4",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "90'",
+                    "player": "M. Geschwill",
+                    "detail": "Own Goal",
+                    "team": "FC St. Pauli"
                 }
             ],
             "odds": {
@@ -2216,6 +2264,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-12 13:30",
+                    "score": "1 - 2"
+                },
                 {
                     "date": "2025-04-06 13:30",
                     "score": "1 - 1"
@@ -2231,10 +2283,6 @@
                 {
                     "date": "2025-03-08 14:30",
                     "score": "1 - 1"
-                },
-                {
-                    "date": "2025-03-01 14:30",
-                    "score": "0 - 2"
                 }
             ],
             "future_games": [
@@ -2640,6 +2688,10 @@
             },
             "past_results": [
                 {
+                    "date": "2025-04-12 13:30",
+                    "score": "1 - 2"
+                },
+                {
                     "date": "2025-04-05 13:30",
                     "score": "1 - 1"
                 },
@@ -2654,10 +2706,6 @@
                 {
                     "date": "2025-03-08 14:30",
                     "score": "2 - 2"
-                },
-                {
-                    "date": "2025-03-02 14:30",
-                    "score": "0 - 1"
                 }
             ],
             "future_games": [
