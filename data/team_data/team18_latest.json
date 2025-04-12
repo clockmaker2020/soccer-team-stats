@@ -642,7 +642,7 @@
                     "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "24'",
+                    "time": "23'",
                     "player": "Arthur Chaves",
                     "detail": "Yellow Card",
                     "team": "1899 Hoffenheim"
@@ -1108,13 +1108,13 @@
                 },
                 {
                     "time": "81'",
-                    "player": "M. Komur",
+                    "player": "H. Koudossou",
                     "detail": "Substitution 4",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "81'",
-                    "player": "H. Koudossou",
+                    "player": "M. Komur",
                     "detail": "Substitution 5",
                     "team": "FC Augsburg"
                 },
@@ -1971,7 +1971,7 @@
                     "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "24'",
+                    "time": "23'",
                     "player": "Arthur Chaves",
                     "detail": "Yellow Card",
                     "team": "1899 Hoffenheim"
@@ -2144,7 +2144,7 @@
                     "team": "FC St. Pauli"
                 },
                 {
-                    "time": "47'",
+                    "time": "46'",
                     "player": "O. Afolayan",
                     "detail": "Yellow Card",
                     "team": "FC St. Pauli"
@@ -2156,7 +2156,7 @@
                     "team": "Holstein Kiel"
                 },
                 {
-                    "time": "61'",
+                    "time": "60'",
                     "player": "N. Weisshaupt",
                     "detail": "Substitution 2",
                     "team": "FC St. Pauli"
@@ -2449,13 +2449,13 @@
                 },
                 {
                     "time": "81'",
-                    "player": "M. Komur",
+                    "player": "H. Koudossou",
                     "detail": "Substitution 4",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "81'",
-                    "player": "H. Koudossou",
+                    "player": "M. Komur",
                     "detail": "Substitution 5",
                     "team": "FC Augsburg"
                 },
@@ -2573,7 +2573,7 @@
                     "team": "FC St. Pauli"
                 },
                 {
-                    "time": "47'",
+                    "time": "46'",
                     "player": "O. Afolayan",
                     "detail": "Yellow Card",
                     "team": "FC St. Pauli"
@@ -2585,7 +2585,7 @@
                     "team": "Holstein Kiel"
                 },
                 {
-                    "time": "61'",
+                    "time": "60'",
                     "player": "N. Weisshaupt",
                     "detail": "Substitution 2",
                     "team": "FC St. Pauli"
