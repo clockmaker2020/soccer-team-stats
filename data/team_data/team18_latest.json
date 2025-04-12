@@ -163,77 +163,89 @@
         },
         {
             "team": "Bayer Leverkusen",
-            "date": "2025-04-05 13:30",
-            "opponent": "1. FC Heidenheim",
-            "score": "0 - 1",
-            "stadium": "Voith-Arena",
-            "referee": "Tobias Stieler, Germany",
-            "league_round": "Regular Season - 28",
+            "date": "2025-04-12 13:30",
+            "opponent": "Union Berlin",
+            "score": "0 - 0",
+            "stadium": "BayArena",
+            "referee": "Bastian Dankert, Germany",
+            "league_round": "Regular Season - 29",
             "events": [
                 {
-                    "time": "42'",
-                    "player": "Jan Schöppner",
-                    "detail": "Yellow Card",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "56'",
-                    "player": "M. Busch",
-                    "detail": "Substitution 1",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "68'",
-                    "player": "N. Tella",
-                    "detail": "Substitution 1",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "68'",
-                    "player": "V. Boniface",
-                    "detail": "Substitution 2",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "76'",
-                    "player": "T. Siersleben",
-                    "detail": "Substitution 2",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "76'",
-                    "player": "N. Dorsch",
-                    "detail": "Substitution 3",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "76'",
+                    "time": "46'",
                     "player": "A. Adli",
+                    "detail": "Substitution 1",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "57'",
+                    "player": "F. Wirtz",
+                    "detail": "Substitution 2",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "60'",
+                    "player": "B. Hollerbach",
+                    "detail": "Substitution 1",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "61'",
+                    "player": "L. Tousart",
+                    "detail": "Substitution 2",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "74'",
+                    "player": "V. Boniface",
                     "detail": "Substitution 3",
                     "team": "Bayer Leverkusen"
                 },
                 {
-                    "time": "85'",
-                    "player": "R. Andrich",
+                    "time": "74'",
+                    "player": "Arthur",
                     "detail": "Substitution 4",
                     "team": "Bayer Leverkusen"
                 },
                 {
-                    "time": "90'",
-                    "player": "J. Schöppner",
+                    "time": "78'",
+                    "player": "J. Roussillon",
+                    "detail": "Substitution 3",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "78'",
+                    "player": "D. Preu",
                     "detail": "Substitution 4",
-                    "team": "1. FC Heidenheim"
+                    "team": "Union Berlin"
                 },
                 {
-                    "time": "90'",
-                    "player": "A. Beck",
+                    "time": "82'",
+                    "player": "T. Rothe",
                     "detail": "Substitution 5",
-                    "team": "1. FC Heidenheim"
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "83'",
+                    "player": "D. Preu",
+                    "detail": "Yellow Card",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "86'",
+                    "player": "J. Hofmann",
+                    "detail": "Substitution 5",
+                    "team": "Bayer Leverkusen"
                 },
                 {
                     "time": "90'",
-                    "player": "E. Buendía",
-                    "detail": "Normal Goal",
+                    "player": "F. Wirtz",
+                    "detail": "Yellow Card",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "90'",
+                    "player": "J. Hofmann",
+                    "detail": "Yellow Card",
                     "team": "Bayer Leverkusen"
                 }
             ],
@@ -243,6 +255,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-12 13:30",
+                    "score": "0 - 0"
+                },
                 {
                     "date": "2025-04-05 13:30",
                     "score": "0 - 1"
@@ -258,10 +274,6 @@
                 {
                     "date": "2025-03-08 14:30",
                     "score": "0 - 2"
-                },
-                {
-                    "date": "2025-03-01 17:30",
-                    "score": "1 - 4"
                 }
             ],
             "future_games": [
@@ -616,113 +628,107 @@
         },
         {
             "team": "FSV Mainz 05",
-            "date": "2025-04-05 13:30",
-            "opponent": "Holstein Kiel",
-            "score": "1 - 1",
-            "stadium": "MEWA ARENA",
-            "referee": "Frank Willenborg, Germany",
-            "league_round": "Regular Season - 28",
+            "date": "2025-04-12 13:30",
+            "opponent": "1899 Hoffenheim",
+            "score": "2 - 0",
+            "stadium": "PreZero Arena",
+            "referee": "Sven Jablonski, Germany",
+            "league_round": "Regular Season - 29",
             "events": [
                 {
-                    "time": "33'",
-                    "player": "Phillipp Mwene",
+                    "time": "4'",
+                    "player": "A. Kramaric",
+                    "detail": "Normal Goal",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "24'",
+                    "player": "Arthur Chaves",
+                    "detail": "Yellow Card",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "32'",
+                    "player": "A. Kramaric",
+                    "detail": "Normal Goal",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "40'",
+                    "player": "A. Nordin",
+                    "detail": "Substitution 1",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "45'",
+                    "player": "S. Nsoki",
+                    "detail": "Yellow Card",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "49'",
+                    "player": "P. Nebel",
                     "detail": "Yellow Card",
                     "team": "FSV Mainz 05"
                 },
                 {
-                    "time": "34'",
-                    "player": "A. Bernhardsson",
-                    "detail": "Normal Goal",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "44'",
-                    "player": "David Zec",
-                    "detail": "Yellow Card",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "51'",
-                    "player": "Nicolai Remberg",
-                    "detail": "Yellow Card",
-                    "team": "Holstein Kiel"
+                    "time": "66'",
+                    "player": "A. Sieb",
+                    "detail": "Substitution 2",
+                    "team": "FSV Mainz 05"
                 },
                 {
                     "time": "67'",
-                    "player": "P. Mwene",
+                    "player": "A. Hlozek",
                     "detail": "Substitution 1",
-                    "team": "FSV Mainz 05"
+                    "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "68'",
-                    "player": "A. Bernhardsson",
-                    "detail": "Substitution 1",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "68'",
-                    "player": "Lee Jae-Sung",
+                    "time": "74'",
+                    "player": "D. Jurasek",
                     "detail": "Substitution 2",
-                    "team": "FSV Mainz 05"
+                    "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "75'",
-                    "player": "N. Weiper",
-                    "detail": "Normal Goal",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "76'",
-                    "player": "S. Skrzybski",
-                    "detail": "Substitution 2",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "76'",
-                    "player": "J. Tolkin",
-                    "detail": "Substitution 3",
-                    "team": "Holstein Kiel"
+                    "player": "T. Bischof",
+                    "detail": "Yellow Card",
+                    "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "82'",
-                    "player": "A. Gigović",
-                    "detail": "Substitution 4",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "83'",
-                    "player": "J. Burkardt",
+                    "player": "Hong Hyun-Seok",
                     "detail": "Substitution 3",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "84'",
-                    "player": "Moritz Jenz",
-                    "detail": "Yellow Card",
                     "team": "FSV Mainz 05"
                 },
                 {
                     "time": "85'",
-                    "player": "Timo Becker",
-                    "detail": "Yellow Card",
-                    "team": "Holstein Kiel"
+                    "player": "E. Yardimci",
+                    "detail": "Substitution 3",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "85'",
+                    "player": "D. Geiger",
+                    "detail": "Substitution 4",
+                    "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "90'",
-                    "player": "N. Amiri",
-                    "detail": "Substitution 4",
+                    "player": "O. Baumann",
+                    "detail": "Yellow Card",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "90'",
+                    "player": "P. Nebel",
+                    "detail": "Yellow Card",
                     "team": "FSV Mainz 05"
                 },
                 {
                     "time": "90'",
-                    "player": "Lasse Rosenboom",
-                    "detail": "Yellow Card",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "90'",
-                    "player": "Nadiem Amiri",
-                    "detail": "Yellow Card",
+                    "player": "P. Nebel",
+                    "detail": "Red Card",
                     "team": "FSV Mainz 05"
                 }
             ],
@@ -732,6 +738,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-12 13:30",
+                    "score": "2 - 0"
+                },
                 {
                     "date": "2025-04-05 13:30",
                     "score": "1 - 1"
@@ -747,10 +757,6 @@
                 {
                     "date": "2025-03-07 19:30",
                     "score": "1 - 3"
-                },
-                {
-                    "date": "2025-03-01 14:30",
-                    "score": "1 - 2"
                 }
             ],
             "future_games": [
@@ -908,106 +914,94 @@
         },
         {
             "team": "SC Freiburg",
-            "date": "2025-04-05 13:30",
-            "opponent": "Borussia Dortmund",
-            "score": "1 - 4",
-            "stadium": "Europa-Park Stadion",
-            "referee": "Felix Zwayer, Germany",
-            "league_round": "Regular Season - 28",
+            "date": "2025-04-12 13:30",
+            "opponent": "Borussia Mönchengladbach",
+            "score": "1 - 2",
+            "stadium": "BORUSSIA-PARK",
+            "referee": "Deniz Aytekin, Germany",
+            "league_round": "Regular Season - 29",
             "events": [
                 {
-                    "time": "34'",
-                    "player": "K. Adeyemi",
+                    "time": "14'",
+                    "player": "C. Gunter",
+                    "detail": "Own Goal",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "16'",
+                    "player": "P. Osterhage",
                     "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "51'",
-                    "player": "C. Chukwuemeka",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "61'",
-                    "player": "R. Bensebaini",
-                    "detail": "Substitution 1",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "61'",
-                    "player": "M. Beier",
-                    "detail": "Substitution 2",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "65'",
-                    "player": "Matthias Ginter",
-                    "detail": "Yellow Card",
                     "team": "SC Freiburg"
                 },
                 {
-                    "time": "68'",
-                    "player": "S. Guirassy",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "70'",
-                    "player": "L. Höler",
+                    "time": "60'",
+                    "player": "K. Sildillia",
                     "detail": "Substitution 1",
                     "team": "SC Freiburg"
                 },
                 {
-                    "time": "70'",
-                    "player": "P. Lienhart",
+                    "time": "60'",
+                    "player": "J. Beste",
                     "detail": "Substitution 2",
                     "team": "SC Freiburg"
                 },
                 {
-                    "time": "70'",
-                    "player": "K. Adeyemi",
+                    "time": "63'",
+                    "player": "K. Stoger",
+                    "detail": "Substitution 1",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "64'",
+                    "player": "L. Ullrich",
+                    "detail": "Substitution 2",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "66'",
+                    "player": "F. C. Chiarodia",
                     "detail": "Substitution 3",
-                    "team": "Borussia Dortmund"
+                    "team": "Borussia Mönchengladbach"
                 },
                 {
-                    "time": "70'",
-                    "player": "C. Chukwuemeka",
+                    "time": "76'",
+                    "player": "T. Cvancara",
                     "detail": "Substitution 4",
-                    "team": "Borussia Dortmund"
+                    "team": "Borussia Mönchengladbach"
                 },
                 {
-                    "time": "78'",
-                    "player": "J. Gittens",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
+                    "time": "76'",
+                    "player": "M. Friedrich",
+                    "detail": "Substitution 5",
+                    "team": "Borussia Mönchengladbach"
                 },
                 {
-                    "time": "79'",
-                    "player": "V. Grifo",
+                    "time": "76'",
+                    "player": "J. Makengo",
                     "detail": "Substitution 3",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "76'",
+                    "player": "J. Manzambi",
+                    "detail": "Substitution 4",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "79'",
                     "player": "J. Adamu",
-                    "detail": "Substitution 4",
+                    "detail": "Yellow Card",
                     "team": "SC Freiburg"
                 },
                 {
-                    "time": "79'",
-                    "player": "P. Osterhage",
+                    "time": "83'",
+                    "player": "M. Gregoritsch",
                     "detail": "Substitution 5",
                     "team": "SC Freiburg"
                 },
                 {
-                    "time": "80'",
-                    "player": "D. Svensson",
-                    "detail": "Substitution 5",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "88'",
-                    "player": "M. Eggestein",
+                    "time": "90'",
+                    "player": "J. Manzambi",
                     "detail": "Normal Goal",
                     "team": "SC Freiburg"
                 }
@@ -1018,6 +1012,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-12 13:30",
+                    "score": "1 - 2"
+                },
                 {
                     "date": "2025-04-05 13:30",
                     "score": "1 - 4"
@@ -1032,10 +1030,6 @@
                 },
                 {
                     "date": "2025-03-08 17:30",
-                    "score": "0 - 0"
-                },
-                {
-                    "date": "2025-03-02 16:30",
                     "score": "0 - 0"
                 }
             ],
@@ -1639,6 +1633,10 @@
             },
             "past_results": [
                 {
+                    "date": "2025-04-12 13:30",
+                    "score": "1 - 2"
+                },
+                {
                     "date": "2025-04-04 18:30",
                     "score": "1 - 3"
                 },
@@ -1653,10 +1651,6 @@
                 {
                     "date": "2025-03-08 14:30",
                     "score": "0 - 1"
-                },
-                {
-                    "date": "2025-03-02 16:30",
-                    "score": "0 - 0"
                 }
             ],
             "future_games": [
@@ -1981,120 +1975,108 @@
         },
         {
             "team": "1899 Hoffenheim",
-            "date": "2025-04-05 13:30",
-            "opponent": "RB Leipzig",
-            "score": "3 - 1",
-            "stadium": "Red Bull Arena",
-            "referee": "Robert Hartmann, Germany",
-            "league_round": "Regular Season - 28",
+            "date": "2025-04-12 13:30",
+            "opponent": "FSV Mainz 05",
+            "score": "2 - 0",
+            "stadium": "PreZero Arena",
+            "referee": "Sven Jablonski, Germany",
+            "league_round": "Regular Season - 29",
             "events": [
                 {
                     "time": "4'",
-                    "player": "Bazoumana Touré",
-                    "detail": "Yellow Card",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "11'",
-                    "player": "T. Bischof",
+                    "player": "A. Kramaric",
                     "detail": "Normal Goal",
                     "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "24'",
-                    "player": "B. Šeško",
-                    "detail": "Normal Goal",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "28'",
-                    "player": "Leo Østigård",
-                    "detail": "Red Card",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "43'",
-                    "player": "R. Baku",
-                    "detail": "Normal Goal",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "46'",
-                    "player": "R. Baku",
-                    "detail": "Substitution 1",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "46'",
-                    "player": "A. Vermeeren",
-                    "detail": "Substitution 2",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "46'",
-                    "player": "M. Bülter",
-                    "detail": "Substitution 1",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "72'",
                     "player": "Arthur Chaves",
                     "detail": "Yellow Card",
                     "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "73'",
-                    "player": "K. Nedeljković",
-                    "detail": "Substitution 3",
-                    "team": "RB Leipzig"
+                    "time": "32'",
+                    "player": "A. Kramaric",
+                    "detail": "Normal Goal",
+                    "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "73'",
-                    "player": "N. Seiwald",
-                    "detail": "Substitution 4",
-                    "team": "RB Leipzig"
+                    "time": "40'",
+                    "player": "A. Nordin",
+                    "detail": "Substitution 1",
+                    "team": "FSV Mainz 05"
                 },
                 {
-                    "time": "76'",
-                    "player": "H. Tabaković",
+                    "time": "45'",
+                    "player": "S. Nsoki",
+                    "detail": "Yellow Card",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "49'",
+                    "player": "P. Nebel",
+                    "detail": "Yellow Card",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "66'",
+                    "player": "A. Sieb",
+                    "detail": "Substitution 2",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "67'",
+                    "player": "A. Hlozek",
+                    "detail": "Substitution 1",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "74'",
+                    "player": "D. Jurasek",
                     "detail": "Substitution 2",
                     "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "81'",
-                    "player": "L. Openda",
-                    "detail": "Substitution 5",
-                    "team": "RB Leipzig"
+                    "time": "75'",
+                    "player": "T. Bischof",
+                    "detail": "Yellow Card",
+                    "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "82'",
-                    "player": "B. Touré",
+                    "player": "Hong Hyun-Seok",
+                    "detail": "Substitution 3",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "85'",
+                    "player": "E. Yardimci",
                     "detail": "Substitution 3",
                     "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "82'",
-                    "player": "Arthur Chaves",
+                    "time": "85'",
+                    "player": "D. Geiger",
                     "detail": "Substitution 4",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "84'",
-                    "player": "Y. Poulsen",
-                    "detail": "Normal Goal",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "89'",
-                    "player": "A. Kramarić",
-                    "detail": "Substitution 5",
                     "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "90'",
-                    "player": "Gift Orban",
+                    "player": "O. Baumann",
                     "detail": "Yellow Card",
                     "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "90'",
+                    "player": "P. Nebel",
+                    "detail": "Yellow Card",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "90'",
+                    "player": "P. Nebel",
+                    "detail": "Red Card",
+                    "team": "FSV Mainz 05"
                 }
             ],
             "odds": {
@@ -2103,6 +2085,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-12 13:30",
+                    "score": "2 - 0"
+                },
                 {
                     "date": "2025-04-05 13:30",
                     "score": "3 - 1"
@@ -2118,10 +2104,6 @@
                 {
                     "date": "2025-03-09 16:30",
                     "score": "1 - 1"
-                },
-                {
-                    "date": "2025-03-01 14:30",
-                    "score": "0 - 1"
                 }
             ],
             "future_games": [
@@ -2428,108 +2410,102 @@
         },
         {
             "team": "VfL Bochum",
-            "date": "2025-04-05 13:30",
-            "opponent": "VfB Stuttgart",
-            "score": "0 - 4",
+            "date": "2025-04-12 13:30",
+            "opponent": "FC Augsburg",
+            "score": "1 - 2",
             "stadium": "Vonovia Ruhrstadion",
-            "referee": "Felix Brych, Germany",
-            "league_round": "Regular Season - 28",
+            "referee": "Martin Petersen, Germany",
+            "league_round": "Regular Season - 29",
             "events": [
                 {
-                    "time": "8'",
-                    "player": "J. Chabot",
+                    "time": "16'",
+                    "player": "S. Essende",
                     "detail": "Normal Goal",
-                    "team": "VfB Stuttgart"
+                    "team": "FC Augsburg"
                 },
                 {
-                    "time": "11'",
-                    "player": "E. Demirović",
-                    "detail": "Normal Goal",
-                    "team": "VfB Stuttgart"
+                    "time": "30'",
+                    "player": "I. Ordets",
+                    "detail": "Yellow Card",
+                    "team": "VfL Bochum"
                 },
                 {
-                    "time": "46'",
-                    "player": "M. Boadu",
+                    "time": "55'",
+                    "player": "E. Rexhbecaj",
                     "detail": "Substitution 1",
-                    "team": "VfL Bochum"
+                    "team": "FC Augsburg"
                 },
                 {
-                    "time": "46'",
-                    "player": "F. Passlack",
-                    "detail": "Substitution 2",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "48'",
-                    "player": "E. Demirović",
+                    "time": "60'",
+                    "player": "P. Hofmann",
                     "detail": "Normal Goal",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "67'",
-                    "player": "N. Woltemade",
-                    "detail": "Substitution 1",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "68'",
-                    "player": "G. Holtmann",
-                    "detail": "Substitution 3",
                     "team": "VfL Bochum"
                 },
                 {
-                    "time": "74'",
-                    "player": "C. Führich",
+                    "time": "61'",
+                    "player": "P. Tietz",
                     "detail": "Substitution 2",
-                    "team": "VfB Stuttgart"
+                    "team": "FC Augsburg"
                 },
                 {
-                    "time": "74'",
-                    "player": "L. Jaquez",
+                    "time": "61'",
+                    "player": "A. Maier",
                     "detail": "Substitution 3",
-                    "team": "VfB Stuttgart"
+                    "team": "FC Augsburg"
                 },
                 {
-                    "time": "78'",
+                    "time": "71'",
                     "player": "M. Bero",
-                    "detail": "Substitution 4",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "79'",
-                    "player": "Ibrahima Sissoko",
                     "detail": "Yellow Card",
                     "team": "VfL Bochum"
                 },
                 {
-                    "time": "80'",
-                    "player": "Fabian Rieder",
-                    "detail": "Yellow Card",
-                    "team": "VfB Stuttgart"
+                    "time": "81'",
+                    "player": "A. Maier",
+                    "detail": "Red Card",
+                    "team": "FC Augsburg"
                 },
                 {
-                    "time": "84'",
-                    "player": "I. Sissoko",
+                    "time": "81'",
+                    "player": "M. Komur",
+                    "detail": "Substitution 4",
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "81'",
+                    "player": "H. Koudossou",
                     "detail": "Substitution 5",
+                    "team": "FC Augsburg"
+                },
+                {
+                    "time": "82'",
+                    "player": "M. Broschinski",
+                    "detail": "Substitution 1",
                     "team": "VfL Bochum"
                 },
                 {
-                    "time": "84'",
-                    "player": "Y. Keitel",
-                    "detail": "Substitution 4",
-                    "team": "VfB Stuttgart"
+                    "time": "82'",
+                    "player": "G. Holtmann",
+                    "detail": "Substitution 2",
+                    "team": "VfL Bochum"
                 },
                 {
-                    "time": "84'",
-                    "player": "F. Rieder",
-                    "detail": "Substitution 5",
-                    "team": "VfB Stuttgart"
+                    "time": "86'",
+                    "player": "P. Tietz",
+                    "detail": "Yellow Card",
+                    "team": "FC Augsburg"
                 },
                 {
-                    "time": "85'",
-                    "player": "E. Demirović",
+                    "time": "87'",
+                    "player": "M. Pannewig",
+                    "detail": "Substitution 3",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "90'",
+                    "player": "M. Komur",
                     "detail": "Normal Goal",
-                    "team": "VfB Stuttgart"
+                    "team": "FC Augsburg"
                 }
             ],
             "odds": {
@@ -2538,6 +2514,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-12 13:30",
+                    "score": "1 - 2"
+                },
                 {
                     "date": "2025-04-05 13:30",
                     "score": "0 - 4"
@@ -2553,10 +2533,6 @@
                 {
                     "date": "2025-03-08 14:30",
                     "score": "2 - 3"
-                },
-                {
-                    "date": "2025-03-01 14:30",
-                    "score": "0 - 1"
                 }
             ],
             "future_games": [
@@ -2577,114 +2553,126 @@
         },
         {
             "team": "Holstein Kiel",
-            "date": "2025-04-05 13:30",
-            "opponent": "FSV Mainz 05",
-            "score": "1 - 1",
-            "stadium": "MEWA ARENA",
-            "referee": "Frank Willenborg, Germany",
-            "league_round": "Regular Season - 28",
+            "date": "2025-04-12 13:30",
+            "opponent": "FC St. Pauli",
+            "score": "1 - 2",
+            "stadium": "Holstein-Stadion",
+            "referee": "Benjamin Brand, Germany",
+            "league_round": "Regular Season - 29",
             "events": [
                 {
-                    "time": "33'",
-                    "player": "Phillipp Mwene",
-                    "detail": "Yellow Card",
-                    "team": "FSV Mainz 05"
+                    "time": "21'",
+                    "player": "A. Bernhardsson",
+                    "detail": "Normal Goal",
+                    "team": "Holstein Kiel"
                 },
                 {
                     "time": "34'",
-                    "player": "A. Bernhardsson",
+                    "player": "D. Sinani",
                     "detail": "Normal Goal",
-                    "team": "Holstein Kiel"
+                    "team": "FC St. Pauli"
                 },
                 {
-                    "time": "44'",
-                    "player": "David Zec",
+                    "time": "37'",
+                    "player": "D. Nemeth",
                     "detail": "Yellow Card",
-                    "team": "Holstein Kiel"
+                    "team": "FC St. Pauli"
                 },
                 {
-                    "time": "51'",
-                    "player": "Nicolai Remberg",
-                    "detail": "Yellow Card",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "67'",
-                    "player": "P. Mwene",
-                    "detail": "Substitution 1",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "68'",
-                    "player": "A. Bernhardsson",
+                    "time": "46'",
+                    "player": "F. Porath",
                     "detail": "Substitution 1",
                     "team": "Holstein Kiel"
                 },
                 {
-                    "time": "68'",
-                    "player": "Lee Jae-Sung",
+                    "time": "46'",
+                    "player": "M. Guilavogui",
+                    "detail": "Substitution 1",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "47'",
+                    "player": "O. Afolayan",
+                    "detail": "Yellow Card",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "60'",
+                    "player": "M. Ivezic",
+                    "detail": "Yellow Card",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "61'",
+                    "player": "N. Weisshaupt",
                     "detail": "Substitution 2",
-                    "team": "FSV Mainz 05"
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "64'",
+                    "player": "S. Van Der Heyden",
+                    "detail": "Substitution 3",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "68'",
+                    "player": "M. Geschwill",
+                    "detail": "Substitution 2",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "68'",
+                    "player": "P. Harres",
+                    "detail": "Substitution 3",
+                    "team": "Holstein Kiel"
                 },
                 {
                     "time": "75'",
-                    "player": "N. Weiper",
-                    "detail": "Normal Goal",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "76'",
-                    "player": "S. Skrzybski",
-                    "detail": "Substitution 2",
+                    "player": "M. Schulz",
+                    "detail": "Substitution 4",
                     "team": "Holstein Kiel"
                 },
                 {
-                    "time": "76'",
-                    "player": "J. Tolkin",
-                    "detail": "Substitution 3",
+                    "time": "77'",
+                    "player": "P. Harres",
+                    "detail": "Yellow Card",
                     "team": "Holstein Kiel"
                 },
                 {
                     "time": "82'",
-                    "player": "A. Gigović",
-                    "detail": "Substitution 4",
-                    "team": "Holstein Kiel"
+                    "player": "H. Wahl",
+                    "detail": "Yellow Card",
+                    "team": "FC St. Pauli"
                 },
                 {
                     "time": "83'",
-                    "player": "J. Burkardt",
-                    "detail": "Substitution 3",
-                    "team": "FSV Mainz 05"
+                    "player": "S. Skrzybski",
+                    "detail": "Substitution 5",
+                    "team": "Holstein Kiel"
                 },
                 {
-                    "time": "84'",
-                    "player": "Moritz Jenz",
-                    "detail": "Yellow Card",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "85'",
-                    "player": "Timo Becker",
+                    "time": "86'",
+                    "player": "M. Schulz",
                     "detail": "Yellow Card",
                     "team": "Holstein Kiel"
                 },
                 {
-                    "time": "90'",
-                    "player": "N. Amiri",
+                    "time": "87'",
+                    "player": "C. Metcalfe",
                     "detail": "Substitution 4",
-                    "team": "FSV Mainz 05"
+                    "team": "FC St. Pauli"
                 },
                 {
                     "time": "90'",
-                    "player": "Lasse Rosenboom",
-                    "detail": "Yellow Card",
-                    "team": "Holstein Kiel"
+                    "player": "M. Geschwill",
+                    "detail": "Own Goal",
+                    "team": "FC St. Pauli"
                 },
                 {
                     "time": "90'",
-                    "player": "Nadiem Amiri",
+                    "player": "M. Guilavogui",
                     "detail": "Yellow Card",
-                    "team": "FSV Mainz 05"
+                    "team": "FC St. Pauli"
                 }
             ],
             "odds": {
