@@ -629,6 +629,15 @@
                 },
                 {
                     "player": {
+                        "id": 508,
+                        "name": "Kingsley Coman",
+                        "number": 11,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 126530,
                         "name": "Daniel Peretz",
                         "number": 18,
@@ -660,15 +669,6 @@
                         "name": "Gabriel Vidović",
                         "number": 24,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 508,
-                        "name": "Kingsley Coman",
-                        "number": 11,
-                        "pos": "F",
                         "grid": null
                     }
                 },
@@ -829,27 +829,9 @@
                 },
                 {
                     "player": {
-                        "id": 26292,
-                        "name": "Alexander Meyer",
-                        "number": 33,
-                        "pos": "G",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 2194,
                         "name": "Ramy Bensebaini",
                         "number": 5,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 197448,
-                        "name": "Yan Couto",
-                        "number": 2,
                         "pos": "D",
                         "grid": null
                     }
@@ -860,6 +842,24 @@
                         "name": "Karim Adeyemi",
                         "number": 27,
                         "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 26292,
+                        "name": "Alexander Meyer",
+                        "number": 33,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 197448,
+                        "name": "Yan Couto",
+                        "number": 2,
+                        "pos": "D",
                         "grid": null
                     }
                 },
