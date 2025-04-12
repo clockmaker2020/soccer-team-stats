@@ -183,7 +183,7 @@
         },
         {
             "time": {
-                "elapsed": 71,
+                "elapsed": 70,
                 "extra": null
             },
             "team": {
@@ -240,8 +240,8 @@
                 "name": "W. Anton"
             },
             "assist": {
-                "id": null,
-                "name": null
+                "id": 21393,
+                "name": "S. Guirassy"
             },
             "type": "Goal",
             "detail": "Normal Goal",
