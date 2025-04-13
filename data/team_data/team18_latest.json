@@ -258,66 +258,72 @@
         },
         {
             "team": "Eintracht Frankfurt",
-            "date": "2025-04-05 16:30",
-            "opponent": "Werder Bremen",
-            "score": "2 - 0",
-            "stadium": "Weserstadion",
-            "referee": "Daniel Siebert, Germany",
-            "league_round": "Regular Season - 28",
+            "date": "2025-04-13 15:30",
+            "opponent": "1. FC Heidenheim",
+            "score": "3 - 0",
+            "stadium": "Deutsche Bank Park",
+            "referee": "Timo Gerach, Germany",
+            "league_round": "Regular Season - 29",
             "events": [
                 {
-                    "time": "28'",
-                    "player": "O. Burke",
+                    "time": "10'",
+                    "player": "J. Bahoya",
                     "detail": "Normal Goal",
-                    "team": "Werder Bremen"
+                    "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "34'",
-                    "player": "Tuta",
+                    "time": "30'",
+                    "player": "H. Ekitike",
                     "detail": "Yellow Card",
                     "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "45'",
-                    "player": "Amos Pieper",
+                    "time": "30'",
+                    "player": "N. Dorsch",
                     "detail": "Yellow Card",
-                    "team": "Werder Bremen"
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "42'",
+                    "player": "R. Koch",
+                    "detail": "Normal Goal",
+                    "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "46'",
-                    "player": "Tuta",
+                    "player": "P. Wanner",
                     "detail": "Substitution 1",
-                    "team": "Eintracht Frankfurt"
+                    "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "60'",
-                    "player": "Jens Stage",
-                    "detail": "Yellow Card",
-                    "team": "Werder Bremen"
+                    "time": "46'",
+                    "player": "S. Conteh",
+                    "detail": "Substitution 2",
+                    "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "63'",
+                    "time": "61'",
                     "player": "N. Collins",
+                    "detail": "Substitution 1",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "61'",
+                    "player": "N. Brown",
                     "detail": "Substitution 2",
                     "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "65'",
-                    "player": "M. Ducksch",
-                    "detail": "Substitution 1",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "65'",
-                    "player": "O. Burke",
-                    "detail": "Substitution 2",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "65'",
-                    "player": "A. Pieper",
+                    "time": "68'",
+                    "player": "S. Schimmer",
                     "detail": "Substitution 3",
-                    "team": "Werder Bremen"
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "68'",
+                    "player": "J. Fohrenbach",
+                    "detail": "Substitution 4",
+                    "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "70'",
@@ -327,51 +333,27 @@
                 },
                 {
                     "time": "70'",
-                    "player": "J. Bahoya",
+                    "player": "M. Gotze",
                     "detail": "Substitution 4",
                     "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "81'",
-                    "player": "Ellyes Skhiri",
-                    "detail": "Yellow Card",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "82'",
-                    "player": "M. Götze",
-                    "detail": "Substitution 5",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "84'",
-                    "player": "R. Schmid",
+                    "time": "71'",
+                    "player": "H. Ekitike",
                     "detail": "Normal Goal",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "87'",
-                    "player": "S. Lynen",
-                    "detail": "Substitution 4",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "89'",
-                    "player": "Leonardo Bittencourt",
-                    "detail": "Yellow Card",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "90'",
-                    "player": "R. Schmid",
-                    "detail": "Substitution 5",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "90'",
-                    "player": "Michy Batshuayi",
-                    "detail": "Yellow Card",
                     "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "76'",
+                    "player": "E. Wahi",
+                    "detail": "Substitution 5",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "76'",
+                    "player": "T. Keller",
+                    "detail": "Substitution 5",
+                    "team": "1. FC Heidenheim"
                 }
             ],
             "odds": {
@@ -2231,78 +2213,102 @@
         },
         {
             "team": "1. FC Heidenheim",
-            "date": "2025-04-05 13:30",
-            "opponent": "Bayer Leverkusen",
-            "score": "0 - 1",
-            "stadium": "Voith-Arena",
-            "referee": "Tobias Stieler, Germany",
-            "league_round": "Regular Season - 28",
+            "date": "2025-04-13 15:30",
+            "opponent": "Eintracht Frankfurt",
+            "score": "3 - 0",
+            "stadium": "Deutsche Bank Park",
+            "referee": "Timo Gerach, Germany",
+            "league_round": "Regular Season - 29",
             "events": [
                 {
-                    "time": "42'",
-                    "player": "Jan Schöppner",
+                    "time": "10'",
+                    "player": "J. Bahoya",
+                    "detail": "Normal Goal",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "30'",
+                    "player": "H. Ekitike",
+                    "detail": "Yellow Card",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "30'",
+                    "player": "N. Dorsch",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "56'",
-                    "player": "M. Busch",
+                    "time": "42'",
+                    "player": "R. Koch",
+                    "detail": "Normal Goal",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "46'",
+                    "player": "P. Wanner",
                     "detail": "Substitution 1",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "68'",
-                    "player": "N. Tella",
+                    "time": "46'",
+                    "player": "S. Conteh",
+                    "detail": "Substitution 2",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "61'",
+                    "player": "N. Collins",
                     "detail": "Substitution 1",
-                    "team": "Bayer Leverkusen"
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "61'",
+                    "player": "N. Brown",
+                    "detail": "Substitution 2",
+                    "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "68'",
-                    "player": "V. Boniface",
-                    "detail": "Substitution 2",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "76'",
-                    "player": "T. Siersleben",
-                    "detail": "Substitution 2",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "76'",
-                    "player": "N. Dorsch",
+                    "player": "S. Schimmer",
                     "detail": "Substitution 3",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "76'",
-                    "player": "A. Adli",
-                    "detail": "Substitution 3",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "85'",
-                    "player": "R. Andrich",
-                    "detail": "Substitution 4",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "90'",
-                    "player": "J. Schöppner",
+                    "time": "68'",
+                    "player": "J. Fohrenbach",
                     "detail": "Substitution 4",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "90'",
-                    "player": "A. Beck",
+                    "time": "70'",
+                    "player": "H. Larsson",
+                    "detail": "Substitution 3",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "70'",
+                    "player": "M. Gotze",
+                    "detail": "Substitution 4",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "71'",
+                    "player": "H. Ekitike",
+                    "detail": "Normal Goal",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "76'",
+                    "player": "E. Wahi",
+                    "detail": "Substitution 5",
+                    "team": "Eintracht Frankfurt"
+                },
+                {
+                    "time": "76'",
+                    "player": "T. Keller",
                     "detail": "Substitution 5",
                     "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "90'",
-                    "player": "E. Buendía",
-                    "detail": "Normal Goal",
-                    "team": "Bayer Leverkusen"
                 }
             ],
             "odds": {
@@ -2311,6 +2317,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-13 15:30",
+                    "score": "3 - 0"
+                },
                 {
                     "date": "2025-04-05 13:30",
                     "score": "0 - 1"
@@ -2326,10 +2336,6 @@
                 {
                     "date": "2025-03-09 16:30",
                     "score": "1 - 1"
-                },
-                {
-                    "date": "2025-03-01 14:30",
-                    "score": "0 - 3"
                 }
             ],
             "future_games": [
