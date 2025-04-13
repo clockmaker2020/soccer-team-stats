@@ -3,6 +3,76 @@
     "past_matches": [
         {
             "fixture": {
+                "id": 1224230,
+                "referee": "Timo Gerach, Germany",
+                "timezone": "UTC",
+                "date": "2025-04-13T15:30:00+00:00",
+                "timestamp": 1744558200,
+                "periods": {
+                    "first": 1744558200,
+                    "second": 1744561800
+                },
+                "venue": {
+                    "id": 10491,
+                    "name": "Deutsche Bank Park",
+                    "city": "Frankfurt am Main"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 2
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 29",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 169,
+                    "name": "Eintracht Frankfurt",
+                    "logo": "https://media.api-sports.io/football/teams/169.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 180,
+                    "name": "1. FC Heidenheim",
+                    "logo": "https://media.api-sports.io/football/teams/180.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
                 "id": 1224220,
                 "referee": "Daniel Siebert, Germany",
                 "timezone": "UTC",
@@ -270,76 +340,6 @@
                 "fulltime": {
                     "home": 1,
                     "away": 2
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
-                "id": 1224184,
-                "referee": "Felix Zwayer, Germany",
-                "timezone": "UTC",
-                "date": "2025-03-01T17:30:00+00:00",
-                "timestamp": 1740850200,
-                "periods": {
-                    "first": 1740850200,
-                    "second": 1740853800
-                },
-                "venue": {
-                    "id": 10491,
-                    "name": "Deutsche Bank Park",
-                    "city": "Frankfurt am Main"
-                },
-                "status": {
-                    "long": "Match Finished",
-                    "short": "FT",
-                    "elapsed": 90,
-                    "extra": 4
-                }
-            },
-            "league": {
-                "id": 78,
-                "name": "Bundesliga",
-                "country": "Germany",
-                "logo": "https://media.api-sports.io/football/leagues/78.png",
-                "flag": "https://media.api-sports.io/flags/de.svg",
-                "season": 2024,
-                "round": "Regular Season - 24",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 169,
-                    "name": "Eintracht Frankfurt",
-                    "logo": "https://media.api-sports.io/football/teams/169.png",
-                    "winner": false
-                },
-                "away": {
-                    "id": 168,
-                    "name": "Bayer Leverkusen",
-                    "logo": "https://media.api-sports.io/football/teams/168.png",
-                    "winner": true
-                }
-            },
-            "goals": {
-                "home": 1,
-                "away": 4
-            },
-            "score": {
-                "halftime": {
-                    "home": 1,
-                    "away": 3
-                },
-                "fulltime": {
-                    "home": 1,
-                    "away": 4
                 },
                 "extratime": {
                     "home": null,
