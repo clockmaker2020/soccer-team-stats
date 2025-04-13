@@ -390,15 +390,15 @@
             "statistics": [
                 {
                     "type": "Shots on Goal",
-                    "value": 7
+                    "value": 8
                 },
                 {
                     "type": "Shots off Goal",
-                    "value": 7
+                    "value": 8
                 },
                 {
                     "type": "Total Shots",
-                    "value": 17
+                    "value": 19
                 },
                 {
                     "type": "Blocked Shots",
@@ -406,11 +406,11 @@
                 },
                 {
                     "type": "Shots insidebox",
-                    "value": 12
+                    "value": 13
                 },
                 {
                     "type": "Shots outsidebox",
-                    "value": 5
+                    "value": 6
                 },
                 {
                     "type": "Fouls",
@@ -418,7 +418,7 @@
                 },
                 {
                     "type": "Corner Kicks",
-                    "value": 4
+                    "value": 5
                 },
                 {
                     "type": "Offsides",
@@ -426,7 +426,7 @@
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "45%"
+                    "value": "44%"
                 },
                 {
                     "type": "Yellow Cards",
@@ -442,11 +442,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 480
+                    "value": 490
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 404
+                    "value": 413
                 },
                 {
                     "type": "Passes %",
@@ -454,7 +454,7 @@
                 },
                 {
                     "type": "expected_goals",
-                    "value": "2.80"
+                    "value": "2.90"
                 },
                 {
                     "type": "goals_prevented",
@@ -507,7 +507,7 @@
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "55%"
+                    "value": "56%"
                 },
                 {
                     "type": "Yellow Cards",
@@ -523,15 +523,15 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 574
+                    "value": 611
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 495
+                    "value": 532
                 },
                 {
                     "type": "Passes %",
-                    "value": "86%"
+                    "value": "87%"
                 },
                 {
                     "type": "expected_goals",
@@ -668,36 +668,9 @@
             "substitutes": [
                 {
                     "player": {
-                        "id": 26291,
-                        "name": "Jens Grahl",
-                        "number": 33,
-                        "pos": "G",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 156490,
-                        "name": "Niels Nkounkou",
-                        "number": 29,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 280074,
                         "name": "Nathaniel Brown",
                         "number": 21,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 162414,
-                        "name": "Aurèle Amenda",
-                        "number": 5,
                         "pos": "D",
                         "grid": null
                     }
@@ -731,18 +704,45 @@
                 },
                 {
                     "player": {
-                        "id": 2927,
-                        "name": "Michy Batshuayi",
-                        "number": 30,
+                        "id": 162707,
+                        "name": "Elye Wahi",
+                        "number": 17,
                         "pos": "F",
                         "grid": null
                     }
                 },
                 {
                     "player": {
-                        "id": 162707,
-                        "name": "Elye Wahi",
-                        "number": 17,
+                        "id": 26291,
+                        "name": "Jens Grahl",
+                        "number": 33,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 156490,
+                        "name": "Niels Nkounkou",
+                        "number": 29,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 162414,
+                        "name": "Aurèle Amenda",
+                        "number": 5,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 2927,
+                        "name": "Michy Batshuayi",
+                        "number": 30,
                         "pos": "F",
                         "grid": null
                     }
@@ -895,19 +895,37 @@
                 },
                 {
                     "player": {
-                        "id": 24891,
-                        "name": "Vitus Eicher",
-                        "number": 22,
-                        "pos": "G",
+                        "id": 24979,
+                        "name": "Jonas Föhrenbach",
+                        "number": 19,
+                        "pos": "D",
                         "grid": null
                     }
                 },
                 {
                     "player": {
-                        "id": 24979,
-                        "name": "Jonas Föhrenbach",
-                        "number": 19,
-                        "pos": "D",
+                        "id": 26530,
+                        "name": "Stefan Schimmer",
+                        "number": 9,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 125723,
+                        "name": "Thomas Keller",
+                        "number": 27,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 24891,
+                        "name": "Vitus Eicher",
+                        "number": 22,
+                        "pos": "G",
                         "grid": null
                     }
                 },
@@ -931,28 +949,10 @@
                 },
                 {
                     "player": {
-                        "id": 125723,
-                        "name": "Thomas Keller",
-                        "number": 27,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 203011,
                         "name": "Julian Niehues",
                         "number": 16,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 26530,
-                        "name": "Stefan Schimmer",
-                        "number": 9,
-                        "pos": "F",
                         "grid": null
                     }
                 }
