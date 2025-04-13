@@ -1139,6 +1139,167 @@
             "squad": []
         },
         {
+            "team": "Werder Bremen",
+            "date": "2025-04-13 13:30",
+            "opponent": "VfB Stuttgart",
+            "score": "1 - 2",
+            "stadium": "MHPArena",
+            "referee": "Daniel Schlager, Germany",
+            "league_round": "Regular Season - 29",
+            "events": [
+                {
+                    "time": "6'",
+                    "player": "M. Weiser",
+                    "detail": "Yellow Card",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "19'",
+                    "player": "L. Stergiou",
+                    "detail": "Normal Goal",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "32'",
+                    "player": "O. Burke",
+                    "detail": "Normal Goal",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "40'",
+                    "player": "A. Karazor",
+                    "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "42'",
+                    "player": "R. Hendriks",
+                    "detail": "Substitution 1",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "44'",
+                    "player": "J. Stage",
+                    "detail": "Yellow Card",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "46'",
+                    "player": "F. Rieder",
+                    "detail": "Substitution 2",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "49'",
+                    "player": "N. Woltemade",
+                    "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "65'",
+                    "player": "N. Woltemade",
+                    "detail": "Red Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "65'",
+                    "player": "N. Woltemade",
+                    "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "77'",
+                    "player": "L. Bittencourt",
+                    "detail": "Substitution 1",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "79'",
+                    "player": "J. Bruun Larsen",
+                    "detail": "Substitution 3",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "79'",
+                    "player": "Y. Keitel",
+                    "detail": "Substitution 4",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "84'",
+                    "player": "D. Kohn",
+                    "detail": "Substitution 2",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "84'",
+                    "player": "Andre Silva",
+                    "detail": "Substitution 3",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "85'",
+                    "player": "D. Undav",
+                    "detail": "Substitution 5",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "90'",
+                    "player": "O. Burke",
+                    "detail": "Normal Goal",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "90'",
+                    "player": "M. Grull",
+                    "detail": "Substitution 4",
+                    "team": "Werder Bremen"
+                }
+            ],
+            "odds": {
+                "home": "N/A",
+                "draw": "N/A",
+                "away": "N/A"
+            },
+            "past_results": [
+                {
+                    "date": "2025-04-13 13:30",
+                    "score": "1 - 2"
+                },
+                {
+                    "date": "2025-04-05 16:30",
+                    "score": "2 - 0"
+                },
+                {
+                    "date": "2025-03-29 14:30",
+                    "score": "0 - 3"
+                },
+                {
+                    "date": "2025-03-15 14:30",
+                    "score": "2 - 4"
+                },
+                {
+                    "date": "2025-03-08 14:30",
+                    "score": "0 - 2"
+                }
+            ],
+            "future_games": [
+                {
+                    "date": "2025-04-19 13:30",
+                    "opponent": "VfL Bochum"
+                },
+                {
+                    "date": "2025-04-27 15:30",
+                    "opponent": "FC St. Pauli"
+                },
+                {
+                    "date": "2025-05-03 13:30",
+                    "opponent": "Union Berlin"
+                }
+            ],
+            "squad": []
+        },
+        {
             "team": "FC Augsburg",
             "date": "2025-04-12 13:30",
             "opponent": "VfL Bochum",
@@ -1444,167 +1605,6 @@
                 {
                     "date": "2025-05-03 13:30",
                     "opponent": "FC St. Pauli"
-                }
-            ],
-            "squad": []
-        },
-        {
-            "team": "Werder Bremen",
-            "date": "2025-04-13 13:30",
-            "opponent": "VfB Stuttgart",
-            "score": "1 - 2",
-            "stadium": "MHPArena",
-            "referee": "Daniel Schlager, Germany",
-            "league_round": "Regular Season - 29",
-            "events": [
-                {
-                    "time": "6'",
-                    "player": "M. Weiser",
-                    "detail": "Yellow Card",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "19'",
-                    "player": "L. Stergiou",
-                    "detail": "Normal Goal",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "32'",
-                    "player": "O. Burke",
-                    "detail": "Normal Goal",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "40'",
-                    "player": "A. Karazor",
-                    "detail": "Yellow Card",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "42'",
-                    "player": "R. Hendriks",
-                    "detail": "Substitution 1",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "44'",
-                    "player": "J. Stage",
-                    "detail": "Yellow Card",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "46'",
-                    "player": "F. Rieder",
-                    "detail": "Substitution 2",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "49'",
-                    "player": "N. Woltemade",
-                    "detail": "Yellow Card",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "65'",
-                    "player": "N. Woltemade",
-                    "detail": "Red Card",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "65'",
-                    "player": "N. Woltemade",
-                    "detail": "Yellow Card",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "77'",
-                    "player": "L. Bittencourt",
-                    "detail": "Substitution 1",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "79'",
-                    "player": "J. Bruun Larsen",
-                    "detail": "Substitution 3",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "79'",
-                    "player": "Y. Keitel",
-                    "detail": "Substitution 4",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "84'",
-                    "player": "D. Kohn",
-                    "detail": "Substitution 2",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "84'",
-                    "player": "Andre Silva",
-                    "detail": "Substitution 3",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "85'",
-                    "player": "D. Undav",
-                    "detail": "Substitution 5",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "90'",
-                    "player": "O. Burke",
-                    "detail": "Normal Goal",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "90'",
-                    "player": "M. Grull",
-                    "detail": "Substitution 4",
-                    "team": "Werder Bremen"
-                }
-            ],
-            "odds": {
-                "home": "N/A",
-                "draw": "N/A",
-                "away": "N/A"
-            },
-            "past_results": [
-                {
-                    "date": "2025-04-13 13:30",
-                    "score": "1 - 2"
-                },
-                {
-                    "date": "2025-04-05 16:30",
-                    "score": "2 - 0"
-                },
-                {
-                    "date": "2025-03-29 14:30",
-                    "score": "0 - 3"
-                },
-                {
-                    "date": "2025-03-15 14:30",
-                    "score": "2 - 4"
-                },
-                {
-                    "date": "2025-03-08 14:30",
-                    "score": "0 - 2"
-                }
-            ],
-            "future_games": [
-                {
-                    "date": "2025-04-19 13:30",
-                    "opponent": "VfL Bochum"
-                },
-                {
-                    "date": "2025-04-27 15:30",
-                    "opponent": "FC St. Pauli"
-                },
-                {
-                    "date": "2025-05-03 13:30",
-                    "opponent": "Union Berlin"
                 }
             ],
             "squad": []
