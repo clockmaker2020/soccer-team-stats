@@ -17,25 +17,25 @@
                 },
                 {
                     "time": "54'",
-                    "player": "R. Guerreiro",
+                    "player": "Kim Min-Jae",
                     "detail": "Substitution 1",
                     "team": "Bayern München"
                 },
                 {
                     "time": "63'",
-                    "player": "A. Pavlovic",
+                    "player": "L. Goretzka",
                     "detail": "Substitution 2",
                     "team": "Bayern München"
                 },
                 {
-                    "time": "63'",
-                    "player": "S. Gnabry",
+                    "time": "64'",
+                    "player": "L. Sané",
                     "detail": "Substitution 3",
                     "team": "Bayern München"
                 },
                 {
                     "time": "65'",
-                    "player": "R. Guerreiro",
+                    "player": "Raphaël Guerreiro",
                     "detail": "Normal Goal",
                     "team": "Bayern München"
                 },
@@ -46,14 +46,14 @@
                     "team": "Bayern München"
                 },
                 {
-                    "time": "70'",
-                    "player": "F. Nmecha",
+                    "time": "71'",
+                    "player": "S. Özcan",
                     "detail": "Substitution 1",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "71'",
-                    "player": "C. Chukwuemeka",
+                    "player": "J. Brandt",
                     "detail": "Substitution 2",
                     "team": "Borussia Dortmund"
                 },
@@ -65,21 +65,21 @@
                 },
                 {
                     "time": "81'",
-                    "player": "K. Adeyemi",
+                    "player": "T. Müller",
+                    "detail": "Substitution 4",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "81'",
+                    "player": "M. Beier",
                     "detail": "Substitution 3",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "81'",
-                    "player": "R. Bensebaini",
+                    "player": "N. Süle",
                     "detail": "Substitution 4",
                     "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "81'",
-                    "player": "K. Coman",
-                    "detail": "Substitution 4",
-                    "team": "Bayern München"
                 }
             ],
             "odds": {
@@ -423,7 +423,7 @@
             "opponent": "VfL Wolfsburg",
             "score": "2 - 3",
             "stadium": "Volkswagen Arena",
-            "referee": "F. Exner",
+            "referee": "Florian Exner, Germany",
             "league_round": "Regular Season - 29",
             "events": [
                 {
@@ -1030,25 +1030,25 @@
                 },
                 {
                     "time": "54'",
-                    "player": "R. Guerreiro",
+                    "player": "Kim Min-Jae",
                     "detail": "Substitution 1",
                     "team": "Bayern München"
                 },
                 {
                     "time": "63'",
-                    "player": "A. Pavlovic",
+                    "player": "L. Goretzka",
                     "detail": "Substitution 2",
                     "team": "Bayern München"
                 },
                 {
-                    "time": "63'",
-                    "player": "S. Gnabry",
+                    "time": "64'",
+                    "player": "L. Sané",
                     "detail": "Substitution 3",
                     "team": "Bayern München"
                 },
                 {
                     "time": "65'",
-                    "player": "R. Guerreiro",
+                    "player": "Raphaël Guerreiro",
                     "detail": "Normal Goal",
                     "team": "Bayern München"
                 },
@@ -1059,14 +1059,14 @@
                     "team": "Bayern München"
                 },
                 {
-                    "time": "70'",
-                    "player": "F. Nmecha",
+                    "time": "71'",
+                    "player": "S. Özcan",
                     "detail": "Substitution 1",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "71'",
-                    "player": "C. Chukwuemeka",
+                    "player": "J. Brandt",
                     "detail": "Substitution 2",
                     "team": "Borussia Dortmund"
                 },
@@ -1078,21 +1078,21 @@
                 },
                 {
                     "time": "81'",
-                    "player": "K. Adeyemi",
+                    "player": "T. Müller",
+                    "detail": "Substitution 4",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "81'",
+                    "player": "M. Beier",
                     "detail": "Substitution 3",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "81'",
-                    "player": "R. Bensebaini",
+                    "player": "N. Süle",
                     "detail": "Substitution 4",
                     "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "81'",
-                    "player": "K. Coman",
-                    "detail": "Substitution 4",
-                    "team": "Bayern München"
                 }
             ],
             "odds": {
@@ -1597,7 +1597,7 @@
             "opponent": "RB Leipzig",
             "score": "2 - 3",
             "stadium": "Volkswagen Arena",
-            "referee": "F. Exner",
+            "referee": "Florian Exner, Germany",
             "league_round": "Regular Season - 29",
             "events": [
                 {
