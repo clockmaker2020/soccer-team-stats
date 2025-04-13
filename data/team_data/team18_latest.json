@@ -262,7 +262,7 @@
             "opponent": "Werder Bremen",
             "score": "2 - 0",
             "stadium": "Weserstadion",
-            "referee": "Daniel Siebert, Germany",
+            "referee": "D. Siebert",
             "league_round": "Regular Season - 28",
             "events": [
                 {
@@ -423,7 +423,7 @@
             "opponent": "VfL Wolfsburg",
             "score": "2 - 3",
             "stadium": "Volkswagen Arena",
-            "referee": "Florian Exner, Germany",
+            "referee": "F. Exner",
             "league_round": "Regular Season - 29",
             "events": [
                 {
@@ -1287,7 +1287,7 @@
             "opponent": "VfL Bochum",
             "score": "0 - 4",
             "stadium": "Vonovia Ruhrstadion",
-            "referee": "Felix Brych, Germany",
+            "referee": "F. Brych",
             "league_round": "Regular Season - 28",
             "events": [
                 {
@@ -1436,7 +1436,7 @@
             "opponent": "Eintracht Frankfurt",
             "score": "2 - 0",
             "stadium": "Weserstadion",
-            "referee": "Daniel Siebert, Germany",
+            "referee": "D. Siebert",
             "league_round": "Regular Season - 28",
             "events": [
                 {
@@ -1597,7 +1597,7 @@
             "opponent": "RB Leipzig",
             "score": "2 - 3",
             "stadium": "Volkswagen Arena",
-            "referee": "Florian Exner, Germany",
+            "referee": "F. Exner",
             "league_round": "Regular Season - 29",
             "events": [
                 {
@@ -2217,7 +2217,7 @@
             "opponent": "Bayer Leverkusen",
             "score": "0 - 1",
             "stadium": "Voith-Arena",
-            "referee": "Tobias Stieler, Germany",
+            "referee": "T. Stieler",
             "league_round": "Regular Season - 28",
             "events": [
                 {
