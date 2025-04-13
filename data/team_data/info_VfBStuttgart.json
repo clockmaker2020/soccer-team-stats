@@ -752,6 +752,33 @@
                 },
                 {
                     "player": {
+                        "id": 178093,
+                        "name": "Yannik Keitel",
+                        "number": 5,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 22,
+                        "name": "Jacob Bruun Larsen",
+                        "number": 25,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 26475,
+                        "name": "Deniz Undav",
+                        "number": 26,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 25597,
                         "name": "Fabian Bredlow",
                         "number": 1,
@@ -779,37 +806,10 @@
                 },
                 {
                     "player": {
-                        "id": 178093,
-                        "name": "Yannik Keitel",
-                        "number": 5,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 162887,
                         "name": "Enzo Millot",
                         "number": 8,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 22,
-                        "name": "Jacob Bruun Larsen",
-                        "number": 25,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 26475,
-                        "name": "Deniz Undav",
-                        "number": 26,
-                        "pos": "F",
                         "grid": null
                     }
                 }
@@ -943,10 +943,10 @@
             "substitutes": [
                 {
                     "player": {
-                        "id": 329578,
-                        "name": "Mio Backhaus",
-                        "number": 30,
-                        "pos": "G",
+                        "id": 716,
+                        "name": "Leonardo Bittencourt",
+                        "number": 10,
+                        "pos": "M",
                         "grid": null
                     }
                 },
@@ -956,6 +956,24 @@
                         "name": "Derrick Köhn",
                         "number": 19,
                         "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 2063,
+                        "name": "André Silva",
+                        "number": 9,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 329578,
+                        "name": "Mio Backhaus",
+                        "number": 30,
+                        "pos": "G",
                         "grid": null
                     }
                 },
@@ -982,24 +1000,6 @@
                         "id": 7073,
                         "name": "Marco Grüll",
                         "number": 17,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 716,
-                        "name": "Leonardo Bittencourt",
-                        "number": 10,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 2063,
-                        "name": "André Silva",
-                        "number": 9,
                         "pos": "F",
                         "grid": null
                     }
