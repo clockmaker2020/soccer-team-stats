@@ -1289,108 +1289,120 @@
         },
         {
             "team": "VfB Stuttgart",
-            "date": "2025-04-05 13:30",
-            "opponent": "VfL Bochum",
-            "score": "0 - 4",
-            "stadium": "Vonovia Ruhrstadion",
-            "referee": "Felix Brych, Germany",
-            "league_round": "Regular Season - 28",
+            "date": "2025-04-13 13:30",
+            "opponent": "Werder Bremen",
+            "score": "1 - 2",
+            "stadium": "MHPArena",
+            "referee": "Daniel Schlager, Germany",
+            "league_round": "Regular Season - 29",
             "events": [
                 {
-                    "time": "8'",
-                    "player": "J. Chabot",
+                    "time": "6'",
+                    "player": "M. Weiser",
+                    "detail": "Yellow Card",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "19'",
+                    "player": "L. Stergiou",
                     "detail": "Normal Goal",
                     "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "11'",
-                    "player": "E. Demirović",
+                    "time": "32'",
+                    "player": "O. Burke",
                     "detail": "Normal Goal",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "40'",
+                    "player": "A. Karazor",
+                    "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "46'",
-                    "player": "M. Boadu",
+                    "time": "42'",
+                    "player": "R. Hendriks",
                     "detail": "Substitution 1",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "46'",
-                    "player": "F. Passlack",
-                    "detail": "Substitution 2",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "48'",
-                    "player": "E. Demirović",
-                    "detail": "Normal Goal",
                     "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "67'",
+                    "time": "44'",
+                    "player": "J. Stage",
+                    "detail": "Yellow Card",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "46'",
+                    "player": "F. Rieder",
+                    "detail": "Substitution 2",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "49'",
                     "player": "N. Woltemade",
+                    "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "65'",
+                    "player": "N. Woltemade",
+                    "detail": "Red Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "65'",
+                    "player": "N. Woltemade",
+                    "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "77'",
+                    "player": "L. Bittencourt",
                     "detail": "Substitution 1",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "68'",
-                    "player": "G. Holtmann",
-                    "detail": "Substitution 3",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "74'",
-                    "player": "C. Führich",
-                    "detail": "Substitution 2",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "74'",
-                    "player": "L. Jaquez",
-                    "detail": "Substitution 3",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "78'",
-                    "player": "M. Bero",
-                    "detail": "Substitution 4",
-                    "team": "VfL Bochum"
+                    "team": "Werder Bremen"
                 },
                 {
                     "time": "79'",
-                    "player": "Ibrahima Sissoko",
-                    "detail": "Yellow Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "80'",
-                    "player": "Fabian Rieder",
-                    "detail": "Yellow Card",
+                    "player": "J. Bruun Larsen",
+                    "detail": "Substitution 3",
                     "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "84'",
-                    "player": "I. Sissoko",
-                    "detail": "Substitution 5",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "84'",
+                    "time": "79'",
                     "player": "Y. Keitel",
                     "detail": "Substitution 4",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "84'",
-                    "player": "F. Rieder",
+                    "player": "D. Kohn",
+                    "detail": "Substitution 2",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "84'",
+                    "player": "Andre Silva",
+                    "detail": "Substitution 3",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "85'",
+                    "player": "D. Undav",
                     "detail": "Substitution 5",
                     "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "85'",
-                    "player": "E. Demirović",
+                    "time": "90'",
+                    "player": "O. Burke",
                     "detail": "Normal Goal",
-                    "team": "VfB Stuttgart"
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "90'",
+                    "player": "M. Grull",
+                    "detail": "Substitution 4",
+                    "team": "Werder Bremen"
                 }
             ],
             "odds": {
@@ -1399,6 +1411,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-13 13:30",
+                    "score": "1 - 2"
+                },
                 {
                     "date": "2025-04-05 13:30",
                     "score": "0 - 4"
@@ -1414,10 +1430,6 @@
                 {
                     "date": "2025-03-08 14:30",
                     "score": "2 - 2"
-                },
-                {
-                    "date": "2025-02-28 19:30",
-                    "score": "1 - 3"
                 }
             ],
             "future_games": [
@@ -1438,120 +1450,120 @@
         },
         {
             "team": "Werder Bremen",
-            "date": "2025-04-05 16:30",
-            "opponent": "Eintracht Frankfurt",
-            "score": "2 - 0",
-            "stadium": "Weserstadion",
-            "referee": "Daniel Siebert, Germany",
-            "league_round": "Regular Season - 28",
+            "date": "2025-04-13 13:30",
+            "opponent": "VfB Stuttgart",
+            "score": "1 - 2",
+            "stadium": "MHPArena",
+            "referee": "Daniel Schlager, Germany",
+            "league_round": "Regular Season - 29",
             "events": [
                 {
-                    "time": "28'",
+                    "time": "6'",
+                    "player": "M. Weiser",
+                    "detail": "Yellow Card",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "19'",
+                    "player": "L. Stergiou",
+                    "detail": "Normal Goal",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "32'",
                     "player": "O. Burke",
                     "detail": "Normal Goal",
                     "team": "Werder Bremen"
                 },
                 {
-                    "time": "34'",
-                    "player": "Tuta",
+                    "time": "40'",
+                    "player": "A. Karazor",
                     "detail": "Yellow Card",
-                    "team": "Eintracht Frankfurt"
+                    "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "45'",
-                    "player": "Amos Pieper",
+                    "time": "42'",
+                    "player": "R. Hendriks",
+                    "detail": "Substitution 1",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "44'",
+                    "player": "J. Stage",
                     "detail": "Yellow Card",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "46'",
-                    "player": "Tuta",
-                    "detail": "Substitution 1",
-                    "team": "Eintracht Frankfurt"
+                    "player": "F. Rieder",
+                    "detail": "Substitution 2",
+                    "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "60'",
-                    "player": "Jens Stage",
+                    "time": "49'",
+                    "player": "N. Woltemade",
                     "detail": "Yellow Card",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "63'",
-                    "player": "N. Collins",
-                    "detail": "Substitution 2",
-                    "team": "Eintracht Frankfurt"
+                    "team": "VfB Stuttgart"
                 },
                 {
                     "time": "65'",
-                    "player": "M. Ducksch",
+                    "player": "N. Woltemade",
+                    "detail": "Red Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "65'",
+                    "player": "N. Woltemade",
+                    "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "77'",
+                    "player": "L. Bittencourt",
                     "detail": "Substitution 1",
                     "team": "Werder Bremen"
                 },
                 {
-                    "time": "65'",
-                    "player": "O. Burke",
-                    "detail": "Substitution 2",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "65'",
-                    "player": "A. Pieper",
+                    "time": "79'",
+                    "player": "J. Bruun Larsen",
                     "detail": "Substitution 3",
-                    "team": "Werder Bremen"
+                    "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "70'",
-                    "player": "H. Larsson",
-                    "detail": "Substitution 3",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "70'",
-                    "player": "J. Bahoya",
+                    "time": "79'",
+                    "player": "Y. Keitel",
                     "detail": "Substitution 4",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "81'",
-                    "player": "Ellyes Skhiri",
-                    "detail": "Yellow Card",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "82'",
-                    "player": "M. Götze",
-                    "detail": "Substitution 5",
-                    "team": "Eintracht Frankfurt"
+                    "team": "VfB Stuttgart"
                 },
                 {
                     "time": "84'",
-                    "player": "R. Schmid",
+                    "player": "D. Kohn",
+                    "detail": "Substitution 2",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "84'",
+                    "player": "Andre Silva",
+                    "detail": "Substitution 3",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "85'",
+                    "player": "D. Undav",
+                    "detail": "Substitution 5",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "90'",
+                    "player": "O. Burke",
                     "detail": "Normal Goal",
                     "team": "Werder Bremen"
                 },
                 {
-                    "time": "87'",
-                    "player": "S. Lynen",
+                    "time": "90'",
+                    "player": "M. Grull",
                     "detail": "Substitution 4",
                     "team": "Werder Bremen"
-                },
-                {
-                    "time": "89'",
-                    "player": "Leonardo Bittencourt",
-                    "detail": "Yellow Card",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "90'",
-                    "player": "R. Schmid",
-                    "detail": "Substitution 5",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "90'",
-                    "player": "Michy Batshuayi",
-                    "detail": "Yellow Card",
-                    "team": "Eintracht Frankfurt"
                 }
             ],
             "odds": {
@@ -1560,6 +1572,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-13 13:30",
+                    "score": "1 - 2"
+                },
                 {
                     "date": "2025-04-05 16:30",
                     "score": "2 - 0"
@@ -1575,10 +1591,6 @@
                 {
                     "date": "2025-03-08 14:30",
                     "score": "0 - 2"
-                },
-                {
-                    "date": "2025-03-01 14:30",
-                    "score": "1 - 2"
                 }
             ],
             "future_games": [
