@@ -970,6 +970,15 @@
                 },
                 {
                     "player": {
+                        "id": 7073,
+                        "name": "Marco Grüll",
+                        "number": 17,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 329578,
                         "name": "Mio Backhaus",
                         "number": 30,
@@ -992,15 +1001,6 @@
                         "name": "Anthony Jung",
                         "number": 3,
                         "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 7073,
-                        "name": "Marco Grüll",
-                        "number": 17,
-                        "pos": "F",
                         "grid": null
                     }
                 },
