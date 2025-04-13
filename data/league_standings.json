@@ -75,6 +75,15 @@
         {
             "rank": 9,
             "team": {
+                "name": "Werder Bremen"
+            },
+            "wins": 12,
+            "draws": 6,
+            "losses": 11
+        },
+        {
+            "rank": 10,
+            "team": {
                 "name": "FC Augsburg"
             },
             "wins": 11,
@@ -82,21 +91,12 @@
             "losses": 9
         },
         {
-            "rank": 10,
+            "rank": 11,
             "team": {
                 "name": "VfB Stuttgart"
             },
             "wins": 11,
             "draws": 7,
-            "losses": 10
-        },
-        {
-            "rank": 11,
-            "team": {
-                "name": "Werder Bremen"
-            },
-            "wins": 11,
-            "draws": 6,
             "losses": 11
         },
         {
