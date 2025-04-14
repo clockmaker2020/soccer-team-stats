@@ -205,29 +205,7 @@
         },
         {
             "time": {
-                "elapsed": 80,
-                "extra": null
-            },
-            "team": {
-                "id": 170,
-                "name": "FC Augsburg",
-                "logo": "https://media.api-sports.io/football/teams/170.png"
-            },
-            "player": {
-                "id": 25355,
-                "name": "Arne Maier"
-            },
-            "assist": {
-                "id": null,
-                "name": null
-            },
-            "type": "Card",
-            "detail": "Red Card",
-            "comments": "Foul"
-        },
-        {
-            "time": {
-                "elapsed": 80,
+                "elapsed": 79,
                 "extra": null
             },
             "team": {
@@ -246,6 +224,28 @@
             "type": "Var",
             "detail": "Card upgrade",
             "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 81,
+                "extra": null
+            },
+            "team": {
+                "id": 170,
+                "name": "FC Augsburg",
+                "logo": "https://media.api-sports.io/football/teams/170.png"
+            },
+            "player": {
+                "id": 25355,
+                "name": "Arne Maier"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Red Card",
+            "comments": "Foul"
         },
         {
             "time": {
