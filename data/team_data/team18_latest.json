@@ -273,13 +273,13 @@
                 },
                 {
                     "time": "30'",
-                    "player": "H. Ekitike",
+                    "player": "Hugo Ekitiké",
                     "detail": "Yellow Card",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "30'",
-                    "player": "N. Dorsch",
+                    "player": "Niklas Dorsch",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
                 },
@@ -291,67 +291,67 @@
                 },
                 {
                     "time": "46'",
-                    "player": "P. Wanner",
+                    "player": "N. Dorsch",
                     "detail": "Substitution 1",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "46'",
-                    "player": "S. Conteh",
+                    "player": "B. Gimber",
                     "detail": "Substitution 2",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "61'",
-                    "player": "N. Collins",
+                    "player": "R. Kristensen",
                     "detail": "Substitution 1",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "61'",
-                    "player": "N. Brown",
+                    "player": "C. Uzun",
                     "detail": "Substitution 2",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "68'",
-                    "player": "S. Schimmer",
+                    "player": "F. Krätzig",
                     "detail": "Substitution 3",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "68'",
-                    "player": "J. Fohrenbach",
+                    "player": "M. Busch",
                     "detail": "Substitution 4",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "70'",
-                    "player": "H. Larsson",
+                    "player": "J. Bahoya",
                     "detail": "Substitution 3",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "70'",
-                    "player": "M. Gotze",
+                    "player": "O. Højlund",
                     "detail": "Substitution 4",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "71'",
-                    "player": "H. Ekitike",
+                    "player": "H. Ekitiké",
                     "detail": "Normal Goal",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "76'",
-                    "player": "E. Wahi",
+                    "player": "H. Ekitiké",
                     "detail": "Substitution 5",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "76'",
-                    "player": "T. Keller",
+                    "player": "M. Pieringer",
                     "detail": "Substitution 5",
                     "team": "1. FC Heidenheim"
                 }
@@ -1131,7 +1131,7 @@
             "events": [
                 {
                     "time": "6'",
-                    "player": "M. Weiser",
+                    "player": "Mitchell Weiser",
                     "detail": "Yellow Card",
                     "team": "Werder Bremen"
                 },
@@ -1149,92 +1149,92 @@
                 },
                 {
                     "time": "40'",
-                    "player": "A. Karazor",
+                    "player": "Atakan Karazor",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "42'",
-                    "player": "R. Hendriks",
+                    "player": "J. Chabot",
                     "detail": "Substitution 1",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "44'",
-                    "player": "J. Stage",
+                    "player": "Jens Stage",
                     "detail": "Yellow Card",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "46'",
-                    "player": "F. Rieder",
+                    "player": "J. Leweling",
                     "detail": "Substitution 2",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "49'",
-                    "player": "N. Woltemade",
+                    "player": "Nick Woltemade",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "65'",
-                    "player": "N. Woltemade",
+                    "player": "Nick Woltemade",
                     "detail": "Red Card",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "65'",
-                    "player": "N. Woltemade",
+                    "player": "Nick Woltemade",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "77'",
-                    "player": "L. Bittencourt",
+                    "player": "J. Stage",
                     "detail": "Substitution 1",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "79'",
-                    "player": "J. Bruun Larsen",
+                    "player": "C. Führich",
                     "detail": "Substitution 3",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "79'",
-                    "player": "Y. Keitel",
+                    "player": "A. Karazor",
                     "detail": "Substitution 4",
                     "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "84'",
-                    "player": "D. Kohn",
+                    "time": "85'",
+                    "player": "F. Agu",
                     "detail": "Substitution 2",
                     "team": "Werder Bremen"
                 },
                 {
-                    "time": "84'",
-                    "player": "Andre Silva",
+                    "time": "85'",
+                    "player": "M. Ducksch",
                     "detail": "Substitution 3",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "85'",
-                    "player": "D. Undav",
+                    "player": "E. Demirović",
                     "detail": "Substitution 5",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "90'",
-                    "player": "O. Burke",
-                    "detail": "Normal Goal",
+                    "player": "R. Schmid",
+                    "detail": "Substitution 4",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "90'",
-                    "player": "M. Grull",
-                    "detail": "Substitution 4",
+                    "player": "O. Burke",
+                    "detail": "Normal Goal",
                     "team": "Werder Bremen"
                 }
             ],
@@ -1441,7 +1441,7 @@
             "events": [
                 {
                     "time": "6'",
-                    "player": "M. Weiser",
+                    "player": "Mitchell Weiser",
                     "detail": "Yellow Card",
                     "team": "Werder Bremen"
                 },
@@ -1459,92 +1459,92 @@
                 },
                 {
                     "time": "40'",
-                    "player": "A. Karazor",
+                    "player": "Atakan Karazor",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "42'",
-                    "player": "R. Hendriks",
+                    "player": "J. Chabot",
                     "detail": "Substitution 1",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "44'",
-                    "player": "J. Stage",
+                    "player": "Jens Stage",
                     "detail": "Yellow Card",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "46'",
-                    "player": "F. Rieder",
+                    "player": "J. Leweling",
                     "detail": "Substitution 2",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "49'",
-                    "player": "N. Woltemade",
+                    "player": "Nick Woltemade",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "65'",
-                    "player": "N. Woltemade",
+                    "player": "Nick Woltemade",
                     "detail": "Red Card",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "65'",
-                    "player": "N. Woltemade",
+                    "player": "Nick Woltemade",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "77'",
-                    "player": "L. Bittencourt",
+                    "player": "J. Stage",
                     "detail": "Substitution 1",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "79'",
-                    "player": "J. Bruun Larsen",
+                    "player": "C. Führich",
                     "detail": "Substitution 3",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "79'",
-                    "player": "Y. Keitel",
+                    "player": "A. Karazor",
                     "detail": "Substitution 4",
                     "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "84'",
-                    "player": "D. Kohn",
+                    "time": "85'",
+                    "player": "F. Agu",
                     "detail": "Substitution 2",
                     "team": "Werder Bremen"
                 },
                 {
-                    "time": "84'",
-                    "player": "Andre Silva",
+                    "time": "85'",
+                    "player": "M. Ducksch",
                     "detail": "Substitution 3",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "85'",
-                    "player": "D. Undav",
+                    "player": "E. Demirović",
                     "detail": "Substitution 5",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "90'",
-                    "player": "O. Burke",
-                    "detail": "Normal Goal",
+                    "player": "R. Schmid",
+                    "detail": "Substitution 4",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "90'",
-                    "player": "M. Grull",
-                    "detail": "Substitution 4",
+                    "player": "O. Burke",
+                    "detail": "Normal Goal",
                     "team": "Werder Bremen"
                 }
             ],
@@ -2228,13 +2228,13 @@
                 },
                 {
                     "time": "30'",
-                    "player": "H. Ekitike",
+                    "player": "Hugo Ekitiké",
                     "detail": "Yellow Card",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "30'",
-                    "player": "N. Dorsch",
+                    "player": "Niklas Dorsch",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
                 },
@@ -2246,67 +2246,67 @@
                 },
                 {
                     "time": "46'",
-                    "player": "P. Wanner",
+                    "player": "N. Dorsch",
                     "detail": "Substitution 1",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "46'",
-                    "player": "S. Conteh",
+                    "player": "B. Gimber",
                     "detail": "Substitution 2",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "61'",
-                    "player": "N. Collins",
+                    "player": "R. Kristensen",
                     "detail": "Substitution 1",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "61'",
-                    "player": "N. Brown",
+                    "player": "C. Uzun",
                     "detail": "Substitution 2",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "68'",
-                    "player": "S. Schimmer",
+                    "player": "F. Krätzig",
                     "detail": "Substitution 3",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "68'",
-                    "player": "J. Fohrenbach",
+                    "player": "M. Busch",
                     "detail": "Substitution 4",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "70'",
-                    "player": "H. Larsson",
+                    "player": "J. Bahoya",
                     "detail": "Substitution 3",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "70'",
-                    "player": "M. Gotze",
+                    "player": "O. Højlund",
                     "detail": "Substitution 4",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "71'",
-                    "player": "H. Ekitike",
+                    "player": "H. Ekitiké",
                     "detail": "Normal Goal",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "76'",
-                    "player": "E. Wahi",
+                    "player": "H. Ekitiké",
                     "detail": "Substitution 5",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "76'",
-                    "player": "T. Keller",
+                    "player": "M. Pieringer",
                     "detail": "Substitution 5",
                     "team": "1. FC Heidenheim"
                 }
