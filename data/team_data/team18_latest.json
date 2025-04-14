@@ -131,7 +131,7 @@
             "opponent": "Union Berlin",
             "score": "0 - 0",
             "stadium": "BayArena",
-            "referee": "B. Dankert",
+            "referee": "Bastian Dankert, Germany",
             "league_round": "Regular Season - 29",
             "events": [
                 {
@@ -405,7 +405,7 @@
             "opponent": "VfL Wolfsburg",
             "score": "2 - 3",
             "stadium": "Volkswagen Arena",
-            "referee": "F. Exner",
+            "referee": "Florian Exner, Germany",
             "league_round": "Regular Season - 29",
             "events": [
                 {
@@ -578,7 +578,7 @@
             "opponent": "1899 Hoffenheim",
             "score": "2 - 0",
             "stadium": "PreZero Arena",
-            "referee": "S. Jablonski",
+            "referee": "Sven Jablonski, Germany",
             "league_round": "Regular Season - 29",
             "events": [
                 {
@@ -727,7 +727,7 @@
             "opponent": "Borussia Mönchengladbach",
             "score": "1 - 2",
             "stadium": "BORUSSIA-PARK",
-            "referee": "D. Aytekin",
+            "referee": "Deniz Aytekin, Germany",
             "league_round": "Regular Season - 29",
             "events": [
                 {
@@ -864,7 +864,7 @@
             "opponent": "SC Freiburg",
             "score": "1 - 2",
             "stadium": "BORUSSIA-PARK",
-            "referee": "D. Aytekin",
+            "referee": "Deniz Aytekin, Germany",
             "league_round": "Regular Season - 29",
             "events": [
                 {
@@ -1287,7 +1287,7 @@
             "opponent": "VfL Bochum",
             "score": "1 - 2",
             "stadium": "Vonovia Ruhrstadion",
-            "referee": "M. Petersen",
+            "referee": "Martin Petersen, Germany",
             "league_round": "Regular Season - 29",
             "events": [
                 {
@@ -1597,7 +1597,7 @@
             "opponent": "RB Leipzig",
             "score": "2 - 3",
             "stadium": "Volkswagen Arena",
-            "referee": "F. Exner",
+            "referee": "Florian Exner, Germany",
             "league_round": "Regular Season - 29",
             "events": [
                 {
@@ -1770,7 +1770,7 @@
             "opponent": "Bayer Leverkusen",
             "score": "0 - 0",
             "stadium": "BayArena",
-            "referee": "B. Dankert",
+            "referee": "Bastian Dankert, Germany",
             "league_round": "Regular Season - 29",
             "events": [
                 {
@@ -1901,7 +1901,7 @@
             "opponent": "FSV Mainz 05",
             "score": "2 - 0",
             "stadium": "PreZero Arena",
-            "referee": "S. Jablonski",
+            "referee": "Sven Jablonski, Germany",
             "league_round": "Regular Season - 29",
             "events": [
                 {
@@ -2050,7 +2050,7 @@
             "opponent": "Holstein Kiel",
             "score": "1 - 2",
             "stadium": "Holstein-Stadion",
-            "referee": "B. Brand",
+            "referee": "Benjamin Brand, Germany",
             "league_round": "Regular Season - 29",
             "events": [
                 {
@@ -2360,7 +2360,7 @@
             "opponent": "FC Augsburg",
             "score": "1 - 2",
             "stadium": "Vonovia Ruhrstadion",
-            "referee": "M. Petersen",
+            "referee": "Martin Petersen, Germany",
             "league_round": "Regular Season - 29",
             "events": [
                 {
@@ -2509,7 +2509,7 @@
             "opponent": "FC St. Pauli",
             "score": "1 - 2",
             "stadium": "Holstein-Stadion",
-            "referee": "B. Brand",
+            "referee": "Benjamin Brand, Germany",
             "league_round": "Regular Season - 29",
             "events": [
                 {
