@@ -642,20 +642,20 @@
                     "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "82'",
+                    "time": "83'",
                     "player": "D. Kohr",
                     "detail": "Substitution 3",
                     "team": "FSV Mainz 05"
                 },
                 {
                     "time": "85'",
-                    "player": "A. Kramarić",
+                    "player": "H. Tabaković",
                     "detail": "Substitution 3",
                     "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "85'",
-                    "player": "H. Tabaković",
+                    "time": "86'",
+                    "player": "A. Kramarić",
                     "detail": "Substitution 4",
                     "team": "1899 Hoffenheim"
                 },
@@ -743,26 +743,26 @@
                     "team": "SC Freiburg"
                 },
                 {
-                    "time": "61'",
+                    "time": "60'",
                     "player": "L. Kübler",
                     "detail": "Substitution 1",
                     "team": "SC Freiburg"
                 },
                 {
-                    "time": "61'",
+                    "time": "60'",
                     "player": "V. Grifo",
                     "detail": "Substitution 2",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "63'",
-                    "player": "L. Netz",
+                    "player": "A. Pléa",
                     "detail": "Substitution 1",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
-                    "time": "63'",
-                    "player": "A. Pléa",
+                    "time": "64'",
+                    "player": "L. Netz",
                     "detail": "Substitution 2",
                     "team": "Borussia Mönchengladbach"
                 },
@@ -880,26 +880,26 @@
                     "team": "SC Freiburg"
                 },
                 {
-                    "time": "61'",
+                    "time": "60'",
                     "player": "L. Kübler",
                     "detail": "Substitution 1",
                     "team": "SC Freiburg"
                 },
                 {
-                    "time": "61'",
+                    "time": "60'",
                     "player": "V. Grifo",
                     "detail": "Substitution 2",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "63'",
-                    "player": "L. Netz",
+                    "player": "A. Pléa",
                     "detail": "Substitution 1",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
-                    "time": "63'",
-                    "player": "A. Pléa",
+                    "time": "64'",
+                    "player": "L. Netz",
                     "detail": "Substitution 2",
                     "team": "Borussia Mönchengladbach"
                 },
@@ -1333,15 +1333,15 @@
                     "team": "VfL Bochum"
                 },
                 {
-                    "time": "80'",
+                    "time": "79'",
                     "player": "Arne Maier",
-                    "detail": "Red Card",
+                    "detail": "Card upgrade",
                     "team": "FC Augsburg"
                 },
                 {
-                    "time": "80'",
+                    "time": "81'",
                     "player": "Arne Maier",
-                    "detail": "Card upgrade",
+                    "detail": "Red Card",
                     "team": "FC Augsburg"
                 },
                 {
@@ -1965,20 +1965,20 @@
                     "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "82'",
+                    "time": "83'",
                     "player": "D. Kohr",
                     "detail": "Substitution 3",
                     "team": "FSV Mainz 05"
                 },
                 {
                     "time": "85'",
-                    "player": "A. Kramarić",
+                    "player": "H. Tabaković",
                     "detail": "Substitution 3",
                     "team": "1899 Hoffenheim"
                 },
                 {
-                    "time": "85'",
-                    "player": "H. Tabaković",
+                    "time": "86'",
+                    "player": "A. Kramarić",
                     "detail": "Substitution 4",
                     "team": "1899 Hoffenheim"
                 },
@@ -2096,7 +2096,7 @@
                     "team": "Holstein Kiel"
                 },
                 {
-                    "time": "61'",
+                    "time": "60'",
                     "player": "O. Afolayan",
                     "detail": "Substitution 2",
                     "team": "FC St. Pauli"
@@ -2120,7 +2120,7 @@
                     "team": "Holstein Kiel"
                 },
                 {
-                    "time": "76'",
+                    "time": "75'",
                     "player": "M. Knudsen",
                     "detail": "Substitution 4",
                     "team": "Holstein Kiel"
@@ -2406,15 +2406,15 @@
                     "team": "VfL Bochum"
                 },
                 {
-                    "time": "80'",
+                    "time": "79'",
                     "player": "Arne Maier",
-                    "detail": "Red Card",
+                    "detail": "Card upgrade",
                     "team": "FC Augsburg"
                 },
                 {
-                    "time": "80'",
+                    "time": "81'",
                     "player": "Arne Maier",
-                    "detail": "Card upgrade",
+                    "detail": "Red Card",
                     "team": "FC Augsburg"
                 },
                 {
@@ -2555,7 +2555,7 @@
                     "team": "Holstein Kiel"
                 },
                 {
-                    "time": "61'",
+                    "time": "60'",
                     "player": "O. Afolayan",
                     "detail": "Substitution 2",
                     "team": "FC St. Pauli"
@@ -2579,7 +2579,7 @@
                     "team": "Holstein Kiel"
                 },
                 {
-                    "time": "76'",
+                    "time": "75'",
                     "player": "M. Knudsen",
                     "detail": "Substitution 4",
                     "team": "Holstein Kiel"
