@@ -95,7 +95,7 @@
         },
         {
             "time": {
-                "elapsed": 61,
+                "elapsed": 60,
                 "extra": null
             },
             "team": {
@@ -117,7 +117,7 @@
         },
         {
             "time": {
-                "elapsed": 61,
+                "elapsed": 60,
                 "extra": null
             },
             "team": {
@@ -148,12 +148,12 @@
                 "logo": "https://media.api-sports.io/football/teams/163.png"
             },
             "player": {
-                "id": 163069,
-                "name": "L. Netz"
+                "id": 25646,
+                "name": "A. Pléa"
             },
             "assist": {
-                "id": 327646,
-                "name": "L. Ullrich"
+                "id": 25461,
+                "name": "K. Stöger"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -161,7 +161,7 @@
         },
         {
             "time": {
-                "elapsed": 63,
+                "elapsed": 64,
                 "extra": null
             },
             "team": {
@@ -170,12 +170,12 @@
                 "logo": "https://media.api-sports.io/football/teams/163.png"
             },
             "player": {
-                "id": 25646,
-                "name": "A. Pléa"
+                "id": 163069,
+                "name": "L. Netz"
             },
             "assist": {
-                "id": 25461,
-                "name": "K. Stöger"
+                "id": 327646,
+                "name": "L. Ullrich"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -420,7 +420,7 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 376
+                    "value": 377
                 },
                 {
                     "type": "Passes accurate",
@@ -428,11 +428,11 @@
                 },
                 {
                     "type": "Passes %",
-                    "value": "78%"
+                    "value": "77%"
                 },
                 {
                     "type": "expected_goals",
-                    "value": "0.84"
+                    "value": "0.71"
                 },
                 {
                     "type": "goals_prevented",
@@ -501,7 +501,7 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 527
+                    "value": 529
                 },
                 {
                     "type": "Passes accurate",
@@ -509,11 +509,11 @@
                 },
                 {
                     "type": "Passes %",
-                    "value": "87%"
+                    "value": "86%"
                 },
                 {
                     "type": "expected_goals",
-                    "value": "1.77"
+                    "value": "1.72"
                 },
                 {
                     "type": "goals_prevented",
