@@ -104,12 +104,12 @@
                 "logo": "https://media.api-sports.io/football/teams/182.png"
             },
             "player": {
-                "id": 45892,
-                "name": "A. Ilić"
+                "id": 24910,
+                "name": "T. Skarke"
             },
             "assist": {
-                "id": 664,
-                "name": "L. Tousart"
+                "id": 162946,
+                "name": "B. Hollerbach"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -117,7 +117,7 @@
         },
         {
             "time": {
-                "elapsed": 60,
+                "elapsed": 61,
                 "extra": null
             },
             "team": {
@@ -126,12 +126,12 @@
                 "logo": "https://media.api-sports.io/football/teams/182.png"
             },
             "player": {
-                "id": 24910,
-                "name": "T. Skarke"
+                "id": 45892,
+                "name": "A. Ilić"
             },
             "assist": {
-                "id": 162946,
-                "name": "B. Hollerbach"
+                "id": 664,
+                "name": "L. Tousart"
             },
             "type": "subst",
             "detail": "Substitution 2",
