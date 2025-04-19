@@ -480,7 +480,7 @@
                 },
                 {
                     "type": "Fouls",
-                    "value": 7
+                    "value": 8
                 },
                 {
                     "type": "Corner Kicks",
@@ -508,11 +508,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 325
+                    "value": 342
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 263
+                    "value": 278
                 },
                 {
                     "type": "Passes %",
@@ -589,11 +589,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 727
+                    "value": 770
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 671
+                    "value": 711
                 },
                 {
                     "type": "Passes %",
