@@ -579,167 +579,6 @@
             "squad": []
         },
         {
-            "team": "FSV Mainz 05",
-            "date": "2025-04-19 13:30",
-            "opponent": "VfL Wolfsburg",
-            "score": "2 - 2",
-            "stadium": "MEWA ARENA",
-            "referee": "Felix Zwayer, Germany",
-            "league_round": "Regular Season - 30",
-            "events": [
-                {
-                    "time": "3'",
-                    "player": "M. Arnold",
-                    "detail": "Normal Goal",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "37'",
-                    "player": "Lee Jae-Sung",
-                    "detail": "Normal Goal",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "40'",
-                    "player": "D. Kohr",
-                    "detail": "Normal Goal",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "51'",
-                    "player": "D. Kohr",
-                    "detail": "Yellow Card",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "63'",
-                    "player": "T. Tomas",
-                    "detail": "Substitution 1",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "63'",
-                    "player": "L. Nmecha",
-                    "detail": "Substitution 2",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "63'",
-                    "player": "M. Svanberg",
-                    "detail": "Substitution 3",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "67'",
-                    "player": "N. Veratschnig",
-                    "detail": "Yellow Card",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "68'",
-                    "player": "T. Tomas",
-                    "detail": "Yellow Card",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "74'",
-                    "player": "J. Kaminski",
-                    "detail": "Substitution 4",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "76'",
-                    "player": "Hong Hyun-Seok",
-                    "detail": "Substitution 1",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "76'",
-                    "player": "A. Hanche-Olsen",
-                    "detail": "Substitution 2",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "85'",
-                    "player": "L. Majer",
-                    "detail": "Substitution 5",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "89'",
-                    "player": "D. Vavro",
-                    "detail": "Normal Goal",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "89'",
-                    "player": "S. Widmer",
-                    "detail": "Substitution 3",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "90'",
-                    "player": "J. Maehle",
-                    "detail": "Yellow Card",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "90'",
-                    "player": "A. Nordin",
-                    "detail": "Substitution 4",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "90'",
-                    "player": "D. Vavro",
-                    "detail": "Yellow Card",
-                    "team": "VfL Wolfsburg"
-                }
-            ],
-            "odds": {
-                "home": "N/A",
-                "draw": "N/A",
-                "away": "N/A"
-            },
-            "past_results": [
-                {
-                    "date": "2025-04-19 13:30",
-                    "score": "2 - 2"
-                },
-                {
-                    "date": "2025-04-12 13:30",
-                    "score": "2 - 0"
-                },
-                {
-                    "date": "2025-04-05 13:30",
-                    "score": "1 - 1"
-                },
-                {
-                    "date": "2025-03-30 15:30",
-                    "score": "3 - 1"
-                },
-                {
-                    "date": "2025-03-15 14:30",
-                    "score": "2 - 2"
-                }
-            ],
-            "future_games": [
-                {
-                    "date": "2025-04-26 13:30",
-                    "opponent": "Bayern München"
-                },
-                {
-                    "date": "2025-05-04 17:30",
-                    "opponent": "Eintracht Frankfurt"
-                },
-                {
-                    "date": "2025-05-10 13:30",
-                    "opponent": "VfL Bochum"
-                }
-            ],
-            "squad": []
-        },
-        {
             "team": "SC Freiburg",
             "date": "2025-04-19 13:30",
             "opponent": "1899 Hoffenheim",
@@ -908,6 +747,328 @@
                 {
                     "date": "2025-05-10 13:30",
                     "opponent": "Holstein Kiel"
+                }
+            ],
+            "squad": []
+        },
+        {
+            "team": "FSV Mainz 05",
+            "date": "2025-04-19 13:30",
+            "opponent": "VfL Wolfsburg",
+            "score": "2 - 2",
+            "stadium": "MEWA ARENA",
+            "referee": "Felix Zwayer, Germany",
+            "league_round": "Regular Season - 30",
+            "events": [
+                {
+                    "time": "3'",
+                    "player": "M. Arnold",
+                    "detail": "Normal Goal",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "37'",
+                    "player": "Lee Jae-Sung",
+                    "detail": "Normal Goal",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "40'",
+                    "player": "D. Kohr",
+                    "detail": "Normal Goal",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "51'",
+                    "player": "D. Kohr",
+                    "detail": "Yellow Card",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "63'",
+                    "player": "T. Tomas",
+                    "detail": "Substitution 1",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "63'",
+                    "player": "L. Nmecha",
+                    "detail": "Substitution 2",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "63'",
+                    "player": "M. Svanberg",
+                    "detail": "Substitution 3",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "67'",
+                    "player": "N. Veratschnig",
+                    "detail": "Yellow Card",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "68'",
+                    "player": "T. Tomas",
+                    "detail": "Yellow Card",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "74'",
+                    "player": "J. Kaminski",
+                    "detail": "Substitution 4",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "76'",
+                    "player": "Hong Hyun-Seok",
+                    "detail": "Substitution 1",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "76'",
+                    "player": "A. Hanche-Olsen",
+                    "detail": "Substitution 2",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "85'",
+                    "player": "L. Majer",
+                    "detail": "Substitution 5",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "89'",
+                    "player": "D. Vavro",
+                    "detail": "Normal Goal",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "89'",
+                    "player": "S. Widmer",
+                    "detail": "Substitution 3",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "90'",
+                    "player": "J. Maehle",
+                    "detail": "Yellow Card",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "90'",
+                    "player": "A. Nordin",
+                    "detail": "Substitution 4",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "90'",
+                    "player": "D. Vavro",
+                    "detail": "Yellow Card",
+                    "team": "VfL Wolfsburg"
+                }
+            ],
+            "odds": {
+                "home": "N/A",
+                "draw": "N/A",
+                "away": "N/A"
+            },
+            "past_results": [
+                {
+                    "date": "2025-04-19 13:30",
+                    "score": "2 - 2"
+                },
+                {
+                    "date": "2025-04-12 13:30",
+                    "score": "2 - 0"
+                },
+                {
+                    "date": "2025-04-05 13:30",
+                    "score": "1 - 1"
+                },
+                {
+                    "date": "2025-03-30 15:30",
+                    "score": "3 - 1"
+                },
+                {
+                    "date": "2025-03-15 14:30",
+                    "score": "2 - 2"
+                }
+            ],
+            "future_games": [
+                {
+                    "date": "2025-04-26 13:30",
+                    "opponent": "Bayern München"
+                },
+                {
+                    "date": "2025-05-04 17:30",
+                    "opponent": "Eintracht Frankfurt"
+                },
+                {
+                    "date": "2025-05-10 13:30",
+                    "opponent": "VfL Bochum"
+                }
+            ],
+            "squad": []
+        },
+        {
+            "team": "Werder Bremen",
+            "date": "2025-04-19 13:30",
+            "opponent": "VfL Bochum",
+            "score": "1 - 0",
+            "stadium": "Weserstadion",
+            "referee": "Robert Schröder, Germany",
+            "league_round": "Regular Season - 30",
+            "events": [
+                {
+                    "time": "27'",
+                    "player": "M. Weiser",
+                    "detail": "Yellow Card",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "34'",
+                    "player": "I. Sissoko",
+                    "detail": "Yellow Card",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "55'",
+                    "player": "M. Ducksch",
+                    "detail": "Goal Disallowed - offside",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "63'",
+                    "player": "M. Boadu",
+                    "detail": "Substitution 1",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "68'",
+                    "player": "L. Bittencourt",
+                    "detail": "Substitution 1",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "68'",
+                    "player": "M. Grull",
+                    "detail": "Substitution 2",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "68'",
+                    "player": "J. Njinmah",
+                    "detail": "Substitution 3",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "78'",
+                    "player": "E. Masovic",
+                    "detail": "Substitution 2",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "78'",
+                    "player": "S. Bamba",
+                    "detail": "Substitution 3",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "79'",
+                    "player": "M. Broschinski",
+                    "detail": "Substitution 4",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "80'",
+                    "player": "M. Weiser",
+                    "detail": "Normal Goal",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "84'",
+                    "player": "E. Masovic",
+                    "detail": "Yellow Card",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "86'",
+                    "player": "N. Stark",
+                    "detail": "Yellow Card",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "86'",
+                    "player": "I. Sissoko",
+                    "detail": "Yellow Card",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "86'",
+                    "player": "I. Sissoko",
+                    "detail": "Red Card",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "88'",
+                    "player": "M. Pannewig",
+                    "detail": "Substitution 5",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "89'",
+                    "player": "K. Topp",
+                    "detail": "Substitution 4",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "90'",
+                    "player": "S. Lynen",
+                    "detail": "Yellow Card",
+                    "team": "Werder Bremen"
+                }
+            ],
+            "odds": {
+                "home": "N/A",
+                "draw": "N/A",
+                "away": "N/A"
+            },
+            "past_results": [
+                {
+                    "date": "2025-04-19 13:30",
+                    "score": "1 - 0"
+                },
+                {
+                    "date": "2025-04-13 13:30",
+                    "score": "1 - 2"
+                },
+                {
+                    "date": "2025-04-05 16:30",
+                    "score": "2 - 0"
+                },
+                {
+                    "date": "2025-03-29 14:30",
+                    "score": "0 - 3"
+                },
+                {
+                    "date": "2025-03-15 14:30",
+                    "score": "2 - 4"
+                }
+            ],
+            "future_games": [
+                {
+                    "date": "2025-04-27 15:30",
+                    "opponent": "FC St. Pauli"
+                },
+                {
+                    "date": "2025-05-03 13:30",
+                    "opponent": "Union Berlin"
+                },
+                {
+                    "date": "2025-05-10 13:30",
+                    "opponent": "RB Leipzig"
                 }
             ],
             "squad": []
@@ -1170,167 +1331,6 @@
                 {
                     "date": "2025-05-03 16:30",
                     "opponent": "VfL Wolfsburg"
-                }
-            ],
-            "squad": []
-        },
-        {
-            "team": "Werder Bremen",
-            "date": "2025-04-19 13:30",
-            "opponent": "VfL Bochum",
-            "score": "1 - 0",
-            "stadium": "Weserstadion",
-            "referee": "Robert Schröder, Germany",
-            "league_round": "Regular Season - 30",
-            "events": [
-                {
-                    "time": "27'",
-                    "player": "M. Weiser",
-                    "detail": "Yellow Card",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "34'",
-                    "player": "I. Sissoko",
-                    "detail": "Yellow Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "55'",
-                    "player": "M. Ducksch",
-                    "detail": "Goal Disallowed - offside",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "63'",
-                    "player": "M. Boadu",
-                    "detail": "Substitution 1",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "68'",
-                    "player": "L. Bittencourt",
-                    "detail": "Substitution 1",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "68'",
-                    "player": "M. Grull",
-                    "detail": "Substitution 2",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "68'",
-                    "player": "J. Njinmah",
-                    "detail": "Substitution 3",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "78'",
-                    "player": "E. Masovic",
-                    "detail": "Substitution 2",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "78'",
-                    "player": "S. Bamba",
-                    "detail": "Substitution 3",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "79'",
-                    "player": "M. Broschinski",
-                    "detail": "Substitution 4",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "80'",
-                    "player": "M. Weiser",
-                    "detail": "Normal Goal",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "84'",
-                    "player": "E. Masovic",
-                    "detail": "Yellow Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "86'",
-                    "player": "N. Stark",
-                    "detail": "Yellow Card",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "86'",
-                    "player": "I. Sissoko",
-                    "detail": "Yellow Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "86'",
-                    "player": "I. Sissoko",
-                    "detail": "Red Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "88'",
-                    "player": "M. Pannewig",
-                    "detail": "Substitution 5",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "89'",
-                    "player": "K. Topp",
-                    "detail": "Substitution 4",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "90'",
-                    "player": "S. Lynen",
-                    "detail": "Yellow Card",
-                    "team": "Werder Bremen"
-                }
-            ],
-            "odds": {
-                "home": "N/A",
-                "draw": "N/A",
-                "away": "N/A"
-            },
-            "past_results": [
-                {
-                    "date": "2025-04-19 13:30",
-                    "score": "1 - 0"
-                },
-                {
-                    "date": "2025-04-13 13:30",
-                    "score": "1 - 2"
-                },
-                {
-                    "date": "2025-04-05 16:30",
-                    "score": "2 - 0"
-                },
-                {
-                    "date": "2025-03-29 14:30",
-                    "score": "0 - 3"
-                },
-                {
-                    "date": "2025-03-15 14:30",
-                    "score": "2 - 4"
-                }
-            ],
-            "future_games": [
-                {
-                    "date": "2025-04-27 15:30",
-                    "opponent": "FC St. Pauli"
-                },
-                {
-                    "date": "2025-05-03 13:30",
-                    "opponent": "Union Berlin"
-                },
-                {
-                    "date": "2025-05-10 13:30",
-                    "opponent": "RB Leipzig"
                 }
             ],
             "squad": []
