@@ -5,7 +5,7 @@
             "team": {
                 "name": "Bayern München"
             },
-            "wins": 21,
+            "wins": 22,
             "draws": 6,
             "losses": 2
         },
@@ -33,29 +33,38 @@
                 "name": "RB Leipzig"
             },
             "wins": 13,
-            "draws": 9,
+            "draws": 10,
             "losses": 7
         },
         {
             "rank": 5,
             "team": {
-                "name": "FSV Mainz 05"
-            },
-            "wins": 13,
-            "draws": 7,
-            "losses": 9
-        },
-        {
-            "rank": 6,
-            "team": {
                 "name": "SC Freiburg"
             },
-            "wins": 13,
+            "wins": 14,
             "draws": 6,
             "losses": 10
         },
         {
+            "rank": 6,
+            "team": {
+                "name": "FSV Mainz 05"
+            },
+            "wins": 13,
+            "draws": 8,
+            "losses": 9
+        },
+        {
             "rank": 7,
+            "team": {
+                "name": "Werder Bremen"
+            },
+            "wins": 13,
+            "draws": 6,
+            "losses": 11
+        },
+        {
+            "rank": 8,
             "team": {
                 "name": "Borussia Mönchengladbach"
             },
@@ -64,18 +73,9 @@
             "losses": 11
         },
         {
-            "rank": 8,
-            "team": {
-                "name": "Borussia Dortmund"
-            },
-            "wins": 12,
-            "draws": 6,
-            "losses": 11
-        },
-        {
             "rank": 9,
             "team": {
-                "name": "Werder Bremen"
+                "name": "Borussia Dortmund"
             },
             "wins": 12,
             "draws": 6,
@@ -105,7 +105,7 @@
                 "name": "VfL Wolfsburg"
             },
             "wins": 10,
-            "draws": 8,
+            "draws": 9,
             "losses": 11
         },
         {
@@ -124,7 +124,7 @@
             },
             "wins": 7,
             "draws": 9,
-            "losses": 13
+            "losses": 14
         },
         {
             "rank": 15,
@@ -142,7 +142,7 @@
             },
             "wins": 6,
             "draws": 4,
-            "losses": 19
+            "losses": 20
         },
         {
             "rank": 17,
@@ -151,7 +151,7 @@
             },
             "wins": 5,
             "draws": 5,
-            "losses": 19
+            "losses": 20
         },
         {
             "rank": 18,
@@ -159,7 +159,7 @@
                 "name": "Holstein Kiel"
             },
             "wins": 4,
-            "draws": 6,
+            "draws": 7,
             "losses": 19
         }
     ]
