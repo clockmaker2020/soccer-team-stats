@@ -205,7 +205,7 @@
         },
         {
             "time": {
-                "elapsed": 68,
+                "elapsed": 67,
                 "extra": null
             },
             "team": {
@@ -315,7 +315,7 @@
         },
         {
             "time": {
-                "elapsed": 86,
+                "elapsed": 85,
                 "extra": null
             },
             "team": {
@@ -333,28 +333,6 @@
             },
             "type": "subst",
             "detail": "Substitution 5",
-            "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 89,
-                "extra": null
-            },
-            "team": {
-                "id": 164,
-                "name": "FSV Mainz 05",
-                "logo": "https://media.api-sports.io/football/teams/164.png"
-            },
-            "player": {
-                "id": 48378,
-                "name": "S. Widmer"
-            },
-            "assist": {
-                "id": 283753,
-                "name": "N. Veratschnig"
-            },
-            "type": "subst",
-            "detail": "Substitution 3",
             "comments": null
         },
         {
@@ -381,6 +359,28 @@
         },
         {
             "time": {
+                "elapsed": 89,
+                "extra": null
+            },
+            "team": {
+                "id": 164,
+                "name": "FSV Mainz 05",
+                "logo": "https://media.api-sports.io/football/teams/164.png"
+            },
+            "player": {
+                "id": 48378,
+                "name": "S. Widmer"
+            },
+            "assist": {
+                "id": 283753,
+                "name": "N. Veratschnig"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
                 "elapsed": 90,
                 "extra": null
             },
@@ -399,7 +399,51 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
+            "comments": "Unsportsmanlike conduct"
+        },
+        {
+            "time": {
+                "elapsed": 90,
+                "extra": 2
+            },
+            "team": {
+                "id": 164,
+                "name": "FSV Mainz 05",
+                "logo": "https://media.api-sports.io/football/teams/164.png"
+            },
+            "player": {
+                "id": 22097,
+                "name": "A. Nordin"
+            },
+            "assist": {
+                "id": 2906,
+                "name": "Lee Jae-Sung"
+            },
+            "type": "subst",
+            "detail": "Substitution 4",
             "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 90,
+                "extra": 3
+            },
+            "team": {
+                "id": 161,
+                "name": "VfL Wolfsburg",
+                "logo": "https://media.api-sports.io/football/teams/161.png"
+            },
+            "player": {
+                "id": 1291,
+                "name": "D. Vavro"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Foul"
         }
     ],
     "statistics": [
