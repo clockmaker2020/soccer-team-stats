@@ -734,6 +734,42 @@
             "substitutes": [
                 {
                     "player": {
+                        "id": 203011,
+                        "name": "Julian Niehues",
+                        "number": 16,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 283323,
+                        "name": "Leo Scienza",
+                        "number": 8,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 280055,
+                        "name": "Luca Kerber",
+                        "number": 20,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 327895,
+                        "name": "Paul Wanner",
+                        "number": 10,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 24891,
                         "name": "Vitus Eicher",
                         "number": 22,
@@ -761,45 +797,9 @@
                 },
                 {
                     "player": {
-                        "id": 203011,
-                        "name": "Julian Niehues",
-                        "number": 16,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 280055,
-                        "name": "Luca Kerber",
-                        "number": 20,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 125723,
                         "name": "Thomas Keller",
                         "number": 27,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 283323,
-                        "name": "Leo Scienza",
-                        "number": 8,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 327895,
-                        "name": "Paul Wanner",
-                        "number": 10,
                         "pos": "M",
                         "grid": null
                     }
@@ -943,24 +943,6 @@
             "substitutes": [
                 {
                     "player": {
-                        "id": 126530,
-                        "name": "Daniel Peretz",
-                        "number": 18,
-                        "pos": "G",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 2897,
-                        "name": "Min-jae Kim",
-                        "number": 3,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 2195,
                         "name": "Sacha Boey",
                         "number": 23,
@@ -979,15 +961,6 @@
                 },
                 {
                     "player": {
-                        "id": 41104,
-                        "name": "João Palhinha",
-                        "number": 16,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 644,
                         "name": "Leroy Sané",
                         "number": 10,
@@ -1000,6 +973,33 @@
                         "id": 280334,
                         "name": "Gabriel Vidović",
                         "number": 24,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 126530,
+                        "name": "Daniel Peretz",
+                        "number": 18,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 2897,
+                        "name": "Min-jae Kim",
+                        "number": 3,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 41104,
+                        "name": "João Palhinha",
+                        "number": 16,
                         "pos": "M",
                         "grid": null
                     }
