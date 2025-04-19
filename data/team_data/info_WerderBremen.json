@@ -456,15 +456,15 @@
             "statistics": [
                 {
                     "type": "Shots on Goal",
-                    "value": 3
+                    "value": 4
                 },
                 {
                     "type": "Shots off Goal",
-                    "value": 7
+                    "value": 8
                 },
                 {
                     "type": "Total Shots",
-                    "value": 12
+                    "value": 14
                 },
                 {
                     "type": "Blocked Shots",
@@ -472,15 +472,15 @@
                 },
                 {
                     "type": "Shots insidebox",
-                    "value": 10
+                    "value": 11
                 },
                 {
                     "type": "Shots outsidebox",
-                    "value": 2
+                    "value": 3
                 },
                 {
                     "type": "Fouls",
-                    "value": 8
+                    "value": 9
                 },
                 {
                     "type": "Corner Kicks",
@@ -492,11 +492,11 @@
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "49%"
+                    "value": "48%"
                 },
                 {
                     "type": "Yellow Cards",
-                    "value": 2
+                    "value": 3
                 },
                 {
                     "type": "Red Cards",
@@ -508,19 +508,19 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 370
+                    "value": 376
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 278
+                    "value": 280
                 },
                 {
                     "type": "Passes %",
-                    "value": "75%"
+                    "value": "74%"
                 },
                 {
                     "type": "expected_goals",
-                    "value": "2.19"
+                    "value": "2.26"
                 },
                 {
                     "type": "goals_prevented",
@@ -545,11 +545,11 @@
                 },
                 {
                     "type": "Total Shots",
-                    "value": 10
+                    "value": 12
                 },
                 {
                     "type": "Blocked Shots",
-                    "value": 5
+                    "value": 7
                 },
                 {
                     "type": "Shots insidebox",
@@ -557,7 +557,7 @@
                 },
                 {
                     "type": "Shots outsidebox",
-                    "value": 5
+                    "value": 7
                 },
                 {
                     "type": "Fouls",
@@ -573,7 +573,7 @@
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "51%"
+                    "value": "52%"
                 },
                 {
                     "type": "Yellow Cards",
@@ -585,15 +585,15 @@
                 },
                 {
                     "type": "Goalkeeper Saves",
-                    "value": 2
+                    "value": 3
                 },
                 {
                     "type": "Total passes",
-                    "value": 390
+                    "value": 408
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 273
+                    "value": 286
                 },
                 {
                     "type": "Passes %",
@@ -601,7 +601,7 @@
                 },
                 {
                     "type": "expected_goals",
-                    "value": "0.38"
+                    "value": "0.46"
                 },
                 {
                     "type": "goals_prevented",
@@ -761,6 +761,15 @@
                 },
                 {
                     "player": {
+                        "id": 334334,
+                        "name": "Keke Topp",
+                        "number": 42,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 329578,
                         "name": "Mio Backhaus",
                         "number": 30,
@@ -792,15 +801,6 @@
                         "name": "Anthony Jung",
                         "number": 3,
                         "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 334334,
-                        "name": "Keke Topp",
-                        "number": 42,
-                        "pos": "F",
                         "grid": null
                     }
                 },
@@ -979,6 +979,15 @@
                 },
                 {
                     "player": {
+                        "id": 336224,
+                        "name": "Mats Pannewig",
+                        "number": 24,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 26395,
                         "name": "Patrick Drewes",
                         "number": 27,
@@ -992,15 +1001,6 @@
                         "name": "Cristian Gamboa",
                         "number": 2,
                         "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 336224,
-                        "name": "Mats Pannewig",
-                        "number": 24,
-                        "pos": "M",
                         "grid": null
                     }
                 },
