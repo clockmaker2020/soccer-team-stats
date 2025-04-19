@@ -183,7 +183,7 @@
         },
         {
             "time": {
-                "elapsed": 67,
+                "elapsed": 66,
                 "extra": null
             },
             "team": {
@@ -316,7 +316,7 @@
         {
             "time": {
                 "elapsed": 90,
-                "extra": 2
+                "extra": 3
             },
             "team": {
                 "id": 173,
@@ -355,6 +355,28 @@
             },
             "type": "subst",
             "detail": "Substitution 5",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 90,
+                "extra": 8
+            },
+            "team": {
+                "id": 191,
+                "name": "Holstein Kiel",
+                "logo": "https://media.api-sports.io/football/teams/191.png"
+            },
+            "player": {
+                "id": 24887,
+                "name": "J. Arp"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
             "comments": null
         }
     ],
