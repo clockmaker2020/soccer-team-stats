@@ -1158,119 +1158,119 @@
         },
         {
             "team": "Werder Bremen",
-            "date": "2025-04-13 13:30",
-            "opponent": "VfB Stuttgart",
-            "score": "1 - 2",
-            "stadium": "MHPArena",
-            "referee": "D. Schlager",
-            "league_round": "Regular Season - 29",
+            "date": "2025-04-19 13:30",
+            "opponent": "VfL Bochum",
+            "score": "1 - 0",
+            "stadium": "Weserstadion",
+            "referee": "Robert Schröder, Germany",
+            "league_round": "Regular Season - 30",
             "events": [
                 {
-                    "time": "6'",
-                    "player": "Mitchell Weiser",
+                    "time": "27'",
+                    "player": "M. Weiser",
                     "detail": "Yellow Card",
                     "team": "Werder Bremen"
                 },
                 {
-                    "time": "19'",
-                    "player": "L. Stergiou",
-                    "detail": "Normal Goal",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "32'",
-                    "player": "O. Burke",
-                    "detail": "Normal Goal",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "40'",
-                    "player": "Atakan Karazor",
+                    "time": "34'",
+                    "player": "I. Sissoko",
                     "detail": "Yellow Card",
-                    "team": "VfB Stuttgart"
+                    "team": "VfL Bochum"
                 },
                 {
-                    "time": "42'",
-                    "player": "J. Chabot",
-                    "detail": "Substitution 1",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "44'",
-                    "player": "Jens Stage",
-                    "detail": "Yellow Card",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "46'",
-                    "player": "J. Leweling",
-                    "detail": "Substitution 2",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "49'",
-                    "player": "Nick Woltemade",
-                    "detail": "Yellow Card",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "65'",
-                    "player": "Nick Woltemade",
-                    "detail": "Red Card",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "65'",
-                    "player": "Nick Woltemade",
-                    "detail": "Yellow Card",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "77'",
-                    "player": "J. Stage",
-                    "detail": "Substitution 1",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "79'",
-                    "player": "C. Führich",
-                    "detail": "Substitution 3",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "79'",
-                    "player": "A. Karazor",
-                    "detail": "Substitution 4",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "85'",
-                    "player": "F. Agu",
-                    "detail": "Substitution 2",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "85'",
+                    "time": "55'",
                     "player": "M. Ducksch",
+                    "detail": "Goal Disallowed - offside",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "63'",
+                    "player": "M. Boadu",
+                    "detail": "Substitution 1",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "68'",
+                    "player": "L. Bittencourt",
+                    "detail": "Substitution 1",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "68'",
+                    "player": "M. Grull",
+                    "detail": "Substitution 2",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "68'",
+                    "player": "J. Njinmah",
                     "detail": "Substitution 3",
                     "team": "Werder Bremen"
                 },
                 {
-                    "time": "85'",
-                    "player": "E. Demirović",
-                    "detail": "Substitution 5",
-                    "team": "VfB Stuttgart"
+                    "time": "78'",
+                    "player": "E. Masovic",
+                    "detail": "Substitution 2",
+                    "team": "VfL Bochum"
                 },
                 {
-                    "time": "90'",
-                    "player": "R. Schmid",
+                    "time": "78'",
+                    "player": "S. Bamba",
+                    "detail": "Substitution 3",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "79'",
+                    "player": "M. Broschinski",
+                    "detail": "Substitution 4",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "80'",
+                    "player": "M. Weiser",
+                    "detail": "Normal Goal",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "85'",
+                    "player": "E. Masovic",
+                    "detail": "Yellow Card",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "86'",
+                    "player": "N. Stark",
+                    "detail": "Yellow Card",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "86'",
+                    "player": "I. Sissoko",
+                    "detail": "Yellow Card",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "86'",
+                    "player": "I. Sissoko",
+                    "detail": "Red Card",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "88'",
+                    "player": "M. Pannewig",
+                    "detail": "Substitution 5",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "89'",
+                    "player": "K. Topp",
                     "detail": "Substitution 4",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "90'",
-                    "player": "O. Burke",
-                    "detail": "Normal Goal",
+                    "player": "S. Lynen",
+                    "detail": "Yellow Card",
                     "team": "Werder Bremen"
                 }
             ],
@@ -1280,6 +1280,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-19 13:30",
+                    "score": "1 - 0"
+                },
                 {
                     "date": "2025-04-13 13:30",
                     "score": "1 - 2"
@@ -1295,10 +1299,6 @@
                 {
                     "date": "2025-03-15 14:30",
                     "score": "2 - 4"
-                },
-                {
-                    "date": "2025-03-08 14:30",
-                    "score": "0 - 2"
                 }
             ],
             "future_games": [
