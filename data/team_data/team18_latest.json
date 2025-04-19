@@ -481,7 +481,7 @@
                     "team": "Holstein Kiel"
                 },
                 {
-                    "time": "67'",
+                    "time": "66'",
                     "player": "M. Knudsen",
                     "detail": "Substitution 2",
                     "team": "Holstein Kiel"
@@ -527,6 +527,12 @@
                     "player": "T. Gomis",
                     "detail": "Substitution 5",
                     "team": "RB Leipzig"
+                },
+                {
+                    "time": "90'",
+                    "player": "J. Arp",
+                    "detail": "Yellow Card",
+                    "team": "Holstein Kiel"
                 }
             ],
             "odds": {
@@ -624,7 +630,7 @@
                     "team": "VfL Wolfsburg"
                 },
                 {
-                    "time": "68'",
+                    "time": "67'",
                     "player": "N. Veratschnig",
                     "detail": "Yellow Card",
                     "team": "FSV Mainz 05"
@@ -654,9 +660,15 @@
                     "team": "FSV Mainz 05"
                 },
                 {
-                    "time": "86'",
+                    "time": "85'",
                     "player": "L. Majer",
                     "detail": "Substitution 5",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "89'",
+                    "player": "D. Vavro",
+                    "detail": "Normal Goal",
                     "team": "VfL Wolfsburg"
                 },
                 {
@@ -666,14 +678,20 @@
                     "team": "FSV Mainz 05"
                 },
                 {
-                    "time": "89'",
-                    "player": "D. Vavro",
-                    "detail": "Normal Goal",
+                    "time": "90'",
+                    "player": "J. Maehle",
+                    "detail": "Yellow Card",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "90'",
-                    "player": "J. Maehle",
+                    "player": "A. Nordin",
+                    "detail": "Substitution 4",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "90'",
+                    "player": "D. Vavro",
                     "detail": "Yellow Card",
                     "team": "VfL Wolfsburg"
                 }
@@ -1232,7 +1250,7 @@
                     "team": "Werder Bremen"
                 },
                 {
-                    "time": "85'",
+                    "time": "84'",
                     "player": "E. Masovic",
                     "detail": "Yellow Card",
                     "team": "VfL Bochum"
@@ -1679,7 +1697,7 @@
                     "team": "VfL Wolfsburg"
                 },
                 {
-                    "time": "68'",
+                    "time": "67'",
                     "player": "N. Veratschnig",
                     "detail": "Yellow Card",
                     "team": "FSV Mainz 05"
@@ -1709,9 +1727,15 @@
                     "team": "FSV Mainz 05"
                 },
                 {
-                    "time": "86'",
+                    "time": "85'",
                     "player": "L. Majer",
                     "detail": "Substitution 5",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "89'",
+                    "player": "D. Vavro",
+                    "detail": "Normal Goal",
                     "team": "VfL Wolfsburg"
                 },
                 {
@@ -1721,14 +1745,20 @@
                     "team": "FSV Mainz 05"
                 },
                 {
-                    "time": "89'",
-                    "player": "D. Vavro",
-                    "detail": "Normal Goal",
+                    "time": "90'",
+                    "player": "J. Maehle",
+                    "detail": "Yellow Card",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "90'",
-                    "player": "J. Maehle",
+                    "player": "A. Nordin",
+                    "detail": "Substitution 4",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "90'",
+                    "player": "D. Vavro",
                     "detail": "Yellow Card",
                     "team": "VfL Wolfsburg"
                 }
@@ -2484,7 +2514,7 @@
                     "team": "Werder Bremen"
                 },
                 {
-                    "time": "85'",
+                    "time": "84'",
                     "player": "E. Masovic",
                     "detail": "Yellow Card",
                     "team": "VfL Bochum"
@@ -2615,7 +2645,7 @@
                     "team": "Holstein Kiel"
                 },
                 {
-                    "time": "67'",
+                    "time": "66'",
                     "player": "M. Knudsen",
                     "detail": "Substitution 2",
                     "team": "Holstein Kiel"
@@ -2661,6 +2691,12 @@
                     "player": "T. Gomis",
                     "detail": "Substitution 5",
                     "team": "RB Leipzig"
+                },
+                {
+                    "time": "90'",
+                    "player": "J. Arp",
+                    "detail": "Yellow Card",
+                    "team": "Holstein Kiel"
                 }
             ],
             "odds": {
