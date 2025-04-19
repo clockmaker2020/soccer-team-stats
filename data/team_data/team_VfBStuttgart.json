@@ -3,6 +3,76 @@
     "past_matches": [
         {
             "fixture": {
+                "id": 1224243,
+                "referee": "Tobias Stieler, Germany",
+                "timezone": "UTC",
+                "date": "2025-04-19T16:30:00+00:00",
+                "timestamp": 1745080200,
+                "periods": {
+                    "first": 1745080200,
+                    "second": 1745083800
+                },
+                "venue": {
+                    "id": 748,
+                    "name": "Stadion An der Alten Försterei",
+                    "city": "Berlin"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 2
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 30",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 182,
+                    "name": "Union Berlin",
+                    "logo": "https://media.api-sports.io/football/teams/182.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 172,
+                    "name": "VfB Stuttgart",
+                    "logo": "https://media.api-sports.io/football/teams/172.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 4,
+                    "away": 4
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
                 "id": 1224228,
                 "referee": "D. Schlager",
                 "timezone": "UTC",
@@ -270,76 +340,6 @@
                 "fulltime": {
                     "home": 3,
                     "away": 4
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
-                "id": 1224199,
-                "referee": "B. Dankert",
-                "timezone": "UTC",
-                "date": "2025-03-08T14:30:00+00:00",
-                "timestamp": 1741444200,
-                "periods": {
-                    "first": 1741444200,
-                    "second": 1741447800
-                },
-                "venue": {
-                    "id": 725,
-                    "name": "Holstein-Stadion",
-                    "city": "Kiel"
-                },
-                "status": {
-                    "long": "Match Finished",
-                    "short": "FT",
-                    "elapsed": 90,
-                    "extra": 4
-                }
-            },
-            "league": {
-                "id": 78,
-                "name": "Bundesliga",
-                "country": "Germany",
-                "logo": "https://media.api-sports.io/football/leagues/78.png",
-                "flag": "https://media.api-sports.io/flags/de.svg",
-                "season": 2024,
-                "round": "Regular Season - 25",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 191,
-                    "name": "Holstein Kiel",
-                    "logo": "https://media.api-sports.io/football/teams/191.png",
-                    "winner": null
-                },
-                "away": {
-                    "id": 172,
-                    "name": "VfB Stuttgart",
-                    "logo": "https://media.api-sports.io/football/teams/172.png",
-                    "winner": null
-                }
-            },
-            "goals": {
-                "home": 2,
-                "away": 2
-            },
-            "score": {
-                "halftime": {
-                    "home": 1,
-                    "away": 1
-                },
-                "fulltime": {
-                    "home": 2,
-                    "away": 2
                 },
                 "extratime": {
                     "home": null,
