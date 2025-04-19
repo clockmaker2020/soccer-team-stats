@@ -770,6 +770,15 @@
                 },
                 {
                     "player": {
+                        "id": 24979,
+                        "name": "Jonas Föhrenbach",
+                        "number": 19,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 24891,
                         "name": "Vitus Eicher",
                         "number": 22,
@@ -782,15 +791,6 @@
                         "id": 177815,
                         "name": "Tim Siersleben",
                         "number": 4,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 24979,
-                        "name": "Jonas Föhrenbach",
-                        "number": 19,
                         "pos": "D",
                         "grid": null
                     }
@@ -979,6 +979,15 @@
                 },
                 {
                     "player": {
+                        "id": 41104,
+                        "name": "João Palhinha",
+                        "number": 16,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 126530,
                         "name": "Daniel Peretz",
                         "number": 18,
@@ -992,15 +1001,6 @@
                         "name": "Min-jae Kim",
                         "number": 3,
                         "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 41104,
-                        "name": "João Palhinha",
-                        "number": 16,
-                        "pos": "M",
                         "grid": null
                     }
                 },
