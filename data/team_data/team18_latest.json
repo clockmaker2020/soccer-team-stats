@@ -437,132 +437,96 @@
         },
         {
             "team": "RB Leipzig",
-            "date": "2025-04-11 18:30",
-            "opponent": "VfL Wolfsburg",
-            "score": "2 - 3",
-            "stadium": "Volkswagen Arena",
-            "referee": "F. Exner",
-            "league_round": "Regular Season - 29",
+            "date": "2025-04-19 13:30",
+            "opponent": "Holstein Kiel",
+            "score": "1 - 1",
+            "stadium": "Red Bull Arena",
+            "referee": "Felix Brych, Germany",
+            "league_round": "Regular Season - 30",
             "events": [
                 {
-                    "time": "11'",
-                    "player": "L. Openda",
-                    "detail": "Normal Goal",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "21'",
-                    "player": "Benjamin Šeško",
-                    "detail": "Goal cancelled",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "26'",
-                    "player": "X. Simons",
-                    "detail": "Normal Goal",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "34'",
-                    "player": "Yannick Gerhardt",
+                    "time": "29'",
+                    "player": "L. Rosenboom",
                     "detail": "Yellow Card",
-                    "team": "VfL Wolfsburg"
+                    "team": "Holstein Kiel"
                 },
                 {
-                    "time": "36'",
-                    "player": "Xavi Simons",
+                    "time": "41'",
+                    "player": "L. Klostermann",
                     "detail": "Yellow Card",
                     "team": "RB Leipzig"
                 },
                 {
-                    "time": "36'",
-                    "player": "El Chadaille Bitshiabu",
-                    "detail": "Yellow Card",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "49'",
-                    "player": "X. Simons",
+                    "time": "44'",
+                    "player": "S. Machino",
                     "detail": "Normal Goal",
-                    "team": "RB Leipzig"
+                    "team": "Holstein Kiel"
                 },
                 {
-                    "time": "58'",
-                    "player": "K. Fischer",
-                    "detail": "Normal Goal",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "60'",
-                    "player": "Kilian Fischer",
-                    "detail": "Yellow Card",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "71'",
-                    "player": "R. Baku",
+                    "time": "46'",
+                    "player": "A. Haidara",
                     "detail": "Substitution 1",
                     "team": "RB Leipzig"
                 },
                 {
-                    "time": "71'",
-                    "player": "A. Vermeeren",
+                    "time": "46'",
+                    "player": "L. Geertruida",
                     "detail": "Substitution 2",
                     "team": "RB Leipzig"
                 },
                 {
-                    "time": "71'",
-                    "player": "D. Vavro",
+                    "time": "66'",
+                    "player": "C. Johansson",
                     "detail": "Substitution 1",
-                    "team": "VfL Wolfsburg"
+                    "team": "Holstein Kiel"
                 },
                 {
-                    "time": "71'",
-                    "player": "J. Kamiński",
+                    "time": "67'",
+                    "player": "M. Knudsen",
                     "detail": "Substitution 2",
-                    "team": "VfL Wolfsburg"
+                    "team": "Holstein Kiel"
                 },
                 {
-                    "time": "75'",
-                    "player": "A. Skov Olsen",
-                    "detail": "Normal Goal",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "76'",
-                    "player": "Loïs Openda",
-                    "detail": "Yellow Card",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "77'",
-                    "player": "K. Nedeljković",
+                    "time": "67'",
+                    "player": "M. Vandevoordt",
                     "detail": "Substitution 3",
                     "team": "RB Leipzig"
                 },
                 {
-                    "time": "77'",
-                    "player": "L. Openda",
+                    "time": "74'",
+                    "player": "B. Sesko",
+                    "detail": "Penalty",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "79'",
+                    "player": "P. Harres",
+                    "detail": "Substitution 3",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "79'",
+                    "player": "F. Porath",
+                    "detail": "Substitution 4",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "87'",
+                    "player": "J. Arp",
+                    "detail": "Substitution 5",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "90'",
+                    "player": "Y. Poulsen",
                     "detail": "Substitution 4",
                     "team": "RB Leipzig"
                 },
                 {
-                    "time": "85'",
-                    "player": "X. Simons",
+                    "time": "90'",
+                    "player": "T. Gomis",
                     "detail": "Substitution 5",
                     "team": "RB Leipzig"
-                },
-                {
-                    "time": "86'",
-                    "player": "P. Wimmer",
-                    "detail": "Substitution 3",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "86'",
-                    "player": "B. Dárdai",
-                    "detail": "Substitution 4",
-                    "team": "VfL Wolfsburg"
                 }
             ],
             "odds": {
@@ -571,6 +535,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-19 13:30",
+                    "score": "1 - 1"
+                },
                 {
                     "date": "2025-04-11 18:30",
                     "score": "2 - 3"
@@ -586,10 +554,6 @@
                 {
                     "date": "2025-03-15 17:30",
                     "score": "2 - 0"
-                },
-                {
-                    "date": "2025-03-08 17:30",
-                    "score": "0 - 0"
                 }
             ],
             "future_games": [
@@ -1665,131 +1629,107 @@
         },
         {
             "team": "VfL Wolfsburg",
-            "date": "2025-04-11 18:30",
-            "opponent": "RB Leipzig",
-            "score": "2 - 3",
-            "stadium": "Volkswagen Arena",
-            "referee": "F. Exner",
-            "league_round": "Regular Season - 29",
+            "date": "2025-04-19 13:30",
+            "opponent": "FSV Mainz 05",
+            "score": "2 - 2",
+            "stadium": "MEWA ARENA",
+            "referee": "Felix Zwayer, Germany",
+            "league_round": "Regular Season - 30",
             "events": [
                 {
-                    "time": "11'",
-                    "player": "L. Openda",
-                    "detail": "Normal Goal",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "21'",
-                    "player": "Benjamin Šeško",
-                    "detail": "Goal cancelled",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "26'",
-                    "player": "X. Simons",
-                    "detail": "Normal Goal",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "34'",
-                    "player": "Yannick Gerhardt",
-                    "detail": "Yellow Card",
-                    "team": "VfL Wolfsburg"
-                },
-                {
-                    "time": "36'",
-                    "player": "Xavi Simons",
-                    "detail": "Yellow Card",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "36'",
-                    "player": "El Chadaille Bitshiabu",
-                    "detail": "Yellow Card",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "49'",
-                    "player": "X. Simons",
-                    "detail": "Normal Goal",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "58'",
-                    "player": "K. Fischer",
+                    "time": "3'",
+                    "player": "M. Arnold",
                     "detail": "Normal Goal",
                     "team": "VfL Wolfsburg"
                 },
                 {
-                    "time": "60'",
-                    "player": "Kilian Fischer",
+                    "time": "37'",
+                    "player": "Lee Jae-Sung",
+                    "detail": "Normal Goal",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "40'",
+                    "player": "D. Kohr",
+                    "detail": "Normal Goal",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "51'",
+                    "player": "D. Kohr",
                     "detail": "Yellow Card",
-                    "team": "VfL Wolfsburg"
+                    "team": "FSV Mainz 05"
                 },
                 {
-                    "time": "71'",
-                    "player": "R. Baku",
-                    "detail": "Substitution 1",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "71'",
-                    "player": "A. Vermeeren",
-                    "detail": "Substitution 2",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "71'",
-                    "player": "D. Vavro",
+                    "time": "63'",
+                    "player": "T. Tomas",
                     "detail": "Substitution 1",
                     "team": "VfL Wolfsburg"
                 },
                 {
-                    "time": "71'",
-                    "player": "J. Kamiński",
+                    "time": "63'",
+                    "player": "L. Nmecha",
                     "detail": "Substitution 2",
                     "team": "VfL Wolfsburg"
                 },
                 {
-                    "time": "75'",
-                    "player": "A. Skov Olsen",
-                    "detail": "Normal Goal",
+                    "time": "63'",
+                    "player": "M. Svanberg",
+                    "detail": "Substitution 3",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "68'",
+                    "player": "N. Veratschnig",
+                    "detail": "Yellow Card",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "68'",
+                    "player": "T. Tomas",
+                    "detail": "Yellow Card",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "74'",
+                    "player": "J. Kaminski",
+                    "detail": "Substitution 4",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "76'",
-                    "player": "Loïs Openda",
-                    "detail": "Yellow Card",
-                    "team": "RB Leipzig"
+                    "player": "Hong Hyun-Seok",
+                    "detail": "Substitution 1",
+                    "team": "FSV Mainz 05"
                 },
                 {
-                    "time": "77'",
-                    "player": "K. Nedeljković",
-                    "detail": "Substitution 3",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "77'",
-                    "player": "L. Openda",
-                    "detail": "Substitution 4",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "85'",
-                    "player": "X. Simons",
-                    "detail": "Substitution 5",
-                    "team": "RB Leipzig"
+                    "time": "76'",
+                    "player": "A. Hanche-Olsen",
+                    "detail": "Substitution 2",
+                    "team": "FSV Mainz 05"
                 },
                 {
                     "time": "86'",
-                    "player": "P. Wimmer",
-                    "detail": "Substitution 3",
+                    "player": "L. Majer",
+                    "detail": "Substitution 5",
                     "team": "VfL Wolfsburg"
                 },
                 {
-                    "time": "86'",
-                    "player": "B. Dárdai",
-                    "detail": "Substitution 4",
+                    "time": "89'",
+                    "player": "S. Widmer",
+                    "detail": "Substitution 3",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "89'",
+                    "player": "D. Vavro",
+                    "detail": "Normal Goal",
+                    "team": "VfL Wolfsburg"
+                },
+                {
+                    "time": "90'",
+                    "player": "J. Maehle",
+                    "detail": "Yellow Card",
                     "team": "VfL Wolfsburg"
                 }
             ],
@@ -1799,6 +1739,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-19 13:30",
+                    "score": "2 - 2"
+                },
                 {
                     "date": "2025-04-11 18:30",
                     "score": "2 - 3"
@@ -1814,10 +1758,6 @@
                 {
                     "date": "2025-03-15 14:30",
                     "score": "1 - 0"
-                },
-                {
-                    "date": "2025-03-08 14:30",
-                    "score": "1 - 1"
                 }
             ],
             "future_games": [
