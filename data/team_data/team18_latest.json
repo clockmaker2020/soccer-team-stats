@@ -1486,120 +1486,114 @@
         },
         {
             "team": "VfB Stuttgart",
-            "date": "2025-04-13 13:30",
-            "opponent": "Werder Bremen",
-            "score": "1 - 2",
-            "stadium": "MHPArena",
-            "referee": "D. Schlager",
-            "league_round": "Regular Season - 29",
+            "date": "2025-04-19 16:30",
+            "opponent": "Union Berlin",
+            "score": "4 - 4",
+            "stadium": "Stadion An der Alten Försterei",
+            "referee": "Tobias Stieler, Germany",
+            "league_round": "Regular Season - 30",
             "events": [
                 {
-                    "time": "6'",
-                    "player": "Mitchell Weiser",
+                    "time": "5'",
+                    "player": "A. Ilic",
+                    "detail": "Normal Goal",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "18'",
+                    "player": "J. Chabot",
                     "detail": "Yellow Card",
-                    "team": "Werder Bremen"
+                    "team": "VfB Stuttgart"
                 },
                 {
                     "time": "19'",
-                    "player": "L. Stergiou",
+                    "player": "D. Leite",
+                    "detail": "Normal Goal",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "23'",
+                    "player": "D. Undav",
                     "detail": "Normal Goal",
                     "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "32'",
-                    "player": "O. Burke",
+                    "time": "29'",
+                    "player": "E. Millot",
                     "detail": "Normal Goal",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "40'",
-                    "player": "Atakan Karazor",
-                    "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "42'",
+                    "time": "38'",
+                    "player": "L. Querfeld",
+                    "detail": "Normal Goal",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "43'",
                     "player": "J. Chabot",
-                    "detail": "Substitution 1",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "44'",
-                    "player": "Jens Stage",
-                    "detail": "Yellow Card",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "46'",
-                    "player": "J. Leweling",
-                    "detail": "Substitution 2",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "49'",
-                    "player": "Nick Woltemade",
-                    "detail": "Yellow Card",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "65'",
-                    "player": "Nick Woltemade",
-                    "detail": "Red Card",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "65'",
-                    "player": "Nick Woltemade",
-                    "detail": "Yellow Card",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "77'",
-                    "player": "J. Stage",
-                    "detail": "Substitution 1",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "79'",
-                    "player": "C. Führich",
-                    "detail": "Substitution 3",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "79'",
-                    "player": "A. Karazor",
-                    "detail": "Substitution 4",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "85'",
-                    "player": "F. Agu",
-                    "detail": "Substitution 2",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "85'",
-                    "player": "M. Ducksch",
-                    "detail": "Substitution 3",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "85'",
-                    "player": "E. Demirović",
-                    "detail": "Substitution 5",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "90'",
-                    "player": "R. Schmid",
-                    "detail": "Substitution 4",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "90'",
-                    "player": "O. Burke",
                     "detail": "Normal Goal",
-                    "team": "Werder Bremen"
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "45'",
+                    "player": "A. Ilic",
+                    "detail": "Normal Goal",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "45'",
+                    "player": "C. Fuhrich",
+                    "detail": "Normal Goal",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "72'",
+                    "player": "R. Hendriks",
+                    "detail": "Substitution 1",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "72'",
+                    "player": "L. Benes",
+                    "detail": "Substitution 1",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "83'",
+                    "player": "T. Skarke",
+                    "detail": "Substitution 2",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "83'",
+                    "player": "M. Ljubicic",
+                    "detail": "Substitution 3",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "89'",
+                    "player": "R. Hendriks",
+                    "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "90'",
+                    "player": "P. Stenzel",
+                    "detail": "Substitution 2",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "90'",
+                    "player": "J. Bruun Larsen",
+                    "detail": "Substitution 3",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "90'",
+                    "player": "L. Tousart",
+                    "detail": "Substitution 4",
+                    "team": "Union Berlin"
                 }
             ],
             "odds": {
@@ -1608,6 +1602,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-19 16:30",
+                    "score": "4 - 4"
+                },
                 {
                     "date": "2025-04-13 13:30",
                     "score": "1 - 2"
@@ -1623,10 +1621,6 @@
                 {
                     "date": "2025-03-16 18:30",
                     "score": "3 - 4"
-                },
-                {
-                    "date": "2025-03-08 14:30",
-                    "score": "2 - 2"
                 }
             ],
             "future_games": [
