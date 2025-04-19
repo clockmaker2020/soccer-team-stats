@@ -2,84 +2,120 @@
     "latest_matches": [
         {
             "team": "Bayern München",
-            "date": "2025-04-12 16:30",
-            "opponent": "Borussia Dortmund",
-            "score": "2 - 2",
-            "stadium": "Allianz Arena",
-            "referee": "T. Welz",
-            "league_round": "Regular Season - 29",
+            "date": "2025-04-19 13:30",
+            "opponent": "1. FC Heidenheim",
+            "score": "0 - 4",
+            "stadium": "Voith-Arena",
+            "referee": "Frank Willenborg, Germany",
+            "league_round": "Regular Season - 30",
             "events": [
                 {
-                    "time": "48'",
-                    "player": "M. Beier",
+                    "time": "13'",
+                    "player": "H. Kane",
                     "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
+                    "team": "Bayern München"
                 },
                 {
-                    "time": "54'",
-                    "player": "Kim Min-Jae",
+                    "time": "19'",
+                    "player": "K. Laimer",
+                    "detail": "Normal Goal",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "35'",
+                    "player": "B. Gimber",
+                    "detail": "Yellow Card",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "36'",
+                    "player": "K. Coman",
+                    "detail": "Normal Goal",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "41'",
+                    "player": "N. Dorsch",
+                    "detail": "Yellow Card",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "43'",
+                    "player": "J. Schoppner",
+                    "detail": "Yellow Card",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "46'",
+                    "player": "J. Niehues",
+                    "detail": "Substitution 1",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "46'",
+                    "player": "L. Scienza",
+                    "detail": "Substitution 2",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "46'",
+                    "player": "S. Boey",
                     "detail": "Substitution 1",
                     "team": "Bayern München"
                 },
                 {
+                    "time": "56'",
+                    "player": "J. Kimmich",
+                    "detail": "Normal Goal",
+                    "team": "Bayern München"
+                },
+                {
                     "time": "63'",
-                    "player": "L. Goretzka",
+                    "player": "T. Muller",
                     "detail": "Substitution 2",
                     "team": "Bayern München"
                 },
                 {
                     "time": "63'",
-                    "player": "L. Sané",
+                    "player": "L. Sane",
                     "detail": "Substitution 3",
                     "team": "Bayern München"
                 },
                 {
-                    "time": "65'",
-                    "player": "Raphaël Guerreiro",
-                    "detail": "Normal Goal",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "69'",
-                    "player": "S. Gnabry",
-                    "detail": "Normal Goal",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "71'",
-                    "player": "S. Özcan",
-                    "detail": "Substitution 1",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "71'",
-                    "player": "J. Brandt",
-                    "detail": "Substitution 2",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "75'",
-                    "player": "W. Anton",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "81'",
-                    "player": "T. Müller",
-                    "detail": "Substitution 4",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "81'",
-                    "player": "M. Beier",
+                    "time": "70'",
+                    "player": "P. Wanner",
                     "detail": "Substitution 3",
-                    "team": "Borussia Dortmund"
+                    "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "81'",
-                    "player": "N. Süle",
+                    "time": "70'",
+                    "player": "L. Kerber",
                     "detail": "Substitution 4",
-                    "team": "Borussia Dortmund"
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "74'",
+                    "player": "G. Vidovic",
+                    "detail": "Substitution 4",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "80'",
+                    "player": "R. Guerreiro",
+                    "detail": "Yellow Card",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "85'",
+                    "player": "J. Palhinha",
+                    "detail": "Substitution 5",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "88'",
+                    "player": "J. Fohrenbach",
+                    "detail": "Substitution 5",
+                    "team": "1. FC Heidenheim"
                 }
             ],
             "odds": {
@@ -88,6 +124,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-19 13:30",
+                    "score": "0 - 4"
+                },
                 {
                     "date": "2025-04-12 16:30",
                     "score": "2 - 2"
@@ -103,10 +143,6 @@
                 {
                     "date": "2025-03-15 14:30",
                     "score": "1 - 1"
-                },
-                {
-                    "date": "2025-03-08 14:30",
-                    "score": "2 - 3"
                 }
             ],
             "future_games": [
@@ -2213,100 +2249,118 @@
         },
         {
             "team": "1. FC Heidenheim",
-            "date": "2025-04-13 15:30",
-            "opponent": "Eintracht Frankfurt",
-            "score": "3 - 0",
-            "stadium": "Deutsche Bank Park",
-            "referee": "T. Gerach",
-            "league_round": "Regular Season - 29",
+            "date": "2025-04-19 13:30",
+            "opponent": "Bayern München",
+            "score": "0 - 4",
+            "stadium": "Voith-Arena",
+            "referee": "Frank Willenborg, Germany",
+            "league_round": "Regular Season - 30",
             "events": [
                 {
-                    "time": "10'",
-                    "player": "J. Bahoya",
+                    "time": "13'",
+                    "player": "H. Kane",
                     "detail": "Normal Goal",
-                    "team": "Eintracht Frankfurt"
+                    "team": "Bayern München"
                 },
                 {
-                    "time": "30'",
-                    "player": "Hugo Ekitiké",
-                    "detail": "Yellow Card",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "30'",
-                    "player": "Niklas Dorsch",
-                    "detail": "Yellow Card",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "42'",
-                    "player": "R. Koch",
+                    "time": "19'",
+                    "player": "K. Laimer",
                     "detail": "Normal Goal",
-                    "team": "Eintracht Frankfurt"
+                    "team": "Bayern München"
                 },
                 {
-                    "time": "46'",
-                    "player": "N. Dorsch",
-                    "detail": "Substitution 1",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "46'",
+                    "time": "35'",
                     "player": "B. Gimber",
-                    "detail": "Substitution 2",
+                    "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "61'",
-                    "player": "R. Kristensen",
-                    "detail": "Substitution 1",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "61'",
-                    "player": "C. Uzun",
-                    "detail": "Substitution 2",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "68'",
-                    "player": "F. Krätzig",
-                    "detail": "Substitution 3",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "68'",
-                    "player": "M. Busch",
-                    "detail": "Substitution 4",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "70'",
-                    "player": "J. Bahoya",
-                    "detail": "Substitution 3",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "70'",
-                    "player": "O. Højlund",
-                    "detail": "Substitution 4",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "71'",
-                    "player": "H. Ekitiké",
+                    "time": "36'",
+                    "player": "K. Coman",
                     "detail": "Normal Goal",
-                    "team": "Eintracht Frankfurt"
+                    "team": "Bayern München"
                 },
                 {
-                    "time": "76'",
-                    "player": "H. Ekitiké",
+                    "time": "41'",
+                    "player": "N. Dorsch",
+                    "detail": "Yellow Card",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "43'",
+                    "player": "J. Schoppner",
+                    "detail": "Yellow Card",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "46'",
+                    "player": "J. Niehues",
+                    "detail": "Substitution 1",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "46'",
+                    "player": "L. Scienza",
+                    "detail": "Substitution 2",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "46'",
+                    "player": "S. Boey",
+                    "detail": "Substitution 1",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "56'",
+                    "player": "J. Kimmich",
+                    "detail": "Normal Goal",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "63'",
+                    "player": "T. Muller",
+                    "detail": "Substitution 2",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "63'",
+                    "player": "L. Sane",
+                    "detail": "Substitution 3",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "70'",
+                    "player": "P. Wanner",
+                    "detail": "Substitution 3",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "70'",
+                    "player": "L. Kerber",
+                    "detail": "Substitution 4",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "74'",
+                    "player": "G. Vidovic",
+                    "detail": "Substitution 4",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "80'",
+                    "player": "R. Guerreiro",
+                    "detail": "Yellow Card",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "85'",
+                    "player": "J. Palhinha",
                     "detail": "Substitution 5",
-                    "team": "Eintracht Frankfurt"
+                    "team": "Bayern München"
                 },
                 {
-                    "time": "76'",
-                    "player": "M. Pieringer",
+                    "time": "88'",
+                    "player": "J. Fohrenbach",
                     "detail": "Substitution 5",
                     "team": "1. FC Heidenheim"
                 }
@@ -2317,6 +2371,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-19 13:30",
+                    "score": "0 - 4"
+                },
                 {
                     "date": "2025-04-13 15:30",
                     "score": "3 - 0"
@@ -2332,10 +2390,6 @@
                 {
                     "date": "2025-03-16 16:30",
                     "score": "3 - 1"
-                },
-                {
-                    "date": "2025-03-09 16:30",
-                    "score": "1 - 1"
                 }
             ],
             "future_games": [
