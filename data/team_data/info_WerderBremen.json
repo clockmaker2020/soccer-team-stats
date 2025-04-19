@@ -284,8 +284,8 @@
                 "name": "M. Weiser"
             },
             "assist": {
-                "id": null,
-                "name": null
+                "id": 177807,
+                "name": "J. Njinmah"
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -293,7 +293,7 @@
         },
         {
             "time": {
-                "elapsed": 85,
+                "elapsed": 84,
                 "extra": null
             },
             "team": {
