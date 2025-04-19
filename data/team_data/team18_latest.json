@@ -1802,90 +1802,114 @@
         },
         {
             "team": "Union Berlin",
-            "date": "2025-04-12 13:30",
-            "opponent": "Bayer Leverkusen",
-            "score": "0 - 0",
-            "stadium": "BayArena",
-            "referee": "B. Dankert",
-            "league_round": "Regular Season - 29",
+            "date": "2025-04-19 16:30",
+            "opponent": "VfB Stuttgart",
+            "score": "4 - 4",
+            "stadium": "Stadion An der Alten Försterei",
+            "referee": "Tobias Stieler, Germany",
+            "league_round": "Regular Season - 30",
             "events": [
                 {
-                    "time": "46'",
-                    "player": "N. Tella",
+                    "time": "5'",
+                    "player": "A. Ilic",
+                    "detail": "Normal Goal",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "18'",
+                    "player": "J. Chabot",
+                    "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "19'",
+                    "player": "D. Leite",
+                    "detail": "Normal Goal",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "23'",
+                    "player": "D. Undav",
+                    "detail": "Normal Goal",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "29'",
+                    "player": "E. Millot",
+                    "detail": "Normal Goal",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "38'",
+                    "player": "L. Querfeld",
+                    "detail": "Normal Goal",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "43'",
+                    "player": "J. Chabot",
+                    "detail": "Normal Goal",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "45'",
+                    "player": "A. Ilic",
+                    "detail": "Normal Goal",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "45'",
+                    "player": "C. Fuhrich",
+                    "detail": "Normal Goal",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "72'",
+                    "player": "R. Hendriks",
                     "detail": "Substitution 1",
-                    "team": "Bayer Leverkusen"
+                    "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "57'",
-                    "player": "Aleix García",
-                    "detail": "Substitution 2",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "60'",
-                    "player": "T. Skarke",
+                    "time": "72'",
+                    "player": "L. Benes",
                     "detail": "Substitution 1",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "61'",
-                    "player": "A. Ilić",
-                    "detail": "Substitution 2",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "74'",
-                    "player": "E. Tapsoba",
-                    "detail": "Substitution 3",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "74'",
-                    "player": "Álex Grimaldo",
-                    "detail": "Substitution 4",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "78'",
-                    "player": "C. Trimmel",
-                    "detail": "Substitution 3",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "78'",
-                    "player": "J. Haberer",
-                    "detail": "Substitution 4",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "82'",
-                    "player": "J. Juranović",
-                    "detail": "Substitution 5",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "83'",
-                    "player": "David Preu",
-                    "detail": "Yellow Card",
+                    "player": "T. Skarke",
+                    "detail": "Substitution 2",
                     "team": "Union Berlin"
                 },
                 {
-                    "time": "86'",
-                    "player": "E. Palacios",
-                    "detail": "Substitution 5",
-                    "team": "Bayer Leverkusen"
+                    "time": "83'",
+                    "player": "M. Ljubicic",
+                    "detail": "Substitution 3",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "89'",
+                    "player": "R. Hendriks",
+                    "detail": "Yellow Card",
+                    "team": "VfB Stuttgart"
                 },
                 {
                     "time": "90'",
-                    "player": "Jonas Hofmann",
-                    "detail": "Yellow Card",
-                    "team": "Bayer Leverkusen"
+                    "player": "P. Stenzel",
+                    "detail": "Substitution 2",
+                    "team": "VfB Stuttgart"
                 },
                 {
                     "time": "90'",
-                    "player": "Florian Wirtz",
-                    "detail": "Yellow Card",
-                    "team": "Bayer Leverkusen"
+                    "player": "J. Bruun Larsen",
+                    "detail": "Substitution 3",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "90'",
+                    "player": "L. Tousart",
+                    "detail": "Substitution 4",
+                    "team": "Union Berlin"
                 }
             ],
             "odds": {
