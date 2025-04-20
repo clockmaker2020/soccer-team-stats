@@ -24,7 +24,7 @@
                 "name": "Eintracht Frankfurt"
             },
             "wins": 15,
-            "draws": 6,
+            "draws": 7,
             "losses": 8
         },
         {
@@ -75,20 +75,20 @@
         {
             "rank": 9,
             "team": {
+                "name": "FC Augsburg"
+            },
+            "wins": 11,
+            "draws": 10,
+            "losses": 9
+        },
+        {
+            "rank": 10,
+            "team": {
                 "name": "Borussia Dortmund"
             },
             "wins": 12,
             "draws": 6,
             "losses": 11
-        },
-        {
-            "rank": 10,
-            "team": {
-                "name": "FC Augsburg"
-            },
-            "wins": 11,
-            "draws": 9,
-            "losses": 9
         },
         {
             "rank": 11,
