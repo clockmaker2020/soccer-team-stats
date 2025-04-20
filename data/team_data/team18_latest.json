@@ -889,6 +889,167 @@
             "squad": []
         },
         {
+            "team": "Borussia Dortmund",
+            "date": "2025-04-20 15:30",
+            "opponent": "Borussia Mönchengladbach",
+            "score": "3 - 2",
+            "stadium": "SIGNAL IDUNA PARK",
+            "referee": "Daniel Siebert, Germany",
+            "league_round": "Regular Season - 30",
+            "events": [
+                {
+                    "time": "4'",
+                    "player": "J. Scally",
+                    "detail": "Yellow Card",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "24'",
+                    "player": "K. Itakura",
+                    "detail": "Normal Goal",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "35'",
+                    "player": "C. Chukwuemeka",
+                    "detail": "Substitution 1",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "41'",
+                    "player": "S. Guirassy",
+                    "detail": "Normal Goal",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "44'",
+                    "player": "F. Nmecha",
+                    "detail": "Normal Goal",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "45'",
+                    "player": "D. Svensson",
+                    "detail": "Normal Goal",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "56'",
+                    "player": "S. Guirassy",
+                    "detail": "Yellow Card",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "56'",
+                    "player": "K. Stoger",
+                    "detail": "Penalty",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "56'",
+                    "player": "K. Stoger",
+                    "detail": "Yellow Card",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "61'",
+                    "player": "J. Ryerson",
+                    "detail": "Substitution 2",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "70'",
+                    "player": "R. Hack",
+                    "detail": "Substitution 1",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "70'",
+                    "player": "S. Lainer",
+                    "detail": "Substitution 2",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "70'",
+                    "player": "L. Netz",
+                    "detail": "Substitution 3",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "73'",
+                    "player": "S. Ozcan",
+                    "detail": "Substitution 3",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "73'",
+                    "player": "E. Can",
+                    "detail": "Substitution 4",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "73'",
+                    "player": "J. Brandt",
+                    "detail": "Substitution 5",
+                    "team": "Borussia Dortmund"
+                },
+                {
+                    "time": "83'",
+                    "player": "F. Neuhaus",
+                    "detail": "Substitution 4",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "83'",
+                    "player": "S. Fukuda",
+                    "detail": "Substitution 5",
+                    "team": "Borussia Mönchengladbach"
+                }
+            ],
+            "odds": {
+                "home": "N/A",
+                "draw": "N/A",
+                "away": "N/A"
+            },
+            "past_results": [
+                {
+                    "date": "2025-04-20 15:30",
+                    "score": "3 - 2"
+                },
+                {
+                    "date": "2025-04-12 16:30",
+                    "score": "2 - 2"
+                },
+                {
+                    "date": "2025-04-05 13:30",
+                    "score": "1 - 4"
+                },
+                {
+                    "date": "2025-03-30 15:30",
+                    "score": "3 - 1"
+                },
+                {
+                    "date": "2025-03-15 17:30",
+                    "score": "2 - 0"
+                }
+            ],
+            "future_games": [
+                {
+                    "date": "2025-04-26 13:30",
+                    "opponent": "1899 Hoffenheim"
+                },
+                {
+                    "date": "2025-05-03 16:30",
+                    "opponent": "VfL Wolfsburg"
+                },
+                {
+                    "date": "2025-05-11 13:30",
+                    "opponent": "Bayer Leverkusen"
+                }
+            ],
+            "squad": []
+        },
+        {
             "team": "Werder Bremen",
             "date": "2025-04-19 13:30",
             "opponent": "VfL Bochum",
@@ -1331,167 +1492,6 @@
                 {
                     "date": "2025-05-11 17:30",
                     "opponent": "VfB Stuttgart"
-                }
-            ],
-            "squad": []
-        },
-        {
-            "team": "Borussia Dortmund",
-            "date": "2025-04-20 15:30",
-            "opponent": "Borussia Mönchengladbach",
-            "score": "3 - 2",
-            "stadium": "SIGNAL IDUNA PARK",
-            "referee": "Daniel Siebert, Germany",
-            "league_round": "Regular Season - 30",
-            "events": [
-                {
-                    "time": "4'",
-                    "player": "J. Scally",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "24'",
-                    "player": "K. Itakura",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "35'",
-                    "player": "C. Chukwuemeka",
-                    "detail": "Substitution 1",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "41'",
-                    "player": "S. Guirassy",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "44'",
-                    "player": "F. Nmecha",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "45'",
-                    "player": "D. Svensson",
-                    "detail": "Normal Goal",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "56'",
-                    "player": "S. Guirassy",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "56'",
-                    "player": "K. Stoger",
-                    "detail": "Penalty",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "56'",
-                    "player": "K. Stoger",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "61'",
-                    "player": "J. Ryerson",
-                    "detail": "Substitution 2",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "70'",
-                    "player": "R. Hack",
-                    "detail": "Substitution 1",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "70'",
-                    "player": "S. Lainer",
-                    "detail": "Substitution 2",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "70'",
-                    "player": "L. Netz",
-                    "detail": "Substitution 3",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "73'",
-                    "player": "S. Ozcan",
-                    "detail": "Substitution 3",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "73'",
-                    "player": "E. Can",
-                    "detail": "Substitution 4",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "73'",
-                    "player": "J. Brandt",
-                    "detail": "Substitution 5",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "83'",
-                    "player": "F. Neuhaus",
-                    "detail": "Substitution 4",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "83'",
-                    "player": "S. Fukuda",
-                    "detail": "Substitution 5",
-                    "team": "Borussia Mönchengladbach"
-                }
-            ],
-            "odds": {
-                "home": "N/A",
-                "draw": "N/A",
-                "away": "N/A"
-            },
-            "past_results": [
-                {
-                    "date": "2025-04-20 15:30",
-                    "score": "3 - 2"
-                },
-                {
-                    "date": "2025-04-12 16:30",
-                    "score": "2 - 2"
-                },
-                {
-                    "date": "2025-04-05 13:30",
-                    "score": "1 - 4"
-                },
-                {
-                    "date": "2025-03-30 15:30",
-                    "score": "3 - 1"
-                },
-                {
-                    "date": "2025-03-15 17:30",
-                    "score": "2 - 0"
-                }
-            ],
-            "future_games": [
-                {
-                    "date": "2025-04-26 13:30",
-                    "opponent": "1899 Hoffenheim"
-                },
-                {
-                    "date": "2025-05-03 16:30",
-                    "opponent": "VfL Wolfsburg"
-                },
-                {
-                    "date": "2025-05-11 13:30",
-                    "opponent": "Bayer Leverkusen"
                 }
             ],
             "squad": []
