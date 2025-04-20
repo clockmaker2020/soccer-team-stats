@@ -278,16 +278,16 @@
             ],
             "future_games": [
                 {
-                    "date": "2025-04-20 17:30",
-                    "opponent": "FC St. Pauli"
-                },
-                {
                     "date": "2025-04-26 13:30",
                     "opponent": "FC Augsburg"
                 },
                 {
                     "date": "2025-05-04 15:30",
                     "opponent": "SC Freiburg"
+                },
+                {
+                    "date": "2025-05-11 13:30",
+                    "opponent": "Borussia Dortmund"
                 }
             ],
             "squad": []
@@ -2233,16 +2233,16 @@
             ],
             "future_games": [
                 {
-                    "date": "2025-04-20 17:30",
-                    "opponent": "Bayer Leverkusen"
-                },
-                {
                     "date": "2025-04-27 15:30",
                     "opponent": "Werder Bremen"
                 },
                 {
                     "date": "2025-05-03 13:30",
                     "opponent": "VfB Stuttgart"
+                },
+                {
+                    "date": "2025-05-11 15:30",
+                    "opponent": "Eintracht Frankfurt"
                 }
             ],
             "squad": []
