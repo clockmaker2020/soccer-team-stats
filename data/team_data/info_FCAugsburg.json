@@ -607,6 +607,15 @@
                 },
                 {
                     "player": {
+                        "id": 26171,
+                        "name": "Phillip Tietz",
+                        "number": 21,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 14553,
                         "name": "Nediljko Labrović",
                         "number": 22,
@@ -647,15 +656,6 @@
                         "name": "Elvis Rexhbeçaj",
                         "number": 8,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 26171,
-                        "name": "Phillip Tietz",
-                        "number": 21,
-                        "pos": "F",
                         "grid": null
                     }
                 }
