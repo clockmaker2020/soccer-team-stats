@@ -1980,6 +1980,149 @@
             "squad": []
         },
         {
+            "team": "FC St. Pauli",
+            "date": "2025-04-20 17:30",
+            "opponent": "Bayer Leverkusen",
+            "score": "1 - 1",
+            "stadium": "Millerntor-Stadion",
+            "referee": "Sören Storks, Germany",
+            "league_round": "Regular Season - 30",
+            "events": [
+                {
+                    "time": "32'",
+                    "player": "P. Schick",
+                    "detail": "Normal Goal",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "59'",
+                    "player": "N. Weisshaupt",
+                    "detail": "Substitution 1",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "63'",
+                    "player": "P. Hincapie",
+                    "detail": "Yellow Card",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "64'",
+                    "player": "L. Hradecky",
+                    "detail": "Yellow Card",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "64'",
+                    "player": "J. Frimpong",
+                    "detail": "Yellow Card",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "66'",
+                    "player": "A. Adli",
+                    "detail": "Substitution 1",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "74'",
+                    "player": "M. Guilavogui",
+                    "detail": "Goal Disallowed - handball",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "77'",
+                    "player": "N. Tella",
+                    "detail": "Yellow Card",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "78'",
+                    "player": "C. Boukhalfa",
+                    "detail": "Normal Goal",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "84'",
+                    "player": "R. Wagner",
+                    "detail": "Substitution 2",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "89'",
+                    "player": "E. Buendia",
+                    "detail": "Substitution 2",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "89'",
+                    "player": "V. Boniface",
+                    "detail": "Substitution 3",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "90'",
+                    "player": "E. Saad",
+                    "detail": "Substitution 3",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "90'",
+                    "player": "O. Afolayan",
+                    "detail": "Substitution 4",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "90'",
+                    "player": "E. Smith",
+                    "detail": "Yellow Card",
+                    "team": "FC St. Pauli"
+                }
+            ],
+            "odds": {
+                "home": "N/A",
+                "draw": "N/A",
+                "away": "N/A"
+            },
+            "past_results": [
+                {
+                    "date": "2025-04-20 17:30",
+                    "score": "1 - 1"
+                },
+                {
+                    "date": "2025-04-12 13:30",
+                    "score": "1 - 2"
+                },
+                {
+                    "date": "2025-04-06 13:30",
+                    "score": "1 - 1"
+                },
+                {
+                    "date": "2025-03-29 14:30",
+                    "score": "3 - 2"
+                },
+                {
+                    "date": "2025-03-14 19:30",
+                    "score": "1 - 0"
+                }
+            ],
+            "future_games": [
+                {
+                    "date": "2025-04-27 15:30",
+                    "opponent": "Werder Bremen"
+                },
+                {
+                    "date": "2025-05-03 13:30",
+                    "opponent": "VfB Stuttgart"
+                },
+                {
+                    "date": "2025-05-11 15:30",
+                    "opponent": "Eintracht Frankfurt"
+                }
+            ],
+            "squad": []
+        },
+        {
             "team": "1899 Hoffenheim",
             "date": "2025-04-19 13:30",
             "opponent": "SC Freiburg",
@@ -2148,149 +2291,6 @@
                 {
                     "date": "2025-05-09 18:30",
                     "opponent": "VfL Wolfsburg"
-                }
-            ],
-            "squad": []
-        },
-        {
-            "team": "FC St. Pauli",
-            "date": "2025-04-20 17:30",
-            "opponent": "Bayer Leverkusen",
-            "score": "1 - 1",
-            "stadium": "Millerntor-Stadion",
-            "referee": "Sören Storks, Germany",
-            "league_round": "Regular Season - 30",
-            "events": [
-                {
-                    "time": "32'",
-                    "player": "P. Schick",
-                    "detail": "Normal Goal",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "59'",
-                    "player": "N. Weisshaupt",
-                    "detail": "Substitution 1",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "63'",
-                    "player": "P. Hincapie",
-                    "detail": "Yellow Card",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "64'",
-                    "player": "L. Hradecky",
-                    "detail": "Yellow Card",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "64'",
-                    "player": "J. Frimpong",
-                    "detail": "Yellow Card",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "66'",
-                    "player": "A. Adli",
-                    "detail": "Substitution 1",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "74'",
-                    "player": "M. Guilavogui",
-                    "detail": "Goal Disallowed - handball",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "77'",
-                    "player": "N. Tella",
-                    "detail": "Yellow Card",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "78'",
-                    "player": "C. Boukhalfa",
-                    "detail": "Normal Goal",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "84'",
-                    "player": "R. Wagner",
-                    "detail": "Substitution 2",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "89'",
-                    "player": "E. Buendia",
-                    "detail": "Substitution 2",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "89'",
-                    "player": "V. Boniface",
-                    "detail": "Substitution 3",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "90'",
-                    "player": "E. Saad",
-                    "detail": "Substitution 3",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "90'",
-                    "player": "O. Afolayan",
-                    "detail": "Substitution 4",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "90'",
-                    "player": "E. Smith",
-                    "detail": "Yellow Card",
-                    "team": "FC St. Pauli"
-                }
-            ],
-            "odds": {
-                "home": "N/A",
-                "draw": "N/A",
-                "away": "N/A"
-            },
-            "past_results": [
-                {
-                    "date": "2025-04-20 17:30",
-                    "score": "1 - 1"
-                },
-                {
-                    "date": "2025-04-12 13:30",
-                    "score": "1 - 2"
-                },
-                {
-                    "date": "2025-04-06 13:30",
-                    "score": "1 - 1"
-                },
-                {
-                    "date": "2025-03-29 14:30",
-                    "score": "3 - 2"
-                },
-                {
-                    "date": "2025-03-14 19:30",
-                    "score": "1 - 0"
-                }
-            ],
-            "future_games": [
-                {
-                    "date": "2025-04-27 15:30",
-                    "opponent": "Werder Bremen"
-                },
-                {
-                    "date": "2025-05-03 13:30",
-                    "opponent": "VfB Stuttgart"
-                },
-                {
-                    "date": "2025-05-11 15:30",
-                    "opponent": "Eintracht Frankfurt"
                 }
             ],
             "squad": []
