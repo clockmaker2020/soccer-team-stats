@@ -15,7 +15,7 @@
                 "name": "Bayer Leverkusen"
             },
             "wins": 18,
-            "draws": 9,
+            "draws": 10,
             "losses": 2
         },
         {
@@ -120,20 +120,20 @@
         {
             "rank": 14,
             "team": {
+                "name": "FC St. Pauli"
+            },
+            "wins": 8,
+            "draws": 6,
+            "losses": 16
+        },
+        {
+            "rank": 15,
+            "team": {
                 "name": "1899 Hoffenheim"
             },
             "wins": 7,
             "draws": 9,
             "losses": 14
-        },
-        {
-            "rank": 15,
-            "team": {
-                "name": "FC St. Pauli"
-            },
-            "wins": 8,
-            "draws": 5,
-            "losses": 16
         },
         {
             "rank": 16,
