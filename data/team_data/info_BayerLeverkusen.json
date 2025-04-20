@@ -240,8 +240,8 @@
                 "name": "C. Boukhalfa"
             },
             "assist": {
-                "id": null,
-                "name": null
+                "id": 1672,
+                "name": "D. Sinani"
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -677,6 +677,33 @@
                 },
                 {
                     "player": {
+                        "id": 280024,
+                        "name": "Robert Wagner",
+                        "number": 39,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 323974,
+                        "name": "Elias Saad",
+                        "number": 26,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 17756,
+                        "name": "Oladapo Afolayan",
+                        "number": 17,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 119167,
                         "name": "Ben Voll",
                         "number": 1,
@@ -713,36 +740,9 @@
                 },
                 {
                     "player": {
-                        "id": 280024,
-                        "name": "Robert Wagner",
-                        "number": 39,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 25326,
                         "name": "Johannes Eggestein",
                         "number": 11,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 323974,
-                        "name": "Elias Saad",
-                        "number": 26,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 17756,
-                        "name": "Oladapo Afolayan",
-                        "number": 17,
                         "pos": "F",
                         "grid": null
                     }
@@ -886,6 +886,24 @@
                 },
                 {
                     "player": {
+                        "id": 19071,
+                        "name": "Emiliano Buendía",
+                        "number": 16,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 39071,
+                        "name": "Victor Okoh Boniface",
+                        "number": 22,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 138804,
                         "name": "Matěj Kovář",
                         "number": 17,
@@ -922,28 +940,10 @@
                 },
                 {
                     "player": {
-                        "id": 19071,
-                        "name": "Emiliano Buendía",
-                        "number": 16,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 47516,
                         "name": "Aleix García",
                         "number": 24,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 39071,
-                        "name": "Victor Okoh Boniface",
-                        "number": 22,
-                        "pos": "F",
                         "grid": null
                     }
                 },
