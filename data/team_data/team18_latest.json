@@ -10,7 +10,7 @@
             "league_round": "Regular Season - 30",
             "events": [
                 {
-                    "time": "13'",
+                    "time": "12'",
                     "player": "H. Kane",
                     "detail": "Normal Goal",
                     "team": "Bayern München"
@@ -23,7 +23,7 @@
                 },
                 {
                     "time": "35'",
-                    "player": "B. Gimber",
+                    "player": "Benedikt Gimber",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
                 },
@@ -35,33 +35,33 @@
                 },
                 {
                     "time": "41'",
-                    "player": "N. Dorsch",
+                    "player": "Niklas Dorsch",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "43'",
-                    "player": "J. Schoppner",
+                    "player": "Jan Schöppner",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "46'",
-                    "player": "J. Niehues",
-                    "detail": "Substitution 1",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "46'",
-                    "player": "L. Scienza",
-                    "detail": "Substitution 2",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "46'",
-                    "player": "S. Boey",
+                    "player": "K. Laimer",
                     "detail": "Substitution 1",
                     "team": "Bayern München"
+                },
+                {
+                    "time": "46'",
+                    "player": "N. Dorsch",
+                    "detail": "Substitution 1",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "46'",
+                    "player": "J. Schöppner",
+                    "detail": "Substitution 2",
+                    "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "56'",
@@ -71,49 +71,49 @@
                 },
                 {
                     "time": "63'",
-                    "player": "T. Muller",
+                    "player": "K. Coman",
                     "detail": "Substitution 2",
                     "team": "Bayern München"
                 },
                 {
                     "time": "63'",
-                    "player": "L. Sane",
+                    "player": "H. Kane",
                     "detail": "Substitution 3",
                     "team": "Bayern München"
                 },
                 {
                     "time": "70'",
-                    "player": "P. Wanner",
+                    "player": "S. Conteh",
                     "detail": "Substitution 3",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "70'",
-                    "player": "L. Kerber",
+                    "player": "M. Pieringer",
                     "detail": "Substitution 4",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "74'",
-                    "player": "G. Vidovic",
+                    "player": "M. Olise",
                     "detail": "Substitution 4",
                     "team": "Bayern München"
                 },
                 {
                     "time": "80'",
-                    "player": "R. Guerreiro",
+                    "player": "Raphaël Guerreiro",
                     "detail": "Yellow Card",
                     "team": "Bayern München"
                 },
                 {
                     "time": "85'",
-                    "player": "J. Palhinha",
+                    "player": "Raphaël Guerreiro",
                     "detail": "Substitution 5",
                     "team": "Bayern München"
                 },
                 {
                     "time": "88'",
-                    "player": "J. Fohrenbach",
+                    "player": "F. Krätzig",
                     "detail": "Substitution 5",
                     "team": "1. FC Heidenheim"
                 }
@@ -1085,7 +1085,7 @@
             "opponent": "SC Freiburg",
             "score": "1 - 2",
             "stadium": "BORUSSIA-PARK",
-            "referee": "D. Aytekin",
+            "referee": "Deniz Aytekin, Germany",
             "league_round": "Regular Season - 29",
             "events": [
                 {
@@ -1222,7 +1222,7 @@
             "opponent": "Bayern München",
             "score": "2 - 2",
             "stadium": "Allianz Arena",
-            "referee": "T. Welz",
+            "referee": "Tobias Welz, Germany",
             "league_round": "Regular Season - 29",
             "events": [
                 {
@@ -1501,19 +1501,19 @@
             "events": [
                 {
                     "time": "5'",
-                    "player": "A. Ilic",
+                    "player": "A. Ilić",
                     "detail": "Normal Goal",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "18'",
-                    "player": "J. Chabot",
+                    "player": "Julian Chabot",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "19'",
-                    "player": "D. Leite",
+                    "player": "Diogo Leite",
                     "detail": "Normal Goal",
                     "team": "Union Berlin"
                 },
@@ -1543,61 +1543,61 @@
                 },
                 {
                     "time": "45'",
-                    "player": "A. Ilic",
+                    "player": "A. Ilić",
                     "detail": "Normal Goal",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "45'",
-                    "player": "C. Fuhrich",
+                    "player": "C. Führich",
                     "detail": "Normal Goal",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "72'",
-                    "player": "R. Hendriks",
+                    "player": "J. Chabot",
                     "detail": "Substitution 1",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "72'",
-                    "player": "L. Benes",
+                    "player": "J. Haberer",
                     "detail": "Substitution 1",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "83'",
-                    "player": "T. Skarke",
+                    "player": "A. Ilić",
                     "detail": "Substitution 2",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "83'",
-                    "player": "M. Ljubicic",
+                    "player": "B. Hollerbach",
                     "detail": "Substitution 3",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "89'",
-                    "player": "R. Hendriks",
+                    "player": "Ramon Hendriks",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "90'",
-                    "player": "P. Stenzel",
+                    "player": "L. Stergiou",
                     "detail": "Substitution 2",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "90'",
-                    "player": "J. Bruun Larsen",
+                    "player": "C. Führich",
                     "detail": "Substitution 3",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "90'",
-                    "player": "L. Tousart",
+                    "player": "A. Schäfer",
                     "detail": "Substitution 4",
                     "team": "Union Berlin"
                 }
@@ -1817,19 +1817,19 @@
             "events": [
                 {
                     "time": "5'",
-                    "player": "A. Ilic",
+                    "player": "A. Ilić",
                     "detail": "Normal Goal",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "18'",
-                    "player": "J. Chabot",
+                    "player": "Julian Chabot",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "19'",
-                    "player": "D. Leite",
+                    "player": "Diogo Leite",
                     "detail": "Normal Goal",
                     "team": "Union Berlin"
                 },
@@ -1859,61 +1859,61 @@
                 },
                 {
                     "time": "45'",
-                    "player": "A. Ilic",
+                    "player": "A. Ilić",
                     "detail": "Normal Goal",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "45'",
-                    "player": "C. Fuhrich",
+                    "player": "C. Führich",
                     "detail": "Normal Goal",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "72'",
-                    "player": "R. Hendriks",
+                    "player": "J. Chabot",
                     "detail": "Substitution 1",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "72'",
-                    "player": "L. Benes",
+                    "player": "J. Haberer",
                     "detail": "Substitution 1",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "83'",
-                    "player": "T. Skarke",
+                    "player": "A. Ilić",
                     "detail": "Substitution 2",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "83'",
-                    "player": "M. Ljubicic",
+                    "player": "B. Hollerbach",
                     "detail": "Substitution 3",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "89'",
-                    "player": "R. Hendriks",
+                    "player": "Ramon Hendriks",
                     "detail": "Yellow Card",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "90'",
-                    "player": "P. Stenzel",
+                    "player": "L. Stergiou",
                     "detail": "Substitution 2",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "90'",
-                    "player": "J. Bruun Larsen",
+                    "player": "C. Führich",
                     "detail": "Substitution 3",
                     "team": "VfB Stuttgart"
                 },
                 {
                     "time": "90'",
-                    "player": "L. Tousart",
+                    "player": "A. Schäfer",
                     "detail": "Substitution 4",
                     "team": "Union Berlin"
                 }
@@ -2311,7 +2311,7 @@
             "league_round": "Regular Season - 30",
             "events": [
                 {
-                    "time": "13'",
+                    "time": "12'",
                     "player": "H. Kane",
                     "detail": "Normal Goal",
                     "team": "Bayern München"
@@ -2324,7 +2324,7 @@
                 },
                 {
                     "time": "35'",
-                    "player": "B. Gimber",
+                    "player": "Benedikt Gimber",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
                 },
@@ -2336,33 +2336,33 @@
                 },
                 {
                     "time": "41'",
-                    "player": "N. Dorsch",
+                    "player": "Niklas Dorsch",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "43'",
-                    "player": "J. Schoppner",
+                    "player": "Jan Schöppner",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "46'",
-                    "player": "J. Niehues",
-                    "detail": "Substitution 1",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "46'",
-                    "player": "L. Scienza",
-                    "detail": "Substitution 2",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "46'",
-                    "player": "S. Boey",
+                    "player": "K. Laimer",
                     "detail": "Substitution 1",
                     "team": "Bayern München"
+                },
+                {
+                    "time": "46'",
+                    "player": "N. Dorsch",
+                    "detail": "Substitution 1",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "46'",
+                    "player": "J. Schöppner",
+                    "detail": "Substitution 2",
+                    "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "56'",
@@ -2372,49 +2372,49 @@
                 },
                 {
                     "time": "63'",
-                    "player": "T. Muller",
+                    "player": "K. Coman",
                     "detail": "Substitution 2",
                     "team": "Bayern München"
                 },
                 {
                     "time": "63'",
-                    "player": "L. Sane",
+                    "player": "H. Kane",
                     "detail": "Substitution 3",
                     "team": "Bayern München"
                 },
                 {
                     "time": "70'",
-                    "player": "P. Wanner",
+                    "player": "S. Conteh",
                     "detail": "Substitution 3",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "70'",
-                    "player": "L. Kerber",
+                    "player": "M. Pieringer",
                     "detail": "Substitution 4",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "74'",
-                    "player": "G. Vidovic",
+                    "player": "M. Olise",
                     "detail": "Substitution 4",
                     "team": "Bayern München"
                 },
                 {
                     "time": "80'",
-                    "player": "R. Guerreiro",
+                    "player": "Raphaël Guerreiro",
                     "detail": "Yellow Card",
                     "team": "Bayern München"
                 },
                 {
                     "time": "85'",
-                    "player": "J. Palhinha",
+                    "player": "Raphaël Guerreiro",
                     "detail": "Substitution 5",
                     "team": "Bayern München"
                 },
                 {
                     "time": "88'",
-                    "player": "J. Fohrenbach",
+                    "player": "F. Krätzig",
                     "detail": "Substitution 5",
                     "team": "1. FC Heidenheim"
                 }
