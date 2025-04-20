@@ -163,90 +163,102 @@
         },
         {
             "team": "Bayer Leverkusen",
-            "date": "2025-04-12 13:30",
-            "opponent": "Union Berlin",
-            "score": "0 - 0",
-            "stadium": "BayArena",
-            "referee": "Bastian Dankert, Germany",
-            "league_round": "Regular Season - 29",
+            "date": "2025-04-20 17:30",
+            "opponent": "FC St. Pauli",
+            "score": "1 - 1",
+            "stadium": "Millerntor-Stadion",
+            "referee": "Sören Storks, Germany",
+            "league_round": "Regular Season - 30",
             "events": [
                 {
-                    "time": "46'",
+                    "time": "32'",
+                    "player": "P. Schick",
+                    "detail": "Normal Goal",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "59'",
+                    "player": "N. Weisshaupt",
+                    "detail": "Substitution 1",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "63'",
+                    "player": "P. Hincapie",
+                    "detail": "Yellow Card",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "64'",
+                    "player": "L. Hradecky",
+                    "detail": "Yellow Card",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "64'",
+                    "player": "J. Frimpong",
+                    "detail": "Yellow Card",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "66'",
+                    "player": "A. Adli",
+                    "detail": "Substitution 1",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "74'",
+                    "player": "M. Guilavogui",
+                    "detail": "Goal Disallowed - handball",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "77'",
                     "player": "N. Tella",
-                    "detail": "Substitution 1",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "57'",
-                    "player": "Aleix García",
-                    "detail": "Substitution 2",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "60'",
-                    "player": "T. Skarke",
-                    "detail": "Substitution 1",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "61'",
-                    "player": "A. Ilić",
-                    "detail": "Substitution 2",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "74'",
-                    "player": "E. Tapsoba",
-                    "detail": "Substitution 3",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "74'",
-                    "player": "Álex Grimaldo",
-                    "detail": "Substitution 4",
+                    "detail": "Yellow Card",
                     "team": "Bayer Leverkusen"
                 },
                 {
                     "time": "78'",
-                    "player": "C. Trimmel",
+                    "player": "C. Boukhalfa",
+                    "detail": "Normal Goal",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "84'",
+                    "player": "R. Wagner",
+                    "detail": "Substitution 2",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "89'",
+                    "player": "E. Buendia",
+                    "detail": "Substitution 2",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "89'",
+                    "player": "V. Boniface",
                     "detail": "Substitution 3",
-                    "team": "Union Berlin"
+                    "team": "Bayer Leverkusen"
                 },
                 {
-                    "time": "78'",
-                    "player": "J. Haberer",
+                    "time": "90'",
+                    "player": "E. Saad",
+                    "detail": "Substitution 3",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "90'",
+                    "player": "O. Afolayan",
                     "detail": "Substitution 4",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "82'",
-                    "player": "J. Juranović",
-                    "detail": "Substitution 5",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "83'",
-                    "player": "David Preu",
-                    "detail": "Yellow Card",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "86'",
-                    "player": "E. Palacios",
-                    "detail": "Substitution 5",
-                    "team": "Bayer Leverkusen"
+                    "team": "FC St. Pauli"
                 },
                 {
                     "time": "90'",
-                    "player": "Jonas Hofmann",
+                    "player": "E. Smith",
                     "detail": "Yellow Card",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "90'",
-                    "player": "Florian Wirtz",
-                    "detail": "Yellow Card",
-                    "team": "Bayer Leverkusen"
+                    "team": "FC St. Pauli"
                 }
             ],
             "odds": {
@@ -255,6 +267,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-20 17:30",
+                    "score": "1 - 1"
+                },
                 {
                     "date": "2025-04-12 13:30",
                     "score": "0 - 0"
@@ -270,10 +286,6 @@
                 {
                     "date": "2025-03-16 18:30",
                     "score": "3 - 4"
-                },
-                {
-                    "date": "2025-03-08 14:30",
-                    "score": "0 - 2"
                 }
             ],
             "future_games": [
@@ -2142,125 +2154,101 @@
         },
         {
             "team": "FC St. Pauli",
-            "date": "2025-04-12 13:30",
-            "opponent": "Holstein Kiel",
-            "score": "1 - 2",
-            "stadium": "Holstein-Stadion",
-            "referee": "Benjamin Brand, Germany",
-            "league_round": "Regular Season - 29",
+            "date": "2025-04-20 17:30",
+            "opponent": "Bayer Leverkusen",
+            "score": "1 - 1",
+            "stadium": "Millerntor-Stadion",
+            "referee": "Sören Storks, Germany",
+            "league_round": "Regular Season - 30",
             "events": [
                 {
-                    "time": "21'",
-                    "player": "A. Bernhardsson",
+                    "time": "32'",
+                    "player": "P. Schick",
                     "detail": "Normal Goal",
-                    "team": "Holstein Kiel"
+                    "team": "Bayer Leverkusen"
                 },
                 {
-                    "time": "34'",
-                    "player": "D. Sinani",
-                    "detail": "Normal Goal",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "37'",
-                    "player": "David Nemeth",
-                    "detail": "Yellow Card",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "46'",
-                    "player": "Oladapo Afolayan",
-                    "detail": "Yellow Card",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "46'",
-                    "player": "T. Becker",
-                    "detail": "Substitution 1",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "46'",
-                    "player": "E. Saad",
+                    "time": "59'",
+                    "player": "N. Weisshaupt",
                     "detail": "Substitution 1",
                     "team": "FC St. Pauli"
                 },
                 {
-                    "time": "60'",
-                    "player": "Marko Ivezić",
+                    "time": "63'",
+                    "player": "P. Hincapie",
                     "detail": "Yellow Card",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "60'",
-                    "player": "O. Afolayan",
-                    "detail": "Substitution 2",
-                    "team": "FC St. Pauli"
+                    "team": "Bayer Leverkusen"
                 },
                 {
                     "time": "64'",
-                    "player": "A. Dźwigała",
-                    "detail": "Substitution 3",
+                    "player": "L. Hradecky",
+                    "detail": "Yellow Card",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "64'",
+                    "player": "J. Frimpong",
+                    "detail": "Yellow Card",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "66'",
+                    "player": "A. Adli",
+                    "detail": "Substitution 1",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "74'",
+                    "player": "M. Guilavogui",
+                    "detail": "Goal Disallowed - handball",
                     "team": "FC St. Pauli"
-                },
-                {
-                    "time": "68'",
-                    "player": "S. Machino",
-                    "detail": "Substitution 2",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "68'",
-                    "player": "M. Komenda",
-                    "detail": "Substitution 3",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "75'",
-                    "player": "M. Knudsen",
-                    "detail": "Substitution 4",
-                    "team": "Holstein Kiel"
                 },
                 {
                     "time": "77'",
-                    "player": "Phil Harres",
+                    "player": "N. Tella",
                     "detail": "Yellow Card",
-                    "team": "Holstein Kiel"
+                    "team": "Bayer Leverkusen"
                 },
                 {
-                    "time": "82'",
-                    "player": "Hauke Wahl",
-                    "detail": "Yellow Card",
+                    "time": "78'",
+                    "player": "C. Boukhalfa",
+                    "detail": "Normal Goal",
                     "team": "FC St. Pauli"
                 },
                 {
-                    "time": "83'",
-                    "player": "A. Gigović",
-                    "detail": "Substitution 5",
-                    "team": "Holstein Kiel"
+                    "time": "84'",
+                    "player": "R. Wagner",
+                    "detail": "Substitution 2",
+                    "team": "FC St. Pauli"
                 },
                 {
-                    "time": "86'",
-                    "player": "Marvin Schulz",
-                    "detail": "Yellow Card",
-                    "team": "Holstein Kiel"
+                    "time": "89'",
+                    "player": "E. Buendia",
+                    "detail": "Substitution 2",
+                    "team": "Bayer Leverkusen"
                 },
                 {
-                    "time": "87'",
-                    "player": "D. Sinani",
+                    "time": "89'",
+                    "player": "V. Boniface",
+                    "detail": "Substitution 3",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "90'",
+                    "player": "E. Saad",
+                    "detail": "Substitution 3",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "90'",
+                    "player": "O. Afolayan",
                     "detail": "Substitution 4",
                     "team": "FC St. Pauli"
                 },
                 {
                     "time": "90'",
-                    "player": "Morgan Guilavogui",
+                    "player": "E. Smith",
                     "detail": "Yellow Card",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "90'",
-                    "player": "M. Geschwill",
-                    "detail": "Own Goal",
                     "team": "FC St. Pauli"
                 }
             ],
@@ -2270,6 +2258,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-20 17:30",
+                    "score": "1 - 1"
+                },
                 {
                     "date": "2025-04-12 13:30",
                     "score": "1 - 2"
@@ -2285,10 +2277,6 @@
                 {
                     "date": "2025-03-14 19:30",
                     "score": "1 - 0"
-                },
-                {
-                    "date": "2025-03-08 14:30",
-                    "score": "1 - 1"
                 }
             ],
             "future_games": [
