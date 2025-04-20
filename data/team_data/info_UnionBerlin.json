@@ -61,11 +61,11 @@
             },
             "player": {
                 "id": 45892,
-                "name": "A. Ilic"
+                "name": "A. Ilić"
             },
             "assist": {
-                "id": 37117,
-                "name": "D. Doekhi"
+                "id": null,
+                "name": null
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -83,7 +83,7 @@
             },
             "player": {
                 "id": 38112,
-                "name": "J. Chabot"
+                "name": "Julian Chabot"
             },
             "assist": {
                 "id": null,
@@ -91,7 +91,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Tripping"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -105,7 +105,7 @@
             },
             "player": {
                 "id": 376,
-                "name": "D. Leite"
+                "name": "Diogo Leite"
             },
             "assist": {
                 "id": 288206,
@@ -131,7 +131,7 @@
             },
             "assist": {
                 "id": 25342,
-                "name": "M. Mittelstadt"
+                "name": "M. Mittelstädt"
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -175,7 +175,7 @@
             },
             "assist": {
                 "id": 376,
-                "name": "D. Leite"
+                "name": "Diogo Leite"
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -215,7 +215,7 @@
             },
             "player": {
                 "id": 45892,
-                "name": "A. Ilic"
+                "name": "A. Ilić"
             },
             "assist": {
                 "id": 24848,
@@ -237,7 +237,7 @@
             },
             "player": {
                 "id": 24798,
-                "name": "C. Fuhrich"
+                "name": "C. Führich"
             },
             "assist": {
                 "id": 26475,
@@ -258,12 +258,12 @@
                 "logo": "https://media.api-sports.io/football/teams/172.png"
             },
             "player": {
-                "id": 135883,
-                "name": "R. Hendriks"
-            },
-            "assist": {
                 "id": 38112,
                 "name": "J. Chabot"
+            },
+            "assist": {
+                "id": 135883,
+                "name": "R. Hendriks"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -280,12 +280,12 @@
                 "logo": "https://media.api-sports.io/football/teams/182.png"
             },
             "player": {
-                "id": 24962,
-                "name": "L. Benes"
-            },
-            "assist": {
                 "id": 26249,
                 "name": "J. Haberer"
+            },
+            "assist": {
+                "id": 24962,
+                "name": "L. Bénes"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -302,12 +302,12 @@
                 "logo": "https://media.api-sports.io/football/teams/182.png"
             },
             "player": {
-                "id": 24910,
-                "name": "T. Skarke"
+                "id": 45892,
+                "name": "A. Ilić"
             },
             "assist": {
-                "id": 162946,
-                "name": "B. Hollerbach"
+                "id": 292218,
+                "name": "M. Ljubičić"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -324,12 +324,12 @@
                 "logo": "https://media.api-sports.io/football/teams/182.png"
             },
             "player": {
-                "id": 292218,
-                "name": "M. Ljubicic"
+                "id": 162946,
+                "name": "B. Hollerbach"
             },
             "assist": {
-                "id": 45892,
-                "name": "A. Ilic"
+                "id": 24910,
+                "name": "T. Skarke"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -347,7 +347,7 @@
             },
             "player": {
                 "id": 135883,
-                "name": "R. Hendriks"
+                "name": "Ramon Hendriks"
             },
             "assist": {
                 "id": null,
@@ -355,12 +355,12 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Tripping"
+            "comments": "Foul"
         },
         {
             "time": {
                 "elapsed": 90,
-                "extra": null
+                "extra": 1
             },
             "team": {
                 "id": 172,
@@ -368,12 +368,12 @@
                 "logo": "https://media.api-sports.io/football/teams/172.png"
             },
             "player": {
-                "id": 26244,
-                "name": "P. Stenzel"
-            },
-            "assist": {
                 "id": 48481,
                 "name": "L. Stergiou"
+            },
+            "assist": {
+                "id": 26244,
+                "name": "P. Stenzel"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -390,12 +390,12 @@
                 "logo": "https://media.api-sports.io/football/teams/172.png"
             },
             "player": {
-                "id": 22,
-                "name": "J. Bruun Larsen"
+                "id": 24798,
+                "name": "C. Führich"
             },
             "assist": {
-                "id": 24798,
-                "name": "C. Fuhrich"
+                "id": 22,
+                "name": "J. Bruun Larsen"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -412,12 +412,12 @@
                 "logo": "https://media.api-sports.io/football/teams/182.png"
             },
             "player": {
-                "id": 664,
-                "name": "L. Tousart"
+                "id": 30785,
+                "name": "A. Schäfer"
             },
             "assist": {
-                "id": 30785,
-                "name": "A. Schafer"
+                "id": 664,
+                "name": "L. Tousart"
             },
             "type": "subst",
             "detail": "Substitution 4",
