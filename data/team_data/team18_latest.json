@@ -1054,13 +1054,13 @@
                 },
                 {
                     "time": "68'",
-                    "player": "O. Burke",
+                    "player": "M. Ducksch",
                     "detail": "Substitution 2",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "68'",
-                    "player": "M. Ducksch",
+                    "player": "O. Burke",
                     "detail": "Substitution 3",
                     "team": "Werder Bremen"
                 },
@@ -1129,6 +1129,12 @@
                     "player": "R. Schmid",
                     "detail": "Substitution 4",
                     "team": "Werder Bremen"
+                },
+                {
+                    "time": "90'",
+                    "player": "Timo Horn",
+                    "detail": "Yellow Card",
+                    "team": "VfL Bochum"
                 },
                 {
                     "time": "90'",
@@ -2401,13 +2407,13 @@
                 },
                 {
                     "time": "68'",
-                    "player": "O. Burke",
+                    "player": "M. Ducksch",
                     "detail": "Substitution 2",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "68'",
-                    "player": "M. Ducksch",
+                    "player": "O. Burke",
                     "detail": "Substitution 3",
                     "team": "Werder Bremen"
                 },
@@ -2476,6 +2482,12 @@
                     "player": "R. Schmid",
                     "detail": "Substitution 4",
                     "team": "Werder Bremen"
+                },
+                {
+                    "time": "90'",
+                    "player": "Timo Horn",
+                    "detail": "Yellow Card",
+                    "team": "VfL Bochum"
                 },
                 {
                     "time": "90'",
