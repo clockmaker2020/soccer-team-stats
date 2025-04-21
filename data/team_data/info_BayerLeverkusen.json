@@ -65,32 +65,10 @@
             },
             "assist": {
                 "id": 563,
-                "name": "A. Grimaldo"
+                "name": "Álex Grimaldo"
             },
             "type": "Goal",
             "detail": "Normal Goal",
-            "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 59,
-                "extra": null
-            },
-            "team": {
-                "id": 186,
-                "name": "FC St. Pauli",
-                "logo": "https://media.api-sports.io/football/teams/186.png"
-            },
-            "player": {
-                "id": 202844,
-                "name": "N. Weisshaupt"
-            },
-            "assist": {
-                "id": 6904,
-                "name": "C. Metcalfe"
-            },
-            "type": "subst",
-            "detail": "Substitution 1",
             "comments": null
         },
         {
@@ -105,7 +83,7 @@
             },
             "player": {
                 "id": 127817,
-                "name": "P. Hincapie"
+                "name": "Piero Hincapié"
             },
             "assist": {
                 "id": null,
@@ -113,29 +91,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Unsportsmanlike conduct"
-        },
-        {
-            "time": {
-                "elapsed": 64,
-                "extra": null
-            },
-            "team": {
-                "id": 168,
-                "name": "Bayer Leverkusen",
-                "logo": "https://media.api-sports.io/football/teams/168.png"
-            },
-            "player": {
-                "id": 963,
-                "name": "L. Hradecky"
-            },
-            "assist": {
-                "id": null,
-                "name": null
-            },
-            "type": "Card",
-            "detail": "Yellow Card",
-            "comments": "Delay of game"
+            "comments": "Argument"
         },
         {
             "time": {
@@ -149,7 +105,7 @@
             },
             "player": {
                 "id": 152654,
-                "name": "J. Frimpong"
+                "name": "Jeremie Frimpong"
             },
             "assist": {
                 "id": null,
@@ -157,11 +113,11 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Roughing"
+            "comments": "Foul"
         },
         {
             "time": {
-                "elapsed": 66,
+                "elapsed": 64,
                 "extra": null
             },
             "team": {
@@ -170,20 +126,20 @@
                 "logo": "https://media.api-sports.io/football/teams/168.png"
             },
             "player": {
-                "id": 129682,
-                "name": "A. Adli"
+                "id": 963,
+                "name": "Lukáš Hrádecký"
             },
             "assist": {
-                "id": 794,
-                "name": "P. Schick"
+                "id": null,
+                "name": null
             },
-            "type": "subst",
-            "detail": "Substitution 1",
-            "comments": null
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Time wasting"
         },
         {
             "time": {
-                "elapsed": 74,
+                "elapsed": 75,
                 "extra": null
             },
             "team": {
@@ -193,14 +149,14 @@
             },
             "player": {
                 "id": 23643,
-                "name": "M. Guilavogui"
+                "name": "Morgan Guilavogui"
             },
             "assist": {
                 "id": null,
                 "name": null
             },
             "type": "Var",
-            "detail": "Goal Disallowed - handball",
+            "detail": "Goal confirmed",
             "comments": null
         },
         {
@@ -215,7 +171,7 @@
             },
             "player": {
                 "id": 231029,
-                "name": "N. Tella"
+                "name": "Nathan Tella"
             },
             "assist": {
                 "id": null,
@@ -223,139 +179,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Unsportsmanlike conduct"
-        },
-        {
-            "time": {
-                "elapsed": 78,
-                "extra": null
-            },
-            "team": {
-                "id": 186,
-                "name": "FC St. Pauli",
-                "logo": "https://media.api-sports.io/football/teams/186.png"
-            },
-            "player": {
-                "id": 178146,
-                "name": "C. Boukhalfa"
-            },
-            "assist": {
-                "id": 1672,
-                "name": "D. Sinani"
-            },
-            "type": "Goal",
-            "detail": "Normal Goal",
-            "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 84,
-                "extra": null
-            },
-            "team": {
-                "id": 186,
-                "name": "FC St. Pauli",
-                "logo": "https://media.api-sports.io/football/teams/186.png"
-            },
-            "player": {
-                "id": 280024,
-                "name": "R. Wagner"
-            },
-            "assist": {
-                "id": 178146,
-                "name": "C. Boukhalfa"
-            },
-            "type": "subst",
-            "detail": "Substitution 2",
-            "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 89,
-                "extra": null
-            },
-            "team": {
-                "id": 168,
-                "name": "Bayer Leverkusen",
-                "logo": "https://media.api-sports.io/football/teams/168.png"
-            },
-            "player": {
-                "id": 19071,
-                "name": "E. Buendia"
-            },
-            "assist": {
-                "id": 41150,
-                "name": "E. Tapsoba"
-            },
-            "type": "subst",
-            "detail": "Substitution 2",
-            "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 89,
-                "extra": null
-            },
-            "team": {
-                "id": 168,
-                "name": "Bayer Leverkusen",
-                "logo": "https://media.api-sports.io/football/teams/168.png"
-            },
-            "player": {
-                "id": 39071,
-                "name": "V. Boniface"
-            },
-            "assist": {
-                "id": 231029,
-                "name": "N. Tella"
-            },
-            "type": "subst",
-            "detail": "Substitution 3",
-            "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 90,
-                "extra": 1
-            },
-            "team": {
-                "id": 186,
-                "name": "FC St. Pauli",
-                "logo": "https://media.api-sports.io/football/teams/186.png"
-            },
-            "player": {
-                "id": 323974,
-                "name": "E. Saad"
-            },
-            "assist": {
-                "id": 1672,
-                "name": "D. Sinani"
-            },
-            "type": "subst",
-            "detail": "Substitution 3",
-            "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 90,
-                "extra": 1
-            },
-            "team": {
-                "id": 186,
-                "name": "FC St. Pauli",
-                "logo": "https://media.api-sports.io/football/teams/186.png"
-            },
-            "player": {
-                "id": 17756,
-                "name": "O. Afolayan"
-            },
-            "assist": {
-                "id": 23643,
-                "name": "M. Guilavogui"
-            },
-            "type": "subst",
-            "detail": "Substitution 4",
-            "comments": null
+            "comments": "Time wasting"
         },
         {
             "time": {
@@ -369,7 +193,7 @@
             },
             "player": {
                 "id": 8486,
-                "name": "E. Smith"
+                "name": "Eric Smith"
             },
             "assist": {
                 "id": null,
