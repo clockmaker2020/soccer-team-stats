@@ -177,86 +177,38 @@
                     "team": "Bayer Leverkusen"
                 },
                 {
-                    "time": "59'",
-                    "player": "N. Weisshaupt",
-                    "detail": "Substitution 1",
-                    "team": "FC St. Pauli"
-                },
-                {
                     "time": "63'",
-                    "player": "P. Hincapie",
+                    "player": "Piero Hincapié",
                     "detail": "Yellow Card",
                     "team": "Bayer Leverkusen"
                 },
                 {
                     "time": "64'",
-                    "player": "L. Hradecky",
+                    "player": "Jeremie Frimpong",
                     "detail": "Yellow Card",
                     "team": "Bayer Leverkusen"
                 },
                 {
                     "time": "64'",
-                    "player": "J. Frimpong",
+                    "player": "Lukáš Hrádecký",
                     "detail": "Yellow Card",
                     "team": "Bayer Leverkusen"
                 },
                 {
-                    "time": "66'",
-                    "player": "A. Adli",
-                    "detail": "Substitution 1",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "74'",
-                    "player": "M. Guilavogui",
-                    "detail": "Goal Disallowed - handball",
+                    "time": "75'",
+                    "player": "Morgan Guilavogui",
+                    "detail": "Goal confirmed",
                     "team": "FC St. Pauli"
                 },
                 {
                     "time": "77'",
-                    "player": "N. Tella",
+                    "player": "Nathan Tella",
                     "detail": "Yellow Card",
                     "team": "Bayer Leverkusen"
                 },
                 {
-                    "time": "78'",
-                    "player": "C. Boukhalfa",
-                    "detail": "Normal Goal",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "84'",
-                    "player": "R. Wagner",
-                    "detail": "Substitution 2",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "89'",
-                    "player": "E. Buendia",
-                    "detail": "Substitution 2",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "89'",
-                    "player": "V. Boniface",
-                    "detail": "Substitution 3",
-                    "team": "Bayer Leverkusen"
-                },
-                {
                     "time": "90'",
-                    "player": "E. Saad",
-                    "detail": "Substitution 3",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "90'",
-                    "player": "O. Afolayan",
-                    "detail": "Substitution 4",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "90'",
-                    "player": "E. Smith",
+                    "player": "Eric Smith",
                     "detail": "Yellow Card",
                     "team": "FC St. Pauli"
                 }
@@ -315,67 +267,61 @@
             "events": [
                 {
                     "time": "46'",
-                    "player": "J. Bahoya",
+                    "player": "M. Batshuayi",
                     "detail": "Substitution 1",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "46'",
-                    "player": "A. Knauff",
+                    "player": "F. Chaïbi",
                     "detail": "Substitution 2",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "56'",
-                    "player": "N. Collins",
+                    "player": "A. Theate",
                     "detail": "Substitution 3",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "61'",
-                    "player": "M. Berisha",
+                    "player": "S. Essende",
                     "detail": "Substitution 1",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "61'",
-                    "player": "F. Jensen",
+                    "player": "M. Kömür",
                     "detail": "Substitution 2",
                     "team": "FC Augsburg"
                 },
                 {
-                    "time": "72'",
-                    "player": "N. Collins",
+                    "time": "71'",
+                    "player": "Nnamdi Collins",
                     "detail": "Yellow Card",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "79'",
-                    "player": "D. Toppmoller",
-                    "detail": "Yellow Card",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "79'",
-                    "player": "H. Koudossou",
+                    "player": "M. Wolf",
                     "detail": "Substitution 3",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "81'",
-                    "player": "F. Onyeka",
+                    "player": "Frank Onyeka",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "83'",
-                    "player": "M. Berisha",
+                    "player": "Mergim Berisha",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "86'",
-                    "player": "P. Tietz",
+                    "player": "A. Claude-Maurice",
                     "detail": "Substitution 4",
                     "team": "FC Augsburg"
                 }
@@ -911,7 +857,7 @@
             "events": [
                 {
                     "time": "4'",
-                    "player": "J. Scally",
+                    "player": "Joseph Scally",
                     "detail": "Yellow Card",
                     "team": "Borussia Mönchengladbach"
                 },
@@ -923,7 +869,7 @@
                 },
                 {
                     "time": "35'",
-                    "player": "C. Chukwuemeka",
+                    "player": "M. Beier",
                     "detail": "Substitution 1",
                     "team": "Borussia Dortmund"
                 },
@@ -946,74 +892,80 @@
                     "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "56'",
-                    "player": "S. Guirassy",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Dortmund"
+                    "time": "54'",
+                    "player": "Tim Kleindienst",
+                    "detail": "Penalty confirmed",
+                    "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "56'",
-                    "player": "K. Stoger",
+                    "player": "Kevin Stöger",
+                    "detail": "Yellow Card",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "56'",
+                    "player": "K. Stöger",
                     "detail": "Penalty",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "56'",
-                    "player": "K. Stoger",
+                    "player": "Serhou Guirassy",
                     "detail": "Yellow Card",
-                    "team": "Borussia Mönchengladbach"
+                    "team": "Borussia Dortmund"
                 },
                 {
                     "time": "61'",
-                    "player": "J. Ryerson",
+                    "player": "Yan Couto",
                     "detail": "Substitution 2",
                     "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "70'",
-                    "player": "R. Hack",
+                    "time": "69'",
+                    "player": "T. Čvančara",
                     "detail": "Substitution 1",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "70'",
-                    "player": "S. Lainer",
+                    "player": "L. Ullrich",
                     "detail": "Substitution 2",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "70'",
-                    "player": "L. Netz",
+                    "player": "J. Scally",
                     "detail": "Substitution 3",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "73'",
-                    "player": "S. Ozcan",
+                    "player": "N. Süle",
                     "detail": "Substitution 3",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "73'",
-                    "player": "E. Can",
+                    "player": "K. Adeyemi",
                     "detail": "Substitution 4",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "73'",
-                    "player": "J. Brandt",
+                    "player": "F. Nmecha",
                     "detail": "Substitution 5",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "83'",
-                    "player": "F. Neuhaus",
+                    "player": "R. Reitz",
                     "detail": "Substitution 4",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "83'",
-                    "player": "S. Fukuda",
+                    "player": "J. Weigl",
                     "detail": "Substitution 5",
                     "team": "Borussia Mönchengladbach"
                 }
@@ -1239,7 +1191,7 @@
             "events": [
                 {
                     "time": "4'",
-                    "player": "J. Scally",
+                    "player": "Joseph Scally",
                     "detail": "Yellow Card",
                     "team": "Borussia Mönchengladbach"
                 },
@@ -1251,7 +1203,7 @@
                 },
                 {
                     "time": "35'",
-                    "player": "C. Chukwuemeka",
+                    "player": "M. Beier",
                     "detail": "Substitution 1",
                     "team": "Borussia Dortmund"
                 },
@@ -1274,74 +1226,80 @@
                     "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "56'",
-                    "player": "S. Guirassy",
-                    "detail": "Yellow Card",
-                    "team": "Borussia Dortmund"
+                    "time": "54'",
+                    "player": "Tim Kleindienst",
+                    "detail": "Penalty confirmed",
+                    "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "56'",
-                    "player": "K. Stoger",
+                    "player": "Kevin Stöger",
+                    "detail": "Yellow Card",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "56'",
+                    "player": "K. Stöger",
                     "detail": "Penalty",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "56'",
-                    "player": "K. Stoger",
+                    "player": "Serhou Guirassy",
                     "detail": "Yellow Card",
-                    "team": "Borussia Mönchengladbach"
+                    "team": "Borussia Dortmund"
                 },
                 {
                     "time": "61'",
-                    "player": "J. Ryerson",
+                    "player": "Yan Couto",
                     "detail": "Substitution 2",
                     "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "70'",
-                    "player": "R. Hack",
+                    "time": "69'",
+                    "player": "T. Čvančara",
                     "detail": "Substitution 1",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "70'",
-                    "player": "S. Lainer",
+                    "player": "L. Ullrich",
                     "detail": "Substitution 2",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "70'",
-                    "player": "L. Netz",
+                    "player": "J. Scally",
                     "detail": "Substitution 3",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "73'",
-                    "player": "S. Ozcan",
+                    "player": "N. Süle",
                     "detail": "Substitution 3",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "73'",
-                    "player": "E. Can",
+                    "player": "K. Adeyemi",
                     "detail": "Substitution 4",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "73'",
-                    "player": "J. Brandt",
+                    "player": "F. Nmecha",
                     "detail": "Substitution 5",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "83'",
-                    "player": "F. Neuhaus",
+                    "player": "R. Reitz",
                     "detail": "Substitution 4",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "83'",
-                    "player": "S. Fukuda",
+                    "player": "J. Weigl",
                     "detail": "Substitution 5",
                     "team": "Borussia Mönchengladbach"
                 }
@@ -1400,67 +1358,61 @@
             "events": [
                 {
                     "time": "46'",
-                    "player": "J. Bahoya",
+                    "player": "M. Batshuayi",
                     "detail": "Substitution 1",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "46'",
-                    "player": "A. Knauff",
+                    "player": "F. Chaïbi",
                     "detail": "Substitution 2",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "56'",
-                    "player": "N. Collins",
+                    "player": "A. Theate",
                     "detail": "Substitution 3",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "61'",
-                    "player": "M. Berisha",
+                    "player": "S. Essende",
                     "detail": "Substitution 1",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "61'",
-                    "player": "F. Jensen",
+                    "player": "M. Kömür",
                     "detail": "Substitution 2",
                     "team": "FC Augsburg"
                 },
                 {
-                    "time": "72'",
-                    "player": "N. Collins",
+                    "time": "71'",
+                    "player": "Nnamdi Collins",
                     "detail": "Yellow Card",
                     "team": "Eintracht Frankfurt"
                 },
                 {
                     "time": "79'",
-                    "player": "D. Toppmoller",
-                    "detail": "Yellow Card",
-                    "team": "Eintracht Frankfurt"
-                },
-                {
-                    "time": "79'",
-                    "player": "H. Koudossou",
+                    "player": "M. Wolf",
                     "detail": "Substitution 3",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "81'",
-                    "player": "F. Onyeka",
+                    "player": "Frank Onyeka",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "83'",
-                    "player": "M. Berisha",
+                    "player": "Mergim Berisha",
                     "detail": "Yellow Card",
                     "team": "FC Augsburg"
                 },
                 {
                     "time": "86'",
-                    "player": "P. Tietz",
+                    "player": "A. Claude-Maurice",
                     "detail": "Substitution 4",
                     "team": "FC Augsburg"
                 }
@@ -1995,86 +1947,38 @@
                     "team": "Bayer Leverkusen"
                 },
                 {
-                    "time": "59'",
-                    "player": "N. Weisshaupt",
-                    "detail": "Substitution 1",
-                    "team": "FC St. Pauli"
-                },
-                {
                     "time": "63'",
-                    "player": "P. Hincapie",
+                    "player": "Piero Hincapié",
                     "detail": "Yellow Card",
                     "team": "Bayer Leverkusen"
                 },
                 {
                     "time": "64'",
-                    "player": "L. Hradecky",
+                    "player": "Jeremie Frimpong",
                     "detail": "Yellow Card",
                     "team": "Bayer Leverkusen"
                 },
                 {
                     "time": "64'",
-                    "player": "J. Frimpong",
+                    "player": "Lukáš Hrádecký",
                     "detail": "Yellow Card",
                     "team": "Bayer Leverkusen"
                 },
                 {
-                    "time": "66'",
-                    "player": "A. Adli",
-                    "detail": "Substitution 1",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "74'",
-                    "player": "M. Guilavogui",
-                    "detail": "Goal Disallowed - handball",
+                    "time": "75'",
+                    "player": "Morgan Guilavogui",
+                    "detail": "Goal confirmed",
                     "team": "FC St. Pauli"
                 },
                 {
                     "time": "77'",
-                    "player": "N. Tella",
+                    "player": "Nathan Tella",
                     "detail": "Yellow Card",
                     "team": "Bayer Leverkusen"
                 },
                 {
-                    "time": "78'",
-                    "player": "C. Boukhalfa",
-                    "detail": "Normal Goal",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "84'",
-                    "player": "R. Wagner",
-                    "detail": "Substitution 2",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "89'",
-                    "player": "E. Buendia",
-                    "detail": "Substitution 2",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "89'",
-                    "player": "V. Boniface",
-                    "detail": "Substitution 3",
-                    "team": "Bayer Leverkusen"
-                },
-                {
                     "time": "90'",
-                    "player": "E. Saad",
-                    "detail": "Substitution 3",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "90'",
-                    "player": "O. Afolayan",
-                    "detail": "Substitution 4",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "90'",
-                    "player": "E. Smith",
+                    "player": "Eric Smith",
                     "detail": "Yellow Card",
                     "team": "FC St. Pauli"
                 }
