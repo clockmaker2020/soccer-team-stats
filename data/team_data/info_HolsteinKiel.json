@@ -170,28 +170,6 @@
                 "logo": "https://media.api-sports.io/football/teams/191.png"
             },
             "player": {
-                "id": 424,
-                "name": "S. Skrzybski"
-            },
-            "assist": {
-                "id": 39315,
-                "name": "M. Knudsen"
-            },
-            "type": "subst",
-            "detail": "Substitution 1",
-            "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 66,
-                "extra": null
-            },
-            "team": {
-                "id": 191,
-                "name": "Holstein Kiel",
-                "logo": "https://media.api-sports.io/football/teams/191.png"
-            },
-            "player": {
                 "id": 41578,
                 "name": "D. Zec"
             },
@@ -200,7 +178,7 @@
                 "name": "C. Johansson"
             },
             "type": "subst",
-            "detail": "Substitution 2",
+            "detail": "Substitution 1",
             "comments": null
         },
         {
@@ -223,6 +201,28 @@
             },
             "type": "subst",
             "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 67,
+                "extra": null
+            },
+            "team": {
+                "id": 191,
+                "name": "Holstein Kiel",
+                "logo": "https://media.api-sports.io/football/teams/191.png"
+            },
+            "player": {
+                "id": 424,
+                "name": "S. Skrzybski"
+            },
+            "assist": {
+                "id": 39315,
+                "name": "M. Knudsen"
+            },
+            "type": "subst",
+            "detail": "Substitution 2",
             "comments": null
         },
         {
