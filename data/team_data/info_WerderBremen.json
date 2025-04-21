@@ -170,12 +170,12 @@
                 "logo": "https://media.api-sports.io/football/teams/162.png"
             },
             "player": {
-                "id": 1124,
-                "name": "O. Burke"
+                "id": 25464,
+                "name": "M. Ducksch"
             },
             "assist": {
-                "id": 177807,
-                "name": "J. Njinmah"
+                "id": 7073,
+                "name": "M. Grüll"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -192,12 +192,12 @@
                 "logo": "https://media.api-sports.io/football/teams/162.png"
             },
             "player": {
-                "id": 25464,
-                "name": "M. Ducksch"
+                "id": 1124,
+                "name": "O. Burke"
             },
             "assist": {
-                "id": 7073,
-                "name": "M. Grüll"
+                "id": 177807,
+                "name": "J. Njinmah"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -448,6 +448,28 @@
         {
             "time": {
                 "elapsed": 90,
+                "extra": 9
+            },
+            "team": {
+                "id": 176,
+                "name": "VfL Bochum",
+                "logo": "https://media.api-sports.io/football/teams/176.png"
+            },
+            "player": {
+                "id": 24785,
+                "name": "Timo Horn"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Argument"
+        },
+        {
+            "time": {
+                "elapsed": 90,
                 "extra": 6
             },
             "team": {
@@ -542,7 +564,7 @@
                 },
                 {
                     "type": "expected_goals",
-                    "value": "2.26"
+                    "value": "2.27"
                 },
                 {
                     "type": "goals_prevented",
@@ -599,7 +621,7 @@
                 },
                 {
                     "type": "Yellow Cards",
-                    "value": 3
+                    "value": 4
                 },
                 {
                     "type": "Red Cards",
