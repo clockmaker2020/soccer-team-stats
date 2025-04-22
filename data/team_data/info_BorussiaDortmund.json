@@ -267,7 +267,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Argument"
+            "comments": "Time wasting"
         },
         {
             "time": {
@@ -293,7 +293,7 @@
         },
         {
             "time": {
-                "elapsed": 69,
+                "elapsed": 70,
                 "extra": null
             },
             "team": {
