@@ -177,6 +177,12 @@
                     "team": "Bayer Leverkusen"
                 },
                 {
+                    "time": "59'",
+                    "player": "C. Metcalfe",
+                    "detail": "Substitution 1",
+                    "team": "FC St. Pauli"
+                },
+                {
                     "time": "63'",
                     "player": "Piero Hincapié",
                     "detail": "Yellow Card",
@@ -195,9 +201,15 @@
                     "team": "Bayer Leverkusen"
                 },
                 {
+                    "time": "66'",
+                    "player": "P. Schick",
+                    "detail": "Substitution 1",
+                    "team": "Bayer Leverkusen"
+                },
+                {
                     "time": "75'",
                     "player": "Morgan Guilavogui",
-                    "detail": "Goal confirmed",
+                    "detail": "Goal cancelled",
                     "team": "FC St. Pauli"
                 },
                 {
@@ -207,9 +219,45 @@
                     "team": "Bayer Leverkusen"
                 },
                 {
+                    "time": "78'",
+                    "player": "C. Boukhalfa",
+                    "detail": "Normal Goal",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "85'",
+                    "player": "C. Boukhalfa",
+                    "detail": "Substitution 2",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "89'",
+                    "player": "N. Tella",
+                    "detail": "Substitution 2",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "89'",
+                    "player": "E. Tapsoba",
+                    "detail": "Substitution 3",
+                    "team": "Bayer Leverkusen"
+                },
+                {
                     "time": "90'",
                     "player": "Eric Smith",
                     "detail": "Yellow Card",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "90'",
+                    "player": "D. Sinani",
+                    "detail": "Substitution 3",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "90'",
+                    "player": "M. Guilavogui",
+                    "detail": "Substitution 4",
                     "team": "FC St. Pauli"
                 }
             ],
@@ -1953,6 +2001,12 @@
                     "team": "Bayer Leverkusen"
                 },
                 {
+                    "time": "59'",
+                    "player": "C. Metcalfe",
+                    "detail": "Substitution 1",
+                    "team": "FC St. Pauli"
+                },
+                {
                     "time": "63'",
                     "player": "Piero Hincapié",
                     "detail": "Yellow Card",
@@ -1971,9 +2025,15 @@
                     "team": "Bayer Leverkusen"
                 },
                 {
+                    "time": "66'",
+                    "player": "P. Schick",
+                    "detail": "Substitution 1",
+                    "team": "Bayer Leverkusen"
+                },
+                {
                     "time": "75'",
                     "player": "Morgan Guilavogui",
-                    "detail": "Goal confirmed",
+                    "detail": "Goal cancelled",
                     "team": "FC St. Pauli"
                 },
                 {
@@ -1983,9 +2043,45 @@
                     "team": "Bayer Leverkusen"
                 },
                 {
+                    "time": "78'",
+                    "player": "C. Boukhalfa",
+                    "detail": "Normal Goal",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "85'",
+                    "player": "C. Boukhalfa",
+                    "detail": "Substitution 2",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "89'",
+                    "player": "N. Tella",
+                    "detail": "Substitution 2",
+                    "team": "Bayer Leverkusen"
+                },
+                {
+                    "time": "89'",
+                    "player": "E. Tapsoba",
+                    "detail": "Substitution 3",
+                    "team": "Bayer Leverkusen"
+                },
+                {
                     "time": "90'",
                     "player": "Eric Smith",
                     "detail": "Yellow Card",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "90'",
+                    "player": "D. Sinani",
+                    "detail": "Substitution 3",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "90'",
+                    "player": "M. Guilavogui",
+                    "detail": "Substitution 4",
                     "team": "FC St. Pauli"
                 }
             ],
