@@ -417,7 +417,7 @@
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 406
+                    "value": 405
                 },
                 {
                     "type": "Passes %",
@@ -425,7 +425,7 @@
                 },
                 {
                     "type": "expected_goals",
-                    "value": "1.00"
+                    "value": "1.09"
                 },
                 {
                     "type": "goals_prevented",
