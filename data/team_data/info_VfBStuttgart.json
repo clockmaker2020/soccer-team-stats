@@ -882,15 +882,6 @@
                 },
                 {
                     "player": {
-                        "id": 328008,
-                        "name": "Frank Feller",
-                        "number": 40,
-                        "pos": "G",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 24979,
                         "name": "Jonas Föhrenbach",
                         "number": 19,
@@ -900,18 +891,27 @@
                 },
                 {
                     "player": {
-                        "id": 203011,
-                        "name": "Julian Niehues",
-                        "number": 16,
+                        "id": 125723,
+                        "name": "Thomas Keller",
+                        "number": 27,
                         "pos": "M",
                         "grid": null
                     }
                 },
                 {
                     "player": {
-                        "id": 125723,
-                        "name": "Thomas Keller",
-                        "number": 27,
+                        "id": 328008,
+                        "name": "Frank Feller",
+                        "number": 40,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 203011,
+                        "name": "Julian Niehues",
+                        "number": 16,
                         "pos": "M",
                         "grid": null
                     }
