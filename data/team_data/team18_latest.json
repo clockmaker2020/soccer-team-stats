@@ -1516,114 +1516,96 @@
         },
         {
             "team": "VfB Stuttgart",
-            "date": "2025-04-19 16:30",
-            "opponent": "Union Berlin",
-            "score": "4 - 4",
-            "stadium": "Stadion An der Alten Försterei",
-            "referee": "T. Stieler",
-            "league_round": "Regular Season - 30",
+            "date": "2025-04-25 18:30",
+            "opponent": "1. FC Heidenheim",
+            "score": "0 - 1",
+            "stadium": "MHPArena",
+            "referee": "Tobias Welz, Germany",
+            "league_round": "Regular Season - 31",
             "events": [
                 {
-                    "time": "5'",
-                    "player": "A. Ilić",
-                    "detail": "Normal Goal",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "18'",
-                    "player": "Julian Chabot",
+                    "time": "21'",
+                    "player": "F. Kratzig",
                     "detail": "Yellow Card",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "19'",
-                    "player": "Diogo Leite",
-                    "detail": "Normal Goal",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "23'",
-                    "player": "D. Undav",
-                    "detail": "Normal Goal",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "29'",
-                    "player": "E. Millot",
-                    "detail": "Normal Goal",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "38'",
-                    "player": "L. Querfeld",
-                    "detail": "Normal Goal",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "43'",
-                    "player": "J. Chabot",
-                    "detail": "Normal Goal",
-                    "team": "VfB Stuttgart"
+                    "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "45'",
-                    "player": "A. Ilić",
-                    "detail": "Normal Goal",
-                    "team": "Union Berlin"
+                    "player": "M. Busch",
+                    "detail": "Yellow Card",
+                    "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "45'",
-                    "player": "C. Führich",
-                    "detail": "Normal Goal",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "72'",
-                    "player": "J. Chabot",
+                    "time": "53'",
+                    "player": "N. Woltemade",
                     "detail": "Substitution 1",
                     "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "72'",
-                    "player": "J. Haberer",
-                    "detail": "Substitution 1",
-                    "team": "Union Berlin"
+                    "time": "62'",
+                    "player": "N. Dorsch",
+                    "detail": "Yellow Card",
+                    "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "83'",
-                    "player": "A. Ilić",
+                    "time": "70'",
+                    "player": "J. Leweling",
                     "detail": "Substitution 2",
-                    "team": "Union Berlin"
+                    "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "83'",
-                    "player": "B. Hollerbach",
+                    "time": "70'",
+                    "player": "L. Kerber",
+                    "detail": "Substitution 1",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "70'",
+                    "player": "S. Conteh",
+                    "detail": "Substitution 2",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "77'",
+                    "player": "S. Conteh",
+                    "detail": "Yellow Card",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "79'",
+                    "player": "P. Stenzel",
                     "detail": "Substitution 3",
-                    "team": "Union Berlin"
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "79'",
+                    "player": "J. Bruun Larsen",
+                    "detail": "Substitution 4",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "79'",
+                    "player": "M. Honsak",
+                    "detail": "Substitution 3",
+                    "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "89'",
-                    "player": "Ramon Hendriks",
-                    "detail": "Yellow Card",
-                    "team": "VfB Stuttgart"
+                    "player": "M. Honsak",
+                    "detail": "Normal Goal",
+                    "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "90'",
-                    "player": "L. Stergiou",
-                    "detail": "Substitution 2",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "90'",
-                    "player": "C. Führich",
-                    "detail": "Substitution 3",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "90'",
-                    "player": "A. Schäfer",
+                    "player": "T. Keller",
                     "detail": "Substitution 4",
-                    "team": "Union Berlin"
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "90'",
+                    "player": "J. Fohrenbach",
+                    "detail": "Substitution 5",
+                    "team": "1. FC Heidenheim"
                 }
             ],
             "odds": {
@@ -1632,6 +1614,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-25 18:30",
+                    "score": "0 - 1"
+                },
                 {
                     "date": "2025-04-19 16:30",
                     "score": "4 - 4"
@@ -1647,10 +1633,6 @@
                 {
                     "date": "2025-03-29 17:30",
                     "score": "1 - 0"
-                },
-                {
-                    "date": "2025-03-16 18:30",
-                    "score": "3 - 4"
                 }
             ],
             "future_games": [
@@ -2303,118 +2285,94 @@
         },
         {
             "team": "1. FC Heidenheim",
-            "date": "2025-04-19 13:30",
-            "opponent": "Bayern München",
-            "score": "0 - 4",
-            "stadium": "Voith-Arena",
-            "referee": "F. Willenborg",
-            "league_round": "Regular Season - 30",
+            "date": "2025-04-25 18:30",
+            "opponent": "VfB Stuttgart",
+            "score": "0 - 1",
+            "stadium": "MHPArena",
+            "referee": "Tobias Welz, Germany",
+            "league_round": "Regular Season - 31",
             "events": [
                 {
-                    "time": "13'",
-                    "player": "H. Kane",
-                    "detail": "Normal Goal",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "19'",
-                    "player": "K. Laimer",
-                    "detail": "Normal Goal",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "35'",
-                    "player": "Benedikt Gimber",
+                    "time": "21'",
+                    "player": "F. Kratzig",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "36'",
-                    "player": "K. Coman",
-                    "detail": "Normal Goal",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "41'",
-                    "player": "Niklas Dorsch",
+                    "time": "45'",
+                    "player": "M. Busch",
                     "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "43'",
-                    "player": "Jan Schöppner",
-                    "detail": "Yellow Card",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "46'",
-                    "player": "K. Laimer",
+                    "time": "53'",
+                    "player": "N. Woltemade",
                     "detail": "Substitution 1",
-                    "team": "Bayern München"
+                    "team": "VfB Stuttgart"
                 },
                 {
-                    "time": "46'",
+                    "time": "62'",
                     "player": "N. Dorsch",
-                    "detail": "Substitution 1",
+                    "detail": "Yellow Card",
                     "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "46'",
-                    "player": "J. Schöppner",
-                    "detail": "Substitution 2",
-                    "team": "1. FC Heidenheim"
-                },
-                {
-                    "time": "56'",
-                    "player": "J. Kimmich",
-                    "detail": "Normal Goal",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "63'",
-                    "player": "K. Coman",
-                    "detail": "Substitution 2",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "63'",
-                    "player": "H. Kane",
-                    "detail": "Substitution 3",
-                    "team": "Bayern München"
                 },
                 {
                     "time": "70'",
-                    "player": "M. Pieringer",
-                    "detail": "Substitution 3",
+                    "player": "J. Leweling",
+                    "detail": "Substitution 2",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "70'",
+                    "player": "L. Kerber",
+                    "detail": "Substitution 1",
                     "team": "1. FC Heidenheim"
                 },
                 {
                     "time": "70'",
                     "player": "S. Conteh",
+                    "detail": "Substitution 2",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "77'",
+                    "player": "S. Conteh",
+                    "detail": "Yellow Card",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "79'",
+                    "player": "P. Stenzel",
+                    "detail": "Substitution 3",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "79'",
+                    "player": "J. Bruun Larsen",
+                    "detail": "Substitution 4",
+                    "team": "VfB Stuttgart"
+                },
+                {
+                    "time": "79'",
+                    "player": "M. Honsak",
+                    "detail": "Substitution 3",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "89'",
+                    "player": "M. Honsak",
+                    "detail": "Normal Goal",
+                    "team": "1. FC Heidenheim"
+                },
+                {
+                    "time": "90'",
+                    "player": "T. Keller",
                     "detail": "Substitution 4",
                     "team": "1. FC Heidenheim"
                 },
                 {
-                    "time": "74'",
-                    "player": "M. Olise",
-                    "detail": "Substitution 4",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "80'",
-                    "player": "Raphaël Guerreiro",
-                    "detail": "Yellow Card",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "85'",
-                    "player": "Raphaël Guerreiro",
-                    "detail": "Substitution 5",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "88'",
-                    "player": "F. Krätzig",
+                    "time": "90'",
+                    "player": "J. Fohrenbach",
                     "detail": "Substitution 5",
                     "team": "1. FC Heidenheim"
                 }
@@ -2425,6 +2383,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-25 18:30",
+                    "score": "0 - 1"
+                },
                 {
                     "date": "2025-04-19 13:30",
                     "score": "0 - 4"
@@ -2440,10 +2402,6 @@
                 {
                     "date": "2025-03-29 14:30",
                     "score": "0 - 1"
-                },
-                {
-                    "date": "2025-03-16 16:30",
-                    "score": "3 - 1"
                 }
             ],
             "future_games": [
