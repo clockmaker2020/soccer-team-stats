@@ -3,6 +3,76 @@
     "past_matches": [
         {
             "fixture": {
+                "id": 1224246,
+                "referee": "Tobias Welz, Germany",
+                "timezone": "UTC",
+                "date": "2025-04-25T18:30:00+00:00",
+                "timestamp": 1745605800,
+                "periods": {
+                    "first": 1745605800,
+                    "second": 1745609400
+                },
+                "venue": {
+                    "id": 20473,
+                    "name": "MHPArena",
+                    "city": "Stuttgart"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 5
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 31",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 172,
+                    "name": "VfB Stuttgart",
+                    "logo": "https://media.api-sports.io/football/teams/172.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 180,
+                    "name": "1. FC Heidenheim",
+                    "logo": "https://media.api-sports.io/football/teams/180.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
                 "id": 1224238,
                 "referee": "F. Willenborg",
                 "timezone": "UTC",
@@ -269,76 +339,6 @@
                 },
                 "fulltime": {
                     "home": 0,
-                    "away": 1
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
-                "id": 1224202,
-                "referee": "H. Osmers",
-                "timezone": "UTC",
-                "date": "2025-03-16T16:30:00+00:00",
-                "timestamp": 1742142600,
-                "periods": {
-                    "first": 1742142600,
-                    "second": 1742146200
-                },
-                "venue": {
-                    "id": 723,
-                    "name": "Voith-Arena",
-                    "city": "Heidenheim an der Brenz"
-                },
-                "status": {
-                    "long": "Match Finished",
-                    "short": "FT",
-                    "elapsed": 90,
-                    "extra": 6
-                }
-            },
-            "league": {
-                "id": 78,
-                "name": "Bundesliga",
-                "country": "Germany",
-                "logo": "https://media.api-sports.io/football/leagues/78.png",
-                "flag": "https://media.api-sports.io/flags/de.svg",
-                "season": 2024,
-                "round": "Regular Season - 26",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 180,
-                    "name": "1. FC Heidenheim",
-                    "logo": "https://media.api-sports.io/football/teams/180.png",
-                    "winner": true
-                },
-                "away": {
-                    "id": 191,
-                    "name": "Holstein Kiel",
-                    "logo": "https://media.api-sports.io/football/teams/191.png",
-                    "winner": false
-                }
-            },
-            "goals": {
-                "home": 3,
-                "away": 1
-            },
-            "score": {
-                "halftime": {
-                    "home": 1,
-                    "away": 0
-                },
-                "fulltime": {
-                    "home": 3,
                     "away": 1
                 },
                 "extratime": {
