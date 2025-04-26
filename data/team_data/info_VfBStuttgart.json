@@ -61,7 +61,7 @@
             },
             "player": {
                 "id": 280335,
-                "name": "F. Kratzig"
+                "name": "Frans Krätzig"
             },
             "assist": {
                 "id": null,
@@ -69,7 +69,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Tripping"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -83,7 +83,7 @@
             },
             "player": {
                 "id": 24897,
-                "name": "M. Busch"
+                "name": "Marnon Busch"
             },
             "assist": {
                 "id": null,
@@ -91,7 +91,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Holding"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -104,12 +104,12 @@
                 "logo": "https://media.api-sports.io/football/teams/172.png"
             },
             "player": {
-                "id": 158054,
-                "name": "N. Woltemade"
-            },
-            "assist": {
                 "id": 48481,
                 "name": "L. Stergiou"
+            },
+            "assist": {
+                "id": 158054,
+                "name": "N. Woltemade"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -127,7 +127,7 @@
             },
             "player": {
                 "id": 24904,
-                "name": "N. Dorsch"
+                "name": "Niklas Dorsch"
             },
             "assist": {
                 "id": null,
@@ -135,11 +135,11 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Tripping"
+            "comments": "Foul"
         },
         {
             "time": {
-                "elapsed": 70,
+                "elapsed": 69,
                 "extra": null
             },
             "team": {
@@ -148,12 +148,12 @@
                 "logo": "https://media.api-sports.io/football/teams/172.png"
             },
             "player": {
-                "id": 128533,
-                "name": "J. Leweling"
-            },
-            "assist": {
                 "id": 163032,
                 "name": "F. Rieder"
+            },
+            "assist": {
+                "id": 128533,
+                "name": "J. Leweling"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -170,12 +170,12 @@
                 "logo": "https://media.api-sports.io/football/teams/180.png"
             },
             "player": {
-                "id": 280055,
-                "name": "L. Kerber"
-            },
-            "assist": {
                 "id": 24904,
                 "name": "N. Dorsch"
+            },
+            "assist": {
+                "id": 280055,
+                "name": "L. Kerber"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -192,12 +192,12 @@
                 "logo": "https://media.api-sports.io/football/teams/180.png"
             },
             "player": {
-                "id": 125720,
-                "name": "S. Conteh"
-            },
-            "assist": {
                 "id": 24897,
                 "name": "M. Busch"
+            },
+            "assist": {
+                "id": 125720,
+                "name": "S. Conteh"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -215,7 +215,7 @@
             },
             "player": {
                 "id": 125720,
-                "name": "S. Conteh"
+                "name": "Sirlord Conteh"
             },
             "assist": {
                 "id": null,
@@ -223,7 +223,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Unsportsmanlike conduct"
+            "comments": null
         },
         {
             "time": {
@@ -236,12 +236,12 @@
                 "logo": "https://media.api-sports.io/football/teams/172.png"
             },
             "player": {
-                "id": 26244,
-                "name": "P. Stenzel"
+                "id": 46930,
+                "name": "E. Demirović"
             },
             "assist": {
-                "id": 46930,
-                "name": "E. Demirovic"
+                "id": 26244,
+                "name": "P. Stenzel"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -258,12 +258,12 @@
                 "logo": "https://media.api-sports.io/football/teams/172.png"
             },
             "player": {
-                "id": 22,
-                "name": "J. Bruun Larsen"
+                "id": 24798,
+                "name": "C. Führich"
             },
             "assist": {
-                "id": 24798,
-                "name": "C. Fuhrich"
+                "id": 22,
+                "name": "J. Bruun Larsen"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -280,12 +280,12 @@
                 "logo": "https://media.api-sports.io/football/teams/180.png"
             },
             "player": {
-                "id": 24955,
-                "name": "M. Honsak"
-            },
-            "assist": {
                 "id": 178106,
                 "name": "M. Pieringer"
+            },
+            "assist": {
+                "id": 24955,
+                "name": "M. Honsak"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -307,7 +307,7 @@
             },
             "assist": {
                 "id": 127619,
-                "name": "J. Schoppner"
+                "name": "J. Schöppner"
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -324,12 +324,12 @@
                 "logo": "https://media.api-sports.io/football/teams/180.png"
             },
             "player": {
-                "id": 125723,
-                "name": "T. Keller"
+                "id": 8959,
+                "name": "A. Beck"
             },
             "assist": {
-                "id": 280335,
-                "name": "F. Kratzig"
+                "id": 125723,
+                "name": "T. Keller"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -346,12 +346,12 @@
                 "logo": "https://media.api-sports.io/football/teams/180.png"
             },
             "player": {
-                "id": 24979,
-                "name": "J. Fohrenbach"
+                "id": 280335,
+                "name": "F. Krätzig"
             },
             "assist": {
-                "id": 8959,
-                "name": "A. Beck"
+                "id": 24979,
+                "name": "J. Föhrenbach"
             },
             "type": "subst",
             "detail": "Substitution 5",
