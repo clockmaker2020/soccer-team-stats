@@ -712,19 +712,19 @@
             "substitutes": [
                 {
                     "player": {
-                        "id": 26291,
-                        "name": "Jens Grahl",
-                        "number": 33,
-                        "pos": "G",
+                        "id": 339874,
+                        "name": "Oscar Højlund",
+                        "number": 6,
+                        "pos": "M",
                         "grid": null
                     }
                 },
                 {
                     "player": {
-                        "id": 156490,
-                        "name": "Niels Nkounkou",
-                        "number": 29,
-                        "pos": "D",
+                        "id": 162707,
+                        "name": "Elye Wahi",
+                        "number": 17,
+                        "pos": "F",
                         "grid": null
                     }
                 },
@@ -734,15 +734,6 @@
                         "name": "Aurèle Amenda",
                         "number": 5,
                         "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 339887,
-                        "name": "Can Uzun",
-                        "number": 20,
-                        "pos": "M",
                         "grid": null
                     }
                 },
@@ -766,19 +757,28 @@
                 },
                 {
                     "player": {
-                        "id": 339874,
-                        "name": "Oscar Højlund",
-                        "number": 6,
-                        "pos": "M",
+                        "id": 26291,
+                        "name": "Jens Grahl",
+                        "number": 33,
+                        "pos": "G",
                         "grid": null
                     }
                 },
                 {
                     "player": {
-                        "id": 162707,
-                        "name": "Elye Wahi",
-                        "number": 17,
-                        "pos": "F",
+                        "id": 156490,
+                        "name": "Niels Nkounkou",
+                        "number": 29,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 339887,
+                        "name": "Can Uzun",
+                        "number": 20,
+                        "pos": "M",
                         "grid": null
                     }
                 },
@@ -939,6 +939,33 @@
                 },
                 {
                     "player": {
+                        "id": 314511,
+                        "name": "Antonio Nusa",
+                        "number": 7,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 383665,
+                        "name": "Tidiam Gomis",
+                        "number": 27,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 1153,
+                        "name": "Amadou Haidara",
+                        "number": 8,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 24814,
                         "name": "Leopold Zingerle",
                         "number": 25,
@@ -957,37 +984,10 @@
                 },
                 {
                     "player": {
-                        "id": 314511,
-                        "name": "Antonio Nusa",
-                        "number": 7,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 1155,
                         "name": "Kevin Kampl",
                         "number": 44,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 1153,
-                        "name": "Amadou Haidara",
-                        "number": 8,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 383665,
-                        "name": "Tidiam Gomis",
-                        "number": 27,
-                        "pos": "F",
                         "grid": null
                     }
                 },
