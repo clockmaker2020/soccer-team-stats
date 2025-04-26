@@ -314,6 +314,12 @@
                     "team": "RB Leipzig"
                 },
                 {
+                    "time": "48'",
+                    "player": "D. Raum",
+                    "detail": "Yellow Card",
+                    "team": "RB Leipzig"
+                },
+                {
                     "time": "50'",
                     "player": "E. Bitshiabu",
                     "detail": "Red Card",
@@ -386,7 +392,7 @@
                     "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "81'",
+                    "time": "82'",
                     "player": "F. Chaibi",
                     "detail": "Substitution 4",
                     "team": "Eintracht Frankfurt"
@@ -624,6 +630,12 @@
                     "team": "RB Leipzig"
                 },
                 {
+                    "time": "48'",
+                    "player": "D. Raum",
+                    "detail": "Yellow Card",
+                    "team": "RB Leipzig"
+                },
+                {
                     "time": "50'",
                     "player": "E. Bitshiabu",
                     "detail": "Red Card",
@@ -696,7 +708,7 @@
                     "team": "Eintracht Frankfurt"
                 },
                 {
-                    "time": "81'",
+                    "time": "82'",
                     "player": "F. Chaibi",
                     "detail": "Substitution 4",
                     "team": "Eintracht Frankfurt"
