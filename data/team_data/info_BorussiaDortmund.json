@@ -470,7 +470,7 @@
         {
             "time": {
                 "elapsed": 90,
-                "extra": 13
+                "extra": 12
             },
             "team": {
                 "id": 167,
@@ -492,7 +492,7 @@
         {
             "time": {
                 "elapsed": 90,
-                "extra": 14
+                "extra": 13
             },
             "team": {
                 "id": 167,
@@ -509,7 +509,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": null
+            "comments": "Roughing"
         }
     ],
     "statistics": [
