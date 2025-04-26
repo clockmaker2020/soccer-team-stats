@@ -727,9 +727,8 @@
                 }
             ],
             "coach": {
-                "id": 1399,
-                "name": "S. Hoeneß",
-                "photo": "https://media.api-sports.io/football/coachs/1399.png"
+                "id": null,
+                "name": null
             }
         },
         {
@@ -936,9 +935,8 @@
                 }
             ],
             "coach": {
-                "id": 1335,
-                "name": "F. Schmidt",
-                "photo": "https://media.api-sports.io/football/coachs/1335.png"
+                "id": null,
+                "name": null
             }
         }
     ],
