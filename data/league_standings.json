@@ -48,20 +48,20 @@
         {
             "rank": 6,
             "team": {
+                "name": "Borussia Dortmund"
+            },
+            "wins": 14,
+            "draws": 6,
+            "losses": 11
+        },
+        {
+            "rank": 7,
+            "team": {
                 "name": "FSV Mainz 05"
             },
             "wins": 13,
             "draws": 8,
             "losses": 10
-        },
-        {
-            "rank": 7,
-            "team": {
-                "name": "Borussia Dortmund"
-            },
-            "wins": 13,
-            "draws": 6,
-            "losses": 11
         },
         {
             "rank": 8,
@@ -133,7 +133,7 @@
             },
             "wins": 7,
             "draws": 9,
-            "losses": 14
+            "losses": 15
         },
         {
             "rank": 16,
