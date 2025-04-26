@@ -721,6 +721,42 @@
                 },
                 {
                     "player": {
+                        "id": 40560,
+                        "name": "Jakub Kamiński",
+                        "number": 16,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 1321,
+                        "name": "Lovro Majer",
+                        "number": 19,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 265363,
+                        "name": "Tiago Tomás",
+                        "number": 11,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 19461,
+                        "name": "Lukas Nmecha",
+                        "number": 10,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 25396,
                         "name": "Pavao Pervan",
                         "number": 12,
@@ -739,15 +775,6 @@
                 },
                 {
                     "player": {
-                        "id": 1321,
-                        "name": "Lovro Majer",
-                        "number": 19,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 15916,
                         "name": "Andreas Skov Olsen",
                         "number": 7,
@@ -757,36 +784,9 @@
                 },
                 {
                     "player": {
-                        "id": 40560,
-                        "name": "Jakub Kamiński",
-                        "number": 16,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 25192,
                         "name": "Kevin Behrens",
                         "number": 17,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 265363,
-                        "name": "Tiago Tomás",
-                        "number": 11,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 19461,
-                        "name": "Lukas Nmecha",
-                        "number": 10,
                         "pos": "F",
                         "grid": null
                     }
@@ -930,10 +930,28 @@
                 },
                 {
                     "player": {
-                        "id": 25904,
-                        "name": "Jannik Huth",
-                        "number": 24,
-                        "pos": "G",
+                        "id": 26239,
+                        "name": "Lukas Kübler",
+                        "number": 17,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 25313,
+                        "name": "Jan-Niklas Beste",
+                        "number": 19,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 406244,
+                        "name": "Johan Manzambi",
+                        "number": 44,
+                        "pos": "M",
                         "grid": null
                     }
                 },
@@ -948,10 +966,10 @@
                 },
                 {
                     "player": {
-                        "id": 26239,
-                        "name": "Lukas Kübler",
-                        "number": 17,
-                        "pos": "D",
+                        "id": 25904,
+                        "name": "Jannik Huth",
+                        "number": 24,
+                        "pos": "G",
                         "grid": null
                     }
                 },
@@ -960,15 +978,6 @@
                         "id": 26236,
                         "name": "Christian Günter",
                         "number": 30,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 25313,
-                        "name": "Jan-Niklas Beste",
-                        "number": 19,
                         "pos": "D",
                         "grid": null
                     }
@@ -987,15 +996,6 @@
                         "id": 26250,
                         "name": "Nicolas Höfler",
                         "number": 27,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 406244,
-                        "name": "Johan Manzambi",
-                        "number": 44,
                         "pos": "M",
                         "grid": null
                     }
