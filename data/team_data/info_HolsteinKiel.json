@@ -524,7 +524,7 @@
                 },
                 {
                     "type": "Fouls",
-                    "value": 12
+                    "value": 13
                 },
                 {
                     "type": "Corner Kicks",
@@ -552,11 +552,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 249
+                    "value": 254
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 190
+                    "value": 192
                 },
                 {
                     "type": "Passes %",
@@ -633,15 +633,15 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 425
+                    "value": 437
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 368
+                    "value": 374
                 },
                 {
                     "type": "Passes %",
-                    "value": "87%"
+                    "value": "86%"
                 },
                 {
                     "type": "expected_goals",
@@ -787,19 +787,10 @@
                 },
                 {
                     "player": {
-                        "id": 24952,
-                        "name": "Timon Weiner",
-                        "number": 1,
-                        "pos": "G",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 26263,
-                        "name": "Marcel Engelhardt",
-                        "number": 31,
-                        "pos": "G",
+                        "id": 202514,
+                        "name": "Phil Harres",
+                        "number": 19,
+                        "pos": "F",
                         "grid": null
                     }
                 },
@@ -823,15 +814,6 @@
                 },
                 {
                     "player": {
-                        "id": 48456,
-                        "name": "Marvin Schulz",
-                        "number": 15,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 265386,
                         "name": "Dominik Javorček",
                         "number": 33,
@@ -841,18 +823,36 @@
                 },
                 {
                     "player": {
-                        "id": 7305,
-                        "name": "Benedikt Pichler",
-                        "number": 9,
-                        "pos": "F",
+                        "id": 24952,
+                        "name": "Timon Weiner",
+                        "number": 1,
+                        "pos": "G",
                         "grid": null
                     }
                 },
                 {
                     "player": {
-                        "id": 202514,
-                        "name": "Phil Harres",
-                        "number": 19,
+                        "id": 26263,
+                        "name": "Marcel Engelhardt",
+                        "number": 31,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 48456,
+                        "name": "Marvin Schulz",
+                        "number": 15,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 7305,
+                        "name": "Benedikt Pichler",
+                        "number": 9,
                         "pos": "F",
                         "grid": null
                     }
@@ -987,19 +987,19 @@
             "substitutes": [
                 {
                     "player": {
-                        "id": 25627,
-                        "name": "Tobias Sippel",
-                        "number": 21,
-                        "pos": "G",
+                        "id": 20784,
+                        "name": "Franck Honorat",
+                        "number": 9,
+                        "pos": "M",
                         "grid": null
                     }
                 },
                 {
                     "player": {
-                        "id": 340155,
-                        "name": "Tiago Pereira Cardoso",
-                        "number": 42,
-                        "pos": "G",
+                        "id": 25638,
+                        "name": "Florian Neuhaus",
+                        "number": 10,
+                        "pos": "M",
                         "grid": null
                     }
                 },
@@ -1023,37 +1023,37 @@
                 },
                 {
                     "player": {
-                        "id": 1082,
-                        "name": "Stefan Lainer",
-                        "number": 22,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 20784,
-                        "name": "Franck Honorat",
-                        "number": 9,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 25638,
-                        "name": "Florian Neuhaus",
-                        "number": 10,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 25461,
                         "name": "Kevin Stöger",
                         "number": 7,
                         "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 25627,
+                        "name": "Tobias Sippel",
+                        "number": 21,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 340155,
+                        "name": "Tiago Pereira Cardoso",
+                        "number": 42,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 1082,
+                        "name": "Stefan Lainer",
+                        "number": 22,
+                        "pos": "D",
                         "grid": null
                     }
                 },
