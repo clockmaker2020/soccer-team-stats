@@ -355,76 +355,6 @@
     "future_matches": [
         {
             "fixture": {
-                "id": 1224253,
-                "referee": "R. Hartmann",
-                "timezone": "UTC",
-                "date": "2025-04-26T13:30:00+00:00",
-                "timestamp": 1745674200,
-                "periods": {
-                    "first": null,
-                    "second": null
-                },
-                "venue": {
-                    "id": 725,
-                    "name": "Holstein-Stadion",
-                    "city": "Kiel"
-                },
-                "status": {
-                    "long": "Not Started",
-                    "short": "NS",
-                    "elapsed": null,
-                    "extra": null
-                }
-            },
-            "league": {
-                "id": 78,
-                "name": "Bundesliga",
-                "country": "Germany",
-                "logo": "https://media.api-sports.io/football/leagues/78.png",
-                "flag": "https://media.api-sports.io/flags/de.svg",
-                "season": 2024,
-                "round": "Regular Season - 31",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 191,
-                    "name": "Holstein Kiel",
-                    "logo": "https://media.api-sports.io/football/teams/191.png",
-                    "winner": null
-                },
-                "away": {
-                    "id": 163,
-                    "name": "Borussia Mönchengladbach",
-                    "logo": "https://media.api-sports.io/football/teams/163.png",
-                    "winner": null
-                }
-            },
-            "goals": {
-                "home": null,
-                "away": null
-            },
-            "score": {
-                "halftime": {
-                    "home": null,
-                    "away": null
-                },
-                "fulltime": {
-                    "home": null,
-                    "away": null
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
                 "id": 1224258,
                 "referee": null,
                 "timezone": "UTC",
@@ -537,6 +467,76 @@
                     "id": 160,
                     "name": "SC Freiburg",
                     "logo": "https://media.api-sports.io/football/teams/160.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1224273,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2025-05-17T13:30:00+00:00",
+                "timestamp": 1747488600,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": 19381,
+                    "name": "SIGNAL IDUNA PARK",
+                    "city": "Dortmund"
+                },
+                "status": {
+                    "long": "Not Started",
+                    "short": "NS",
+                    "elapsed": null,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 34",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 165,
+                    "name": "Borussia Dortmund",
+                    "logo": "https://media.api-sports.io/football/teams/165.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 191,
+                    "name": "Holstein Kiel",
+                    "logo": "https://media.api-sports.io/football/teams/191.png",
                     "winner": null
                 }
             },
