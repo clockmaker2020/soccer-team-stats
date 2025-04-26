@@ -95,6 +95,28 @@
         },
         {
             "time": {
+                "elapsed": 48,
+                "extra": null
+            },
+            "team": {
+                "id": 173,
+                "name": "RB Leipzig",
+                "logo": "https://media.api-sports.io/football/teams/173.png"
+            },
+            "player": {
+                "id": 25158,
+                "name": "D. Raum"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Unsportsmanlike conduct"
+        },
+        {
+            "time": {
                 "elapsed": 50,
                 "extra": null
             },
@@ -359,7 +381,7 @@
         },
         {
             "time": {
-                "elapsed": 81,
+                "elapsed": 82,
                 "extra": null
             },
             "team": {
