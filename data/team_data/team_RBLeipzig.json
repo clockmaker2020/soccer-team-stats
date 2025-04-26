@@ -3,6 +3,76 @@
     "past_matches": [
         {
             "fixture": {
+                "id": 1224248,
+                "referee": "Matthias Jollenbeck, Germany",
+                "timezone": "UTC",
+                "date": "2025-04-26T16:30:00+00:00",
+                "timestamp": 1745685000,
+                "periods": {
+                    "first": 1745685000,
+                    "second": 1745688600
+                },
+                "venue": {
+                    "id": 10491,
+                    "name": "Deutsche Bank Park",
+                    "city": "Frankfurt am Main"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90,
+                    "extra": 5
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 31",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 169,
+                    "name": "Eintracht Frankfurt",
+                    "logo": "https://media.api-sports.io/football/teams/169.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 173,
+                    "name": "RB Leipzig",
+                    "logo": "https://media.api-sports.io/football/teams/173.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
                 "id": 1224236,
                 "referee": "Felix Brych, Germany",
                 "timezone": "UTC",
@@ -269,76 +339,6 @@
                 },
                 "fulltime": {
                     "home": 1,
-                    "away": 0
-                },
-                "extratime": {
-                    "home": null,
-                    "away": null
-                },
-                "penalty": {
-                    "home": null,
-                    "away": null
-                }
-            }
-        },
-        {
-            "fixture": {
-                "id": 1224201,
-                "referee": "Matthias Jollenbeck, Germany",
-                "timezone": "UTC",
-                "date": "2025-03-15T17:30:00+00:00",
-                "timestamp": 1742059800,
-                "periods": {
-                    "first": 1742059800,
-                    "second": 1742063400
-                },
-                "venue": {
-                    "id": 738,
-                    "name": "Red Bull Arena",
-                    "city": "Leipzig"
-                },
-                "status": {
-                    "long": "Match Finished",
-                    "short": "FT",
-                    "elapsed": 90,
-                    "extra": 5
-                }
-            },
-            "league": {
-                "id": 78,
-                "name": "Bundesliga",
-                "country": "Germany",
-                "logo": "https://media.api-sports.io/football/leagues/78.png",
-                "flag": "https://media.api-sports.io/flags/de.svg",
-                "season": 2024,
-                "round": "Regular Season - 26",
-                "standings": true
-            },
-            "teams": {
-                "home": {
-                    "id": 173,
-                    "name": "RB Leipzig",
-                    "logo": "https://media.api-sports.io/football/teams/173.png",
-                    "winner": true
-                },
-                "away": {
-                    "id": 165,
-                    "name": "Borussia Dortmund",
-                    "logo": "https://media.api-sports.io/football/teams/165.png",
-                    "winner": false
-                }
-            },
-            "goals": {
-                "home": 2,
-                "away": 0
-            },
-            "score": {
-                "halftime": {
-                    "home": 1,
-                    "away": 0
-                },
-                "fulltime": {
-                    "home": 2,
                     "away": 0
                 },
                 "extratime": {
