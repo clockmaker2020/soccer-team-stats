@@ -406,149 +406,6 @@
             "squad": []
         },
         {
-            "team": "RB Leipzig",
-            "date": "2025-04-19 13:30",
-            "opponent": "Holstein Kiel",
-            "score": "1 - 1",
-            "stadium": "Red Bull Arena",
-            "referee": "Felix Brych, Germany",
-            "league_round": "Regular Season - 30",
-            "events": [
-                {
-                    "time": "28'",
-                    "player": "Lasse Rosenboom",
-                    "detail": "Yellow Card",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "41'",
-                    "player": "Lukas Klostermann",
-                    "detail": "Yellow Card",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "44'",
-                    "player": "S. Machino",
-                    "detail": "Normal Goal",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "46'",
-                    "player": "K. Nedeljković",
-                    "detail": "Substitution 1",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "46'",
-                    "player": "A. Vermeeren",
-                    "detail": "Substitution 2",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "66'",
-                    "player": "D. Zec",
-                    "detail": "Substitution 1",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "67'",
-                    "player": "P. Gulácsi",
-                    "detail": "Substitution 3",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "67'",
-                    "player": "S. Skrzybski",
-                    "detail": "Substitution 2",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "74'",
-                    "player": "B. Šeško",
-                    "detail": "Penalty",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "79'",
-                    "player": "L. Rosenboom",
-                    "detail": "Substitution 3",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "79'",
-                    "player": "S. Machino",
-                    "detail": "Substitution 4",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "87'",
-                    "player": "A. Bernhardsson",
-                    "detail": "Substitution 5",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "90'",
-                    "player": "Jann-Fiete Arp",
-                    "detail": "Yellow Card",
-                    "team": "Holstein Kiel"
-                },
-                {
-                    "time": "90'",
-                    "player": "L. Openda",
-                    "detail": "Substitution 4",
-                    "team": "RB Leipzig"
-                },
-                {
-                    "time": "90'",
-                    "player": "R. Baku",
-                    "detail": "Substitution 5",
-                    "team": "RB Leipzig"
-                }
-            ],
-            "odds": {
-                "home": "N/A",
-                "draw": "N/A",
-                "away": "N/A"
-            },
-            "past_results": [
-                {
-                    "date": "2025-04-19 13:30",
-                    "score": "1 - 1"
-                },
-                {
-                    "date": "2025-04-11 18:30",
-                    "score": "2 - 3"
-                },
-                {
-                    "date": "2025-04-05 13:30",
-                    "score": "3 - 1"
-                },
-                {
-                    "date": "2025-03-29 14:30",
-                    "score": "1 - 0"
-                },
-                {
-                    "date": "2025-03-15 17:30",
-                    "score": "2 - 0"
-                }
-            ],
-            "future_games": [
-                {
-                    "date": "2025-05-03 13:30",
-                    "opponent": "Bayern München"
-                },
-                {
-                    "date": "2025-05-10 13:30",
-                    "opponent": "Werder Bremen"
-                },
-                {
-                    "date": "2025-05-17 13:30",
-                    "opponent": "VfB Stuttgart"
-                }
-            ],
-            "squad": []
-        },
-        {
             "team": "SC Freiburg",
             "date": "2025-04-26 13:30",
             "opponent": "VfL Wolfsburg",
@@ -699,6 +556,149 @@
                 {
                     "date": "2025-05-17 13:30",
                     "opponent": "Eintracht Frankfurt"
+                }
+            ],
+            "squad": []
+        },
+        {
+            "team": "RB Leipzig",
+            "date": "2025-04-19 13:30",
+            "opponent": "Holstein Kiel",
+            "score": "1 - 1",
+            "stadium": "Red Bull Arena",
+            "referee": "Felix Brych, Germany",
+            "league_round": "Regular Season - 30",
+            "events": [
+                {
+                    "time": "28'",
+                    "player": "Lasse Rosenboom",
+                    "detail": "Yellow Card",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "41'",
+                    "player": "Lukas Klostermann",
+                    "detail": "Yellow Card",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "44'",
+                    "player": "S. Machino",
+                    "detail": "Normal Goal",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "46'",
+                    "player": "K. Nedeljković",
+                    "detail": "Substitution 1",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "46'",
+                    "player": "A. Vermeeren",
+                    "detail": "Substitution 2",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "66'",
+                    "player": "D. Zec",
+                    "detail": "Substitution 1",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "67'",
+                    "player": "P. Gulácsi",
+                    "detail": "Substitution 3",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "67'",
+                    "player": "S. Skrzybski",
+                    "detail": "Substitution 2",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "74'",
+                    "player": "B. Šeško",
+                    "detail": "Penalty",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "79'",
+                    "player": "L. Rosenboom",
+                    "detail": "Substitution 3",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "79'",
+                    "player": "S. Machino",
+                    "detail": "Substitution 4",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "87'",
+                    "player": "A. Bernhardsson",
+                    "detail": "Substitution 5",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "90'",
+                    "player": "Jann-Fiete Arp",
+                    "detail": "Yellow Card",
+                    "team": "Holstein Kiel"
+                },
+                {
+                    "time": "90'",
+                    "player": "L. Openda",
+                    "detail": "Substitution 4",
+                    "team": "RB Leipzig"
+                },
+                {
+                    "time": "90'",
+                    "player": "R. Baku",
+                    "detail": "Substitution 5",
+                    "team": "RB Leipzig"
+                }
+            ],
+            "odds": {
+                "home": "N/A",
+                "draw": "N/A",
+                "away": "N/A"
+            },
+            "past_results": [
+                {
+                    "date": "2025-04-19 13:30",
+                    "score": "1 - 1"
+                },
+                {
+                    "date": "2025-04-11 18:30",
+                    "score": "2 - 3"
+                },
+                {
+                    "date": "2025-04-05 13:30",
+                    "score": "3 - 1"
+                },
+                {
+                    "date": "2025-03-29 14:30",
+                    "score": "1 - 0"
+                },
+                {
+                    "date": "2025-03-15 17:30",
+                    "score": "2 - 0"
+                }
+            ],
+            "future_games": [
+                {
+                    "date": "2025-05-03 13:30",
+                    "opponent": "Bayern München"
+                },
+                {
+                    "date": "2025-05-10 13:30",
+                    "opponent": "Werder Bremen"
+                },
+                {
+                    "date": "2025-05-17 13:30",
+                    "opponent": "VfB Stuttgart"
                 }
             ],
             "squad": []
@@ -2427,179 +2427,6 @@
             "squad": []
         },
         {
-            "team": "VfL Bochum",
-            "date": "2025-04-19 13:30",
-            "opponent": "Werder Bremen",
-            "score": "1 - 0",
-            "stadium": "Weserstadion",
-            "referee": "Robert Schröder, Germany",
-            "league_round": "Regular Season - 30",
-            "events": [
-                {
-                    "time": "27'",
-                    "player": "Mitchell Weiser",
-                    "detail": "Yellow Card",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "34'",
-                    "player": "Ibrahima Sissoko",
-                    "detail": "Yellow Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "57'",
-                    "player": "Marvin Ducksch",
-                    "detail": "Goal cancelled",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "63'",
-                    "player": "G. Holtmann",
-                    "detail": "Substitution 1",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "68'",
-                    "player": "J. Stage",
-                    "detail": "Substitution 1",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "68'",
-                    "player": "M. Ducksch",
-                    "detail": "Substitution 2",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "68'",
-                    "player": "O. Burke",
-                    "detail": "Substitution 3",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "78'",
-                    "player": "P. Hofmann",
-                    "detail": "Substitution 2",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "78'",
-                    "player": "F. Passlack",
-                    "detail": "Substitution 3",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "78'",
-                    "player": "G. Masouras",
-                    "detail": "Substitution 4",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "80'",
-                    "player": "M. Weiser",
-                    "detail": "Normal Goal",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "83'",
-                    "player": "Mitchell Weiser",
-                    "detail": "Goal confirmed",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "85'",
-                    "player": "Erhan Mašović",
-                    "detail": "Yellow Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "86'",
-                    "player": "Ibrahima Sissoko",
-                    "detail": "Red Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "86'",
-                    "player": "Ibrahima Sissoko",
-                    "detail": "Yellow Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "86'",
-                    "player": "Niklas Stark",
-                    "detail": "Yellow Card",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "88'",
-                    "player": "M. Wittek",
-                    "detail": "Substitution 5",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "89'",
-                    "player": "R. Schmid",
-                    "detail": "Substitution 4",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "90'",
-                    "player": "Timo Horn",
-                    "detail": "Yellow Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "90'",
-                    "player": "Senne Lynen",
-                    "detail": "Yellow Card",
-                    "team": "Werder Bremen"
-                }
-            ],
-            "odds": {
-                "home": "N/A",
-                "draw": "N/A",
-                "away": "N/A"
-            },
-            "past_results": [
-                {
-                    "date": "2025-04-19 13:30",
-                    "score": "1 - 0"
-                },
-                {
-                    "date": "2025-04-12 13:30",
-                    "score": "1 - 2"
-                },
-                {
-                    "date": "2025-04-05 13:30",
-                    "score": "0 - 4"
-                },
-                {
-                    "date": "2025-03-28 19:30",
-                    "score": "3 - 1"
-                },
-                {
-                    "date": "2025-03-16 14:30",
-                    "score": "1 - 3"
-                }
-            ],
-            "future_games": [
-                {
-                    "date": "2025-04-27 13:30",
-                    "opponent": "Union Berlin"
-                },
-                {
-                    "date": "2025-05-02 18:30",
-                    "opponent": "1. FC Heidenheim"
-                },
-                {
-                    "date": "2025-05-10 13:30",
-                    "opponent": "FSV Mainz 05"
-                }
-            ],
-            "squad": []
-        },
-        {
             "team": "Holstein Kiel",
             "date": "2025-04-26 13:30",
             "opponent": "Borussia Mönchengladbach",
@@ -2768,6 +2595,179 @@
                 {
                     "date": "2025-05-17 13:30",
                     "opponent": "Borussia Dortmund"
+                }
+            ],
+            "squad": []
+        },
+        {
+            "team": "VfL Bochum",
+            "date": "2025-04-19 13:30",
+            "opponent": "Werder Bremen",
+            "score": "1 - 0",
+            "stadium": "Weserstadion",
+            "referee": "Robert Schröder, Germany",
+            "league_round": "Regular Season - 30",
+            "events": [
+                {
+                    "time": "27'",
+                    "player": "Mitchell Weiser",
+                    "detail": "Yellow Card",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "34'",
+                    "player": "Ibrahima Sissoko",
+                    "detail": "Yellow Card",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "57'",
+                    "player": "Marvin Ducksch",
+                    "detail": "Goal cancelled",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "63'",
+                    "player": "G. Holtmann",
+                    "detail": "Substitution 1",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "68'",
+                    "player": "J. Stage",
+                    "detail": "Substitution 1",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "68'",
+                    "player": "M. Ducksch",
+                    "detail": "Substitution 2",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "68'",
+                    "player": "O. Burke",
+                    "detail": "Substitution 3",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "78'",
+                    "player": "P. Hofmann",
+                    "detail": "Substitution 2",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "78'",
+                    "player": "F. Passlack",
+                    "detail": "Substitution 3",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "78'",
+                    "player": "G. Masouras",
+                    "detail": "Substitution 4",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "80'",
+                    "player": "M. Weiser",
+                    "detail": "Normal Goal",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "83'",
+                    "player": "Mitchell Weiser",
+                    "detail": "Goal confirmed",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "85'",
+                    "player": "Erhan Mašović",
+                    "detail": "Yellow Card",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "86'",
+                    "player": "Ibrahima Sissoko",
+                    "detail": "Red Card",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "86'",
+                    "player": "Ibrahima Sissoko",
+                    "detail": "Yellow Card",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "86'",
+                    "player": "Niklas Stark",
+                    "detail": "Yellow Card",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "88'",
+                    "player": "M. Wittek",
+                    "detail": "Substitution 5",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "89'",
+                    "player": "R. Schmid",
+                    "detail": "Substitution 4",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "90'",
+                    "player": "Timo Horn",
+                    "detail": "Yellow Card",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "90'",
+                    "player": "Senne Lynen",
+                    "detail": "Yellow Card",
+                    "team": "Werder Bremen"
+                }
+            ],
+            "odds": {
+                "home": "N/A",
+                "draw": "N/A",
+                "away": "N/A"
+            },
+            "past_results": [
+                {
+                    "date": "2025-04-19 13:30",
+                    "score": "1 - 0"
+                },
+                {
+                    "date": "2025-04-12 13:30",
+                    "score": "1 - 2"
+                },
+                {
+                    "date": "2025-04-05 13:30",
+                    "score": "0 - 4"
+                },
+                {
+                    "date": "2025-03-28 19:30",
+                    "score": "3 - 1"
+                },
+                {
+                    "date": "2025-03-16 14:30",
+                    "score": "1 - 3"
+                }
+            ],
+            "future_games": [
+                {
+                    "date": "2025-04-27 13:30",
+                    "opponent": "Union Berlin"
+                },
+                {
+                    "date": "2025-05-02 18:30",
+                    "opponent": "1. FC Heidenheim"
+                },
+                {
+                    "date": "2025-05-10 13:30",
+                    "opponent": "FSV Mainz 05"
                 }
             ],
             "squad": []
