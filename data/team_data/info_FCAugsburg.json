@@ -404,7 +404,7 @@
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "52%"
+                    "value": "53%"
                 },
                 {
                     "type": "Yellow Cards",
@@ -420,11 +420,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 492
+                    "value": 520
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 427
+                    "value": 451
                 },
                 {
                     "type": "Passes %",
@@ -453,11 +453,11 @@
                 },
                 {
                     "type": "Shots off Goal",
-                    "value": 4
+                    "value": 5
                 },
                 {
                     "type": "Total Shots",
-                    "value": 10
+                    "value": 11
                 },
                 {
                     "type": "Blocked Shots",
@@ -469,7 +469,7 @@
                 },
                 {
                     "type": "Shots outsidebox",
-                    "value": 5
+                    "value": 6
                 },
                 {
                     "type": "Fouls",
@@ -485,7 +485,7 @@
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "48%"
+                    "value": "47%"
                 },
                 {
                     "type": "Yellow Cards",
@@ -501,11 +501,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 448
+                    "value": 462
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 383
+                    "value": 395
                 },
                 {
                     "type": "Passes %",
@@ -513,7 +513,7 @@
                 },
                 {
                     "type": "expected_goals",
-                    "value": "0.70"
+                    "value": "0.72"
                 },
                 {
                     "type": "goals_prevented",
@@ -646,19 +646,55 @@
             "substitutes": [
                 {
                     "player": {
-                        "id": 963,
-                        "name": "Lukáš Hrádecký",
-                        "number": 1,
-                        "pos": "G",
+                        "id": 127817,
+                        "name": "Piero Hincapié",
+                        "number": 3,
+                        "pos": "D",
                         "grid": null
                     }
                 },
                 {
                     "player": {
-                        "id": 127817,
-                        "name": "Piero Hincapié",
-                        "number": 3,
+                        "id": 129682,
+                        "name": "Amine Adli",
+                        "number": 21,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 25635,
+                        "name": "Jonas Hofmann",
+                        "number": 7,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 47516,
+                        "name": "Aleix García",
+                        "number": 24,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 152654,
+                        "name": "Jeremie Frimpong",
+                        "number": 30,
                         "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 963,
+                        "name": "Lukáš Hrádecký",
+                        "number": 1,
+                        "pos": "G",
                         "grid": null
                     }
                 },
@@ -682,46 +718,10 @@
                 },
                 {
                     "player": {
-                        "id": 152654,
-                        "name": "Jeremie Frimpong",
-                        "number": 30,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 47516,
-                        "name": "Aleix García",
-                        "number": 24,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 39071,
                         "name": "Victor Okoh Boniface",
                         "number": 22,
                         "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 129682,
-                        "name": "Amine Adli",
-                        "number": 21,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 25635,
-                        "name": "Jonas Hofmann",
-                        "number": 7,
-                        "pos": "M",
                         "grid": null
                     }
                 }
@@ -864,6 +864,15 @@
                 },
                 {
                     "player": {
+                        "id": 3001,
+                        "name": "Robert Gumny",
+                        "number": 2,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 348888,
                         "name": "Mert Kömür",
                         "number": 36,
@@ -873,10 +882,19 @@
                 },
                 {
                     "player": {
-                        "id": 3001,
-                        "name": "Robert Gumny",
-                        "number": 2,
-                        "pos": "D",
+                        "id": 26171,
+                        "name": "Phillip Tietz",
+                        "number": 21,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 25299,
+                        "name": "Fredrik Jensen",
+                        "number": 24,
+                        "pos": "M",
                         "grid": null
                     }
                 },
@@ -913,24 +931,6 @@
                         "name": "Juan Cabrera",
                         "number": 45,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 25299,
-                        "name": "Fredrik Jensen",
-                        "number": 24,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 26171,
-                        "name": "Phillip Tietz",
-                        "number": 21,
-                        "pos": "F",
                         "grid": null
                     }
                 }
