@@ -704,161 +704,6 @@
             "squad": []
         },
         {
-            "team": "FSV Mainz 05",
-            "date": "2025-04-26 13:30",
-            "opponent": "Bayern München",
-            "score": "3 - 0",
-            "stadium": "Allianz Arena",
-            "referee": "Bastian Dankert, Germany",
-            "league_round": "Regular Season - 31",
-            "events": [
-                {
-                    "time": "27'",
-                    "player": "L. Sane",
-                    "detail": "Normal Goal",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "29'",
-                    "player": "N. Veratschnig",
-                    "detail": "Substitution 1",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "36'",
-                    "player": "P. Mwene",
-                    "detail": "Yellow Card",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "40'",
-                    "player": "M. Olise",
-                    "detail": "Normal Goal",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "45'",
-                    "player": "H. Kane",
-                    "detail": "Yellow Card",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "46'",
-                    "player": "S. Boey",
-                    "detail": "Substitution 1",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "72'",
-                    "player": "K. Coman",
-                    "detail": "Substitution 2",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "74'",
-                    "player": "N. Weiper",
-                    "detail": "Substitution 2",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "84'",
-                    "player": "L. Goretzka",
-                    "detail": "Substitution 3",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "84'",
-                    "player": "E. Dier",
-                    "detail": "Normal Goal",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "84'",
-                    "player": "T. Muller",
-                    "detail": "Substitution 4",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "86'",
-                    "player": "K. Laimer",
-                    "detail": "Yellow Card",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "86'",
-                    "player": "A. Sieb",
-                    "detail": "Substitution 3",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "87'",
-                    "player": "A. Nordin",
-                    "detail": "Substitution 4",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "87'",
-                    "player": "S. Widmer",
-                    "detail": "Substitution 5",
-                    "team": "FSV Mainz 05"
-                },
-                {
-                    "time": "88'",
-                    "player": "J. Kusi Asare",
-                    "detail": "Substitution 5",
-                    "team": "Bayern München"
-                },
-                {
-                    "time": "89'",
-                    "player": "N. Amiri",
-                    "detail": "Yellow Card",
-                    "team": "FSV Mainz 05"
-                }
-            ],
-            "odds": {
-                "home": "N/A",
-                "draw": "N/A",
-                "away": "N/A"
-            },
-            "past_results": [
-                {
-                    "date": "2025-04-26 13:30",
-                    "score": "3 - 0"
-                },
-                {
-                    "date": "2025-04-19 13:30",
-                    "score": "2 - 2"
-                },
-                {
-                    "date": "2025-04-12 13:30",
-                    "score": "2 - 0"
-                },
-                {
-                    "date": "2025-04-05 13:30",
-                    "score": "1 - 1"
-                },
-                {
-                    "date": "2025-03-30 15:30",
-                    "score": "3 - 1"
-                }
-            ],
-            "future_games": [
-                {
-                    "date": "2025-05-04 17:30",
-                    "opponent": "Eintracht Frankfurt"
-                },
-                {
-                    "date": "2025-05-10 13:30",
-                    "opponent": "VfL Bochum"
-                },
-                {
-                    "date": "2025-05-17 13:30",
-                    "opponent": "Bayer Leverkusen"
-                }
-            ],
-            "squad": []
-        },
-        {
             "team": "Borussia Dortmund",
             "date": "2025-04-26 13:30",
             "opponent": "1899 Hoffenheim",
@@ -1033,6 +878,161 @@
                 {
                     "date": "2025-05-17 13:30",
                     "opponent": "Holstein Kiel"
+                }
+            ],
+            "squad": []
+        },
+        {
+            "team": "FSV Mainz 05",
+            "date": "2025-04-26 13:30",
+            "opponent": "Bayern München",
+            "score": "3 - 0",
+            "stadium": "Allianz Arena",
+            "referee": "Bastian Dankert, Germany",
+            "league_round": "Regular Season - 31",
+            "events": [
+                {
+                    "time": "27'",
+                    "player": "L. Sane",
+                    "detail": "Normal Goal",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "29'",
+                    "player": "N. Veratschnig",
+                    "detail": "Substitution 1",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "36'",
+                    "player": "P. Mwene",
+                    "detail": "Yellow Card",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "40'",
+                    "player": "M. Olise",
+                    "detail": "Normal Goal",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "45'",
+                    "player": "H. Kane",
+                    "detail": "Yellow Card",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "46'",
+                    "player": "S. Boey",
+                    "detail": "Substitution 1",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "72'",
+                    "player": "K. Coman",
+                    "detail": "Substitution 2",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "74'",
+                    "player": "N. Weiper",
+                    "detail": "Substitution 2",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "84'",
+                    "player": "L. Goretzka",
+                    "detail": "Substitution 3",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "84'",
+                    "player": "E. Dier",
+                    "detail": "Normal Goal",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "84'",
+                    "player": "T. Muller",
+                    "detail": "Substitution 4",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "86'",
+                    "player": "K. Laimer",
+                    "detail": "Yellow Card",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "86'",
+                    "player": "A. Sieb",
+                    "detail": "Substitution 3",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "87'",
+                    "player": "A. Nordin",
+                    "detail": "Substitution 4",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "87'",
+                    "player": "S. Widmer",
+                    "detail": "Substitution 5",
+                    "team": "FSV Mainz 05"
+                },
+                {
+                    "time": "88'",
+                    "player": "J. Kusi Asare",
+                    "detail": "Substitution 5",
+                    "team": "Bayern München"
+                },
+                {
+                    "time": "89'",
+                    "player": "N. Amiri",
+                    "detail": "Yellow Card",
+                    "team": "FSV Mainz 05"
+                }
+            ],
+            "odds": {
+                "home": "N/A",
+                "draw": "N/A",
+                "away": "N/A"
+            },
+            "past_results": [
+                {
+                    "date": "2025-04-26 13:30",
+                    "score": "3 - 0"
+                },
+                {
+                    "date": "2025-04-19 13:30",
+                    "score": "2 - 2"
+                },
+                {
+                    "date": "2025-04-12 13:30",
+                    "score": "2 - 0"
+                },
+                {
+                    "date": "2025-04-05 13:30",
+                    "score": "1 - 1"
+                },
+                {
+                    "date": "2025-03-30 15:30",
+                    "score": "3 - 1"
+                }
+            ],
+            "future_games": [
+                {
+                    "date": "2025-05-04 17:30",
+                    "opponent": "Eintracht Frankfurt"
+                },
+                {
+                    "date": "2025-05-10 13:30",
+                    "opponent": "VfL Bochum"
+                },
+                {
+                    "date": "2025-05-17 13:30",
+                    "opponent": "Bayer Leverkusen"
                 }
             ],
             "squad": []
