@@ -619,13 +619,13 @@
                 },
                 {
                     "time": "71'",
-                    "player": "J. Manzambi",
+                    "player": "J. Beste",
                     "detail": "Substitution 3",
                     "team": "SC Freiburg"
                 },
                 {
-                    "time": "71'",
-                    "player": "J. Beste",
+                    "time": "72'",
+                    "player": "J. Manzambi",
                     "detail": "Substitution 4",
                     "team": "SC Freiburg"
                 },
@@ -1250,27 +1250,27 @@
                     "team": "Borussia Mönchengladbach"
                 },
                 {
-                    "time": "61'",
-                    "player": "F. Honorat",
+                    "time": "60'",
+                    "player": "F. Neuhaus",
                     "detail": "Substitution 1",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "61'",
-                    "player": "F. Neuhaus",
+                    "player": "F. Honorat",
                     "detail": "Substitution 2",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "69'",
-                    "player": "M. Friedrich",
-                    "detail": "Substitution 3",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "69'",
                     "player": "A. Plea",
                     "detail": "Normal Goal",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "69'",
+                    "player": "M. Friedrich",
+                    "detail": "Substitution 3",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
@@ -1728,13 +1728,13 @@
                 },
                 {
                     "time": "71'",
-                    "player": "J. Manzambi",
+                    "player": "J. Beste",
                     "detail": "Substitution 3",
                     "team": "SC Freiburg"
                 },
                 {
-                    "time": "71'",
-                    "player": "J. Beste",
+                    "time": "72'",
+                    "player": "J. Manzambi",
                     "detail": "Substitution 4",
                     "team": "SC Freiburg"
                 },
@@ -2639,27 +2639,27 @@
                     "team": "Borussia Mönchengladbach"
                 },
                 {
-                    "time": "61'",
-                    "player": "F. Honorat",
+                    "time": "60'",
+                    "player": "F. Neuhaus",
                     "detail": "Substitution 1",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "61'",
-                    "player": "F. Neuhaus",
+                    "player": "F. Honorat",
                     "detail": "Substitution 2",
-                    "team": "Borussia Mönchengladbach"
-                },
-                {
-                    "time": "69'",
-                    "player": "M. Friedrich",
-                    "detail": "Substitution 3",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
                     "time": "69'",
                     "player": "A. Plea",
                     "detail": "Normal Goal",
+                    "team": "Borussia Mönchengladbach"
+                },
+                {
+                    "time": "69'",
+                    "player": "M. Friedrich",
+                    "detail": "Substitution 3",
                     "team": "Borussia Mönchengladbach"
                 },
                 {
