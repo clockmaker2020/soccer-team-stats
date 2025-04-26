@@ -130,8 +130,8 @@
                 "name": "M. Komur"
             },
             "assist": {
-                "id": 26,
-                "name": "M. Wolf"
+                "id": 25413,
+                "name": "E. Rexhbecaj"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -152,8 +152,8 @@
                 "name": "R. Gumny"
             },
             "assist": {
-                "id": 25413,
-                "name": "E. Rexhbecaj"
+                "id": 26,
+                "name": "M. Wolf"
             },
             "type": "subst",
             "detail": "Substitution 2",
