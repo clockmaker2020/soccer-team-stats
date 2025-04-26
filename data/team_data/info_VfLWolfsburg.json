@@ -174,8 +174,8 @@
                 "name": "M. Rosenfelder"
             },
             "assist": {
-                "id": null,
-                "name": null
+                "id": 26255,
+                "name": "L. Holer"
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -280,12 +280,12 @@
                 "logo": "https://media.api-sports.io/football/teams/160.png"
             },
             "player": {
-                "id": 406244,
-                "name": "J. Manzambi"
+                "id": 25313,
+                "name": "J. Beste"
             },
             "assist": {
-                "id": 26255,
-                "name": "L. Holer"
+                "id": 26248,
+                "name": "V. Grifo"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -293,7 +293,7 @@
         },
         {
             "time": {
-                "elapsed": 71,
+                "elapsed": 72,
                 "extra": null
             },
             "team": {
@@ -302,12 +302,12 @@
                 "logo": "https://media.api-sports.io/football/teams/160.png"
             },
             "player": {
-                "id": 25313,
-                "name": "J. Beste"
+                "id": 406244,
+                "name": "J. Manzambi"
             },
             "assist": {
-                "id": 26248,
-                "name": "V. Grifo"
+                "id": 26255,
+                "name": "L. Holer"
             },
             "type": "subst",
             "detail": "Substitution 4",
