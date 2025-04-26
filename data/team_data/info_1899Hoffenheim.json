@@ -546,7 +546,7 @@
                 },
                 {
                     "type": "Fouls",
-                    "value": 16
+                    "value": 17
                 },
                 {
                     "type": "Corner Kicks",
@@ -558,11 +558,11 @@
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "38%"
+                    "value": "37%"
                 },
                 {
                     "type": "Yellow Cards",
-                    "value": 4
+                    "value": 5
                 },
                 {
                     "type": "Red Cards",
@@ -574,7 +574,7 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 363
+                    "value": 364
                 },
                 {
                     "type": "Passes accurate",
@@ -582,7 +582,7 @@
                 },
                 {
                     "type": "Passes %",
-                    "value": "80%"
+                    "value": "79%"
                 },
                 {
                     "type": "expected_goals",
@@ -639,7 +639,7 @@
                 },
                 {
                     "type": "Ball Possession",
-                    "value": "62%"
+                    "value": "63%"
                 },
                 {
                     "type": "Yellow Cards",
@@ -655,11 +655,11 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 618
+                    "value": 622
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 540
+                    "value": 543
                 },
                 {
                     "type": "Passes %",
@@ -809,15 +809,6 @@
                 },
                 {
                     "player": {
-                        "id": 163066,
-                        "name": "Luca Philipp",
-                        "number": 37,
-                        "pos": "G",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 128793,
                         "name": "David Jurásek",
                         "number": 19,
@@ -827,10 +818,10 @@
                 },
                 {
                     "player": {
-                        "id": 162964,
-                        "name": "Robin Hranáč",
-                        "number": 2,
-                        "pos": "D",
+                        "id": 28382,
+                        "name": "Haris Tabaković",
+                        "number": 26,
+                        "pos": "F",
                         "grid": null
                     }
                 },
@@ -840,6 +831,24 @@
                         "name": "Umut Tohumcu",
                         "number": 17,
                         "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 163066,
+                        "name": "Luca Philipp",
+                        "number": 37,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 162964,
+                        "name": "Robin Hranáč",
+                        "number": 2,
+                        "pos": "D",
                         "grid": null
                     }
                 },
@@ -858,15 +867,6 @@
                         "name": "Finn Ole Becker",
                         "number": 20,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 28382,
-                        "name": "Haris Tabaković",
-                        "number": 26,
-                        "pos": "F",
                         "grid": null
                     }
                 },
@@ -1009,33 +1009,6 @@
             "substitutes": [
                 {
                     "player": {
-                        "id": 26292,
-                        "name": "Alexander Meyer",
-                        "number": 33,
-                        "pos": "G",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 197448,
-                        "name": "Yan Couto",
-                        "number": 2,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 394667,
-                        "name": "Almugera Kabar",
-                        "number": 42,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 7334,
                         "name": "Karim Adeyemi",
                         "number": 27,
@@ -1054,6 +1027,15 @@
                 },
                 {
                     "player": {
+                        "id": 197448,
+                        "name": "Yan Couto",
+                        "number": 2,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 161921,
                         "name": "Giovanni Reyna",
                         "number": 7,
@@ -1067,6 +1049,24 @@
                         "name": "Carney Chukwuemeka",
                         "number": 17,
                         "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 26292,
+                        "name": "Alexander Meyer",
+                        "number": 33,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 394667,
+                        "name": "Almugera Kabar",
+                        "number": 42,
+                        "pos": "D",
                         "grid": null
                     }
                 },
