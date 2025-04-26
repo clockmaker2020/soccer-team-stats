@@ -161,6 +161,28 @@
         },
         {
             "time": {
+                "elapsed": 60,
+                "extra": null
+            },
+            "team": {
+                "id": 163,
+                "name": "Borussia Mönchengladbach",
+                "logo": "https://media.api-sports.io/football/teams/163.png"
+            },
+            "player": {
+                "id": 25638,
+                "name": "F. Neuhaus"
+            },
+            "assist": {
+                "id": 203007,
+                "name": "R. Reitz"
+            },
+            "type": "subst",
+            "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
                 "elapsed": 61,
                 "extra": null
             },
@@ -178,51 +200,7 @@
                 "name": "R. Hack"
             },
             "type": "subst",
-            "detail": "Substitution 1",
-            "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 61,
-                "extra": null
-            },
-            "team": {
-                "id": 163,
-                "name": "Borussia Mönchengladbach",
-                "logo": "https://media.api-sports.io/football/teams/163.png"
-            },
-            "player": {
-                "id": 25638,
-                "name": "F. Neuhaus"
-            },
-            "assist": {
-                "id": 203007,
-                "name": "R. Reitz"
-            },
-            "type": "subst",
             "detail": "Substitution 2",
-            "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 69,
-                "extra": null
-            },
-            "team": {
-                "id": 163,
-                "name": "Borussia Mönchengladbach",
-                "logo": "https://media.api-sports.io/football/teams/163.png"
-            },
-            "player": {
-                "id": 24839,
-                "name": "M. Friedrich"
-            },
-            "assist": {
-                "id": 322627,
-                "name": "F. C. Chiarodia"
-            },
-            "type": "subst",
-            "detail": "Substitution 3",
             "comments": null
         },
         {
@@ -245,6 +223,28 @@
             },
             "type": "Goal",
             "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 69,
+                "extra": null
+            },
+            "team": {
+                "id": 163,
+                "name": "Borussia Mönchengladbach",
+                "logo": "https://media.api-sports.io/football/teams/163.png"
+            },
+            "player": {
+                "id": 24839,
+                "name": "M. Friedrich"
+            },
+            "assist": {
+                "id": 322627,
+                "name": "F. C. Chiarodia"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
             "comments": null
         },
         {
