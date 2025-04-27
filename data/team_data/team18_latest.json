@@ -464,104 +464,110 @@
             "events": [
                 {
                     "time": "8'",
-                    "player": "K. Koulierakis",
+                    "player": "Konstantinos Koulierakis",
                     "detail": "Yellow Card",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "26'",
-                    "player": "M. Arnold",
+                    "player": "Maximilian Arnold",
                     "detail": "Red Card",
                     "team": "VfL Wolfsburg"
                 },
                 {
-                    "time": "40'",
-                    "player": "M. Amoura",
-                    "detail": "Yellow Card",
+                    "time": "26'",
+                    "player": "Maximilian Arnold",
+                    "detail": "Card upgrade",
                     "team": "VfL Wolfsburg"
                 },
                 {
-                    "time": "41'",
-                    "player": "R. Hasenhuttl",
+                    "time": "40'",
+                    "player": "Mohamed El Amine Amoura",
                     "detail": "Yellow Card",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "46'",
-                    "player": "M. Gregoritsch",
+                    "player": "Junior Adamu",
                     "detail": "Substitution 1",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "49'",
-                    "player": "M. Rosenfelder",
+                    "player": "Max Rosenfelder",
                     "detail": "Normal Goal",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "58'",
-                    "player": "Y. Gerhardt",
+                    "player": "Mohamed El Amine Amoura",
                     "detail": "Substitution 1",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "60'",
-                    "player": "K. Paredes",
+                    "player": "Kevin Paredes",
                     "detail": "Yellow Card",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "62'",
-                    "player": "J. Kaminski",
+                    "player": "Kevin Paredes",
                     "detail": "Substitution 2",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "71'",
-                    "player": "L. Kubler",
+                    "player": "Vincenzo Grifo",
                     "detail": "Substitution 2",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "71'",
-                    "player": "J. Beste",
+                    "player": "Max Rosenfelder",
                     "detail": "Substitution 3",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "72'",
-                    "player": "J. Manzambi",
+                    "player": "Lucas Höler",
                     "detail": "Substitution 4",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "78'",
-                    "player": "L. Majer",
+                    "player": "Bence Dárdai",
                     "detail": "Substitution 3",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "78'",
-                    "player": "T. Tomas",
+                    "player": "Jonas Wind",
                     "detail": "Substitution 4",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "78'",
-                    "player": "L. Nmecha",
+                    "player": "Patrick Wimmer",
                     "detail": "Substitution 5",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "83'",
-                    "player": "P. Osterhage",
+                    "player": "Patrick Osterhage",
                     "detail": "Yellow Card",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "87'",
-                    "player": "K. Sildillia",
+                    "player": "Ritsu Doan",
                     "detail": "Substitution 5",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "90'",
+                    "player": "Maximilian Eggestein",
+                    "detail": "Penalty cancelled",
                     "team": "SC Freiburg"
                 }
             ],
@@ -780,31 +786,37 @@
             "events": [
                 {
                     "time": "20'",
-                    "player": "S. Guirassy",
+                    "player": "Serhou Guirassy",
                     "detail": "Normal Goal",
                     "team": "Borussia Dortmund"
                 },
                 {
+                    "time": "23'",
+                    "player": "Daniel Svensson",
+                    "detail": "Goal confirmed",
+                    "team": "Borussia Dortmund"
+                },
+                {
                     "time": "30'",
-                    "player": "S. Nsoki",
+                    "player": "Kevin Akpoguma",
                     "detail": "Substitution 1",
                     "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "34'",
-                    "player": "S. Guirassy",
+                    "player": "Serhou Guirassy",
                     "detail": "Missed Penalty",
                     "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "42'",
-                    "player": "W. Anton",
+                    "time": "41'",
+                    "player": "Waldemar Anton",
                     "detail": "Yellow Card",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "61'",
-                    "player": "A. Hlozek",
+                    "player": "Adam Hložek",
                     "detail": "Normal Goal",
                     "team": "1899 Hoffenheim"
                 },
@@ -816,92 +828,92 @@
                 },
                 {
                     "time": "68'",
-                    "player": "S. Ozcan",
+                    "player": "Jamie Gittens",
                     "detail": "Substitution 1",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "68'",
-                    "player": "K. Adeyemi",
+                    "player": "Felix Nmecha",
                     "detail": "Substitution 2",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "71'",
-                    "player": "D. Jurasek",
+                    "player": "Adam Hložek",
                     "detail": "Substitution 2",
                     "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "71'",
-                    "player": "H. Tabakovic",
+                    "player": "Marius Bülter",
                     "detail": "Substitution 3",
                     "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "74'",
-                    "player": "J. Brandt",
+                    "player": "Julian Brandt",
                     "detail": "Normal Goal",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "77'",
-                    "player": "Y. Couto",
-                    "detail": "Substitution 3",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "77'",
-                    "player": "U. Tohumcu",
+                    "player": "Dennis Geiger",
                     "detail": "Substitution 4",
                     "team": "1899 Hoffenheim"
                 },
                 {
+                    "time": "77'",
+                    "player": "Julian Ryerson",
+                    "detail": "Substitution 3",
+                    "team": "Borussia Dortmund"
+                },
+                {
                     "time": "81'",
-                    "player": "G. Reyna",
+                    "player": "Niklas Süle",
                     "detail": "Substitution 4",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "81'",
-                    "player": "C. Chukwuemeka",
+                    "player": "Julian Brandt",
                     "detail": "Substitution 5",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "90'",
-                    "player": "P. Kaderabek",
-                    "detail": "Normal Goal",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "90'",
-                    "player": "W. Anton",
+                    "player": "Waldemar Anton",
                     "detail": "Normal Goal",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "90'",
-                    "player": "S. Nsoki",
+                    "player": "Stanley N'Soki",
                     "detail": "Yellow Card",
                     "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "90'",
-                    "player": "P. Kaderabek",
+                    "player": "Pavel Kadeřábek",
                     "detail": "Yellow Card",
                     "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "90'",
-                    "player": "A. Stach",
+                    "player": "Anton Stach",
                     "detail": "Yellow Card",
                     "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "90'",
-                    "player": "U. Tohumcu",
+                    "player": "Umut Tohumcu",
                     "detail": "Yellow Card",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "90'",
+                    "player": "Pavel Kadeřábek",
+                    "detail": "Normal Goal",
                     "team": "1899 Hoffenheim"
                 }
             ],
@@ -1734,104 +1746,110 @@
             "events": [
                 {
                     "time": "8'",
-                    "player": "K. Koulierakis",
+                    "player": "Konstantinos Koulierakis",
                     "detail": "Yellow Card",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "26'",
-                    "player": "M. Arnold",
+                    "player": "Maximilian Arnold",
                     "detail": "Red Card",
                     "team": "VfL Wolfsburg"
                 },
                 {
-                    "time": "40'",
-                    "player": "M. Amoura",
-                    "detail": "Yellow Card",
+                    "time": "26'",
+                    "player": "Maximilian Arnold",
+                    "detail": "Card upgrade",
                     "team": "VfL Wolfsburg"
                 },
                 {
-                    "time": "41'",
-                    "player": "R. Hasenhuttl",
+                    "time": "40'",
+                    "player": "Mohamed El Amine Amoura",
                     "detail": "Yellow Card",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "46'",
-                    "player": "M. Gregoritsch",
+                    "player": "Junior Adamu",
                     "detail": "Substitution 1",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "49'",
-                    "player": "M. Rosenfelder",
+                    "player": "Max Rosenfelder",
                     "detail": "Normal Goal",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "58'",
-                    "player": "Y. Gerhardt",
+                    "player": "Mohamed El Amine Amoura",
                     "detail": "Substitution 1",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "60'",
-                    "player": "K. Paredes",
+                    "player": "Kevin Paredes",
                     "detail": "Yellow Card",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "62'",
-                    "player": "J. Kaminski",
+                    "player": "Kevin Paredes",
                     "detail": "Substitution 2",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "71'",
-                    "player": "L. Kubler",
+                    "player": "Vincenzo Grifo",
                     "detail": "Substitution 2",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "71'",
-                    "player": "J. Beste",
+                    "player": "Max Rosenfelder",
                     "detail": "Substitution 3",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "72'",
-                    "player": "J. Manzambi",
+                    "player": "Lucas Höler",
                     "detail": "Substitution 4",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "78'",
-                    "player": "L. Majer",
+                    "player": "Bence Dárdai",
                     "detail": "Substitution 3",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "78'",
-                    "player": "T. Tomas",
+                    "player": "Jonas Wind",
                     "detail": "Substitution 4",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "78'",
-                    "player": "L. Nmecha",
+                    "player": "Patrick Wimmer",
                     "detail": "Substitution 5",
                     "team": "VfL Wolfsburg"
                 },
                 {
                     "time": "83'",
-                    "player": "P. Osterhage",
+                    "player": "Patrick Osterhage",
                     "detail": "Yellow Card",
                     "team": "SC Freiburg"
                 },
                 {
                     "time": "87'",
-                    "player": "K. Sildillia",
+                    "player": "Ritsu Doan",
                     "detail": "Substitution 5",
+                    "team": "SC Freiburg"
+                },
+                {
+                    "time": "90'",
+                    "player": "Maximilian Eggestein",
+                    "detail": "Penalty cancelled",
                     "team": "SC Freiburg"
                 }
             ],
@@ -2039,7 +2057,7 @@
             "opponent": "Bayer Leverkusen",
             "score": "1 - 1",
             "stadium": "Millerntor-Stadion",
-            "referee": "S. Storks",
+            "referee": "Sören Storks, Germany",
             "league_round": "Regular Season - 30",
             "events": [
                 {
@@ -2187,31 +2205,37 @@
             "events": [
                 {
                     "time": "20'",
-                    "player": "S. Guirassy",
+                    "player": "Serhou Guirassy",
                     "detail": "Normal Goal",
                     "team": "Borussia Dortmund"
                 },
                 {
+                    "time": "23'",
+                    "player": "Daniel Svensson",
+                    "detail": "Goal confirmed",
+                    "team": "Borussia Dortmund"
+                },
+                {
                     "time": "30'",
-                    "player": "S. Nsoki",
+                    "player": "Kevin Akpoguma",
                     "detail": "Substitution 1",
                     "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "34'",
-                    "player": "S. Guirassy",
+                    "player": "Serhou Guirassy",
                     "detail": "Missed Penalty",
                     "team": "Borussia Dortmund"
                 },
                 {
-                    "time": "42'",
-                    "player": "W. Anton",
+                    "time": "41'",
+                    "player": "Waldemar Anton",
                     "detail": "Yellow Card",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "61'",
-                    "player": "A. Hlozek",
+                    "player": "Adam Hložek",
                     "detail": "Normal Goal",
                     "team": "1899 Hoffenheim"
                 },
@@ -2223,92 +2247,92 @@
                 },
                 {
                     "time": "68'",
-                    "player": "S. Ozcan",
+                    "player": "Jamie Gittens",
                     "detail": "Substitution 1",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "68'",
-                    "player": "K. Adeyemi",
+                    "player": "Felix Nmecha",
                     "detail": "Substitution 2",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "71'",
-                    "player": "D. Jurasek",
+                    "player": "Adam Hložek",
                     "detail": "Substitution 2",
                     "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "71'",
-                    "player": "H. Tabakovic",
+                    "player": "Marius Bülter",
                     "detail": "Substitution 3",
                     "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "74'",
-                    "player": "J. Brandt",
+                    "player": "Julian Brandt",
                     "detail": "Normal Goal",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "77'",
-                    "player": "Y. Couto",
-                    "detail": "Substitution 3",
-                    "team": "Borussia Dortmund"
-                },
-                {
-                    "time": "77'",
-                    "player": "U. Tohumcu",
+                    "player": "Dennis Geiger",
                     "detail": "Substitution 4",
                     "team": "1899 Hoffenheim"
                 },
                 {
+                    "time": "77'",
+                    "player": "Julian Ryerson",
+                    "detail": "Substitution 3",
+                    "team": "Borussia Dortmund"
+                },
+                {
                     "time": "81'",
-                    "player": "G. Reyna",
+                    "player": "Niklas Süle",
                     "detail": "Substitution 4",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "81'",
-                    "player": "C. Chukwuemeka",
+                    "player": "Julian Brandt",
                     "detail": "Substitution 5",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "90'",
-                    "player": "P. Kaderabek",
-                    "detail": "Normal Goal",
-                    "team": "1899 Hoffenheim"
-                },
-                {
-                    "time": "90'",
-                    "player": "W. Anton",
+                    "player": "Waldemar Anton",
                     "detail": "Normal Goal",
                     "team": "Borussia Dortmund"
                 },
                 {
                     "time": "90'",
-                    "player": "S. Nsoki",
+                    "player": "Stanley N'Soki",
                     "detail": "Yellow Card",
                     "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "90'",
-                    "player": "P. Kaderabek",
+                    "player": "Pavel Kadeřábek",
                     "detail": "Yellow Card",
                     "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "90'",
-                    "player": "A. Stach",
+                    "player": "Anton Stach",
                     "detail": "Yellow Card",
                     "team": "1899 Hoffenheim"
                 },
                 {
                     "time": "90'",
-                    "player": "U. Tohumcu",
+                    "player": "Umut Tohumcu",
                     "detail": "Yellow Card",
+                    "team": "1899 Hoffenheim"
+                },
+                {
+                    "time": "90'",
+                    "player": "Pavel Kadeřábek",
+                    "detail": "Normal Goal",
                     "team": "1899 Hoffenheim"
                 }
             ],
