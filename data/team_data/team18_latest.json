@@ -1910,113 +1910,113 @@
         },
         {
             "team": "Union Berlin",
-            "date": "2025-04-19 16:30",
-            "opponent": "VfB Stuttgart",
-            "score": "4 - 4",
-            "stadium": "Stadion An der Alten Försterei",
-            "referee": "Tobias Stieler, Germany",
-            "league_round": "Regular Season - 30",
+            "date": "2025-04-27 13:30",
+            "opponent": "VfL Bochum",
+            "score": "1 - 1",
+            "stadium": "Vonovia Ruhrstadion",
+            "referee": "Deniz Aytekin, Germany",
+            "league_round": "Regular Season - 31",
             "events": [
                 {
-                    "time": "5'",
-                    "player": "A. Ilić",
-                    "detail": "Normal Goal",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "18'",
-                    "player": "Julian Chabot",
-                    "detail": "Yellow Card",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "19'",
-                    "player": "Diogo Leite",
-                    "detail": "Normal Goal",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "23'",
-                    "player": "D. Undav",
-                    "detail": "Normal Goal",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "29'",
-                    "player": "E. Millot",
-                    "detail": "Normal Goal",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "38'",
-                    "player": "L. Querfeld",
-                    "detail": "Normal Goal",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "43'",
-                    "player": "J. Chabot",
-                    "detail": "Normal Goal",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "45'",
-                    "player": "A. Ilić",
-                    "detail": "Normal Goal",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "45'",
-                    "player": "C. Führich",
-                    "detail": "Normal Goal",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "72'",
-                    "player": "J. Chabot",
-                    "detail": "Substitution 1",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "72'",
-                    "player": "J. Haberer",
-                    "detail": "Substitution 1",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "83'",
-                    "player": "A. Ilić",
-                    "detail": "Substitution 2",
-                    "team": "Union Berlin"
-                },
-                {
-                    "time": "83'",
+                    "time": "17'",
                     "player": "B. Hollerbach",
+                    "detail": "Normal Goal",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "20'",
+                    "player": "B. Hollerbach",
+                    "detail": "Yellow Card",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "36'",
+                    "player": "C. Gamboa",
+                    "detail": "Yellow Card",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "41'",
+                    "player": "L. Querfeld",
+                    "detail": "Yellow Card",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "46'",
+                    "player": "G. Masouras",
+                    "detail": "Substitution 1",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "51'",
+                    "player": "M. Bero",
+                    "detail": "Yellow Card",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "61'",
+                    "player": "D. de Wit",
+                    "detail": "Substitution 2",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "61'",
+                    "player": "G. Holtmann",
+                    "detail": "Substitution 3",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "64'",
+                    "player": "K. Vogt",
+                    "detail": "Substitution 1",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "68'",
+                    "player": "M. Bero",
+                    "detail": "Missed Penalty",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "68'",
+                    "player": "M. Bero",
+                    "detail": "Normal Goal",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "80'",
+                    "player": "F. Passlack",
+                    "detail": "Substitution 4",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "83'",
+                    "player": "L. Benes",
+                    "detail": "Substitution 2",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "84'",
+                    "player": "T. Skarke",
                     "detail": "Substitution 3",
                     "team": "Union Berlin"
                 },
                 {
-                    "time": "89'",
-                    "player": "Ramon Hendriks",
+                    "time": "90'",
+                    "player": "M. Boadu",
                     "detail": "Yellow Card",
-                    "team": "VfB Stuttgart"
+                    "team": "VfL Bochum"
                 },
                 {
                     "time": "90'",
-                    "player": "L. Stergiou",
-                    "detail": "Substitution 2",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "90'",
-                    "player": "C. Führich",
-                    "detail": "Substitution 3",
-                    "team": "VfB Stuttgart"
-                },
-                {
-                    "time": "90'",
-                    "player": "A. Schäfer",
+                    "player": "D. Preu",
                     "detail": "Substitution 4",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "90'",
+                    "player": "M. Ljubicic",
+                    "detail": "Substitution 5",
                     "team": "Union Berlin"
                 }
             ],
@@ -2026,6 +2026,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-27 13:30",
+                    "score": "1 - 1"
+                },
                 {
                     "date": "2025-04-19 16:30",
                     "score": "4 - 4"
@@ -2041,10 +2045,6 @@
                 {
                     "date": "2025-03-30 13:30",
                     "score": "1 - 2"
-                },
-                {
-                    "date": "2025-03-15 14:30",
-                    "score": "1 - 1"
                 }
             ],
             "future_games": [
@@ -2703,132 +2703,114 @@
         },
         {
             "team": "VfL Bochum",
-            "date": "2025-04-19 13:30",
-            "opponent": "Werder Bremen",
-            "score": "1 - 0",
-            "stadium": "Weserstadion",
-            "referee": "Robert Schröder, Germany",
-            "league_round": "Regular Season - 30",
+            "date": "2025-04-27 13:30",
+            "opponent": "Union Berlin",
+            "score": "1 - 1",
+            "stadium": "Vonovia Ruhrstadion",
+            "referee": "Deniz Aytekin, Germany",
+            "league_round": "Regular Season - 31",
             "events": [
                 {
-                    "time": "27'",
-                    "player": "Mitchell Weiser",
+                    "time": "17'",
+                    "player": "B. Hollerbach",
+                    "detail": "Normal Goal",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "20'",
+                    "player": "B. Hollerbach",
                     "detail": "Yellow Card",
-                    "team": "Werder Bremen"
+                    "team": "Union Berlin"
                 },
                 {
-                    "time": "34'",
-                    "player": "Ibrahima Sissoko",
+                    "time": "36'",
+                    "player": "C. Gamboa",
                     "detail": "Yellow Card",
                     "team": "VfL Bochum"
                 },
                 {
-                    "time": "57'",
-                    "player": "Marvin Ducksch",
-                    "detail": "Goal cancelled",
-                    "team": "Werder Bremen"
+                    "time": "41'",
+                    "player": "L. Querfeld",
+                    "detail": "Yellow Card",
+                    "team": "Union Berlin"
                 },
                 {
-                    "time": "63'",
-                    "player": "G. Holtmann",
-                    "detail": "Substitution 1",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "68'",
-                    "player": "J. Stage",
-                    "detail": "Substitution 1",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "68'",
-                    "player": "M. Ducksch",
-                    "detail": "Substitution 2",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "68'",
-                    "player": "O. Burke",
-                    "detail": "Substitution 3",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "78'",
-                    "player": "P. Hofmann",
-                    "detail": "Substitution 2",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "78'",
-                    "player": "F. Passlack",
-                    "detail": "Substitution 3",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "78'",
+                    "time": "46'",
                     "player": "G. Masouras",
-                    "detail": "Substitution 4",
+                    "detail": "Substitution 1",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "51'",
+                    "player": "M. Bero",
+                    "detail": "Yellow Card",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "61'",
+                    "player": "D. de Wit",
+                    "detail": "Substitution 2",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "61'",
+                    "player": "G. Holtmann",
+                    "detail": "Substitution 3",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "64'",
+                    "player": "K. Vogt",
+                    "detail": "Substitution 1",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "68'",
+                    "player": "M. Bero",
+                    "detail": "Missed Penalty",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "68'",
+                    "player": "M. Bero",
+                    "detail": "Normal Goal",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "80'",
-                    "player": "M. Weiser",
-                    "detail": "Normal Goal",
-                    "team": "Werder Bremen"
+                    "player": "F. Passlack",
+                    "detail": "Substitution 4",
+                    "team": "VfL Bochum"
                 },
                 {
                     "time": "83'",
-                    "player": "Mitchell Weiser",
-                    "detail": "Goal confirmed",
-                    "team": "Werder Bremen"
+                    "player": "L. Benes",
+                    "detail": "Substitution 2",
+                    "team": "Union Berlin"
                 },
                 {
-                    "time": "85'",
-                    "player": "Erhan Mašović",
+                    "time": "84'",
+                    "player": "T. Skarke",
+                    "detail": "Substitution 3",
+                    "team": "Union Berlin"
+                },
+                {
+                    "time": "90'",
+                    "player": "M. Boadu",
                     "detail": "Yellow Card",
                     "team": "VfL Bochum"
                 },
                 {
-                    "time": "86'",
-                    "player": "Ibrahima Sissoko",
-                    "detail": "Red Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "86'",
-                    "player": "Ibrahima Sissoko",
-                    "detail": "Yellow Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "86'",
-                    "player": "Niklas Stark",
-                    "detail": "Yellow Card",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "88'",
-                    "player": "M. Wittek",
-                    "detail": "Substitution 5",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "89'",
-                    "player": "R. Schmid",
+                    "time": "90'",
+                    "player": "D. Preu",
                     "detail": "Substitution 4",
-                    "team": "Werder Bremen"
+                    "team": "Union Berlin"
                 },
                 {
                     "time": "90'",
-                    "player": "Timo Horn",
-                    "detail": "Yellow Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "90'",
-                    "player": "Senne Lynen",
-                    "detail": "Yellow Card",
-                    "team": "Werder Bremen"
+                    "player": "M. Ljubicic",
+                    "detail": "Substitution 5",
+                    "team": "Union Berlin"
                 }
             ],
             "odds": {
@@ -2837,6 +2819,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-27 13:30",
+                    "score": "1 - 1"
+                },
                 {
                     "date": "2025-04-19 13:30",
                     "score": "1 - 0"
@@ -2852,10 +2838,6 @@
                 {
                     "date": "2025-03-28 19:30",
                     "score": "3 - 1"
-                },
-                {
-                    "date": "2025-03-16 14:30",
-                    "score": "1 - 3"
                 }
             ],
             "future_games": [
