@@ -61,11 +61,11 @@
             },
             "player": {
                 "id": 794,
-                "name": "P. Schick"
+                "name": "Patrik Schick"
             },
             "assist": {
                 "id": 231029,
-                "name": "N. Tella"
+                "name": "Nathan Tella"
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -73,7 +73,7 @@
         },
         {
             "time": {
-                "elapsed": 25,
+                "elapsed": 26,
                 "extra": null
             },
             "team": {
@@ -83,14 +83,14 @@
             },
             "player": {
                 "id": 231029,
-                "name": "N. Tella"
+                "name": "Nathan Tella"
             },
             "assist": {
                 "id": null,
                 "name": null
             },
             "type": "Var",
-            "detail": "Goal Disallowed - offside",
+            "detail": "Goal cancelled",
             "comments": null
         },
         {
@@ -105,7 +105,7 @@
             },
             "player": {
                 "id": 19071,
-                "name": "E. Buendia"
+                "name": "Emiliano Buendía"
             },
             "assist": {
                 "id": null,
@@ -117,7 +117,7 @@
         },
         {
             "time": {
-                "elapsed": 55,
+                "elapsed": 56,
                 "extra": null
             },
             "team": {
@@ -126,12 +126,12 @@
                 "logo": "https://media.api-sports.io/football/teams/170.png"
             },
             "player": {
-                "id": 348888,
-                "name": "M. Komur"
+                "id": 2360,
+                "name": "Dimitrios Giannoulis"
             },
             "assist": {
-                "id": 25413,
-                "name": "E. Rexhbecaj"
+                "id": 319858,
+                "name": "Henri Koudossou"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -139,7 +139,7 @@
         },
         {
             "time": {
-                "elapsed": 55,
+                "elapsed": 56,
                 "extra": null
             },
             "team": {
@@ -148,12 +148,12 @@
                 "logo": "https://media.api-sports.io/football/teams/170.png"
             },
             "player": {
-                "id": 3001,
-                "name": "R. Gumny"
+                "id": 26,
+                "name": "Marius Wolf"
             },
             "assist": {
-                "id": 26,
-                "name": "M. Wolf"
+                "id": 3001,
+                "name": "Robert Gumny"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -161,7 +161,7 @@
         },
         {
             "time": {
-                "elapsed": 55,
+                "elapsed": 56,
                 "extra": null
             },
             "team": {
@@ -170,12 +170,12 @@
                 "logo": "https://media.api-sports.io/football/teams/170.png"
             },
             "player": {
-                "id": 319858,
-                "name": "H. Koudossou"
+                "id": 25413,
+                "name": "Elvis Rexhbeçaj"
             },
             "assist": {
-                "id": 2360,
-                "name": "D. Giannoulis"
+                "id": 348888,
+                "name": "Mert Kömür"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -192,12 +192,12 @@
                 "logo": "https://media.api-sports.io/football/teams/168.png"
             },
             "player": {
-                "id": 129682,
-                "name": "A. Adli"
+                "id": 231029,
+                "name": "Nathan Tella"
             },
             "assist": {
-                "id": 794,
-                "name": "P. Schick"
+                "id": 127817,
+                "name": "Piero Hincapié"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -214,12 +214,12 @@
                 "logo": "https://media.api-sports.io/football/teams/168.png"
             },
             "player": {
-                "id": 127817,
-                "name": "P. Hincapie"
+                "id": 19071,
+                "name": "Emiliano Buendía"
             },
             "assist": {
-                "id": 231029,
-                "name": "N. Tella"
+                "id": 25635,
+                "name": "Jonas Hofmann"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -236,12 +236,12 @@
                 "logo": "https://media.api-sports.io/football/teams/168.png"
             },
             "player": {
-                "id": 25635,
-                "name": "J. Hofmann"
+                "id": 794,
+                "name": "Patrik Schick"
             },
             "assist": {
-                "id": 19071,
-                "name": "E. Buendia"
+                "id": 129682,
+                "name": "Amine Adli"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -258,12 +258,12 @@
                 "logo": "https://media.api-sports.io/football/teams/170.png"
             },
             "player": {
-                "id": 26171,
-                "name": "P. Tietz"
+                "id": 8651,
+                "name": "Samuel Essende"
             },
             "assist": {
-                "id": 8651,
-                "name": "S. Essende"
+                "id": 26171,
+                "name": "Phillip Tietz"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -280,12 +280,12 @@
                 "logo": "https://media.api-sports.io/football/teams/170.png"
             },
             "player": {
-                "id": 25299,
-                "name": "F. Jensen"
+                "id": 20634,
+                "name": "Alexis Claude-Maurice"
             },
             "assist": {
-                "id": 20634,
-                "name": "A. Claude-Maurice"
+                "id": 25299,
+                "name": "Fredrik Jensen"
             },
             "type": "subst",
             "detail": "Substitution 5",
@@ -302,12 +302,12 @@
                 "logo": "https://media.api-sports.io/football/teams/168.png"
             },
             "player": {
-                "id": 47516,
-                "name": "A. Garcia"
+                "id": 203224,
+                "name": "Florian Wirtz"
             },
             "assist": {
-                "id": 203224,
-                "name": "F. Wirtz"
+                "id": 47516,
+                "name": "Aleix García"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -325,7 +325,7 @@
             },
             "player": {
                 "id": 48574,
-                "name": "C. Zesiger"
+                "name": "Cedric Zesiger"
             },
             "assist": {
                 "id": null,
@@ -333,7 +333,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": null
+            "comments": "Foul"
         },
         {
             "time": {
@@ -346,12 +346,12 @@
                 "logo": "https://media.api-sports.io/football/teams/168.png"
             },
             "player": {
-                "id": 152654,
-                "name": "J. Frimpong"
-            },
-            "assist": {
                 "id": 352375,
                 "name": "Arthur"
+            },
+            "assist": {
+                "id": 152654,
+                "name": "Jeremie Frimpong"
             },
             "type": "subst",
             "detail": "Substitution 5",
