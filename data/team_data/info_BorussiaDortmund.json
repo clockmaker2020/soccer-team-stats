@@ -61,14 +61,36 @@
             },
             "player": {
                 "id": 21393,
-                "name": "S. Guirassy"
+                "name": "Serhou Guirassy"
             },
             "assist": {
                 "id": 198654,
-                "name": "D. Svensson"
+                "name": "Daniel Svensson"
             },
             "type": "Goal",
             "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 23,
+                "extra": null
+            },
+            "team": {
+                "id": 165,
+                "name": "Borussia Dortmund",
+                "logo": "https://media.api-sports.io/football/teams/165.png"
+            },
+            "player": {
+                "id": 198654,
+                "name": "Daniel Svensson"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Var",
+            "detail": "Goal confirmed",
             "comments": null
         },
         {
@@ -82,12 +104,12 @@
                 "logo": "https://media.api-sports.io/football/teams/167.png"
             },
             "player": {
-                "id": 270,
-                "name": "S. Nsoki"
+                "id": 25366,
+                "name": "Kevin Akpoguma"
             },
             "assist": {
-                "id": 25366,
-                "name": "K. Akpoguma"
+                "id": 270,
+                "name": "Stanley N'Soki"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -105,11 +127,11 @@
             },
             "player": {
                 "id": 21393,
-                "name": "S. Guirassy"
+                "name": "Serhou Guirassy"
             },
             "assist": {
-                "id": 21393,
-                "name": "S. Guirassy"
+                "id": null,
+                "name": null
             },
             "type": "Goal",
             "detail": "Missed Penalty",
@@ -117,7 +139,7 @@
         },
         {
             "time": {
-                "elapsed": 42,
+                "elapsed": 41,
                 "extra": null
             },
             "team": {
@@ -127,7 +149,7 @@
             },
             "player": {
                 "id": 25368,
-                "name": "W. Anton"
+                "name": "Waldemar Anton"
             },
             "assist": {
                 "id": null,
@@ -149,11 +171,11 @@
             },
             "player": {
                 "id": 66019,
-                "name": "A. Hlozek"
+                "name": "Adam Hložek"
             },
             "assist": {
                 "id": 177665,
-                "name": "A. Stach"
+                "name": "Anton Stach"
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -179,7 +201,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Tripping"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -192,12 +214,12 @@
                 "logo": "https://media.api-sports.io/football/teams/165.png"
             },
             "player": {
-                "id": 24807,
-                "name": "S. Ozcan"
+                "id": 286894,
+                "name": "Jamie Gittens"
             },
             "assist": {
-                "id": 637,
-                "name": "F. Nmecha"
+                "id": 7334,
+                "name": "Karim Adeyemi"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -214,12 +236,12 @@
                 "logo": "https://media.api-sports.io/football/teams/165.png"
             },
             "player": {
-                "id": 7334,
-                "name": "K. Adeyemi"
+                "id": 637,
+                "name": "Felix Nmecha"
             },
             "assist": {
-                "id": 286894,
-                "name": "J. Gittens"
+                "id": 24807,
+                "name": "Salih Özcan"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -236,34 +258,34 @@
                 "logo": "https://media.api-sports.io/football/teams/167.png"
             },
             "player": {
-                "id": 128793,
-                "name": "D. Jurasek"
-            },
-            "assist": {
-                "id": 25242,
-                "name": "M. Bulter"
-            },
-            "type": "subst",
-            "detail": "Substitution 2",
-            "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 71,
-                "extra": null
-            },
-            "team": {
-                "id": 167,
-                "name": "1899 Hoffenheim",
-                "logo": "https://media.api-sports.io/football/teams/167.png"
-            },
-            "player": {
-                "id": 28382,
-                "name": "H. Tabakovic"
-            },
-            "assist": {
                 "id": 66019,
-                "name": "A. Hlozek"
+                "name": "Adam Hložek"
+            },
+            "assist": {
+                "id": 28382,
+                "name": "Haris Tabaković"
+            },
+            "type": "subst",
+            "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 71,
+                "extra": null
+            },
+            "team": {
+                "id": 167,
+                "name": "1899 Hoffenheim",
+                "logo": "https://media.api-sports.io/football/teams/167.png"
+            },
+            "player": {
+                "id": 25242,
+                "name": "Marius Bülter"
+            },
+            "assist": {
+                "id": 128793,
+                "name": "David Jurásek"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -281,14 +303,36 @@
             },
             "player": {
                 "id": 984,
-                "name": "J. Brandt"
+                "name": "Julian Brandt"
             },
             "assist": {
                 "id": 198654,
-                "name": "D. Svensson"
+                "name": "Daniel Svensson"
             },
             "type": "Goal",
             "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 77,
+                "extra": null
+            },
+            "team": {
+                "id": 167,
+                "name": "1899 Hoffenheim",
+                "logo": "https://media.api-sports.io/football/teams/167.png"
+            },
+            "player": {
+                "id": 718,
+                "name": "Dennis Geiger"
+            },
+            "assist": {
+                "id": 279907,
+                "name": "Umut Tohumcu"
+            },
+            "type": "subst",
+            "detail": "Substitution 4",
             "comments": null
         },
         {
@@ -302,12 +346,12 @@
                 "logo": "https://media.api-sports.io/football/teams/165.png"
             },
             "player": {
-                "id": 197448,
-                "name": "Y. Couto"
+                "id": 24845,
+                "name": "Julian Ryerson"
             },
             "assist": {
-                "id": 24845,
-                "name": "J. Ryerson"
+                "id": 197448,
+                "name": "Yan Couto"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -315,28 +359,6 @@
         },
         {
             "time": {
-                "elapsed": 77,
-                "extra": null
-            },
-            "team": {
-                "id": 167,
-                "name": "1899 Hoffenheim",
-                "logo": "https://media.api-sports.io/football/teams/167.png"
-            },
-            "player": {
-                "id": 279907,
-                "name": "U. Tohumcu"
-            },
-            "assist": {
-                "id": 718,
-                "name": "D. Geiger"
-            },
-            "type": "subst",
-            "detail": "Substitution 4",
-            "comments": null
-        },
-        {
-            "time": {
                 "elapsed": 81,
                 "extra": null
             },
@@ -346,12 +368,12 @@
                 "logo": "https://media.api-sports.io/football/teams/165.png"
             },
             "player": {
-                "id": 161921,
-                "name": "G. Reyna"
-            },
-            "assist": {
                 "id": 506,
-                "name": "N. Sule"
+                "name": "Niklas Süle"
+            },
+            "assist": {
+                "id": 161921,
+                "name": "Giovanni Reyna"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -368,37 +390,15 @@
                 "logo": "https://media.api-sports.io/football/teams/165.png"
             },
             "player": {
-                "id": 138935,
-                "name": "C. Chukwuemeka"
+                "id": 984,
+                "name": "Julian Brandt"
             },
             "assist": {
-                "id": 984,
-                "name": "J. Brandt"
+                "id": 138935,
+                "name": "Carney Chukwuemeka"
             },
             "type": "subst",
             "detail": "Substitution 5",
-            "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 90,
-                "extra": 1
-            },
-            "team": {
-                "id": 167,
-                "name": "1899 Hoffenheim",
-                "logo": "https://media.api-sports.io/football/teams/167.png"
-            },
-            "player": {
-                "id": 709,
-                "name": "P. Kaderabek"
-            },
-            "assist": {
-                "id": 128793,
-                "name": "D. Jurasek"
-            },
-            "type": "Goal",
-            "detail": "Normal Goal",
             "comments": null
         },
         {
@@ -413,11 +413,11 @@
             },
             "player": {
                 "id": 25368,
-                "name": "W. Anton"
+                "name": "Waldemar Anton"
             },
             "assist": {
                 "id": 21393,
-                "name": "S. Guirassy"
+                "name": "Serhou Guirassy"
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -435,7 +435,7 @@
             },
             "player": {
                 "id": 270,
-                "name": "S. Nsoki"
+                "name": "Stanley N'Soki"
             },
             "assist": {
                 "id": null,
@@ -443,7 +443,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Unsportsmanlike conduct"
+            "comments": "Argument"
         },
         {
             "time": {
@@ -457,7 +457,7 @@
             },
             "player": {
                 "id": 709,
-                "name": "P. Kaderabek"
+                "name": "Pavel Kadeřábek"
             },
             "assist": {
                 "id": null,
@@ -465,7 +465,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Unsportsmanlike conduct"
+            "comments": "Argument"
         },
         {
             "time": {
@@ -479,7 +479,7 @@
             },
             "player": {
                 "id": 177665,
-                "name": "A. Stach"
+                "name": "Anton Stach"
             },
             "assist": {
                 "id": null,
@@ -487,7 +487,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Roughing"
+            "comments": "Argument"
         },
         {
             "time": {
@@ -501,7 +501,7 @@
             },
             "player": {
                 "id": 279907,
-                "name": "U. Tohumcu"
+                "name": "Umut Tohumcu"
             },
             "assist": {
                 "id": null,
@@ -509,7 +509,29 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Roughing"
+            "comments": "Argument"
+        },
+        {
+            "time": {
+                "elapsed": 90,
+                "extra": null
+            },
+            "team": {
+                "id": 167,
+                "name": "1899 Hoffenheim",
+                "logo": "https://media.api-sports.io/football/teams/167.png"
+            },
+            "player": {
+                "id": 709,
+                "name": "Pavel Kadeřábek"
+            },
+            "assist": {
+                "id": 128793,
+                "name": "David Jurásek"
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
         }
     ],
     "statistics": [
