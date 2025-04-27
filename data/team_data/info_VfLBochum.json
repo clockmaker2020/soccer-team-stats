@@ -434,7 +434,7 @@
             "statistics": [
                 {
                     "type": "Shots on Goal",
-                    "value": 2
+                    "value": 4
                 },
                 {
                     "type": "Shots off Goal",
@@ -442,7 +442,7 @@
                 },
                 {
                     "type": "Total Shots",
-                    "value": 8
+                    "value": 10
                 },
                 {
                     "type": "Blocked Shots",
@@ -450,7 +450,7 @@
                 },
                 {
                     "type": "Shots insidebox",
-                    "value": 4
+                    "value": 6
                 },
                 {
                     "type": "Shots outsidebox",
@@ -458,11 +458,11 @@
                 },
                 {
                     "type": "Fouls",
-                    "value": 11
+                    "value": 12
                 },
                 {
                     "type": "Corner Kicks",
-                    "value": 9
+                    "value": 10
                 },
                 {
                     "type": "Offsides",
@@ -474,7 +474,7 @@
                 },
                 {
                     "type": "Yellow Cards",
-                    "value": 2
+                    "value": 3
                 },
                 {
                     "type": "Red Cards",
@@ -486,23 +486,23 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 476
+                    "value": 508
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 392
+                    "value": 414
                 },
                 {
                     "type": "Passes %",
-                    "value": "82%"
+                    "value": "81%"
                 },
                 {
                     "type": "expected_goals",
-                    "value": "1.26"
+                    "value": "1.53"
                 },
                 {
                     "type": "goals_prevented",
-                    "value": 0
+                    "value": 1
                 }
             ]
         },
@@ -539,11 +539,11 @@
                 },
                 {
                     "type": "Fouls",
-                    "value": 8
+                    "value": 9
                 },
                 {
                     "type": "Corner Kicks",
-                    "value": 3
+                    "value": 4
                 },
                 {
                     "type": "Offsides",
@@ -563,19 +563,19 @@
                 },
                 {
                     "type": "Goalkeeper Saves",
-                    "value": 1
+                    "value": 3
                 },
                 {
                     "type": "Total passes",
-                    "value": 243
+                    "value": 262
                 },
                 {
                     "type": "Passes accurate",
-                    "value": 169
+                    "value": 177
                 },
                 {
                     "type": "Passes %",
-                    "value": "70%"
+                    "value": "68%"
                 },
                 {
                     "type": "expected_goals",
@@ -583,7 +583,7 @@
                 },
                 {
                     "type": "goals_prevented",
-                    "value": 0
+                    "value": 1
                 }
             ]
         }
@@ -948,6 +948,24 @@
                 },
                 {
                     "player": {
+                        "id": 292218,
+                        "name": "Marin Ljubičić",
+                        "number": 27,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 327956,
+                        "name": "David Preu",
+                        "number": 45,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 26234,
                         "name": "Alexander Schwolow",
                         "number": 37,
@@ -978,24 +996,6 @@
                         "id": 14605,
                         "name": "Ivan Prtajin",
                         "number": 9,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 292218,
-                        "name": "Marin Ljubičić",
-                        "number": 27,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 327956,
-                        "name": "David Preu",
-                        "number": 45,
                         "pos": "F",
                         "grid": null
                     }
