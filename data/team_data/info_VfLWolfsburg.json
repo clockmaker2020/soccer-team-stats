@@ -61,7 +61,7 @@
             },
             "player": {
                 "id": 162409,
-                "name": "K. Koulierakis"
+                "name": "Konstantinos Koulierakis"
             },
             "assist": {
                 "id": null,
@@ -69,7 +69,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Unsportsmanlike conduct"
+            "comments": "Time wasting"
         },
         {
             "time": {
@@ -83,7 +83,7 @@
             },
             "player": {
                 "id": 25408,
-                "name": "M. Arnold"
+                "name": "Maximilian Arnold"
             },
             "assist": {
                 "id": null,
@@ -91,7 +91,29 @@
             },
             "type": "Card",
             "detail": "Red Card",
-            "comments": "Serious foul"
+            "comments": "Foul"
+        },
+        {
+            "time": {
+                "elapsed": 26,
+                "extra": null
+            },
+            "team": {
+                "id": 161,
+                "name": "VfL Wolfsburg",
+                "logo": "https://media.api-sports.io/football/teams/161.png"
+            },
+            "player": {
+                "id": 25408,
+                "name": "Maximilian Arnold"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Var",
+            "detail": "Card upgrade",
+            "comments": null
         },
         {
             "time": {
@@ -105,7 +127,7 @@
             },
             "player": {
                 "id": 200139,
-                "name": "M. Amoura"
+                "name": "Mohamed El Amine Amoura"
             },
             "assist": {
                 "id": null,
@@ -114,28 +136,6 @@
             "type": "Card",
             "detail": "Yellow Card",
             "comments": "Foul"
-        },
-        {
-            "time": {
-                "elapsed": 41,
-                "extra": null
-            },
-            "team": {
-                "id": 161,
-                "name": "VfL Wolfsburg",
-                "logo": "https://media.api-sports.io/football/teams/161.png"
-            },
-            "player": {
-                "id": null,
-                "name": "R. Hasenhuttl"
-            },
-            "assist": {
-                "id": null,
-                "name": null
-            },
-            "type": "Card",
-            "detail": "Yellow Card",
-            "comments": null
         },
         {
             "time": {
@@ -148,12 +148,12 @@
                 "logo": "https://media.api-sports.io/football/teams/160.png"
             },
             "player": {
-                "id": 25297,
-                "name": "M. Gregoritsch"
+                "id": 125173,
+                "name": "Junior Adamu"
             },
             "assist": {
-                "id": 125173,
-                "name": "J. Adamu"
+                "id": 25297,
+                "name": "Michael Gregoritsch"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -171,11 +171,11 @@
             },
             "player": {
                 "id": 202919,
-                "name": "M. Rosenfelder"
+                "name": "Max Rosenfelder"
             },
             "assist": {
-                "id": 26255,
-                "name": "L. Holer"
+                "id": null,
+                "name": null
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -192,12 +192,12 @@
                 "logo": "https://media.api-sports.io/football/teams/161.png"
             },
             "player": {
-                "id": 25400,
-                "name": "Y. Gerhardt"
+                "id": 200139,
+                "name": "Mohamed El Amine Amoura"
             },
             "assist": {
-                "id": 200139,
-                "name": "M. Amoura"
+                "id": 25400,
+                "name": "Yannick Gerhardt"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -215,7 +215,7 @@
             },
             "player": {
                 "id": 149557,
-                "name": "K. Paredes"
+                "name": "Kevin Paredes"
             },
             "assist": {
                 "id": null,
@@ -236,12 +236,12 @@
                 "logo": "https://media.api-sports.io/football/teams/161.png"
             },
             "player": {
-                "id": 40560,
-                "name": "J. Kaminski"
-            },
-            "assist": {
                 "id": 149557,
-                "name": "K. Paredes"
+                "name": "Kevin Paredes"
+            },
+            "assist": {
+                "id": 40560,
+                "name": "Jakub Kamiński"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -258,34 +258,34 @@
                 "logo": "https://media.api-sports.io/football/teams/160.png"
             },
             "player": {
-                "id": 26239,
-                "name": "L. Kubler"
-            },
-            "assist": {
-                "id": 202919,
-                "name": "M. Rosenfelder"
-            },
-            "type": "subst",
-            "detail": "Substitution 2",
-            "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 71,
-                "extra": null
-            },
-            "team": {
-                "id": 160,
-                "name": "SC Freiburg",
-                "logo": "https://media.api-sports.io/football/teams/160.png"
-            },
-            "player": {
-                "id": 25313,
-                "name": "J. Beste"
-            },
-            "assist": {
                 "id": 26248,
-                "name": "V. Grifo"
+                "name": "Vincenzo Grifo"
+            },
+            "assist": {
+                "id": 25313,
+                "name": "Jan-Niklas Beste"
+            },
+            "type": "subst",
+            "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 71,
+                "extra": null
+            },
+            "team": {
+                "id": 160,
+                "name": "SC Freiburg",
+                "logo": "https://media.api-sports.io/football/teams/160.png"
+            },
+            "player": {
+                "id": 202919,
+                "name": "Max Rosenfelder"
+            },
+            "assist": {
+                "id": 26239,
+                "name": "Lukas Kübler"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -302,12 +302,12 @@
                 "logo": "https://media.api-sports.io/football/teams/160.png"
             },
             "player": {
-                "id": 406244,
-                "name": "J. Manzambi"
+                "id": 26255,
+                "name": "Lucas Höler"
             },
             "assist": {
-                "id": 26255,
-                "name": "L. Holer"
+                "id": 406244,
+                "name": "Johan Manzambi"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -324,12 +324,12 @@
                 "logo": "https://media.api-sports.io/football/teams/161.png"
             },
             "player": {
-                "id": 1321,
-                "name": "L. Majer"
+                "id": 380503,
+                "name": "Bence Dárdai"
             },
             "assist": {
-                "id": 126642,
-                "name": "P. Wimmer"
+                "id": 19461,
+                "name": "Lukas Nmecha"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -346,12 +346,12 @@
                 "logo": "https://media.api-sports.io/football/teams/161.png"
             },
             "player": {
-                "id": 265363,
-                "name": "T. Tomas"
+                "id": 1302,
+                "name": "Jonas Wind"
             },
             "assist": {
-                "id": 1302,
-                "name": "J. Wind"
+                "id": 265363,
+                "name": "Tiago Tomás"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -368,12 +368,12 @@
                 "logo": "https://media.api-sports.io/football/teams/161.png"
             },
             "player": {
-                "id": 19461,
-                "name": "L. Nmecha"
+                "id": 126642,
+                "name": "Patrick Wimmer"
             },
             "assist": {
-                "id": 380503,
-                "name": "B. Dardai"
+                "id": 1321,
+                "name": "Lovro Majer"
             },
             "type": "subst",
             "detail": "Substitution 5",
@@ -391,7 +391,7 @@
             },
             "player": {
                 "id": 163022,
-                "name": "P. Osterhage"
+                "name": "Patrick Osterhage"
             },
             "assist": {
                 "id": null,
@@ -399,7 +399,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Holding"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -412,15 +412,37 @@
                 "logo": "https://media.api-sports.io/football/teams/160.png"
             },
             "player": {
-                "id": 191233,
-                "name": "K. Sildillia"
+                "id": 2598,
+                "name": "Ritsu Doan"
             },
             "assist": {
-                "id": 2598,
-                "name": "R. Doan"
+                "id": 191233,
+                "name": "Kiliann Sildillia"
             },
             "type": "subst",
             "detail": "Substitution 5",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 90,
+                "extra": 3
+            },
+            "team": {
+                "id": 160,
+                "name": "SC Freiburg",
+                "logo": "https://media.api-sports.io/football/teams/160.png"
+            },
+            "player": {
+                "id": 2917,
+                "name": "Maximilian Eggestein"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Var",
+            "detail": "Penalty cancelled",
             "comments": null
         }
     ],
