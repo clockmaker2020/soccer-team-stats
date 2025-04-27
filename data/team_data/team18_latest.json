@@ -2065,101 +2065,107 @@
         },
         {
             "team": "FC St. Pauli",
-            "date": "2025-04-20 17:30",
-            "opponent": "Bayer Leverkusen",
-            "score": "1 - 1",
-            "stadium": "Millerntor-Stadion",
-            "referee": "Sören Storks, Germany",
-            "league_round": "Regular Season - 30",
+            "date": "2025-04-27 15:30",
+            "opponent": "Werder Bremen",
+            "score": "0 - 0",
+            "stadium": "Weserstadion",
+            "referee": "Tobias Reichel, Germany",
+            "league_round": "Regular Season - 31",
             "events": [
                 {
-                    "time": "32'",
-                    "player": "P. Schick",
-                    "detail": "Normal Goal",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "59'",
-                    "player": "C. Metcalfe",
+                    "time": "62'",
+                    "player": "E. Saad",
                     "detail": "Substitution 1",
                     "team": "FC St. Pauli"
                 },
                 {
                     "time": "63'",
-                    "player": "Piero Hincapié",
+                    "player": "M. Saliakas",
                     "detail": "Yellow Card",
-                    "team": "Bayer Leverkusen"
+                    "team": "FC St. Pauli"
                 },
                 {
-                    "time": "64'",
-                    "player": "Jeremie Frimpong",
-                    "detail": "Yellow Card",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "64'",
-                    "player": "Lukáš Hrádecký",
-                    "detail": "Yellow Card",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "66'",
-                    "player": "P. Schick",
+                    "time": "69'",
+                    "player": "O. Burke",
                     "detail": "Substitution 1",
-                    "team": "Bayer Leverkusen"
+                    "team": "Werder Bremen"
                 },
                 {
                     "time": "75'",
-                    "player": "Morgan Guilavogui",
-                    "detail": "Goal cancelled",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "77'",
-                    "player": "Nathan Tella",
-                    "detail": "Yellow Card",
-                    "team": "Bayer Leverkusen"
-                },
-                {
-                    "time": "78'",
-                    "player": "C. Boukhalfa",
-                    "detail": "Normal Goal",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "85'",
-                    "player": "C. Boukhalfa",
+                    "player": "C. Metcalfe",
                     "detail": "Substitution 2",
                     "team": "FC St. Pauli"
                 },
                 {
-                    "time": "89'",
-                    "player": "N. Tella",
+                    "time": "75'",
+                    "player": "R. Wagner",
+                    "detail": "Substitution 3",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "80'",
+                    "player": "O. Burke",
+                    "detail": "Goal Disallowed - offside",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "81'",
+                    "player": "D. Kohn",
                     "detail": "Substitution 2",
-                    "team": "Bayer Leverkusen"
+                    "team": "Werder Bremen"
                 },
                 {
-                    "time": "89'",
-                    "player": "E. Tapsoba",
+                    "time": "81'",
+                    "player": "L. Bittencourt",
                     "detail": "Substitution 3",
-                    "team": "Bayer Leverkusen"
+                    "team": "Werder Bremen"
                 },
                 {
-                    "time": "90'",
-                    "player": "Eric Smith",
+                    "time": "82'",
+                    "player": "L. Bittencourt",
                     "detail": "Yellow Card",
-                    "team": "FC St. Pauli"
+                    "team": "Werder Bremen"
                 },
                 {
-                    "time": "90'",
-                    "player": "D. Sinani",
-                    "detail": "Substitution 3",
-                    "team": "FC St. Pauli"
-                },
-                {
-                    "time": "90'",
-                    "player": "M. Guilavogui",
+                    "time": "88'",
+                    "player": "M. Grull",
                     "detail": "Substitution 4",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "88'",
+                    "player": "L. Ritzka",
+                    "detail": "Substitution 4",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "88'",
+                    "player": "J. Eggestein",
+                    "detail": "Substitution 5",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "89'",
+                    "player": "C. Metcalfe",
+                    "detail": "Yellow Card",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "90'",
+                    "player": "M. Friedl",
+                    "detail": "Yellow Card",
+                    "team": "Werder Bremen"
+                },
+                {
+                    "time": "90'",
+                    "player": "C. Metcalfe",
+                    "detail": "Yellow Card",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "90'",
+                    "player": "C. Metcalfe",
+                    "detail": "Red Card",
                     "team": "FC St. Pauli"
                 }
             ],
@@ -2169,6 +2175,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-27 15:30",
+                    "score": "0 - 0"
+                },
                 {
                     "date": "2025-04-20 17:30",
                     "score": "1 - 1"
@@ -2184,10 +2194,6 @@
                 {
                     "date": "2025-03-29 14:30",
                     "score": "3 - 2"
-                },
-                {
-                    "date": "2025-03-14 19:30",
-                    "score": "1 - 0"
                 }
             ],
             "future_games": [
