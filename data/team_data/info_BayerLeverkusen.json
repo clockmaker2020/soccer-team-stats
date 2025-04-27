@@ -61,11 +61,11 @@
             },
             "player": {
                 "id": 794,
-                "name": "Patrik Schick"
+                "name": "P. Schick"
             },
             "assist": {
                 "id": 231029,
-                "name": "Nathan Tella"
+                "name": "N. Tella"
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -105,7 +105,7 @@
             },
             "player": {
                 "id": 19071,
-                "name": "Emiliano Buendía"
+                "name": "E. Buendía"
             },
             "assist": {
                 "id": null,
@@ -126,12 +126,12 @@
                 "logo": "https://media.api-sports.io/football/teams/170.png"
             },
             "player": {
-                "id": 2360,
-                "name": "Dimitrios Giannoulis"
+                "id": 25413,
+                "name": "E. Rexhbeçaj"
             },
             "assist": {
-                "id": 319858,
-                "name": "Henri Koudossou"
+                "id": 348888,
+                "name": "M. Kömür"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -148,12 +148,12 @@
                 "logo": "https://media.api-sports.io/football/teams/170.png"
             },
             "player": {
-                "id": 26,
-                "name": "Marius Wolf"
+                "id": 2360,
+                "name": "D. Giannoulis"
             },
             "assist": {
-                "id": 3001,
-                "name": "Robert Gumny"
+                "id": 319858,
+                "name": "H. Koudossou"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -170,12 +170,12 @@
                 "logo": "https://media.api-sports.io/football/teams/170.png"
             },
             "player": {
-                "id": 25413,
-                "name": "Elvis Rexhbeçaj"
+                "id": 26,
+                "name": "M. Wolf"
             },
             "assist": {
-                "id": 348888,
-                "name": "Mert Kömür"
+                "id": 3001,
+                "name": "R. Gumny"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -193,11 +193,11 @@
             },
             "player": {
                 "id": 231029,
-                "name": "Nathan Tella"
+                "name": "N. Tella"
             },
             "assist": {
                 "id": 127817,
-                "name": "Piero Hincapié"
+                "name": "P. Hincapié"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -215,11 +215,11 @@
             },
             "player": {
                 "id": 19071,
-                "name": "Emiliano Buendía"
+                "name": "E. Buendía"
             },
             "assist": {
                 "id": 25635,
-                "name": "Jonas Hofmann"
+                "name": "J. Hofmann"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -237,11 +237,11 @@
             },
             "player": {
                 "id": 794,
-                "name": "Patrik Schick"
+                "name": "P. Schick"
             },
             "assist": {
                 "id": 129682,
-                "name": "Amine Adli"
+                "name": "A. Adli"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -259,11 +259,11 @@
             },
             "player": {
                 "id": 8651,
-                "name": "Samuel Essende"
+                "name": "S. Essende"
             },
             "assist": {
                 "id": 26171,
-                "name": "Phillip Tietz"
+                "name": "P. Tietz"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -281,11 +281,11 @@
             },
             "player": {
                 "id": 20634,
-                "name": "Alexis Claude-Maurice"
+                "name": "A. Claude-Maurice"
             },
             "assist": {
                 "id": 25299,
-                "name": "Fredrik Jensen"
+                "name": "F. Jensen"
             },
             "type": "subst",
             "detail": "Substitution 5",
@@ -303,7 +303,7 @@
             },
             "player": {
                 "id": 203224,
-                "name": "Florian Wirtz"
+                "name": "F. Wirtz"
             },
             "assist": {
                 "id": 47516,
@@ -351,7 +351,7 @@
             },
             "assist": {
                 "id": 152654,
-                "name": "Jeremie Frimpong"
+                "name": "J. Frimpong"
             },
             "type": "subst",
             "detail": "Substitution 5",
