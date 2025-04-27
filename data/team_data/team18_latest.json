@@ -1129,132 +1129,108 @@
         },
         {
             "team": "Werder Bremen",
-            "date": "2025-04-19 13:30",
-            "opponent": "VfL Bochum",
-            "score": "1 - 0",
+            "date": "2025-04-27 15:30",
+            "opponent": "FC St. Pauli",
+            "score": "0 - 0",
             "stadium": "Weserstadion",
-            "referee": "Robert Schröder, Germany",
-            "league_round": "Regular Season - 30",
+            "referee": "Tobias Reichel, Germany",
+            "league_round": "Regular Season - 31",
             "events": [
                 {
-                    "time": "27'",
-                    "player": "Mitchell Weiser",
-                    "detail": "Yellow Card",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "34'",
-                    "player": "Ibrahima Sissoko",
-                    "detail": "Yellow Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "57'",
-                    "player": "Marvin Ducksch",
-                    "detail": "Goal cancelled",
-                    "team": "Werder Bremen"
+                    "time": "62'",
+                    "player": "E. Saad",
+                    "detail": "Substitution 1",
+                    "team": "FC St. Pauli"
                 },
                 {
                     "time": "63'",
-                    "player": "G. Holtmann",
-                    "detail": "Substitution 1",
-                    "team": "VfL Bochum"
+                    "player": "M. Saliakas",
+                    "detail": "Yellow Card",
+                    "team": "FC St. Pauli"
                 },
                 {
-                    "time": "68'",
-                    "player": "J. Stage",
-                    "detail": "Substitution 1",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "68'",
-                    "player": "M. Ducksch",
-                    "detail": "Substitution 2",
-                    "team": "Werder Bremen"
-                },
-                {
-                    "time": "68'",
+                    "time": "69'",
                     "player": "O. Burke",
-                    "detail": "Substitution 3",
+                    "detail": "Substitution 1",
                     "team": "Werder Bremen"
                 },
                 {
-                    "time": "78'",
-                    "player": "P. Hofmann",
+                    "time": "75'",
+                    "player": "C. Metcalfe",
                     "detail": "Substitution 2",
-                    "team": "VfL Bochum"
+                    "team": "FC St. Pauli"
                 },
                 {
-                    "time": "78'",
-                    "player": "F. Passlack",
+                    "time": "75'",
+                    "player": "R. Wagner",
                     "detail": "Substitution 3",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "78'",
-                    "player": "G. Masouras",
-                    "detail": "Substitution 4",
-                    "team": "VfL Bochum"
+                    "team": "FC St. Pauli"
                 },
                 {
                     "time": "80'",
-                    "player": "M. Weiser",
-                    "detail": "Normal Goal",
+                    "player": "O. Burke",
+                    "detail": "Goal Disallowed - offside",
                     "team": "Werder Bremen"
                 },
                 {
-                    "time": "83'",
-                    "player": "Mitchell Weiser",
-                    "detail": "Goal confirmed",
+                    "time": "81'",
+                    "player": "D. Kohn",
+                    "detail": "Substitution 2",
                     "team": "Werder Bremen"
                 },
                 {
-                    "time": "85'",
-                    "player": "Erhan Mašović",
-                    "detail": "Yellow Card",
-                    "team": "VfL Bochum"
+                    "time": "81'",
+                    "player": "L. Bittencourt",
+                    "detail": "Substitution 3",
+                    "team": "Werder Bremen"
                 },
                 {
-                    "time": "86'",
-                    "player": "Ibrahima Sissoko",
-                    "detail": "Red Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "86'",
-                    "player": "Ibrahima Sissoko",
-                    "detail": "Yellow Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "86'",
-                    "player": "Niklas Stark",
+                    "time": "82'",
+                    "player": "L. Bittencourt",
                     "detail": "Yellow Card",
                     "team": "Werder Bremen"
                 },
                 {
                     "time": "88'",
-                    "player": "M. Wittek",
-                    "detail": "Substitution 5",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "89'",
-                    "player": "R. Schmid",
+                    "player": "M. Grull",
                     "detail": "Substitution 4",
                     "team": "Werder Bremen"
                 },
                 {
-                    "time": "90'",
-                    "player": "Timo Horn",
+                    "time": "88'",
+                    "player": "L. Ritzka",
+                    "detail": "Substitution 4",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "88'",
+                    "player": "J. Eggestein",
+                    "detail": "Substitution 5",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "89'",
+                    "player": "C. Metcalfe",
                     "detail": "Yellow Card",
-                    "team": "VfL Bochum"
+                    "team": "FC St. Pauli"
                 },
                 {
                     "time": "90'",
-                    "player": "Senne Lynen",
+                    "player": "M. Friedl",
                     "detail": "Yellow Card",
                     "team": "Werder Bremen"
+                },
+                {
+                    "time": "90'",
+                    "player": "C. Metcalfe",
+                    "detail": "Yellow Card",
+                    "team": "FC St. Pauli"
+                },
+                {
+                    "time": "90'",
+                    "player": "C. Metcalfe",
+                    "detail": "Red Card",
+                    "team": "FC St. Pauli"
                 }
             ],
             "odds": {
@@ -1263,6 +1239,10 @@
                 "away": "N/A"
             },
             "past_results": [
+                {
+                    "date": "2025-04-27 15:30",
+                    "score": "0 - 0"
+                },
                 {
                     "date": "2025-04-19 13:30",
                     "score": "1 - 0"
@@ -1278,10 +1258,6 @@
                 {
                     "date": "2025-03-29 14:30",
                     "score": "0 - 3"
-                },
-                {
-                    "date": "2025-03-15 14:30",
-                    "score": "2 - 4"
                 }
             ],
             "future_games": [
