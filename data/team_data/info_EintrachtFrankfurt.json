@@ -51,6 +51,28 @@
     "events": [
         {
             "time": {
+                "elapsed": -5,
+                "extra": null
+            },
+            "team": {
+                "id": 173,
+                "name": "RB Leipzig",
+                "logo": "https://media.api-sports.io/football/teams/173.png"
+            },
+            "player": {
+                "id": 25158,
+                "name": "David Raum"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Argument"
+        },
+        {
+            "time": {
                 "elapsed": 21,
                 "extra": null
             },
@@ -65,7 +87,7 @@
             },
             "assist": {
                 "id": 174565,
-                "name": "H. Ekitike"
+                "name": "H. Ekitiké"
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -82,38 +104,16 @@
                 "logo": "https://media.api-sports.io/football/teams/173.png"
             },
             "player": {
-                "id": 86,
-                "name": "L. Openda"
+                "id": 342320,
+                "name": "K. Nedeljković"
             },
             "assist": {
-                "id": 342320,
-                "name": "K. Nedeljkovic"
+                "id": 86,
+                "name": "L. Openda"
             },
             "type": "subst",
             "detail": "Substitution 1",
             "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 48,
-                "extra": null
-            },
-            "team": {
-                "id": 173,
-                "name": "RB Leipzig",
-                "logo": "https://media.api-sports.io/football/teams/173.png"
-            },
-            "player": {
-                "id": 25158,
-                "name": "D. Raum"
-            },
-            "assist": {
-                "id": null,
-                "name": null
-            },
-            "type": "Card",
-            "detail": "Yellow Card",
-            "comments": "Unsportsmanlike conduct"
         },
         {
             "time": {
@@ -127,7 +127,7 @@
             },
             "player": {
                 "id": 268571,
-                "name": "E. Bitshiabu"
+                "name": "El Chadaille Bitshiabu"
             },
             "assist": {
                 "id": null,
@@ -135,7 +135,7 @@
             },
             "type": "Card",
             "detail": "Red Card",
-            "comments": "Tripping"
+            "comments": "Professional foul last man"
         },
         {
             "time": {
@@ -152,8 +152,8 @@
                 "name": "A. Knauff"
             },
             "assist": {
-                "id": 204043,
-                "name": "A. Theate"
+                "id": null,
+                "name": null
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -170,12 +170,12 @@
                 "logo": "https://media.api-sports.io/football/teams/173.png"
             },
             "player": {
-                "id": 340154,
-                "name": "A. Vermeeren"
-            },
-            "assist": {
                 "id": 715,
                 "name": "C. Baumgartner"
+            },
+            "assist": {
+                "id": 340154,
+                "name": "A. Vermeeren"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -193,7 +193,7 @@
             },
             "player": {
                 "id": 269531,
-                "name": "N. Collins"
+                "name": "Nnamdi Collins"
             },
             "assist": {
                 "id": null,
@@ -201,7 +201,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Tripping"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -215,7 +215,7 @@
             },
             "player": {
                 "id": 174565,
-                "name": "H. Ekitike"
+                "name": "H. Ekitiké"
             },
             "assist": {
                 "id": 369674,
@@ -237,7 +237,7 @@
             },
             "player": {
                 "id": 1144,
-                "name": "L. Klostermann"
+                "name": "Lukas Klostermann"
             },
             "assist": {
                 "id": null,
@@ -280,12 +280,12 @@
                 "logo": "https://media.api-sports.io/football/teams/169.png"
             },
             "player": {
-                "id": 339874,
-                "name": "O. Hojlund"
+                "id": 161922,
+                "name": "A. Knauff"
             },
             "assist": {
-                "id": 369674,
-                "name": "J. Bahoya"
+                "id": 162707,
+                "name": "E. Wahi"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -302,12 +302,12 @@
                 "logo": "https://media.api-sports.io/football/teams/169.png"
             },
             "player": {
-                "id": 162707,
-                "name": "E. Wahi"
+                "id": 369674,
+                "name": "J. Bahoya"
             },
             "assist": {
-                "id": 161922,
-                "name": "A. Knauff"
+                "id": 339874,
+                "name": "O. Højlund"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -324,12 +324,12 @@
                 "logo": "https://media.api-sports.io/football/teams/173.png"
             },
             "player": {
-                "id": 383665,
-                "name": "T. Gomis"
+                "id": 115589,
+                "name": "B. Šeško"
             },
             "assist": {
-                "id": 162016,
-                "name": "X. Simons"
+                "id": 314511,
+                "name": "A. Nusa"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -346,12 +346,12 @@
                 "logo": "https://media.api-sports.io/football/teams/173.png"
             },
             "player": {
-                "id": 314511,
-                "name": "A. Nusa"
+                "id": 162016,
+                "name": "X. Simons"
             },
             "assist": {
-                "id": 115589,
-                "name": "B. Sesko"
+                "id": 383665,
+                "name": "T. Gomis"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -368,12 +368,12 @@
                 "logo": "https://media.api-sports.io/football/teams/169.png"
             },
             "player": {
-                "id": 162414,
-                "name": "A. Amenda"
-            },
-            "assist": {
                 "id": 204043,
                 "name": "A. Theate"
+            },
+            "assist": {
+                "id": 162414,
+                "name": "A. Amenda"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -390,37 +390,15 @@
                 "logo": "https://media.api-sports.io/football/teams/169.png"
             },
             "player": {
-                "id": 276670,
-                "name": "F. Chaibi"
+                "id": 174565,
+                "name": "H. Ekitiké"
             },
             "assist": {
-                "id": 174565,
-                "name": "H. Ekitike"
+                "id": 276670,
+                "name": "F. Chaïbi"
             },
             "type": "subst",
             "detail": "Substitution 4",
-            "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 86,
-                "extra": null
-            },
-            "team": {
-                "id": 173,
-                "name": "RB Leipzig",
-                "logo": "https://media.api-sports.io/football/teams/173.png"
-            },
-            "player": {
-                "id": 1153,
-                "name": "A. Haidara"
-            },
-            "assist": {
-                "id": 7328,
-                "name": "N. Seiwald"
-            },
-            "type": "subst",
-            "detail": "Substitution 5",
             "comments": null
         },
         {
@@ -434,12 +412,34 @@
                 "logo": "https://media.api-sports.io/football/teams/169.png"
             },
             "player": {
+                "id": 269531,
+                "name": "N. Collins"
+            },
+            "assist": {
                 "id": 1803,
                 "name": "T. Chandler"
             },
+            "type": "subst",
+            "detail": "Substitution 5",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 86,
+                "extra": null
+            },
+            "team": {
+                "id": 173,
+                "name": "RB Leipzig",
+                "logo": "https://media.api-sports.io/football/teams/173.png"
+            },
+            "player": {
+                "id": 7328,
+                "name": "N. Seiwald"
+            },
             "assist": {
-                "id": 269531,
-                "name": "N. Collins"
+                "id": 1153,
+                "name": "A. Haidara"
             },
             "type": "subst",
             "detail": "Substitution 5",
