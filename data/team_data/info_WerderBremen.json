@@ -249,7 +249,7 @@
         },
         {
             "time": {
-                "elapsed": 88,
+                "elapsed": 87,
                 "extra": null
             },
             "team": {
@@ -333,12 +333,12 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Foul"
+            "comments": "Tripping"
         },
         {
             "time": {
                 "elapsed": 90,
-                "extra": 1
+                "extra": null
             },
             "team": {
                 "id": 162,
@@ -355,7 +355,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Roughing"
+            "comments": "Unsportsmanlike conduct"
         },
         {
             "time": {
@@ -377,7 +377,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Foul"
+            "comments": "Unsportsmanlike conduct"
         },
         {
             "time": {
@@ -399,7 +399,7 @@
             },
             "type": "Card",
             "detail": "Red Card",
-            "comments": "Foul"
+            "comments": "Unsportsmanlike conduct"
         }
     ],
     "statistics": [
@@ -420,11 +420,11 @@
                 },
                 {
                     "type": "Total Shots",
-                    "value": 10
+                    "value": 11
                 },
                 {
                     "type": "Blocked Shots",
-                    "value": 4
+                    "value": 5
                 },
                 {
                     "type": "Shots insidebox",
@@ -432,11 +432,11 @@
                 },
                 {
                     "type": "Shots outsidebox",
-                    "value": 1
+                    "value": 2
                 },
                 {
                     "type": "Fouls",
-                    "value": 8
+                    "value": 9
                 },
                 {
                     "type": "Corner Kicks",
@@ -464,7 +464,7 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 472
+                    "value": 473
                 },
                 {
                     "type": "Passes accurate",
@@ -472,11 +472,11 @@
                 },
                 {
                     "type": "Passes %",
-                    "value": "85%"
+                    "value": "84%"
                 },
                 {
                     "type": "expected_goals",
-                    "value": "1.26"
+                    "value": "1.27"
                 },
                 {
                     "type": "goals_prevented",
@@ -545,7 +545,7 @@
                 },
                 {
                     "type": "Total passes",
-                    "value": 461
+                    "value": 463
                 },
                 {
                     "type": "Passes accurate",
@@ -553,7 +553,7 @@
                 },
                 {
                     "type": "Passes %",
-                    "value": "84%"
+                    "value": "83%"
                 },
                 {
                     "type": "expected_goals",
