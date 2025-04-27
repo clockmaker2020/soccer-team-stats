@@ -105,7 +105,7 @@
             },
             "player": {
                 "id": 80434,
-                "name": "T. Cvancara"
+                "name": "Tomáš Čvančara"
             },
             "assist": {
                 "id": null,
@@ -113,11 +113,11 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Roughing"
+            "comments": "Foul"
         },
         {
             "time": {
-                "elapsed": 41,
+                "elapsed": 40,
                 "extra": null
             },
             "team": {
@@ -126,12 +126,12 @@
                 "logo": "https://media.api-sports.io/football/teams/191.png"
             },
             "player": {
-                "id": 26525,
-                "name": "F. Porath"
-            },
-            "assist": {
                 "id": 119002,
                 "name": "J. Tolkin"
+            },
+            "assist": {
+                "id": 26525,
+                "name": "F. Porath"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -149,7 +149,7 @@
             },
             "player": {
                 "id": 80434,
-                "name": "T. Cvancara"
+                "name": "T. Čvančara"
             },
             "assist": {
                 "id": 725,
@@ -170,12 +170,12 @@
                 "logo": "https://media.api-sports.io/football/teams/163.png"
             },
             "player": {
-                "id": 25638,
-                "name": "F. Neuhaus"
-            },
-            "assist": {
                 "id": 203007,
                 "name": "R. Reitz"
+            },
+            "assist": {
+                "id": 25638,
+                "name": "F. Neuhaus"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -183,7 +183,7 @@
         },
         {
             "time": {
-                "elapsed": 61,
+                "elapsed": 60,
                 "extra": null
             },
             "team": {
@@ -192,12 +192,12 @@
                 "logo": "https://media.api-sports.io/football/teams/163.png"
             },
             "player": {
-                "id": 20784,
-                "name": "F. Honorat"
-            },
-            "assist": {
                 "id": 725,
                 "name": "R. Hack"
+            },
+            "assist": {
+                "id": 20784,
+                "name": "F. Honorat"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -215,7 +215,7 @@
             },
             "player": {
                 "id": 25646,
-                "name": "A. Plea"
+                "name": "A. Pléa"
             },
             "assist": {
                 "id": 20784,
@@ -227,7 +227,7 @@
         },
         {
             "time": {
-                "elapsed": 69,
+                "elapsed": 70,
                 "extra": null
             },
             "team": {
@@ -236,12 +236,12 @@
                 "logo": "https://media.api-sports.io/football/teams/163.png"
             },
             "player": {
-                "id": 24839,
-                "name": "M. Friedrich"
+                "id": 322627,
+                "name": "F. Chiarodia"
             },
             "assist": {
-                "id": 322627,
-                "name": "F. C. Chiarodia"
+                "id": 24839,
+                "name": "M. Friedrich"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -258,12 +258,12 @@
                 "logo": "https://media.api-sports.io/football/teams/191.png"
             },
             "player": {
-                "id": 202514,
-                "name": "P. Harres"
-            },
-            "assist": {
                 "id": 202580,
                 "name": "L. Rosenboom"
+            },
+            "assist": {
+                "id": 202514,
+                "name": "P. Harres"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -281,7 +281,7 @@
             },
             "player": {
                 "id": 70514,
-                "name": "A. Gigovic"
+                "name": "A. Gigović"
             },
             "assist": {
                 "id": 47696,
@@ -302,12 +302,12 @@
                 "logo": "https://media.api-sports.io/football/teams/163.png"
             },
             "player": {
-                "id": 25461,
-                "name": "K. Stoger"
+                "id": 327646,
+                "name": "L. Ullrich"
             },
             "assist": {
-                "id": 19,
-                "name": "J. Weigl"
+                "id": 163069,
+                "name": "L. Netz"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -324,12 +324,12 @@
                 "logo": "https://media.api-sports.io/football/teams/163.png"
             },
             "player": {
-                "id": 163069,
-                "name": "L. Netz"
+                "id": 19,
+                "name": "J. Weigl"
             },
             "assist": {
-                "id": 327646,
-                "name": "L. Ullrich"
+                "id": 25461,
+                "name": "K. Stöger"
             },
             "type": "subst",
             "detail": "Substitution 5",
@@ -347,7 +347,7 @@
             },
             "player": {
                 "id": 106851,
-                "name": "S. Machino"
+                "name": "Shuto Machino"
             },
             "assist": {
                 "id": null,
@@ -355,7 +355,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Delay of game"
+            "comments": "Time wasting"
         },
         {
             "time": {
@@ -369,7 +369,7 @@
             },
             "player": {
                 "id": 306338,
-                "name": "M. Ivezic"
+                "name": "Marko Ivezić"
             },
             "assist": {
                 "id": null,
@@ -377,7 +377,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": null
+            "comments": "Foul"
         },
         {
             "time": {
@@ -412,12 +412,12 @@
                 "logo": "https://media.api-sports.io/football/teams/191.png"
             },
             "player": {
-                "id": 48345,
-                "name": "C. Johansson"
+                "id": 70514,
+                "name": "A. Gigović"
             },
             "assist": {
-                "id": 47696,
-                "name": "A. Bernhardsson"
+                "id": 265386,
+                "name": "D. Javorček"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -434,12 +434,12 @@
                 "logo": "https://media.api-sports.io/football/teams/191.png"
             },
             "player": {
-                "id": 39315,
-                "name": "M. Knudsen"
+                "id": 47696,
+                "name": "A. Bernhardsson"
             },
             "assist": {
-                "id": 306338,
-                "name": "M. Ivezic"
+                "id": 48345,
+                "name": "C. Johansson"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -456,12 +456,12 @@
                 "logo": "https://media.api-sports.io/football/teams/191.png"
             },
             "player": {
-                "id": 265386,
-                "name": "D. Javorcek"
+                "id": 306338,
+                "name": "M. Ivezić"
             },
             "assist": {
-                "id": 70514,
-                "name": "A. Gigovic"
+                "id": 39315,
+                "name": "M. Knudsen"
             },
             "type": "subst",
             "detail": "Substitution 5",
