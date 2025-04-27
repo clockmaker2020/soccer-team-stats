@@ -61,11 +61,11 @@
             },
             "player": {
                 "id": 644,
-                "name": "L. Sane"
+                "name": "L. Sané"
             },
             "assist": {
-                "id": 1157,
-                "name": "K. Laimer"
+                "id": null,
+                "name": null
             },
             "type": "Goal",
             "detail": "Normal Goal",
@@ -82,12 +82,12 @@
                 "logo": "https://media.api-sports.io/football/teams/164.png"
             },
             "player": {
-                "id": 283753,
-                "name": "N. Veratschnig"
-            },
-            "assist": {
                 "id": 22244,
                 "name": "A. Caci"
+            },
+            "assist": {
+                "id": 283753,
+                "name": "N. Veratschnig"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -105,7 +105,7 @@
             },
             "player": {
                 "id": 25915,
-                "name": "P. Mwene"
+                "name": "Phillipp Mwene"
             },
             "assist": {
                 "id": null,
@@ -113,7 +113,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Tripping"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -149,7 +149,7 @@
             },
             "player": {
                 "id": 184,
-                "name": "H. Kane"
+                "name": "Harry Kane"
             },
             "assist": {
                 "id": null,
@@ -157,7 +157,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": null
+            "comments": "Time wasting"
         },
         {
             "time": {
@@ -170,12 +170,12 @@
                 "logo": "https://media.api-sports.io/football/teams/157.png"
             },
             "player": {
-                "id": 2195,
-                "name": "S. Boey"
-            },
-            "assist": {
                 "id": 2897,
                 "name": "Kim Min-Jae"
+            },
+            "assist": {
+                "id": 2195,
+                "name": "S. Boey"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -192,12 +192,34 @@
                 "logo": "https://media.api-sports.io/football/teams/157.png"
             },
             "player": {
-                "id": 508,
-                "name": "K. Coman"
+                "id": 644,
+                "name": "Leroy Sané"
             },
             "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Var",
+            "detail": "Penalty confirmed",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 72,
+                "extra": null
+            },
+            "team": {
+                "id": 157,
+                "name": "Bayern München",
+                "logo": "https://media.api-sports.io/football/teams/157.png"
+            },
+            "player": {
                 "id": 510,
                 "name": "S. Gnabry"
+            },
+            "assist": {
+                "id": 508,
+                "name": "K. Coman"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -214,37 +236,15 @@
                 "logo": "https://media.api-sports.io/football/teams/164.png"
             },
             "player": {
-                "id": 342177,
-                "name": "N. Weiper"
-            },
-            "assist": {
                 "id": 25915,
                 "name": "P. Mwene"
             },
+            "assist": {
+                "id": 342177,
+                "name": "N. Weiper"
+            },
             "type": "subst",
             "detail": "Substitution 2",
-            "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 84,
-                "extra": null
-            },
-            "team": {
-                "id": 157,
-                "name": "Bayern München",
-                "logo": "https://media.api-sports.io/football/teams/157.png"
-            },
-            "player": {
-                "id": 511,
-                "name": "L. Goretzka"
-            },
-            "assist": {
-                "id": 328033,
-                "name": "A. Pavlovic"
-            },
-            "type": "subst",
-            "detail": "Substitution 3",
             "comments": null
         },
         {
@@ -280,15 +280,59 @@
                 "logo": "https://media.api-sports.io/football/teams/157.png"
             },
             "player": {
-                "id": 522,
-                "name": "T. Muller"
+                "id": 644,
+                "name": "L. Sané"
             },
             "assist": {
-                "id": 644,
-                "name": "L. Sane"
+                "id": 522,
+                "name": "T. Müller"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 84,
+                "extra": null
+            },
+            "team": {
+                "id": 157,
+                "name": "Bayern München",
+                "logo": "https://media.api-sports.io/football/teams/157.png"
+            },
+            "player": {
+                "id": 328033,
+                "name": "A. Pavlović"
+            },
+            "assist": {
+                "id": 511,
+                "name": "L. Goretzka"
             },
             "type": "subst",
             "detail": "Substitution 4",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 86,
+                "extra": null
+            },
+            "team": {
+                "id": 164,
+                "name": "FSV Mainz 05",
+                "logo": "https://media.api-sports.io/football/teams/164.png"
+            },
+            "player": {
+                "id": 25926,
+                "name": "J. Burkardt"
+            },
+            "assist": {
+                "id": 280339,
+                "name": "A. Sieb"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
             "comments": null
         },
         {
@@ -303,7 +347,7 @@
             },
             "player": {
                 "id": 1157,
-                "name": "K. Laimer"
+                "name": "Konrad Laimer"
             },
             "assist": {
                 "id": null,
@@ -311,29 +355,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Roughing"
-        },
-        {
-            "time": {
-                "elapsed": 86,
-                "extra": null
-            },
-            "team": {
-                "id": 164,
-                "name": "FSV Mainz 05",
-                "logo": "https://media.api-sports.io/football/teams/164.png"
-            },
-            "player": {
-                "id": 280339,
-                "name": "A. Sieb"
-            },
-            "assist": {
-                "id": 25926,
-                "name": "J. Burkardt"
-            },
-            "type": "subst",
-            "detail": "Substitution 3",
-            "comments": null
+            "comments": "Foul"
         },
         {
             "time": {
@@ -346,12 +368,12 @@
                 "logo": "https://media.api-sports.io/football/teams/164.png"
             },
             "player": {
-                "id": 22097,
-                "name": "A. Nordin"
+                "id": 202736,
+                "name": "P. Nebel"
             },
             "assist": {
-                "id": 2906,
-                "name": "Lee Jae-Sung"
+                "id": 48378,
+                "name": "S. Widmer"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -368,12 +390,12 @@
                 "logo": "https://media.api-sports.io/football/teams/164.png"
             },
             "player": {
-                "id": 48378,
-                "name": "S. Widmer"
+                "id": 2906,
+                "name": "Lee Jae-Sung"
             },
             "assist": {
-                "id": 202736,
-                "name": "P. Nebel"
+                "id": 22097,
+                "name": "A. Nordin"
             },
             "type": "subst",
             "detail": "Substitution 5",
@@ -390,12 +412,12 @@
                 "logo": "https://media.api-sports.io/football/teams/157.png"
             },
             "player": {
-                "id": 436443,
-                "name": "J. Kusi Asare"
-            },
-            "assist": {
                 "id": 184,
                 "name": "H. Kane"
+            },
+            "assist": {
+                "id": 436443,
+                "name": "J. Kusi-Asare"
             },
             "type": "subst",
             "detail": "Substitution 5",
@@ -413,7 +435,7 @@
             },
             "player": {
                 "id": 714,
-                "name": "N. Amiri"
+                "name": "Nadiem Amiri"
             },
             "assist": {
                 "id": null,
@@ -421,7 +443,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Roughing"
+            "comments": "Foul"
         }
     ],
     "statistics": [
