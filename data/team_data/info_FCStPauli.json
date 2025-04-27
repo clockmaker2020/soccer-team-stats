@@ -690,6 +690,42 @@
             "substitutes": [
                 {
                     "player": {
+                        "id": 1124,
+                        "name": "Oliver Burke",
+                        "number": 15,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 128853,
+                        "name": "Derrick Köhn",
+                        "number": 19,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 716,
+                        "name": "Leonardo Bittencourt",
+                        "number": 10,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 7073,
+                        "name": "Marco Grüll",
+                        "number": 17,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 329578,
                         "name": "Mio Backhaus",
                         "number": 30,
@@ -712,42 +748,6 @@
                         "name": "Anthony Jung",
                         "number": 3,
                         "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 128853,
-                        "name": "Derrick Köhn",
-                        "number": 19,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 7073,
-                        "name": "Marco Grüll",
-                        "number": 17,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 716,
-                        "name": "Leonardo Bittencourt",
-                        "number": 10,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 1124,
-                        "name": "Oliver Burke",
-                        "number": 15,
-                        "pos": "F",
                         "grid": null
                     }
                 },
@@ -899,6 +899,51 @@
             "substitutes": [
                 {
                     "player": {
+                        "id": 323974,
+                        "name": "Elias Saad",
+                        "number": 26,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 280024,
+                        "name": "Robert Wagner",
+                        "number": 39,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 6904,
+                        "name": "Connor Metcalfe",
+                        "number": 24,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 90731,
+                        "name": "Lars Ritzka",
+                        "number": 21,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 25326,
+                        "name": "Johannes Eggestein",
+                        "number": 11,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
                         "id": 119167,
                         "name": "Ben Voll",
                         "number": 1,
@@ -917,55 +962,10 @@
                 },
                 {
                     "player": {
-                        "id": 280024,
-                        "name": "Robert Wagner",
-                        "number": 39,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 90731,
-                        "name": "Lars Ritzka",
-                        "number": 21,
-                        "pos": "D",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 6904,
-                        "name": "Connor Metcalfe",
-                        "number": 24,
-                        "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
                         "id": 47965,
                         "name": "Erik Ahlstrand",
                         "number": 20,
                         "pos": "M",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 323974,
-                        "name": "Elias Saad",
-                        "number": 26,
-                        "pos": "F",
-                        "grid": null
-                    }
-                },
-                {
-                    "player": {
-                        "id": 25326,
-                        "name": "Johannes Eggestein",
-                        "number": 11,
-                        "pos": "F",
                         "grid": null
                     }
                 },
