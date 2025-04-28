@@ -1901,56 +1901,56 @@
                 },
                 {
                     "time": "20'",
-                    "player": "B. Hollerbach",
+                    "player": "Benedict Hollerbach",
                     "detail": "Yellow Card",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "36'",
-                    "player": "C. Gamboa",
+                    "player": "Cristian Gamboa",
                     "detail": "Yellow Card",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "41'",
-                    "player": "L. Querfeld",
+                    "player": "Leopold Querfeld",
                     "detail": "Yellow Card",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "46'",
-                    "player": "G. Masouras",
+                    "player": "C. Gamboa",
                     "detail": "Substitution 1",
                     "team": "VfL Bochum"
                 },
                 {
-                    "time": "51'",
-                    "player": "M. Bero",
+                    "time": "50'",
+                    "player": "Matúš Bero",
                     "detail": "Yellow Card",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "61'",
-                    "player": "D. de Wit",
+                    "player": "P. Hofmann",
                     "detail": "Substitution 2",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "61'",
-                    "player": "G. Holtmann",
+                    "player": "M. Broschinski",
                     "detail": "Substitution 3",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "64'",
-                    "player": "K. Vogt",
+                    "player": "Diogo Leite",
                     "detail": "Substitution 1",
                     "team": "Union Berlin"
                 },
                 {
-                    "time": "68'",
-                    "player": "M. Bero",
-                    "detail": "Missed Penalty",
+                    "time": "67'",
+                    "player": "Dani de Wit",
+                    "detail": "Penalty confirmed",
                     "team": "VfL Bochum"
                 },
                 {
@@ -1960,40 +1960,46 @@
                     "team": "VfL Bochum"
                 },
                 {
-                    "time": "80'",
-                    "player": "F. Passlack",
+                    "time": "68'",
+                    "player": "Matúš Bero",
+                    "detail": "Missed Penalty",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "81'",
+                    "player": "T. Oermann",
                     "detail": "Substitution 4",
                     "team": "VfL Bochum"
                 },
                 {
-                    "time": "83'",
-                    "player": "L. Benes",
+                    "time": "84'",
+                    "player": "B. Hollerbach",
                     "detail": "Substitution 2",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "84'",
-                    "player": "T. Skarke",
+                    "player": "J. Haberer",
                     "detail": "Substitution 3",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "90'",
-                    "player": "M. Boadu",
-                    "detail": "Yellow Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "90'",
-                    "player": "D. Preu",
+                    "player": "A. Ilić",
                     "detail": "Substitution 4",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "90'",
-                    "player": "M. Ljubicic",
+                    "player": "A. Schäfer",
                     "detail": "Substitution 5",
                     "team": "Union Berlin"
+                },
+                {
+                    "time": "90'",
+                    "player": "Myron Boadu",
+                    "detail": "Yellow Card",
+                    "team": "VfL Bochum"
                 }
             ],
             "odds": {
@@ -2700,56 +2706,56 @@
                 },
                 {
                     "time": "20'",
-                    "player": "B. Hollerbach",
+                    "player": "Benedict Hollerbach",
                     "detail": "Yellow Card",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "36'",
-                    "player": "C. Gamboa",
+                    "player": "Cristian Gamboa",
                     "detail": "Yellow Card",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "41'",
-                    "player": "L. Querfeld",
+                    "player": "Leopold Querfeld",
                     "detail": "Yellow Card",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "46'",
-                    "player": "G. Masouras",
+                    "player": "C. Gamboa",
                     "detail": "Substitution 1",
                     "team": "VfL Bochum"
                 },
                 {
-                    "time": "51'",
-                    "player": "M. Bero",
+                    "time": "50'",
+                    "player": "Matúš Bero",
                     "detail": "Yellow Card",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "61'",
-                    "player": "D. de Wit",
+                    "player": "P. Hofmann",
                     "detail": "Substitution 2",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "61'",
-                    "player": "G. Holtmann",
+                    "player": "M. Broschinski",
                     "detail": "Substitution 3",
                     "team": "VfL Bochum"
                 },
                 {
                     "time": "64'",
-                    "player": "K. Vogt",
+                    "player": "Diogo Leite",
                     "detail": "Substitution 1",
                     "team": "Union Berlin"
                 },
                 {
-                    "time": "68'",
-                    "player": "M. Bero",
-                    "detail": "Missed Penalty",
+                    "time": "67'",
+                    "player": "Dani de Wit",
+                    "detail": "Penalty confirmed",
                     "team": "VfL Bochum"
                 },
                 {
@@ -2759,40 +2765,46 @@
                     "team": "VfL Bochum"
                 },
                 {
-                    "time": "80'",
-                    "player": "F. Passlack",
+                    "time": "68'",
+                    "player": "Matúš Bero",
+                    "detail": "Missed Penalty",
+                    "team": "VfL Bochum"
+                },
+                {
+                    "time": "81'",
+                    "player": "T. Oermann",
                     "detail": "Substitution 4",
                     "team": "VfL Bochum"
                 },
                 {
-                    "time": "83'",
-                    "player": "L. Benes",
+                    "time": "84'",
+                    "player": "B. Hollerbach",
                     "detail": "Substitution 2",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "84'",
-                    "player": "T. Skarke",
+                    "player": "J. Haberer",
                     "detail": "Substitution 3",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "90'",
-                    "player": "M. Boadu",
-                    "detail": "Yellow Card",
-                    "team": "VfL Bochum"
-                },
-                {
-                    "time": "90'",
-                    "player": "D. Preu",
+                    "player": "A. Ilić",
                     "detail": "Substitution 4",
                     "team": "Union Berlin"
                 },
                 {
                     "time": "90'",
-                    "player": "M. Ljubicic",
+                    "player": "A. Schäfer",
                     "detail": "Substitution 5",
                     "team": "Union Berlin"
+                },
+                {
+                    "time": "90'",
+                    "player": "Myron Boadu",
+                    "detail": "Yellow Card",
+                    "team": "VfL Bochum"
                 }
             ],
             "odds": {
