@@ -83,7 +83,7 @@
             },
             "player": {
                 "id": 162946,
-                "name": "B. Hollerbach"
+                "name": "Benedict Hollerbach"
             },
             "assist": {
                 "id": null,
@@ -91,7 +91,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Unsportsmanlike conduct"
+            "comments": "Argument"
         },
         {
             "time": {
@@ -105,7 +105,7 @@
             },
             "player": {
                 "id": 1109,
-                "name": "C. Gamboa"
+                "name": "Cristian Gamboa"
             },
             "assist": {
                 "id": null,
@@ -113,7 +113,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Tripping"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -127,7 +127,7 @@
             },
             "player": {
                 "id": 288206,
-                "name": "L. Querfeld"
+                "name": "Leopold Querfeld"
             },
             "assist": {
                 "id": null,
@@ -135,7 +135,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Roughing"
+            "comments": "Foul"
         },
         {
             "time": {
@@ -148,12 +148,12 @@
                 "logo": "https://media.api-sports.io/football/teams/176.png"
             },
             "player": {
-                "id": 1610,
-                "name": "G. Masouras"
-            },
-            "assist": {
                 "id": 1109,
                 "name": "C. Gamboa"
+            },
+            "assist": {
+                "id": 1610,
+                "name": "G. Masouras"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -161,7 +161,7 @@
         },
         {
             "time": {
-                "elapsed": 51,
+                "elapsed": 50,
                 "extra": null
             },
             "team": {
@@ -171,7 +171,7 @@
             },
             "player": {
                 "id": 37122,
-                "name": "M. Bero"
+                "name": "Matúš Bero"
             },
             "assist": {
                 "id": null,
@@ -179,7 +179,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Roughing"
+            "comments": "Off the ball foul"
         },
         {
             "time": {
@@ -192,12 +192,12 @@
                 "logo": "https://media.api-sports.io/football/teams/176.png"
             },
             "player": {
-                "id": 539,
-                "name": "D. de Wit"
-            },
-            "assist": {
                 "id": 26287,
                 "name": "P. Hofmann"
+            },
+            "assist": {
+                "id": 539,
+                "name": "D. de Wit"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -214,12 +214,12 @@
                 "logo": "https://media.api-sports.io/football/teams/176.png"
             },
             "player": {
-                "id": 25919,
-                "name": "G. Holtmann"
-            },
-            "assist": {
                 "id": 26227,
                 "name": "M. Broschinski"
+            },
+            "assist": {
+                "id": 25919,
+                "name": "G. Holtmann"
             },
             "type": "subst",
             "detail": "Substitution 3",
@@ -236,12 +236,12 @@
                 "logo": "https://media.api-sports.io/football/teams/182.png"
             },
             "player": {
-                "id": 713,
-                "name": "K. Vogt"
+                "id": 376,
+                "name": "Diogo Leite"
             },
             "assist": {
-                "id": 376,
-                "name": "D. Leite"
+                "id": 713,
+                "name": "K. Vogt"
             },
             "type": "subst",
             "detail": "Substitution 1",
@@ -249,7 +249,7 @@
         },
         {
             "time": {
-                "elapsed": 68,
+                "elapsed": 67,
                 "extra": null
             },
             "team": {
@@ -258,15 +258,15 @@
                 "logo": "https://media.api-sports.io/football/teams/176.png"
             },
             "player": {
-                "id": 37122,
-                "name": "M. Bero"
+                "id": 539,
+                "name": "Dani de Wit"
             },
             "assist": {
-                "id": 37122,
-                "name": "M. Bero"
+                "id": null,
+                "name": null
             },
-            "type": "Goal",
-            "detail": "Missed Penalty",
+            "type": "Var",
+            "detail": "Penalty confirmed",
             "comments": null
         },
         {
@@ -293,7 +293,7 @@
         },
         {
             "time": {
-                "elapsed": 80,
+                "elapsed": 68,
                 "extra": null
             },
             "team": {
@@ -302,12 +302,34 @@
                 "logo": "https://media.api-sports.io/football/teams/176.png"
             },
             "player": {
-                "id": 19068,
-                "name": "F. Passlack"
+                "id": 37122,
+                "name": "Matúš Bero"
             },
             "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Goal",
+            "detail": "Missed Penalty",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 81,
+                "extra": null
+            },
+            "team": {
+                "id": 176,
+                "name": "VfL Bochum",
+                "logo": "https://media.api-sports.io/football/teams/176.png"
+            },
+            "player": {
                 "id": 280091,
                 "name": "T. Oermann"
+            },
+            "assist": {
+                "id": 19068,
+                "name": "F. Passlack"
             },
             "type": "subst",
             "detail": "Substitution 4",
@@ -315,7 +337,7 @@
         },
         {
             "time": {
-                "elapsed": 83,
+                "elapsed": 84,
                 "extra": null
             },
             "team": {
@@ -324,12 +346,12 @@
                 "logo": "https://media.api-sports.io/football/teams/182.png"
             },
             "player": {
-                "id": 24962,
-                "name": "L. Benes"
+                "id": 162946,
+                "name": "B. Hollerbach"
             },
             "assist": {
-                "id": 26249,
-                "name": "J. Haberer"
+                "id": 24910,
+                "name": "T. Skarke"
             },
             "type": "subst",
             "detail": "Substitution 2",
@@ -346,15 +368,59 @@
                 "logo": "https://media.api-sports.io/football/teams/182.png"
             },
             "player": {
-                "id": 24910,
-                "name": "T. Skarke"
+                "id": 26249,
+                "name": "J. Haberer"
             },
             "assist": {
-                "id": 162946,
-                "name": "B. Hollerbach"
+                "id": 24962,
+                "name": "L. Bénes"
             },
             "type": "subst",
             "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 90,
+                "extra": 5
+            },
+            "team": {
+                "id": 182,
+                "name": "Union Berlin",
+                "logo": "https://media.api-sports.io/football/teams/182.png"
+            },
+            "player": {
+                "id": 45892,
+                "name": "A. Ilić"
+            },
+            "assist": {
+                "id": 292218,
+                "name": "M. Ljubičić"
+            },
+            "type": "subst",
+            "detail": "Substitution 4",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 90,
+                "extra": 5
+            },
+            "team": {
+                "id": 182,
+                "name": "Union Berlin",
+                "logo": "https://media.api-sports.io/football/teams/182.png"
+            },
+            "player": {
+                "id": 30785,
+                "name": "A. Schäfer"
+            },
+            "assist": {
+                "id": 327956,
+                "name": "D. Preu"
+            },
+            "type": "subst",
+            "detail": "Substitution 5",
             "comments": null
         },
         {
@@ -369,7 +435,7 @@
             },
             "player": {
                 "id": 36907,
-                "name": "M. Boadu"
+                "name": "Myron Boadu"
             },
             "assist": {
                 "id": null,
@@ -377,51 +443,7 @@
             },
             "type": "Card",
             "detail": "Yellow Card",
-            "comments": "Unsportsmanlike conduct"
-        },
-        {
-            "time": {
-                "elapsed": 90,
-                "extra": 5
-            },
-            "team": {
-                "id": 182,
-                "name": "Union Berlin",
-                "logo": "https://media.api-sports.io/football/teams/182.png"
-            },
-            "player": {
-                "id": 327956,
-                "name": "D. Preu"
-            },
-            "assist": {
-                "id": 30785,
-                "name": "A. Schafer"
-            },
-            "type": "subst",
-            "detail": "Substitution 4",
-            "comments": null
-        },
-        {
-            "time": {
-                "elapsed": 90,
-                "extra": 6
-            },
-            "team": {
-                "id": 182,
-                "name": "Union Berlin",
-                "logo": "https://media.api-sports.io/football/teams/182.png"
-            },
-            "player": {
-                "id": 292218,
-                "name": "M. Ljubicic"
-            },
-            "assist": {
-                "id": 45892,
-                "name": "A. Ilic"
-            },
-            "type": "subst",
-            "detail": "Substitution 5",
-            "comments": null
+            "comments": "Argument"
         }
     ],
     "statistics": [
