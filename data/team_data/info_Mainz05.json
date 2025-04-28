@@ -183,24 +183,24 @@
         },
         {
             "time": {
-                "elapsed": 72,
+                "elapsed": 70,
                 "extra": null
             },
             "team": {
-                "id": 157,
-                "name": "Bayern München",
-                "logo": "https://media.api-sports.io/football/teams/157.png"
+                "id": 164,
+                "name": "FSV Mainz 05",
+                "logo": "https://media.api-sports.io/football/teams/164.png"
             },
             "player": {
-                "id": 644,
-                "name": "Leroy Sané"
+                "id": 1812,
+                "name": "Danny da Costa"
             },
             "assist": {
                 "id": null,
                 "name": null
             },
             "type": "Var",
-            "detail": "Penalty confirmed",
+            "detail": "Card reviewed",
             "comments": null
         },
         {
